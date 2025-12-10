@@ -2,19 +2,6 @@
 title: 'Module 8.11: Homicide, Robbery, & Kidnapping Investigation'
 description: 'An overview of the investigative considerations for three of the most serious violent crimes: homicide, robbery, and kidnapping.'
 ---
-
-# Module 8.11: Special Investigations (Homicide, Robbery, Kidnapping)
-
-## Introduction
-
-While the general principles of investigation apply to all crimes, certain serious offenses require specialized knowledge and investigative techniques. This module provides an overview of the investigation of three major "crimes against persons": **Homicide**, the killing of a human being; **Robbery**, theft by force or intimidation; and **Kidnapping**, the unlawful taking and holding of a person. These crimes are among the most feared by the public and are given the highest priority by law enforcement.
-
-### Key Learning Objectives:
-- Identify the key priorities and considerations in a homicide investigation.
-- Understand the legal elements of robbery and the importance of the M.O. file.
-- Describe the different types of kidnapping and the primary goal in a kidnapping investigation.
-- Recognize the unique challenges posed by each of these serious crimes.
-
 ---
 
 ## I. Homicide Investigation
@@ -50,6 +37,46 @@ A **homicide** is the killing of one human being by another. A homicide investig
 In a homicide case, the victim cannot speak for themselves. Therefore, a crucial part of the investigation is conducting a thorough "victimology"—a deep dive into the victim's life, background, habits, and relationships. This helps to identify potential suspects and motives.
 
 ---
+---
+
+## III. Kidnapping Investigation
+
+**Kidnapping** is the unlawful taking, holding, or carrying away of a person against their will.
+
+### A. The Primary Goal
+In a kidnapping investigation, the number one priority is the **safe return of the victim**. All other considerations, including the apprehension of the suspects, are secondary to the victim's safety.
+
+### B. Types of Kidnapping
+
+1.  **Kidnapping for Ransom:**
+    - The classic form of kidnapping where the victim is held in exchange for a monetary demand.
+    - **Investigative Steps:**
+        - **"Proof of Life":** The first step is to confirm that the victim is still alive.
+        - **Communication:** Law enforcement will often coach the family on how to communicate with the kidnappers. The goal is to keep the lines of communication open and to play for time.
+        - **No-Go on Ransom:** Police will strongly advise against paying the ransom, as it does not guarantee the victim's return and encourages more kidnappings.
+        - **Intelligence Gathering:** While the negotiations are ongoing, an intense investigation is launched to identify and locate the kidnappers. The elite **PNP Anti-Kidnapping Group (AKG)** specializes in these cases.
+
+2.  **Kidnapping as part of another crime (e.g., Robbery or Rape):** The victim is abducted to facilitate another crime.
+
+3.  **Parental/Family Kidnapping:** A non-custodial parent takes a child without legal permission. While the motive is different, it is still a serious crime.
+
+### C. Investigative Challenges
+- **Time is the Enemy:** The risk to the victim increases the longer they are held.
+- **The Communication Phase:** This is the most critical and delicate phase. A mistake in negotiation could endanger the victim.
+- **Jurisdictional Issues:** The victim may be taken and moved across multiple cities or provinces, requiring coordination between different police units.
+
+---
+
+## Introduction
+
+While the general principles of investigation apply to all crimes, certain serious offenses require specialized knowledge and investigative techniques. This module provides an overview of the investigation of three major "crimes against persons": **Homicide**, the killing of a human being; **Robbery**, theft by force or intimidation; and **Kidnapping**, the unlawful taking and holding of a person. These crimes are among the most feared by the public and are given the highest priority by law enforcement.
+
+### Key Learning Objectives:
+- Identify the key priorities and considerations in a homicide investigation.
+- Understand the legal elements of robbery and the importance of the M.O. file.
+- Describe the different types of kidnapping and the primary goal in a kidnapping investigation.
+- Recognize the unique challenges posed by each of these serious crimes.
+
 
 ## II. Robbery Investigation
 
@@ -80,35 +107,6 @@ To prove robbery, the investigator must establish:
 - **The M.O. File:** Investigators maintain M.O. files to link different robberies to the same suspect or group (a "robbery series"). This is a key tool for identifying serial robbers.
 4.  **Physical Evidence:** This includes fingerprints, DNA from a mask or clothing, and surveillance video from the location.
 
----
-
-## III. Kidnapping Investigation
-
-**Kidnapping** is the unlawful taking, holding, or carrying away of a person against their will.
-
-### A. The Primary Goal
-In a kidnapping investigation, the number one priority is the **safe return of the victim**. All other considerations, including the apprehension of the suspects, are secondary to the victim's safety.
-
-### B. Types of Kidnapping
-
-1.  **Kidnapping for Ransom:**
-    - The classic form of kidnapping where the victim is held in exchange for a monetary demand.
-    - **Investigative Steps:**
-        - **"Proof of Life":** The first step is to confirm that the victim is still alive.
-        - **Communication:** Law enforcement will often coach the family on how to communicate with the kidnappers. The goal is to keep the lines of communication open and to play for time.
-        - **No-Go on Ransom:** Police will strongly advise against paying the ransom, as it does not guarantee the victim's return and encourages more kidnappings.
-        - **Intelligence Gathering:** While the negotiations are ongoing, an intense investigation is launched to identify and locate the kidnappers. The elite **PNP Anti-Kidnapping Group (AKG)** specializes in these cases.
-
-2.  **Kidnapping as part of another crime (e.g., Robbery or Rape):** The victim is abducted to facilitate another crime.
-
-3.  **Parental/Family Kidnapping:** A non-custodial parent takes a child without legal permission. While the motive is different, it is still a serious crime.
-
-### C. Investigative Challenges
-- **Time is the Enemy:** The risk to the victim increases the longer they are held.
-- **The Communication Phase:** This is the most critical and delicate phase. A mistake in negotiation could endanger the victim.
-- **Jurisdictional Issues:** The victim may be taken and moved across multiple cities or provinces, requiring coordination between different police units.
-
----
 
 ## Conclusion
 

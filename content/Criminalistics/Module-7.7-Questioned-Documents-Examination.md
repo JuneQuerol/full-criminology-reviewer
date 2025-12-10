@@ -2,20 +2,6 @@
 title: 'Module 7.7: Questioned Documents Examination'
 description: 'An introduction to the field of Questioned Documents Examination, covering its scope, the process of analysis, and the instruments used to detect forgery, alterations, and other anomalies in documents.'
 ---
-
-# Module 7.7: Questioned Documents Examination
-
-## Introduction
-
-A questioned document is any signature, handwriting, typewriting, or other mark whose source or authenticity is in dispute or doubtful. The field of **Questioned Documents Examination (QDE)** is the forensic science discipline that involves the scientific analysis of these documents. A Questioned Document Examiner (QDE) is the expert who determines the authenticity, origin, and authorship of documents, and can detect alterations, additions, or deletions. This module covers the scope of QDE, the distinction between questioned and standard documents, and the types of examinations performed.
-
-### Key Learning Objectives:
-- Define "Questioned Document" and "Standard Document."
-- Identify the various classes and types of questioned documents.
-- Understand the qualifications and role of a Questioned Document Examiner.
-- Describe the scientific instruments used in document examination.
-- List the common signs of forgery.
-
 ---
 
 ## I. Scope of Questioned Documents Examination
@@ -39,6 +25,47 @@ The work of a QDE goes far beyond simply comparing signatures. The field covers 
 6.  Documents involving typewriting or other mechanical impressions.
 
 ---
+---
+
+## III. The Scientific Instruments of QDE
+
+The QDE relies on a range of scientific instruments to look beyond what the naked eye can see.
+
+- **Stereoscopic Microscope:** The most important and frequently used instrument. It provides a three-dimensional, magnified view of the document, allowing the examiner to see fine details like pen lifts, hesitations, and patching, which are often indicative of forgery.
+
+- **Video Spectral Comparator (VSC):** A powerful instrument that uses different wavelengths of light (from ultraviolet to infrared) and various filters to analyze inks and paper.
+    - **Ink Differentiation:** Two inks that look identical to the naked eye may appear different under infrared light, revealing an alteration.
+    - **Revealing Alterations:** Can reveal erased or obliterated writing.
+
+- **Electrostatic Detection Apparatus (ESDA):** A non-destructive method used to visualize **indented writing**. When someone writes on a top sheet of paper in a notepad, an impression is left on the sheets below. The ESDA can develop these impressions, which can be a crucial source of evidence.
+
+- **Chromatography:** A destructive method used to separate the chemical components of ink. It is used to compare the composition of different inks.
+
+---
+---
+
+## V. Other Types of Document Alterations
+
+- **Erasures:** The removal of writing from a document.
+    - **Mechanical Erasure:** Using a rubber eraser or scraping the paper's surface. Can often be detected by disturbances in the paper fibers.
+    - **Chemical Erasure:** Using a chemical to bleach the ink. Can often be detected with UV or infrared light.
+- **Obliterations:** The overwriting of original text with another ink or marker to make it unreadable. A VSC can often see through the obliterating ink.
+- **Additions:** Adding words or numbers to a document after it was completed.
+- **Insertions:** Inserting a new page into a multi-page document.
+
+---
+
+## Introduction
+
+A questioned document is any signature, handwriting, typewriting, or other mark whose source or authenticity is in dispute or doubtful. The field of **Questioned Documents Examination (QDE)** is the forensic science discipline that involves the scientific analysis of these documents. A Questioned Document Examiner (QDE) is the expert who determines the authenticity, origin, and authorship of documents, and can detect alterations, additions, or deletions. This module covers the scope of QDE, the distinction between questioned and standard documents, and the types of examinations performed.
+
+### Key Learning Objectives:
+- Define "Questioned Document" and "Standard Document."
+- Identify the various classes and types of questioned documents.
+- Understand the qualifications and role of a Questioned Document Examiner.
+- Describe the scientific instruments used in document examination.
+- List the common signs of forgery.
+
 
 ## II. Standards (Exemplars) for Comparison
 
@@ -57,23 +84,6 @@ To determine the authenticity or source of a questioned document, the examiner n
 
 **Board Exam Tip:** Collected standards are generally considered more reliable than requested standards because they are less likely to be deliberately altered by the writer. A good QDE will use a combination of both whenever possible.
 
----
-
-## III. The Scientific Instruments of QDE
-
-The QDE relies on a range of scientific instruments to look beyond what the naked eye can see.
-
-- **Stereoscopic Microscope:** The most important and frequently used instrument. It provides a three-dimensional, magnified view of the document, allowing the examiner to see fine details like pen lifts, hesitations, and patching, which are often indicative of forgery.
-
-- **Video Spectral Comparator (VSC):** A powerful instrument that uses different wavelengths of light (from ultraviolet to infrared) and various filters to analyze inks and paper.
-    - **Ink Differentiation:** Two inks that look identical to the naked eye may appear different under infrared light, revealing an alteration.
-    - **Revealing Alterations:** Can reveal erased or obliterated writing.
-
-- **Electrostatic Detection Apparatus (ESDA):** A non-destructive method used to visualize **indented writing**. When someone writes on a top sheet of paper in a notepad, an impression is left on the sheets below. The ESDA can develop these impressions, which can be a crucial source of evidence.
-
-- **Chromatography:** A destructive method used to separate the chemical components of ink. It is used to compare the composition of different inks.
-
----
 
 ## IV. Forgery and Its Detection
 
@@ -94,18 +104,6 @@ When a forger tries to simulate or trace a signature, they must write slowly and
 - **Slow, Drawn-Out Quality:** The ink line lacks the "fluidity" of genuine writing, appearing more like a drawing.
 - **Identical Signatures:** No one signs their name exactly the same way twice. If two signatures are perfectly identical, it is overwhelming evidence that one or both are traced or digitally reproduced. This is a cardinal rule of handwriting examination.
 
----
-
-## V. Other Types of Document Alterations
-
-- **Erasures:** The removal of writing from a document.
-    - **Mechanical Erasure:** Using a rubber eraser or scraping the paper's surface. Can often be detected by disturbances in the paper fibers.
-    - **Chemical Erasure:** Using a chemical to bleach the ink. Can often be detected with UV or infrared light.
-- **Obliterations:** The overwriting of original text with another ink or marker to make it unreadable. A VSC can often see through the obliterating ink.
-- **Additions:** Adding words or numbers to a document after it was completed.
-- **Insertions:** Inserting a new page into a multi-page document.
-
----
 
 ## Conclusion
 

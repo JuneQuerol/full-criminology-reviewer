@@ -2,20 +2,6 @@
 title: 'Module 10.4: Bureau of Corrections (BuCor)'
 description: 'A detailed look at the Bureau of Corrections (BuCor), its mandate, organizational structure, and the national penitentiaries it manages.'
 ---
-
-# Module 10.4: Bureau of Corrections (BuCor)
-
-## Introduction
-
-The **Bureau of Corrections (BuCor)** is the primary government agency responsible for the custody and rehabilitation of **national offenders**—those who have been sentenced to a term of imprisonment of **more than three years**. As an attached agency of the Department of Justice, BuCor plays a critical role in the Philippine criminal justice system by managing the country's national prison system. This module covers the mandate, organizational structure, and the various prison and penal farms operated by BuCor.
-
-### Key Learning Objectives:
-- State the mandate of the Bureau of Corrections.
-- Differentiate between the jurisdictions of BuCor and BJMP.
-- Identify the seven operating prison and penal farms under BuCor.
-- Understand the significance of RA 10575, "The Bureau of Corrections Act of 2013."
-- Describe the basic organizational structure of BuCor.
-
 ---
 
 ## I. Mandate and Jurisdiction
@@ -26,11 +12,6 @@ The **Bureau of Corrections (BuCor)** is the primary government agency responsib
 **BuCor vs. BJMP:**
 | Feature | Bureau of Corrections (BuCor) | Bureau of Jail Management & Penology (BJMP) |
 | :--- | :--- | :--- |
-| **Department** | Department of Justice (DOJ) | Department of the Interior and Local Government (DILG) |
-| **Inmate Type**| **Sentenced Prisoners** | **Detention Prisoners** (awaiting trial) and Sentenced Prisoners |
-| **Sentence Length**| **More than 3 years** | **3 years or less** |
-| **Facility Type**| National Prisons & Penal Farms | City, Municipal, & District Jails |
-
 ---
 
 ## II. RA 10575: The Bureau of Corrections Act of 2013
@@ -45,6 +26,40 @@ This landmark law was enacted to strengthen and modernize the Bureau of Correcti
     - It emphasized that the main focus of the bureau should be on providing inmates with effective programs for their reform.
 
 ---
+---
+
+## IV. Organizational Structure of BuCor
+
+- **Leadership:** BuCor is headed by a **Director General of Corrections** (with the rank of Undersecretary), who is appointed by the President.
+- **Directorates:** The Director General is assisted by three Deputy Directors, each heading a major directorate:
+    1.  **Deputy Director for Administration.**
+    2.  **Deputy Director for Security and Operations.**
+    3.  **Deputy Director for Reformation.**
+- **Superintendents:** Each of the seven prison and penal farms is headed by a **Superintendent**.
+
+---
+---
+
+## Conclusion
+
+The Bureau of Corrections holds the critical responsibility of managing offenders who have committed the most serious crimes in the Philippines. Its mandate is twofold: to securely hold these individuals to protect society, and to provide them with the means to reform themselves. Through its network of seven distinct penal institutions, from the high walls of the New Bilibid Prison to the open fields of the Iwahig Penal Colony, BuCor attempts to balance the often-competing goals of punishment and rehabilitation. The modernization efforts under RA 10575 aim to transform the Bureau into a more effective and humane correctional agency, capable of truly reforming those under its care.
+
+## Introduction
+
+The **Bureau of Corrections (BuCor)** is the primary government agency responsible for the custody and rehabilitation of **national offenders**—those who have been sentenced to a term of imprisonment of **more than three years**. As an attached agency of the Department of Justice, BuCor plays a critical role in the Philippine criminal justice system by managing the country's national prison system. This module covers the mandate, organizational structure, and the various prison and penal farms operated by BuCor.
+
+### Key Learning Objectives:
+- State the mandate of the Bureau of Corrections.
+- Differentiate between the jurisdictions of BuCor and BJMP.
+- Identify the seven operating prison and penal farms under BuCor.
+- Understand the significance of RA 10575, "The Bureau of Corrections Act of 2013."
+- Describe the basic organizational structure of BuCor.
+
+| **Department** | Department of Justice (DOJ) | Department of the Interior and Local Government (DILG) |
+| **Inmate Type**| **Sentenced Prisoners** | **Detention Prisoners** (awaiting trial) and Sentenced Prisoners |
+| **Sentence Length**| **More than 3 years** | **3 years or less** |
+| **Facility Type**| National Prisons & Penal Farms | City, Municipal, & District Jails |
+
 
 ## III. The Seven Prison and Penal Farms of BuCor
 
@@ -81,18 +96,6 @@ BuCor does not operate just one prison. It manages a network of seven facilities
 
 **Board Exam Tip:** You should be able to name the seven penal institutions under BuCor and know their general location and key characteristics.
 
----
-
-## IV. Organizational Structure of BuCor
-
-- **Leadership:** BuCor is headed by a **Director General of Corrections** (with the rank of Undersecretary), who is appointed by the President.
-- **Directorates:** The Director General is assisted by three Deputy Directors, each heading a major directorate:
-    1.  **Deputy Director for Administration.**
-    2.  **Deputy Director for Security and Operations.**
-    3.  **Deputy Director for Reformation.**
-- **Superintendents:** Each of the seven prison and penal farms is headed by a **Superintendent**.
-
----
 
 ## V. The Reception and Diagnostic Center (RDC)
 
@@ -105,9 +108,3 @@ The RDC is a crucial first step in the correctional process for a national priso
     - **Sociological Examination:** To study their social background and history.
     - **Educational and Vocational Assessment:** To determine their skills and training needs.
 - **The Staff Conference:** After the diagnostic process is complete, a "staff conference" is held where all the specialists who examined the inmate meet to discuss their findings and create a personalized treatment plan for the inmate. This plan will then be implemented at the prison where the inmate is ultimately assigned.
-
----
-
-## Conclusion
-
-The Bureau of Corrections holds the critical responsibility of managing offenders who have committed the most serious crimes in the Philippines. Its mandate is twofold: to securely hold these individuals to protect society, and to provide them with the means to reform themselves. Through its network of seven distinct penal institutions, from the high walls of the New Bilibid Prison to the open fields of the Iwahig Penal Colony, BuCor attempts to balance the often-competing goals of punishment and rehabilitation. The modernization efforts under RA 10575 aim to transform the Bureau into a more effective and humane correctional agency, capable of truly reforming those under its care.

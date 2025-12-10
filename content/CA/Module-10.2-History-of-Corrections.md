@@ -2,19 +2,6 @@
 title: 'Module 10.2: History of Corrections'
 description: 'A historical survey of the evolution of corrections, from ancient forms of punishment to the development of the modern prison system.'
 ---
-
-# Module 10.2: History of Corrections
-
-## Introduction
-
-The way a society punishes its offenders is a reflection of its level of civilization. The history of corrections is a long and often brutal story, tracing the evolution of punishment from public spectacles of corporal punishment to the modern concept of the penitentiary. Understanding this history helps us to appreciate the reforms that have been made and to recognize the enduring challenges that have faced correctional systems for centuries. This module provides a brief historical overview of the development of corrections.
-
-### Key Learning Objectives:
-- Describe early forms of punishment before the advent of prisons.
-- Understand the significance of the Walnut Street Jail and the Pennsylvania and Auburn systems.
-- Identify key figures in the history of prison reform, such as John Howard.
-- Trace the historical development from punishment to a focus on rehabilitation.
-
 ---
 
 ## I. Early Forms of Punishment (Pre-18th Century)
@@ -37,27 +24,6 @@ The goal of many early punishments was to shame the offender in front of the com
 - Capital punishment was used for a vast number of crimes, not just murder. Public executions were common and were intended to serve as a powerful general deterrent.
 
 ---
-
-## II. The Birth of the Prison (Late 18th Century)
-
-The Enlightenment period brought a new way of thinking about crime and punishment. Influenced by the Classical School thinkers like Cesare Beccaria, reformers began to argue that punishment should be more rational, humane, and focused on deterrence rather than pure brutality. This led to the idea of using **imprisonment** as a punishment in itself.
-
-### A. John Howard (1726-1790)
-- The **"Great Prison Reformer."** Howard was a sheriff in England who was appalled by the horrific conditions he saw in the local jails (called "gaols").
-- **Key Problems he identified:** Inmates of all types (men, women, children, the sick, the mentally ill, first-time offenders, and hardened criminals) were all housed together in filth and squalor.
-- **His Reforms:** He advocated for:
-    - The segregation of inmates by age, sex, and seriousness of their crime.
-    - The provision of proper food, water, and sanitation.
-    - The idea that prisons should not just punish, but should also be places of reform.
-
-### B. The Walnut Street Jail (Philadelphia, 1790)
-- Considered the **first true "penitentiary"** in the world.
-- Inspired by Quaker ideals, the Walnut Street Jail put the new reformist ideas into practice.
-- **Key Features:**
-    - It segregated inmates by sex and offense.
-    - It abolished the fee system, where inmates had to pay for their own food.
-    - Most importantly, it was based on the concept of **solitary confinement**. The idea was that if inmates were kept in complete silence and isolation, they would have time to reflect on their sins, become penitent (hence the name "penitentiary"), and reform themselves.
-
 ---
 
 ## III. The Great American Prison Systems (19th Century)
@@ -81,12 +47,6 @@ The Walnut Street Jail model led to the development of two competing prison syst
 **Comparison: Pennsylvania vs. Auburn**
 | Feature | Pennsylvania System | Auburn System |
 | :--- | :--- | :--- |
-| **Philosophy** | Separate System (Solitary) | Congregate System |
-| **Daytime Activity**| Solitary work in cell | Congregate work in silence |
-| **Evening Activity**| Solitary confinement | Solitary confinement |
-| **Main Advantage** | Prevented inmate contamination | Cheaper, more profitable |
-| **Main Disadvantage**| Caused mental illness | |
-
 ---
 
 ## IV. The Reformatory Era and the Rise of Rehabilitation (Late 19th - Mid 20th Century)
@@ -99,6 +59,44 @@ By the late 19th century, it was clear that neither the Pennsylvania nor the Aub
 - **The "Medical Model":** In the mid-20th century, the rehabilitative ideal reached its peak with the "medical model" of corrections. Crime was seen as a "sickness" that could be "cured" through various forms of therapy and treatment.
 
 ---
+
+## Introduction
+
+The way a society punishes its offenders is a reflection of its level of civilization. The history of corrections is a long and often brutal story, tracing the evolution of punishment from public spectacles of corporal punishment to the modern concept of the penitentiary. Understanding this history helps us to appreciate the reforms that have been made and to recognize the enduring challenges that have faced correctional systems for centuries. This module provides a brief historical overview of the development of corrections.
+
+### Key Learning Objectives:
+- Describe early forms of punishment before the advent of prisons.
+- Understand the significance of the Walnut Street Jail and the Pennsylvania and Auburn systems.
+- Identify key figures in the history of prison reform, such as John Howard.
+- Trace the historical development from punishment to a focus on rehabilitation.
+
+
+## II. The Birth of the Prison (Late 18th Century)
+
+The Enlightenment period brought a new way of thinking about crime and punishment. Influenced by the Classical School thinkers like Cesare Beccaria, reformers began to argue that punishment should be more rational, humane, and focused on deterrence rather than pure brutality. This led to the idea of using **imprisonment** as a punishment in itself.
+
+### A. John Howard (1726-1790)
+- The **"Great Prison Reformer."** Howard was a sheriff in England who was appalled by the horrific conditions he saw in the local jails (called "gaols").
+- **Key Problems he identified:** Inmates of all types (men, women, children, the sick, the mentally ill, first-time offenders, and hardened criminals) were all housed together in filth and squalor.
+- **His Reforms:** He advocated for:
+    - The segregation of inmates by age, sex, and seriousness of their crime.
+    - The provision of proper food, water, and sanitation.
+    - The idea that prisons should not just punish, but should also be places of reform.
+
+### B. The Walnut Street Jail (Philadelphia, 1790)
+- Considered the **first true "penitentiary"** in the world.
+- Inspired by Quaker ideals, the Walnut Street Jail put the new reformist ideas into practice.
+- **Key Features:**
+    - It segregated inmates by sex and offense.
+    - It abolished the fee system, where inmates had to pay for their own food.
+    - Most importantly, it was based on the concept of **solitary confinement**. The idea was that if inmates were kept in complete silence and isolation, they would have time to reflect on their sins, become penitent (hence the name "penitentiary"), and reform themselves.
+
+| **Philosophy** | Separate System (Solitary) | Congregate System |
+| **Daytime Activity**| Solitary work in cell | Congregate work in silence |
+| **Evening Activity**| Solitary confinement | Solitary confinement |
+| **Main Advantage** | Prevented inmate contamination | Cheaper, more profitable |
+| **Main Disadvantage**| Caused mental illness | |
+
 
 ## Conclusion
 

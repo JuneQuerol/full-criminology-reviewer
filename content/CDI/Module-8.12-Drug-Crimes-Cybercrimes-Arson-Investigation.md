@@ -2,20 +2,6 @@
 title: 'Module 8.12: Drug Crimes, Cybercrimes, & Arson Investigation'
 description: 'An overview of the specialized investigative techniques used for drug-related offenses, computer and internet crimes (cybercrime), and the crime of arson.'
 ---
-
-# Module 8.12: Drug Crimes, Cybercrimes & Arson Investigation
-
-## Introduction
-
-In addition to traditional violent and property crimes, the modern investigator must be equipped to handle a range of specialized offenses that require unique techniques and knowledge. This module introduces the investigative approaches for three such crimes: **Drug Crimes**, which often involve clandestine operations; **Cybercrimes**, which take place in the digital world; and **Arson**, the willful and malicious burning of property, which presents a uniquely challenging crime scene.
-
-### Key Learning Objectives:
-- Identify common investigative techniques for drug offenses, including buy-bust operations.
-- Define cybercrime and list common examples.
-- Understand the unique challenges of collecting digital evidence.
-- Define arson and identify common motives.
-- Describe the key indicators used to determine if a fire was deliberately set.
-
 ---
 
 ## I. Drug Crime Investigation
@@ -33,36 +19,6 @@ The investigation of drug crimes is unique because they are often "victimless" i
     - **Chain of Custody (RA 9165):** The law provides very strict rules for the chain of custody of seized drugs, requiring the presence of specific witnesses during the inventory and marking of the evidence at the scene.
 
 ---
-
-## II. Cybercrime Investigation
-
-**Cybercrime** is any criminal activity that involves the use of a computer, computer network, or a networked device. The investigator in this field is a "digital detective."
-
-### A. Common Types of Cybercrime
-- **Hacking:** Gaining unauthorized access to a computer system.
-- **Phishing:** Deceiving a person into revealing sensitive personal information (like passwords or credit card numbers) by masquerading as a trustworthy entity in an electronic communication.
-- **Online Scams and Fraud:** Using the internet to defraud victims of their money.
-- **Cyber Libel:** Defamation committed online.
-- **Identity Theft:** Stealing someone's personal information to commit fraud.
-- **Online Trafficking:** Using the internet for human trafficking or the distribution of child pornography.
-- **Cyber Terrorism:** Using the internet to conduct violent acts that result in or threaten loss of life or significant bodily harm.
-
-The primary law governing these offenses in the Philippines is **RA 10175 (The Cybercrime Prevention Act of 2012)**.
-
-### B. Challenges of Cybercrime Investigation
-- **Anonymity and Jurisdiction:** Suspects can hide their identity behind fake profiles and anonymous networks. They can be located anywhere in the world, creating significant jurisdictional challenges.
-- **Volatility of Evidence:** Digital evidence is extremely fragile. It can be altered, damaged, or deleted with a few keystrokes.
-- **Technical Expertise:** Investigators require specialized training and tools to analyze digital evidence.
-
-### C. Digital Evidence
-- **Definition:** Any information or data of value to an investigation that is stored on, received by, or transmitted by an electronic device.
-- **Examples:** Emails, text messages, browser history, files on a hard drive, photos, videos.
-- **Collection ("Digital Forensics"):**
-    1.  **Secure the Device:** The first step is to seize the electronic device (computer, phone) and prevent anyone from using it.
-    2.  **Create a Forensic Image:** The digital forensics expert does not work on the original device. They create a bit-for-bit, exact copy of the entire hard drive, called a "forensic image." They then conduct their analysis on this copy to preserve the integrity of the original evidence.
-    3.  **Analysis:** The expert uses specialized software to recover deleted files, search for keywords, and analyze the device's activity.
-    - **Chain of Custody:** A strict chain of custody is just as important for digital evidence as it is for physical evidence.
-
 ---
 
 ## III. Arson Investigation
@@ -97,6 +53,48 @@ The investigation is a team effort, usually involving police investigators and f
     - **Tampering with Safety Devices:** Disabling a smoke detector or sprinkler system.
 
 ---
+
+## Introduction
+
+In addition to traditional violent and property crimes, the modern investigator must be equipped to handle a range of specialized offenses that require unique techniques and knowledge. This module introduces the investigative approaches for three such crimes: **Drug Crimes**, which often involve clandestine operations; **Cybercrimes**, which take place in the digital world; and **Arson**, the willful and malicious burning of property, which presents a uniquely challenging crime scene.
+
+### Key Learning Objectives:
+- Identify common investigative techniques for drug offenses, including buy-bust operations.
+- Define cybercrime and list common examples.
+- Understand the unique challenges of collecting digital evidence.
+- Define arson and identify common motives.
+- Describe the key indicators used to determine if a fire was deliberately set.
+
+
+## II. Cybercrime Investigation
+
+**Cybercrime** is any criminal activity that involves the use of a computer, computer network, or a networked device. The investigator in this field is a "digital detective."
+
+### A. Common Types of Cybercrime
+- **Hacking:** Gaining unauthorized access to a computer system.
+- **Phishing:** Deceiving a person into revealing sensitive personal information (like passwords or credit card numbers) by masquerading as a trustworthy entity in an electronic communication.
+- **Online Scams and Fraud:** Using the internet to defraud victims of their money.
+- **Cyber Libel:** Defamation committed online.
+- **Identity Theft:** Stealing someone's personal information to commit fraud.
+- **Online Trafficking:** Using the internet for human trafficking or the distribution of child pornography.
+- **Cyber Terrorism:** Using the internet to conduct violent acts that result in or threaten loss of life or significant bodily harm.
+
+The primary law governing these offenses in the Philippines is **RA 10175 (The Cybercrime Prevention Act of 2012)**.
+
+### B. Challenges of Cybercrime Investigation
+- **Anonymity and Jurisdiction:** Suspects can hide their identity behind fake profiles and anonymous networks. They can be located anywhere in the world, creating significant jurisdictional challenges.
+- **Volatility of Evidence:** Digital evidence is extremely fragile. It can be altered, damaged, or deleted with a few keystrokes.
+- **Technical Expertise:** Investigators require specialized training and tools to analyze digital evidence.
+
+### C. Digital Evidence
+- **Definition:** Any information or data of value to an investigation that is stored on, received by, or transmitted by an electronic device.
+- **Examples:** Emails, text messages, browser history, files on a hard drive, photos, videos.
+- **Collection ("Digital Forensics"):**
+    1.  **Secure the Device:** The first step is to seize the electronic device (computer, phone) and prevent anyone from using it.
+    2.  **Create a Forensic Image:** The digital forensics expert does not work on the original device. They create a bit-for-bit, exact copy of the entire hard drive, called a "forensic image." They then conduct their analysis on this copy to preserve the integrity of the original evidence.
+    3.  **Analysis:** The expert uses specialized software to recover deleted files, search for keywords, and analyze the device's activity.
+    - **Chain of Custody:** A strict chain of custody is just as important for digital evidence as it is for physical evidence.
+
 
 ## Conclusion
 

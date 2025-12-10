@@ -2,20 +2,6 @@
 title: 'Module 9.5: Biological & Psychological Theories'
 description: 'An exploration of individual-level theories of crime, covering both biological explanations (genetics, brain chemistry) and psychological explanations (personality, psychoanalytic theory, learning theory).'
 ---
-
-# Module 9.5: Biological & Psychological Theories (Lombroso, Freud)
-
-## Introduction
-
-While the Classical School focused on crime as a rational choice, the Positivist School shifted the focus to the criminal offender themselves. This led to the development of theories that sought to explain crime by looking at the **individual characteristics** of the offender. These theories can be broadly divided into two categories: **Biological Theories**, which look for causes in a person's physical or genetic makeup, and **Psychological Theories**, which look for causes in a person's personality, mind, and experiences. This module will explore some of the most influential biological and psychological theories of crime.
-
-### Key Learning Objectives:
-- Describe the core ideas of early biological theories, including Lombroso's concept of the "atavistic man."
-- Understand modern biological approaches to crime, such as genetics and neurocriminology.
-- Explain the basic principles of Freud's Psychoanalytic Theory of crime.
-- Describe how Behavioral and Cognitive learning theories explain the acquisition of criminal behavior.
-- Understand the concept of the "psychopathic personality."
-
 ---
 
 ## I. Biological Theories of Crime
@@ -44,6 +30,23 @@ Modern biological theories are much more sophisticated. They do not argue that b
     - High levels of the male hormone **testosterone** have been linked to increased aggression and dominance-seeking behavior.
 
 ---
+---
+
+## Conclusion
+
+Biological and psychological theories provide a crucial micro-level perspective on crime, focusing on the characteristics of the individual offender. While early theories like Lombroso's have been discredited, modern biosocial criminology uses advanced technology to show that genetics, brain structure, and brain chemistry can indeed create predispositions for criminal behavior. Similarly, psychological theories show how personality, developmental experiences, and learned behaviors can shape a person's path toward or away from crime. These theories remind us that while social conditions are important, the ultimate decision to commit a crime is made by an individual, and the factors that influence that decision are often deeply rooted in their biology and psychology.
+
+## Introduction
+
+While the Classical School focused on crime as a rational choice, the Positivist School shifted the focus to the criminal offender themselves. This led to the development of theories that sought to explain crime by looking at the **individual characteristics** of the offender. These theories can be broadly divided into two categories: **Biological Theories**, which look for causes in a person's physical or genetic makeup, and **Psychological Theories**, which look for causes in a person's personality, mind, and experiences. This module will explore some of the most influential biological and psychological theories of crime.
+
+### Key Learning Objectives:
+- Describe the core ideas of early biological theories, including Lombroso's concept of the "atavistic man."
+- Understand modern biological approaches to crime, such as genetics and neurocriminology.
+- Explain the basic principles of Freud's Psychoanalytic Theory of crime.
+- Describe how Behavioral and Cognitive learning theories explain the acquisition of criminal behavior.
+- Understand the concept of the "psychopathic personality."
+
 
 ## II. Psychological Theories of Crime
 
@@ -82,9 +85,3 @@ Cognitive theories focus on how people's **thoughts, beliefs, and moral reasonin
     - **Impulsivity and Poor Self-Control.**
     - **Superficial Charm and Manipulativeness.**
 - Not all psychopaths are criminals, but they are disproportionately represented among chronic and violent offenders because they lack the internal emotional controls that prevent most people from harming others.
-
----
-
-## Conclusion
-
-Biological and psychological theories provide a crucial micro-level perspective on crime, focusing on the characteristics of the individual offender. While early theories like Lombroso's have been discredited, modern biosocial criminology uses advanced technology to show that genetics, brain structure, and brain chemistry can indeed create predispositions for criminal behavior. Similarly, psychological theories show how personality, developmental experiences, and learned behaviors can shape a person's path toward or away from crime. These theories remind us that while social conditions are important, the ultimate decision to commit a crime is made by an individual, and the factors that influence that decision are often deeply rooted in their biology and psychology.

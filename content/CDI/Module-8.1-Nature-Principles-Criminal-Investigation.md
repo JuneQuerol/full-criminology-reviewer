@@ -2,20 +2,6 @@
 title: 'Module 8.1: Nature & Principles of Criminal Investigation'
 description: 'An introduction to the fundamentals of criminal investigation, defining its goals, phases, and the core principles that guide every successful inquiry.'
 ---
-
-# Module 8.1: Nature & Principles of Criminal Investigation
-
-## Introduction
-
-**Criminal Investigation** is an art and a science. It is the systematic and lawful inquiry for the truth concerning a matter of fact. It involves the collection of facts to identify, locate, and prove the guilt of a suspected criminal. At its core, investigation is a reconstructive process—the investigator takes the pieces left behind from a past event and tries to put them together to figure out what happened. This module introduces the fundamental nature, goals, and guiding principles of criminal investigation.
-
-### Key Learning Objectives:
-- Define criminal investigation and its primary goals.
-- Identify the three main phases of a criminal investigation.
-- Explain the significance of the "three tools of investigation."
-- Understand the importance of objectivity, thoroughness, and legality in an investigation.
-- Differentiate between admission, confession, and information.
-
 ---
 
 ## I. The Nature and Goals of Criminal Investigation
@@ -35,6 +21,43 @@ Every investigation seeks to achieve three primary objectives:
 3.  **To Provide Evidence of Their Guilt:** To gather sufficient, admissible evidence to prove the suspect's guilt beyond a reasonable doubt in a court of law.
 
 ---
+---
+
+## III. Key Terminology
+
+- **Information:** The raw data and knowledge an investigator gathers from various sources (e.g., records, reports, witnesses). It is the lifeblood of an investigation.
+- **Interview:** The simple questioning of a person who is believed to possess information relevant to the investigation. Typically non-confrontational.
+- **Interrogation:** The skillful and technical questioning of a suspect or an uncooperative person to elicit a confession or admission.
+- **Instrumentation:** The application of scientific instruments and methods to detect and analyze physical evidence. This refers to the work of the crime laboratory.
+- **Admission:** A statement of fact by the accused that tends to establish their guilt when connected with other facts, but is not a full acknowledgment of guilt. (e.g., "I was at the scene, but I didn't do it.")
+- **Confession:** A direct acknowledgment of guilt by the accused. (e.g., "I did it.")
+
+---
+---
+
+## V. The Three Tools of Investigation (The "3 I's")
+
+The goals of investigation are accomplished by using three main tools:
+
+1.  **Information:** The knowledge gathered from people, records, and other sources.
+2.  **Interview and Interrogation:** The techniques used to gather information from people.
+3.  **Instrumentation:** The use of forensic science and technology to analyze physical evidence.
+
+A successful investigator is a master of all three tools. They know how to gather information from various sources, how to skillfully talk to people to get the truth, and how to leverage the power of the crime laboratory to analyze the physical evidence.
+
+---
+
+## Introduction
+
+**Criminal Investigation** is an art and a science. It is the systematic and lawful inquiry for the truth concerning a matter of fact. It involves the collection of facts to identify, locate, and prove the guilt of a suspected criminal. At its core, investigation is a reconstructive process—the investigator takes the pieces left behind from a past event and tries to put them together to figure out what happened. This module introduces the fundamental nature, goals, and guiding principles of criminal investigation.
+
+### Key Learning Objectives:
+- Define criminal investigation and its primary goals.
+- Identify the three main phases of a criminal investigation.
+- Explain the significance of the "three tools of investigation."
+- Understand the importance of objectivity, thoroughness, and legality in an investigation.
+- Differentiate between admission, confession, and information.
+
 
 ## II. The Phases of Investigation
 
@@ -75,18 +98,6 @@ The preliminary investigation is critically important because the evidence is fr
     - Assisting the prosecutor in filing the appropriate charges.
     - Testifying in court.
 
----
-
-## III. Key Terminology
-
-- **Information:** The raw data and knowledge an investigator gathers from various sources (e.g., records, reports, witnesses). It is the lifeblood of an investigation.
-- **Interview:** The simple questioning of a person who is believed to possess information relevant to the investigation. Typically non-confrontational.
-- **Interrogation:** The skillful and technical questioning of a suspect or an uncooperative person to elicit a confession or admission.
-- **Instrumentation:** The application of scientific instruments and methods to detect and analyze physical evidence. This refers to the work of the crime laboratory.
-- **Admission:** A statement of fact by the accused that tends to establish their guilt when connected with other facts, but is not a full acknowledgment of guilt. (e.g., "I was at the scene, but I didn't do it.")
-- **Confession:** A direct acknowledgment of guilt by the accused. (e.g., "I did it.")
-
----
 
 ## IV. Guiding Principles of Criminal Investigation
 
@@ -108,19 +119,6 @@ To be successful and to have their work stand up in court, investigators must ad
 - The investigator must understand and respect the constitutional rights of all individuals, including victims, witnesses, and suspects.
 - **The "Fruit of the Poisonous Tree" Doctrine:** This legal principle states that any evidence that is obtained as a result of an illegal act by the police (e.g., an illegal search or a coerced confession) is inadmissible in court. If the "tree" (the initial police action) is poisoned, then the "fruit" (the evidence) is also poisoned.
 
----
-
-## V. The Three Tools of Investigation (The "3 I's")
-
-The goals of investigation are accomplished by using three main tools:
-
-1.  **Information:** The knowledge gathered from people, records, and other sources.
-2.  **Interview and Interrogation:** The techniques used to gather information from people.
-3.  **Instrumentation:** The use of forensic science and technology to analyze physical evidence.
-
-A successful investigator is a master of all three tools. They know how to gather information from various sources, how to skillfully talk to people to get the truth, and how to leverage the power of the crime laboratory to analyze the physical evidence.
-
----
 
 ## Conclusion
 

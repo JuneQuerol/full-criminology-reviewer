@@ -2,19 +2,6 @@
 title: 'Module 9.6: Sociological Theories (Strain, Labeling, Social Disorganization)'
 description: 'An exploration of major sociological theories of crime, which explain criminal behavior as a product of social forces, structures, and processes.'
 ---
-
-# Module 9.6: Sociological Theories (Strain, Labeling, Social Disorganization)
-
-## Introduction
-
-While biological and psychological theories look for the causes of crime within the individual, **Sociological Theories** look for causes in the social environment. These theories propose that crime is not just a result of individual pathology but is a product of broader social forces, structures, and processes. They seek to explain why crime rates are higher in some groups and some communities than in others. This module will explore three major traditions in sociological criminology: Strain Theory, Social Disorganization Theory, and Labeling Theory.
-
-### Key Learning Objectives:
-- Explain Robert Merton's Strain Theory and the five modes of adaptation.
-- Describe the core principles of Social Disorganization Theory.
-- Understand the basic premise of Labeling Theory and its key concepts.
-- Differentiate between social structure theories and social process theories.
-
 ---
 
 ## I. Social Structure Theories
@@ -37,14 +24,6 @@ Social structure theories argue that crime is a result of a person's position wi
 
 | Mode of Adaptation | Cultural Goals (Wealth) | Legitimate Means (Job) | Example |
 | :--- | :--- | :--- | :--- |
-| **1. Conformity** | Accepts | Accepts | The law-abiding citizen who works hard. |
-| **2. Innovation** | **Accepts** | **Rejects** | **The Criminal.** They want wealth but use illegal means (theft, drug dealing) to get it. |
-| **3. Ritualism** | Rejects | Accepts | The bureaucrat who has given up on getting rich but still goes through the motions of their job every day. |
-| **4. Retreatism** | Rejects | Rejects | The drug addict or homeless person who has dropped out of society. |
-| **5. Rebellion** | Rejects/Replaces | Rejects/Replaces | The revolutionary or terrorist who rejects society's goals and means and wants to create a new system. |
-
-**Board Exam Tip:** Merton's Strain Theory is one of the most important sociological theories. You must know the five modes of adaptation, especially **Innovation**, which is Merton's explanation for most property crime.
-
 ---
 
 ## II. Social Process Theories
@@ -66,6 +45,30 @@ Social process theories focus not on the broad social structure but on the socia
     4.  **Belief:** The extent to which a person believes in the moral validity of the law and of social norms.
 
 ---
+---
+
+## Conclusion
+
+Sociological theories provide a powerful macro-level explanation for crime. They show that criminal behavior is not simply a matter of individual choice or pathology but is deeply influenced by the social context in which a person lives. Social structure theories like Social Disorganization and Strain theory point to the crime-producing effects of poverty, inequality, and blocked opportunities. Social process theories like Differential Association and Social Control theory show how crime is learned and prevented through our interactions and bonds with others. Finally, Labeling Theory offers a critical perspective, reminding us that the actions of the criminal justice system itself can sometimes, paradoxically, help to create the very thing it is trying to stop: the career criminal.
+
+## Introduction
+
+While biological and psychological theories look for the causes of crime within the individual, **Sociological Theories** look for causes in the social environment. These theories propose that crime is not just a result of individual pathology but is a product of broader social forces, structures, and processes. They seek to explain why crime rates are higher in some groups and some communities than in others. This module will explore three major traditions in sociological criminology: Strain Theory, Social Disorganization Theory, and Labeling Theory.
+
+### Key Learning Objectives:
+- Explain Robert Merton's Strain Theory and the five modes of adaptation.
+- Describe the core principles of Social Disorganization Theory.
+- Understand the basic premise of Labeling Theory and its key concepts.
+- Differentiate between social structure theories and social process theories.
+
+| **1. Conformity** | Accepts | Accepts | The law-abiding citizen who works hard. |
+| **2. Innovation** | **Accepts** | **Rejects** | **The Criminal.** They want wealth but use illegal means (theft, drug dealing) to get it. |
+| **3. Ritualism** | Rejects | Accepts | The bureaucrat who has given up on getting rich but still goes through the motions of their job every day. |
+| **4. Retreatism** | Rejects | Rejects | The drug addict or homeless person who has dropped out of society. |
+| **5. Rebellion** | Rejects/Replaces | Rejects/Replaces | The revolutionary or terrorist who rejects society's goals and means and wants to create a new system. |
+
+**Board Exam Tip:** Merton's Strain Theory is one of the most important sociological theories. You must know the five modes of adaptation, especially **Innovation**, which is Merton's explanation for most property crime.
+
 
 ## III. Social Reaction Theory (Labeling Theory)
 
@@ -79,9 +82,3 @@ Labeling Theory is unique because it is not interested in why people *first* com
     - **Secondary Deviance:** Because their legitimate opportunities are blocked and their self-concept has changed, the person begins to associate with other labeled individuals and engages in more serious, frequent criminal behavior as a result of the label. This is the "career criminal" stage.
 
 **Policy Implication:** Labeling theory suggests that we should be careful about formally processing first-time, minor offenders (especially juveniles) through the justice system. Diversion programs that avoid a formal criminal label may be more effective at preventing a long-term criminal career.
-
----
-
-## Conclusion
-
-Sociological theories provide a powerful macro-level explanation for crime. They show that criminal behavior is not simply a matter of individual choice or pathology but is deeply influenced by the social context in which a person lives. Social structure theories like Social Disorganization and Strain theory point to the crime-producing effects of poverty, inequality, and blocked opportunities. Social process theories like Differential Association and Social Control theory show how crime is learned and prevented through our interactions and bonds with others. Finally, Labeling Theory offers a critical perspective, reminding us that the actions of the criminal justice system itself can sometimes, paradoxically, help to create the very thing it is trying to stop: the career criminal.

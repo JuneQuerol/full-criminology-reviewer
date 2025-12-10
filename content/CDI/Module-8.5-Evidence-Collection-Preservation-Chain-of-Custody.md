@@ -2,19 +2,6 @@
 title: 'Module 8.5: Evidence Collection, Preservation & Chain of Custody'
 description: 'A detailed guide on the proper techniques for collecting, packaging, and preserving different types of physical evidence, and the critical importance of maintaining the chain of custody.'
 ---
-
-# Module 8.5: Evidence Collection, Preservation & Chain of Custody
-
-## Introduction
-
-After a crime scene has been documented and searched, the next critical step is the **collection and preservation of physical evidence**. How evidence is collected, packaged, and preserved can make the difference between it being a crucial piece of a prosecutorial puzzle or an inadmissible item thrown out of court. This process is governed by strict procedures designed to prevent contamination, degradation, and any questions about the evidence's integrity. Central to this is the concept of the **Chain of Custody**, the unbreakable thread that links the evidence from the crime scene to the courtroom.
-
-### Key Learning Objectives:
-- Understand the basic principles of evidence collection.
-- Describe the proper packaging and preservation techniques for different types of evidence (biological, trace, firearms, etc.).
-- Define Chain of Custody and explain its critical importance.
-- Identify the information required on an evidence label and in a chain of custody record.
-
 ---
 
 ## I. General Principles of Evidence Collection
@@ -29,6 +16,30 @@ After a crime scene has been documented and searched, the next critical step is 
     - **Arson:** A sample of unburnt carpet or wood must be collected from the same room as the suspected arson sample to serve as a control.
 
 ---
+| :--- | :--- | :--- |
+| Bloody Shirt (Wet) | Air-dry, then place in a paper bag. | Breathable, prevents mold/DNA degradation. |
+| Paint Chip | Druggist's fold, then envelope. | Prevents loss of small particles. |
+| Revolver | Unload, then secure in a cardboard box. | Safety, protects prints and trace evidence. |
+| Arson Debris | Airtight metal paint can. | Traps volatile fumes for analysis. |
+| Ransom Note | Plastic sleeve or paper envelope. | Prevents damage and new markings. |
+
+---
+---
+
+## Conclusion
+
+The collection and preservation of physical evidence is a task that demands precision and diligence. There are no second chances; if evidence is contaminated, lost, or improperly packaged at the scene, its value is often lost forever. By using the correct techniques for different types of evidence and, most importantly, by meticulously maintaining an unbroken chain of custody, the investigator ensures that the physical evidence collected at the scene can survive the scrutiny of the legal process and serve its ultimate purpose: to speak the truth in a court of law.
+
+## Introduction
+
+After a crime scene has been documented and searched, the next critical step is the **collection and preservation of physical evidence**. How evidence is collected, packaged, and preserved can make the difference between it being a crucial piece of a prosecutorial puzzle or an inadmissible item thrown out of court. This process is governed by strict procedures designed to prevent contamination, degradation, and any questions about the evidence's integrity. Central to this is the concept of the **Chain of Custody**, the unbreakable thread that links the evidence from the crime scene to the courtroom.
+
+### Key Learning Objectives:
+- Understand the basic principles of evidence collection.
+- Describe the proper packaging and preservation techniques for different types of evidence (biological, trace, firearms, etc.).
+- Define Chain of Custody and explain its critical importance.
+- Identify the information required on an evidence label and in a chain of custody record.
+
 
 ## II. Packaging and Preservation of Specific Evidence Types
 
@@ -69,14 +80,6 @@ The type of packaging used depends on the type of evidence.
 
 **Packaging Summary**
 | Evidence Type | Recommended Packaging | Why? |
-| :--- | :--- | :--- |
-| Bloody Shirt (Wet) | Air-dry, then place in a paper bag. | Breathable, prevents mold/DNA degradation. |
-| Paint Chip | Druggist's fold, then envelope. | Prevents loss of small particles. |
-| Revolver | Unload, then secure in a cardboard box. | Safety, protects prints and trace evidence. |
-| Arson Debris | Airtight metal paint can. | Traps volatile fumes for analysis. |
-| Ransom Note | Plastic sleeve or paper envelope. | Prevents damage and new markings. |
-
----
 
 ## III. The Chain of Custody: The Unbroken Link
 
@@ -100,9 +103,3 @@ The type of packaging used depends on the type of evidence.
     - The reason for the transfer (e.g., "for DNA analysis").
 
 **Board Exam Tip:** The chain of custody is one of the most fundamental and frequently tested concepts in all of criminal investigation. You must understand what it is and why it is absolutely essential for the admissibility of evidence.
-
----
-
-## Conclusion
-
-The collection and preservation of physical evidence is a task that demands precision and diligence. There are no second chances; if evidence is contaminated, lost, or improperly packaged at the scene, its value is often lost forever. By using the correct techniques for different types of evidence and, most importantly, by meticulously maintaining an unbroken chain of custody, the investigator ensures that the physical evidence collected at the scene can survive the scrutiny of the legal process and serve its ultimate purpose: to speak the truth in a court of law.

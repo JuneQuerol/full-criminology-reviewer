@@ -2,20 +2,6 @@
 title: 'Module 7.9: Forensic Ballistics (Interior, Exterior, Terminal)'
 description: 'An in-depth look at Forensic Ballistics, the science of firearms identification, covering the three stages of ballistics and the process of matching a bullet to a gun.'
 ---
-
-# Module 7.9: Forensic Ballistics (Interior, Exterior, Terminal)
-
-## Introduction
-
-**Forensic Ballistics** is the science of firearms and ammunition, specifically as it pertains to criminal investigations. It is the discipline concerned with determining if a bullet, cartridge case, or other ammunition component was fired from a specific firearm. This is possible because, much like a fingerprint, every firearm has unique characteristics that it imparts onto the ammunition it fires. This module will break down the field of ballistics into its three main branches and detail the process of firearms identification.
-
-### Key Learning Objectives:
-- Define Forensic Ballistics and its purpose.
-- Differentiate between the three branches of ballistics: Interior, Exterior, and Terminal.
-- Explain how a firearm leaves unique markings (striations) on bullets and cartridge cases.
-- Describe the function of the comparison microscope in firearms identification.
-- Understand the role of automated database systems like IBIS.
-
 ---
 
 ## I. The Three Branches of Ballistics
@@ -51,6 +37,37 @@ The study of ballistics is traditionally divided into three distinct phases of a
 - **Forensic Relevance:** Essential for forensic pathologists in understanding the nature of gunshot wounds and for crime scene analysts in interpreting bullet holes and damage.
 
 ---
+---
+
+## III. The Firearms Identification Process
+
+1.  **Collection of Evidence:** An evidence bullet or cartridge case is recovered from the crime scene. A suspect firearm is also recovered.
+2.  **Test Firing:** The firearms examiner fires the suspect firearm into a water tank or a box of cotton (a "bullet trap") to obtain a known "test" bullet and cartridge case that are undamaged.
+3.  **Microscopic Comparison:** The examiner uses a **comparison microscope**.
+    - This is essentially two microscopes connected by an optical bridge, allowing the examiner to view two objects side-by-side in the same field of view.
+    - The examiner places the evidence bullet under one side and the test bullet under the other.
+    - By rotating the bullets, the examiner tries to find a "match" in the unique pattern of striations. If a sufficient number of matching striations are found, a positive identification is made. The same process is used for comparing cartridge cases.
+
+**Board Exam Tip:** The **comparison microscope** is the single most important instrument for a firearms examiner.
+
+---
+---
+
+## Conclusion
+
+Forensic Ballistics is a powerful tool that can provide a definitive link between a firearm and a crime. The process relies on the fundamental principle that every firearm, through the random imperfections of its manufacturing, is unique. By analyzing the microscopic striations engraved on a bullet as it travels down the barrel, and the unique impressions left on a cartridge case, a skilled examiner can identify the "fingerprint" of a gun, providing crucial evidence for the criminal justice system.
+
+## Introduction
+
+**Forensic Ballistics** is the science of firearms and ammunition, specifically as it pertains to criminal investigations. It is the discipline concerned with determining if a bullet, cartridge case, or other ammunition component was fired from a specific firearm. This is possible because, much like a fingerprint, every firearm has unique characteristics that it imparts onto the ammunition it fires. This module will break down the field of ballistics into its three main branches and detail the process of firearms identification.
+
+### Key Learning Objectives:
+- Define Forensic Ballistics and its purpose.
+- Differentiate between the three branches of ballistics: Interior, Exterior, and Terminal.
+- Explain how a firearm leaves unique markings (striations) on bullets and cartridge cases.
+- Describe the function of the comparison microscope in firearms identification.
+- Understand the role of automated database systems like IBIS.
+
 
 ## II. The Basis of Firearms Identification
 
@@ -77,29 +94,9 @@ The ability to match a bullet to a specific gun is based on the fact that the ma
     - **Breechface Markings:** The pressure of the explosion slams the back of the cartridge case against the breechface (the rear wall of the firearm's chamber), imprinting any imperfections from the breechface onto the cartridge.
     - **Ejector and Extractor Marks:** In semi-automatic and automatic firearms, the extractor hook and the ejector leave unique marks as they pull and push the spent cartridge out of the chamber.
 
----
-
-## III. The Firearms Identification Process
-
-1.  **Collection of Evidence:** An evidence bullet or cartridge case is recovered from the crime scene. A suspect firearm is also recovered.
-2.  **Test Firing:** The firearms examiner fires the suspect firearm into a water tank or a box of cotton (a "bullet trap") to obtain a known "test" bullet and cartridge case that are undamaged.
-3.  **Microscopic Comparison:** The examiner uses a **comparison microscope**.
-    - This is essentially two microscopes connected by an optical bridge, allowing the examiner to view two objects side-by-side in the same field of view.
-    - The examiner places the evidence bullet under one side and the test bullet under the other.
-    - By rotating the bullets, the examiner tries to find a "match" in the unique pattern of striations. If a sufficient number of matching striations are found, a positive identification is made. The same process is used for comparing cartridge cases.
-
-**Board Exam Tip:** The **comparison microscope** is the single most important instrument for a firearms examiner.
-
----
 
 ## IV. Automated Identification Systems
 
 - **IBIS (Integrated Ballistics Identification System):** A computerized system that automates the comparison of ballistics evidence.
 - **How it Works:** IBIS does not make a conclusive match. Instead, it captures digital images of the markings on bullets and cartridge cases and stores them in a database. It then compares the images of evidence from a crime scene to the database and produces a "shortlist" of likely matches.
 - **The Role of the Examiner:** A human firearms examiner must then physically pull the evidence from the shortlisted items and perform a final, conclusive comparison using a traditional comparison microscope. IBIS is a screening tool, not a replacement for the expert examiner.
-
----
-
-## Conclusion
-
-Forensic Ballistics is a powerful tool that can provide a definitive link between a firearm and a crime. The process relies on the fundamental principle that every firearm, through the random imperfections of its manufacturing, is unique. By analyzing the microscopic striations engraved on a bullet as it travels down the barrel, and the unique impressions left on a cartridge case, a skilled examiner can identify the "fingerprint" of a gun, providing crucial evidence for the criminal justice system.

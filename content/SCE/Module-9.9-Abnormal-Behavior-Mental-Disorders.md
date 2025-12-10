@@ -2,19 +2,6 @@
 title: 'Module 9.9: Abnormal Behavior & Mental Disorders'
 description: 'An introduction to the concepts of abnormal behavior, the classification of mental disorders according to the DSM-5, and their relevance to criminology and the criminal justice system.'
 ---
-
-# Module 9.9: Abnormal Behavior & Mental Disorders
-
-## Introduction
-
-**Human Behavior** refers to the full range of actions and mannerisms exhibited by individuals. While most behavior falls within a "normal" range, **Abnormal Behavior** deviates from this norm in a way that is distressing, disabling, or puts the individual or others at risk. The study of abnormal behavior and mental disorders is a key part of **Psychology** and has significant relevance to Criminology. Understanding these conditions can help explain certain types of criminal behavior and is essential for the legal concepts of competency and the insanity defense. This module provides a basic overview of abnormal behavior and the major categories of mental disorders.
-
-### Key Learning Objectives:
-- Define abnormal behavior and the "4 D's" used to identify it.
-- Understand the purpose of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5).
-- Identify the major categories of mental disorders, such as anxiety, mood, and psychotic disorders.
-- Explain the characteristics of Antisocial Personality Disorder and its link to criminality.
-
 ---
 
 ## I. Defining Abnormal Behavior
@@ -29,17 +16,6 @@ What separates "normal" behavior from "abnormal" behavior? Psychologists often u
 A behavior is more likely to be considered abnormal if it meets more than one of these criteria.
 
 ---
-
-## II. Classifying Mental Disorders: The DSM-5
-
-To diagnose and study mental disorders in a systematic way, mental health professionals use a standard classification manual.
-
-- **DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5th Edition):** Published by the American Psychiatric Association, the DSM-5 is the standard manual used in the United States and much of the world (including the Philippines) to classify and diagnose mental disorders.
-- **Purpose:**
-    - To provide a common language for clinicians to communicate about their patients.
-    - To present clear, descriptive criteria for every mental disorder to ensure that diagnoses are reliable and consistent.
-- **Important Note:** The DSM-5 describes the symptoms of disorders; it does **not** describe their causes or recommend treatments.
-
 ---
 
 ## III. Major Categories of Mental Disorders
@@ -75,24 +51,6 @@ The DSM-5 organizes mental disorders into numerous categories. Here are some of 
     - **Cluster C (Anxious/Fearful):** e.g., Avoidant, Dependent, Obsessive-Compulsive.
 
 ---
-
-## IV. The Criminologist's Focus: Antisocial Personality Disorder
-
-Of all the mental disorders, the one most closely associated with criminality is **Antisocial Personality Disorder (ASPD)**, found in Cluster B.
-
-- **Core Feature:** ASPD is characterized by a pervasive pattern of disregard for and violation of the rights of others. This is the clinical diagnosis that most closely corresponds to the concept of **psychopathy** or **sociopathy**.
-- **DSM-5 Diagnostic Criteria (Abridged):** A pattern of behavior since age 15, indicated by three or more of the following:
-    - Failure to conform to social norms with respect to lawful behaviors (repeatedly performing acts that are grounds for arrest).
-    - Deceitfulness (repeated lying, use of aliases, conning others).
-    - Impulsivity or failure to plan ahead.
-    - Irritability and aggressiveness (repeated physical fights or assaults).
-    - Reckless disregard for the safety of self or others.
-    - Consistent irresponsibility (failure to sustain work or honor financial obligations).
-    - **Lack of remorse** (being indifferent to or rationalizing having hurt, mistreated, or stolen from another).
-- **Important Note:** A person cannot be diagnosed with ASPD until they are 18 years old, but they must have shown evidence of a similar pattern (Conduct Disorder) before age 15.
-
-**ASPD and Crime:** While not all criminals have ASPD, and not all people with ASPD are criminals, the disorder is **highly prevalent** in prison populations. The core traits of impulsivity, aggression, and a lack of empathy or remorse are a potent recipe for a life of crime.
-
 ---
 
 ## V. Mental Disorders and the Law
@@ -111,6 +69,46 @@ The criminal justice system intersects with the field of mental health in two ke
     - A successful insanity defense is very rare and results in the person being committed to a psychiatric hospital, not set free.
 
 ---
+
+## Introduction
+
+**Human Behavior** refers to the full range of actions and mannerisms exhibited by individuals. While most behavior falls within a "normal" range, **Abnormal Behavior** deviates from this norm in a way that is distressing, disabling, or puts the individual or others at risk. The study of abnormal behavior and mental disorders is a key part of **Psychology** and has significant relevance to Criminology. Understanding these conditions can help explain certain types of criminal behavior and is essential for the legal concepts of competency and the insanity defense. This module provides a basic overview of abnormal behavior and the major categories of mental disorders.
+
+### Key Learning Objectives:
+- Define abnormal behavior and the "4 D's" used to identify it.
+- Understand the purpose of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5).
+- Identify the major categories of mental disorders, such as anxiety, mood, and psychotic disorders.
+- Explain the characteristics of Antisocial Personality Disorder and its link to criminality.
+
+
+## II. Classifying Mental Disorders: The DSM-5
+
+To diagnose and study mental disorders in a systematic way, mental health professionals use a standard classification manual.
+
+- **DSM-5 (Diagnostic and Statistical Manual of Mental Disorders, 5th Edition):** Published by the American Psychiatric Association, the DSM-5 is the standard manual used in the United States and much of the world (including the Philippines) to classify and diagnose mental disorders.
+- **Purpose:**
+    - To provide a common language for clinicians to communicate about their patients.
+    - To present clear, descriptive criteria for every mental disorder to ensure that diagnoses are reliable and consistent.
+- **Important Note:** The DSM-5 describes the symptoms of disorders; it does **not** describe their causes or recommend treatments.
+
+
+## IV. The Criminologist's Focus: Antisocial Personality Disorder
+
+Of all the mental disorders, the one most closely associated with criminality is **Antisocial Personality Disorder (ASPD)**, found in Cluster B.
+
+- **Core Feature:** ASPD is characterized by a pervasive pattern of disregard for and violation of the rights of others. This is the clinical diagnosis that most closely corresponds to the concept of **psychopathy** or **sociopathy**.
+- **DSM-5 Diagnostic Criteria (Abridged):** A pattern of behavior since age 15, indicated by three or more of the following:
+    - Failure to conform to social norms with respect to lawful behaviors (repeatedly performing acts that are grounds for arrest).
+    - Deceitfulness (repeated lying, use of aliases, conning others).
+    - Impulsivity or failure to plan ahead.
+    - Irritability and aggressiveness (repeated physical fights or assaults).
+    - Reckless disregard for the safety of self or others.
+    - Consistent irresponsibility (failure to sustain work or honor financial obligations).
+    - **Lack of remorse** (being indifferent to or rationalizing having hurt, mistreated, or stolen from another).
+- **Important Note:** A person cannot be diagnosed with ASPD until they are 18 years old, but they must have shown evidence of a similar pattern (Conduct Disorder) before age 15.
+
+**ASPD and Crime:** While not all criminals have ASPD, and not all people with ASPD are criminals, the disorder is **highly prevalent** in prison populations. The core traits of impulsivity, aggression, and a lack of empathy or remorse are a potent recipe for a life of crime.
+
 
 ## Conclusion
 

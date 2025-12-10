@@ -2,20 +2,6 @@
 title: 'Module 10.11: Therapeutic Community & Drug Rehabilitation'
 description: 'A detailed look at the Therapeutic Community (TC) modality as the primary model for treating substance abuse and managing behavior in Philippine correctional facilities.'
 ---
-
-# Module 10.11: Therapeutic Community & Drug Rehabilitation
-
-## Introduction
-
-A significant portion of the inmate population in the Philippines is incarcerated for drug-related offenses, and many more suffer from substance abuse disorders. Addressing this problem is a cornerstone of modern corrections. The primary treatment model used by both the Bureau of Jail Management and Penology (BJMP) and the Bureau of Corrections (BuCor) is the **Therapeutic Community (TC) Modality**. This module explores the philosophy, structure, and methods of the TC as a tool for drug rehabilitation and behavioral change within a correctional setting.
-
-### Key Learning Objectives:
-- Define the Therapeutic Community (TC) modality.
-- Understand the core philosophy of the TC model ("Right Living").
-- Identify the key elements and activities of a TC program.
-- Explain the role of the "community as the primary therapist."
-- Understand the hierarchical structure and stages of a TC program.
-
 ---
 
 ## I. What is the Therapeutic Community (TC) Modality?
@@ -25,14 +11,6 @@ A significant portion of the inmate population in the Philippines is incarcerate
 - **Core Philosophy:** The TC philosophy can be summed up in the phrase **"Right Living."** It holds that addiction is not the core problem but is a **symptom** of a larger problem, such as negative thinking patterns, poor impulse control, and a lack of positive values. The TC seeks to create a new, pro-social value system in the individual.
 
 ---
-
-## II. The Community as Therapist
-
-The central and most unique feature of the TC model is the principle that the **community itself is the main therapist**.
-- **Peer-led Healing:** While there are professional staff (psychologists, social workers), the day-to-day work of rehabilitation is done by the residents themselves.
-- **"Each one, teach one":** More senior members of the community serve as role models and guides for newer members.
-- **Peer Confrontation:** The community operates on a system of mutual and constant feedback. Residents are expected to confront each other's negative behaviors and attitudes in a direct but constructive way. This peer pressure is a powerful tool for change.
-
 ---
 
 ## III. Key Elements and Activities of a TC Program
@@ -73,6 +51,33 @@ The TC operates on a set of core beliefs that are constantly repeated and reinfo
 - **"No free lunch."** (Everything, including respect and privileges, must be earned).
 
 ---
+---
+
+## V. TC in the Philippine Correctional System
+
+- **BJMP:** The BJMP has adopted the TC modality as its primary program for managing all inmates, not just drug offenders. The "Therapeutic Community Modality Program" is a cornerstone of the BJMP's Inmate Welfare and Development efforts.
+- **BuCor:** BuCor also operates TC programs, particularly for inmates with a history of substance abuse.
+- **DOH-Accredited Treatment Centers:** For individuals who are ordered by a court into mandatory drug rehabilitation (under RA 9165), they are sent to residential treatment and rehabilitation centers accredited by the Department of Health, most of which also use the TC model.
+
+---
+
+A significant portion of the inmate population in the Philippines is incarcerated for drug-related offenses, and many more suffer from substance abuse disorders. Addressing this problem is a cornerstone of modern corrections. The primary treatment model used by both the Bureau of Jail Management and Penology (BJMP) and the Bureau of Corrections (BuCor) is the **Therapeutic Community (TC) Modality**. This module explores the philosophy, structure, and methods of the TC as a tool for drug rehabilitation and behavioral change within a correctional setting.
+
+### Key Learning Objectives:
+- Define the Therapeutic Community (TC) modality.
+- Understand the core philosophy of the TC model ("Right Living").
+- Identify the key elements and activities of a TC program.
+- Explain the role of the "community as the primary therapist."
+- Understand the hierarchical structure and stages of a TC program.
+
+
+## II. The Community as Therapist
+
+The central and most unique feature of the TC model is the principle that the **community itself is the main therapist**.
+- **Peer-led Healing:** While there are professional staff (psychologists, social workers), the day-to-day work of rehabilitation is done by the residents themselves.
+- **"Each one, teach one":** More senior members of the community serve as role models and guides for newer members.
+- **Peer Confrontation:** The community operates on a system of mutual and constant feedback. Residents are expected to confront each other's negative behaviors and attitudes in a direct but constructive way. This peer pressure is a powerful tool for change.
+
 
 ## IV. The Stages of Treatment in a TC Program
 
@@ -90,15 +95,6 @@ A resident's journey through a TC program typically follows several stages:
 4.  **Aftercare:**
     - After release, the individual is encouraged to continue participating in support groups (like Narcotics Anonymous) and to maintain contact with the TC program to support their long-term recovery.
 
----
-
-## V. TC in the Philippine Correctional System
-
-- **BJMP:** The BJMP has adopted the TC modality as its primary program for managing all inmates, not just drug offenders. The "Therapeutic Community Modality Program" is a cornerstone of the BJMP's Inmate Welfare and Development efforts.
-- **BuCor:** BuCor also operates TC programs, particularly for inmates with a history of substance abuse.
-- **DOH-Accredited Treatment Centers:** For individuals who are ordered by a court into mandatory drug rehabilitation (under RA 9165), they are sent to residential treatment and rehabilitation centers accredited by the Department of Health, most of which also use the TC model.
-
----
 
 ## Conclusion
 

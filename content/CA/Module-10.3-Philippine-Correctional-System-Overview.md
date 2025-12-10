@@ -2,19 +2,6 @@
 title: 'Module 10.3: Philippine Correctional System Overview'
 description: 'An overview of the structure of the Philippine Correctional System, outlining the key agencies responsible for managing jails and prisons.'
 ---
-
-# Module 10.3: Philippine Correctional System Overview
-
-## Introduction
-
-The Philippine Correctional System is a complex network of agencies and institutions responsible for the custody, supervision, and rehabilitation of persons in conflict with the law. It is broadly divided into two main components: **institutional corrections** (jails and prisons) and **non-institutional corrections** (probation, parole, and other community-based programs). This module provides a high-level overview of the correctional system, identifying the key government agencies and their respective jurisdictions.
-
-### Key Learning Objectives:
-- Identify the three main government departments responsible for corrections in the Philippines.
-- Differentiate between a jail and a prison in the Philippine context.
-- Identify the three primary agencies involved in institutional corrections (BuCor, BJMP, Provincial Jails).
-- Identify the primary agencies involved in non-institutional corrections (PPA, BPP).
-
 ---
 
 ## I. The Three Departments of Corrections
@@ -26,6 +13,36 @@ The correctional system in the Philippines is not managed by a single entity. In
 3.  **The Department of Social Welfare and Development (DSWD):** Responsible for the care and rehabilitation of juvenile offenders.
 
 ---
+| :--- | :--- | :--- | :--- |
+| **BuCor** | DOJ | National Prisons | Sentenced to **more than 3 years**. |
+| **BJMP** | DILG | City, Municipal, District Jails | Awaiting trial, or sentenced to **3 years or less**. |
+| **Provincial Jails**| Provincial Gov't | Provincial Jails | Awaiting trial, or sentenced to **3 years or less**. |
+
+---
+---
+
+## IV. The Overall Structure: A Fragmented System
+
+As the overview shows, the Philippine correctional system is highly fragmented.
+- The responsibility for adults is split between the DOJ (for prisons and community supervision) and the DILG/Provincial Governments (for jails).
+- The responsibility for juveniles is handled by the DSWD.
+- This fragmentation can lead to challenges in coordination, a lack of uniform standards between the jail and prison systems, and difficulties in implementing a cohesive, long-term correctional policy.
+
+**The "Corrections Pillar":**
+Together, these agencies form the fifth and final pillar of the Philippine Criminal Justice System, following Law Enforcement, Prosecution, the Courts, and the Community.
+
+---
+
+## Introduction
+
+The Philippine Correctional System is a complex network of agencies and institutions responsible for the custody, supervision, and rehabilitation of persons in conflict with the law. It is broadly divided into two main components: **institutional corrections** (jails and prisons) and **non-institutional corrections** (probation, parole, and other community-based programs). This module provides a high-level overview of the correctional system, identifying the key government agencies and their respective jurisdictions.
+
+### Key Learning Objectives:
+- Identify the three main government departments responsible for corrections in the Philippines.
+- Differentiate between a jail and a prison in the Philippine context.
+- Identify the three primary agencies involved in institutional corrections (BuCor, BJMP, Provincial Jails).
+- Identify the primary agencies involved in non-institutional corrections (PPA, BPP).
+
 
 ## II. Institutional Corrections: Jails vs. Prisons
 
@@ -63,12 +80,6 @@ There are three main agencies that manage the country's jails and prisons:
 
 **Summary of Institutional Agencies**
 | Agency | Department | Manages | Inmate Population |
-| :--- | :--- | :--- | :--- |
-| **BuCor** | DOJ | National Prisons | Sentenced to **more than 3 years**. |
-| **BJMP** | DILG | City, Municipal, District Jails | Awaiting trial, or sentenced to **3 years or less**. |
-| **Provincial Jails**| Provincial Gov't | Provincial Jails | Awaiting trial, or sentenced to **3 years or less**. |
-
----
 
 ## III. Non-Institutional Corrections (Community-Based)
 
@@ -92,19 +103,6 @@ This branch of corrections focuses on supervising offenders in the community, as
 3.  **Department of Social Welfare and Development (DSWD):**
     - **Mandate:** The DSWD is responsible for the supervision of children in conflict with the law who are on suspended sentence, probation, or who have been released on recognizance. It manages the "Bahay Pag-asa" youth care facilities.
 
----
-
-## IV. The Overall Structure: A Fragmented System
-
-As the overview shows, the Philippine correctional system is highly fragmented.
-- The responsibility for adults is split between the DOJ (for prisons and community supervision) and the DILG/Provincial Governments (for jails).
-- The responsibility for juveniles is handled by the DSWD.
-- This fragmentation can lead to challenges in coordination, a lack of uniform standards between the jail and prison systems, and difficulties in implementing a cohesive, long-term correctional policy.
-
-**The "Corrections Pillar":**
-Together, these agencies form the fifth and final pillar of the Philippine Criminal Justice System, following Law Enforcement, Prosecution, the Courts, and the Community.
-
----
 
 ## Conclusion
 

@@ -2,20 +2,6 @@
 title: 'Module 6.5: Principles of Police Organization'
 description: 'An exploration of the fundamental principles that govern the structuring and management of police organizations, including Unity of Command, Span of Control, and Delegation of Authority.'
 ---
-
-# Module 6.5: Principles of Police Organization
-
-## Introduction
-
-An effective police organization is not created by accident. It is built upon a set of time-tested principles of management and organization. These principles provide a blueprint for structuring the force, distributing tasks, and ensuring clear lines of authority and communication. This module delves into the core principles of police organization, such as Unity of Command, Span of Control, and Delegation of Authority. Understanding these concepts is crucial for diagnosing organizational problems and for building efficient and effective law enforcement agencies.
-
-### Key Learning Objectives:
-- Define and explain the 10 key principles of police organization.
-- Differentiate between Unity of Command and Chain of Command.
-- Analyze the factors that determine an effective Span of Control.
-- Understand the importance of Delegation of Authority in a large organization.
-- Explain how these principles contribute to organizational effectiveness.
-
 ---
 
 ## I. Unity of Command
@@ -35,6 +21,42 @@ While related, these two concepts are distinct:
 The chain of command is the structure; unity of command is the rule that makes the structure work smoothly.
 
 ---
+---
+
+## III. Delegation of Authority
+
+**Definition:** Delegation is the process of entrusting responsibility and authority to subordinates and creating accountability for results.
+
+### A. The Three Elements of Delegation
+1.  **Assignment of Responsibility:** The supervisor assigns a task or duty to the subordinate.
+2.  **Granting of Authority:** The supervisor gives the subordinate the necessary power and resources to complete the task.
+3.  **Creation of Accountability:** The subordinate accepts the responsibility and is now accountable to the supervisor for the results.
+
+**Important Principle:** A supervisor can delegate authority, but **cannot delegate responsibility**. The ultimate responsibility for the outcome still rests with the supervisor. If a patrolman makes a mistake, his sergeant is also held accountable.
+
+---
+| :--- | :--- |
+| **Unity of Command** | One subordinate, one boss. |
+| **Span of Control** | Number of people one person can effectively supervise. |
+| **Delegation of Authority** | Entrusting tasks, authority, and accountability. |
+| **Hierarchy** | Clear, vertical levels of authority. |
+| **Specialization** | Dividing work based on expertise. |
+| **Parity of Authority & Responsibility**| Authority must equal responsibility. |
+| **Absoluteness of Responsibility** | Superiors are responsible for subordinates' work. |
+
+---
+
+## Introduction
+
+An effective police organization is not created by accident. It is built upon a set of time-tested principles of management and organization. These principles provide a blueprint for structuring the force, distributing tasks, and ensuring clear lines of authority and communication. This module delves into the core principles of police organization, such as Unity of Command, Span of Control, and Delegation of Authority. Understanding these concepts is crucial for diagnosing organizational problems and for building efficient and effective law enforcement agencies.
+
+### Key Learning Objectives:
+- Define and explain the 10 key principles of police organization.
+- Differentiate between Unity of Command and Chain of Command.
+- Analyze the factors that determine an effective Span of Control.
+- Understand the importance of Delegation of Authority in a large organization.
+- Explain how these principles contribute to organizational effectiveness.
+
 
 ## II. Span of Control
 
@@ -56,20 +78,6 @@ There is no single perfect number for a span of control. It depends on several f
 
 **Board Exam Tip:** Situational questions often test Span of Control. For example, "A police captain in charge of a highly specialized and geographically scattered detective unit should have a (wide/narrow) span of control." The answer is narrow.
 
----
-
-## III. Delegation of Authority
-
-**Definition:** Delegation is the process of entrusting responsibility and authority to subordinates and creating accountability for results.
-
-### A. The Three Elements of Delegation
-1.  **Assignment of Responsibility:** The supervisor assigns a task or duty to the subordinate.
-2.  **Granting of Authority:** The supervisor gives the subordinate the necessary power and resources to complete the task.
-3.  **Creation of Accountability:** The subordinate accepts the responsibility and is now accountable to the supervisor for the results.
-
-**Important Principle:** A supervisor can delegate authority, but **cannot delegate responsibility**. The ultimate responsibility for the outcome still rests with the supervisor. If a patrolman makes a mistake, his sergeant is also held accountable.
-
----
 
 ## IV. Other Key Principles of Organization
 
@@ -96,16 +104,6 @@ There should be a proper balance in the application of all these principles. For
 
 **Summary Table of Key Principles**
 | Principle | Core Idea |
-| :--- | :--- |
-| **Unity of Command** | One subordinate, one boss. |
-| **Span of Control** | Number of people one person can effectively supervise. |
-| **Delegation of Authority** | Entrusting tasks, authority, and accountability. |
-| **Hierarchy** | Clear, vertical levels of authority. |
-| **Specialization** | Dividing work based on expertise. |
-| **Parity of Authority & Responsibility**| Authority must equal responsibility. |
-| **Absoluteness of Responsibility** | Superiors are responsible for subordinates' work. |
-
----
 
 ## Conclusion
 

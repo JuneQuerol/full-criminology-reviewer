@@ -2,20 +2,6 @@
 title: 'Module 7.3: Philippine Crime Laboratories (PNP & NBI)'
 description: 'An overview of the structure, functions, and services of the two primary forensic science providers in the Philippines: the PNP Forensic Group and the NBI Forensic and Scientific Research Service.'
 ---
-
-# Module 7.3: Philippine Crime Laboratories
-
-## Introduction
-
-In the Philippines, the application of forensic science to criminal investigation is primarily handled by two national government agencies: the **Philippine National Police (PNP) Forensic Group** and the **National Bureau of Investigation (NBI) Forensic and Scientific Research Service**. While both perform scientific analysis of physical evidence, they have distinct jurisdictions, histories, and organizational structures. This module will provide an overview of these two key institutions, detailing their functions, services, and roles within the Philippine criminal justice system.
-
-### Key Learning Objectives:
-- Identify the two main government entities providing forensic services in the Philippines.
-- Describe the mission and functions of the PNP Forensic Group.
-- Describe the mission and functions of the NBI's forensic divisions.
-- Understand the process for requesting forensic examination services from these agencies.
-- Differentiate the roles of the PNP and NBI in the context of criminal investigation.
-
 ---
 
 ## I. The Philippine National Police (PNP) Forensic Group
@@ -60,6 +46,29 @@ The PNP-FG is a full-service laboratory offering a wide range of examinations:
     - Documents crime scenes and evidence.
 
 ---
+---
+
+## III. Comparing PNP-FG and NBI-FSRS
+
+| Feature | PNP Forensic Group (PNP-FG) | NBI Forensic & Scientific Research Service (NBI-FSRS) |
+| :--- | :--- | :--- |
+---
+
+## Conclusion
+
+The PNP Forensic Group and the NBI Forensic and Scientific Research Service are the two pillars of forensic science in the Philippines. The PNP-FG provides the broad, day-to-day scientific support needed by the country's primary law enforcement agency. The NBI-FSRS serves as a national specialty center, tackling complex cases and providing an independent forensic voice within the Department of Justice. Together, they ensure that the Philippine criminal justice system has access to the scientific tools necessary to uncover the truth and deliver justice.
+
+## Introduction
+
+In the Philippines, the application of forensic science to criminal investigation is primarily handled by two national government agencies: the **Philippine National Police (PNP) Forensic Group** and the **National Bureau of Investigation (NBI) Forensic and Scientific Research Service**. While both perform scientific analysis of physical evidence, they have distinct jurisdictions, histories, and organizational structures. This module will provide an overview of these two key institutions, detailing their functions, services, and roles within the Philippine criminal justice system.
+
+### Key Learning Objectives:
+- Identify the two main government entities providing forensic services in the Philippines.
+- Describe the mission and functions of the PNP Forensic Group.
+- Describe the mission and functions of the NBI's forensic divisions.
+- Understand the process for requesting forensic examination services from these agencies.
+- Differentiate the roles of the PNP and NBI in the context of criminal investigation.
+
 
 ## II. The National Bureau of Investigation (NBI) Forensic and Scientific Research Service
 
@@ -88,12 +97,6 @@ The NBI's forensic services are organized into several specialized divisions:
 6.  **Forensic Photography and Publication Division:**
     - Provides photographic documentation and prepares visual aids for court presentations.
 
----
-
-## III. Comparing PNP-FG and NBI-FSRS
-
-| Feature | PNP Forensic Group (PNP-FG) | NBI Forensic & Scientific Research Service (NBI-FSRS) |
-| :--- | :--- | :--- |
 | **Parent Agency** | Philippine National Police (under DILG) | National Bureau of Investigation (under DOJ) |
 | **Primary Client** | PNP units nationwide. | NBI agents, DOJ, Courts, other agencies, the public. |
 | **Jurisdiction** | Primarily criminal cases investigated by the PNP. | Criminal and civil cases; often high-profile, complex, or cases requiring an independent examination. |
@@ -107,9 +110,3 @@ The NBI's forensic services are organized into several specialized divisions:
 3.  **Laboratory Examination:** The appropriate division of the lab analyzes the evidence.
 4.  **Issuance of Report:** The laboratory issues a formal, written report of its findings (e.g., Chemistry Report, Ballistics Report).
 5.  **Court Testimony:** The examiner who conducted the analysis may be called to testify in court as an expert witness.
-
----
-
-## Conclusion
-
-The PNP Forensic Group and the NBI Forensic and Scientific Research Service are the two pillars of forensic science in the Philippines. The PNP-FG provides the broad, day-to-day scientific support needed by the country's primary law enforcement agency. The NBI-FSRS serves as a national specialty center, tackling complex cases and providing an independent forensic voice within the Department of Justice. Together, they ensure that the Philippine criminal justice system has access to the scientific tools necessary to uncover the truth and deliver justice.

@@ -2,20 +2,6 @@
 title: 'Module 6.10: Traffic Management & Crime Prevention'
 description: 'An examination of two critical police functions: traffic management, including enforcement and accident investigation, and the principles and strategies of modern crime prevention.'
 ---
-
-# Module 6.10: Traffic Management & Crime Prevention
-
-## Introduction
-
-Beyond traditional patrol and response, two of the most critical and visible functions of modern policing are traffic management and crime prevention. Traffic management ensures the safe and orderly flow of people and goods, a vital component of a functioning society. Crime prevention, the ultimate goal of policing, involves proactive strategies to stop crime before it happens. This module explores the core components of police traffic management and introduces the foundational concepts and models of crime prevention.
-
-### Key Learning Objectives:
-- Identify the "5 E's" of traffic management.
-- Describe the roles of police in traffic enforcement, direction, and accident investigation.
-- Define crime prevention and explain its importance.
-- Differentiate between the three levels of crime prevention (Primary, Secondary, Tertiary).
-- Understand the principles of Crime Prevention Through Environmental Design (CPTED).
-
 ---
 
 ## I. Police Traffic Management
@@ -52,6 +38,29 @@ Police traffic management is a multi-faceted function aimed at ensuring road saf
 **Board Exam Tip:** Memorize the 5 E's of Traffic Management. Enforcement is the police-centric "E," but they play a role in providing data and input for the others.
 
 ---
+| :--- | :--- | :--- | :--- |
+| **Primary** | General Public / Environment | Stop crime before it starts | CPTED, Public Education |
+| **Secondary**| At-Risk Individuals / Groups | Divert from crime | Youth mentorship |
+| **Tertiary** | Known Offenders | Prevent re-offending | Rehabilitation, Parole |
+
+---
+---
+
+## Conclusion
+
+Traffic management and crime prevention are two sides of the same public safety coin. Effective traffic management saves lives, reduces economic loss, and contributes to a sense of order. Crime prevention, particularly at the primary level, seeks to create communities where crime is less likely to occur. Both functions require a proactive mindset and a collaborative approach, moving beyond simple enforcement to encompass education, engineering, and environmental design.
+
+## Introduction
+
+Beyond traditional patrol and response, two of the most critical and visible functions of modern policing are traffic management and crime prevention. Traffic management ensures the safe and orderly flow of people and goods, a vital component of a functioning society. Crime prevention, the ultimate goal of policing, involves proactive strategies to stop crime before it happens. This module explores the core components of police traffic management and introduces the foundational concepts and models of crime prevention.
+
+### Key Learning Objectives:
+- Identify the "5 E's" of traffic management.
+- Describe the roles of police in traffic enforcement, direction, and accident investigation.
+- Define crime prevention and explain its importance.
+- Differentiate between the three levels of crime prevention (Primary, Secondary, Tertiary).
+- Understand the principles of Crime Prevention Through Environmental Design (CPTED).
+
 
 ## II. Crime Prevention
 
@@ -86,12 +95,6 @@ Police traffic management is a multi-faceted function aimed at ensuring road saf
 
 **Summary of Crime Prevention Levels**
 | Level | Target | Goal | Example |
-| :--- | :--- | :--- | :--- |
-| **Primary** | General Public / Environment | Stop crime before it starts | CPTED, Public Education |
-| **Secondary**| At-Risk Individuals / Groups | Divert from crime | Youth mentorship |
-| **Tertiary** | Known Offenders | Prevent re-offending | Rehabilitation, Parole |
-
----
 
 ## III. Crime Prevention Through Environmental Design (CPTED)
 
@@ -116,9 +119,3 @@ CPTED (pronounced "sep-ted") is a key primary prevention strategy. It is based o
     - **Examples:** Promptly repairing vandalism, keeping parks clean, ensuring all lights are working.
 
 **Board Exam Tip:** CPTED is a very practical and testable concept. Be able to define its core principles and provide real-world examples for each.
-
----
-
-## Conclusion
-
-Traffic management and crime prevention are two sides of the same public safety coin. Effective traffic management saves lives, reduces economic loss, and contributes to a sense of order. Crime prevention, particularly at the primary level, seeks to create communities where crime is less likely to occur. Both functions require a proactive mindset and a collaborative approach, moving beyond simple enforcement to encompass education, engineering, and environmental design.

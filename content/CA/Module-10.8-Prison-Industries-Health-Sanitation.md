@@ -2,19 +2,6 @@
 title: 'Module 10.8: Prison Industries, Health & Sanitation'
 description: 'An exploration of two crucial aspects of prison management: the role of prison industries and the importance of maintaining proper health and sanitation standards.'
 ---
-
-# Module 10.8: Prison Industries, Health & Sanitation
-
-## Introduction
-
-The effective management of a correctional facility involves much more than just security. It requires attending to the total well-being of the inmate population and the overall functioning of the institution as a small city. This module focuses on two vital, practical aspects of prison administration: **Prison Industries**, which provide work and training for inmates, and **Health and Sanitation**, which are essential for preventing disease and maintaining a humane environment.
-
-### Key Learning Objectives:
-- Understand the dual purpose of prison industries.
-- Identify different models of prison industry.
-- Describe the key components of correctional healthcare.
-- Explain the importance of sanitation in a correctional setting and its link to security.
-
 ---
 
 ## I. Prison Industries
@@ -40,29 +27,6 @@ The effective management of a correctional facility involves much more than just
 In the Philippines, the prison industry program is managed by BuCor and is a key part of its rehabilitative mandate.
 
 ---
-
-## II. Correctional Health and Sanitation
-
-The provision of healthcare is a fundamental right of every inmate. Moreover, maintaining a clean and sanitary environment is not just a matter of humane treatment; it is a critical component of institutional security and control.
-
-### A. Correctional Healthcare
-Prisons and jails are required by law to provide for the "serious medical needs" of their inmates. A comprehensive correctional health service includes:
-
-1.  **Intake Screening:** Every inmate receives a medical and mental health screening upon admission to identify any immediate health problems, communicable diseases, or suicide risk.
-2.  **Basic Medical Care ("Sick Call"):** A system that allows inmates to request and receive routine medical care for illnesses and injuries.
-3.  **Emergency Medical Services:** The ability to provide 24/7 emergency medical response.
-4.  **Dental Care:** Providing basic dental services.
-5.  **Mental Health Services:** Providing access to psychologists and psychiatrists for counseling, therapy, and management of mental illness.
-6.  **Management of Chronic Diseases:** Providing ongoing care for inmates with conditions like diabetes, hypertension, and asthma.
-
-### B. The Challenge of Communicable Diseases
-Correctional facilities, especially those that are overcrowded, are high-risk environments for the spread of communicable diseases.
-- **Tuberculosis (TB):** A major health problem in Philippine jails and prisons. Requires screening and a strict treatment regimen.
-- **HIV/AIDS, Hepatitis C:** Spread through shared needles (in the case of drug use) and unprotected sexual contact.
-- **Skin Diseases (Scabies):** Common in overcrowded and unhygienic conditions.
-
-Effective management requires a robust system of screening, testing, treatment, and isolation when necessary.
-
 ---
 
 ## III. Sanitation and Hygiene
@@ -86,6 +50,40 @@ Proper sanitation is essential for preventing disease and maintaining order. The
 - Conversely, holding inmates to a high standard of cleanliness reinforces discipline and a sense of order.
 
 ---
+
+## Introduction
+
+The effective management of a correctional facility involves much more than just security. It requires attending to the total well-being of the inmate population and the overall functioning of the institution as a small city. This module focuses on two vital, practical aspects of prison administration: **Prison Industries**, which provide work and training for inmates, and **Health and Sanitation**, which are essential for preventing disease and maintaining a humane environment.
+
+### Key Learning Objectives:
+- Understand the dual purpose of prison industries.
+- Identify different models of prison industry.
+- Describe the key components of correctional healthcare.
+- Explain the importance of sanitation in a correctional setting and its link to security.
+
+
+## II. Correctional Health and Sanitation
+
+The provision of healthcare is a fundamental right of every inmate. Moreover, maintaining a clean and sanitary environment is not just a matter of humane treatment; it is a critical component of institutional security and control.
+
+### A. Correctional Healthcare
+Prisons and jails are required by law to provide for the "serious medical needs" of their inmates. A comprehensive correctional health service includes:
+
+1.  **Intake Screening:** Every inmate receives a medical and mental health screening upon admission to identify any immediate health problems, communicable diseases, or suicide risk.
+2.  **Basic Medical Care ("Sick Call"):** A system that allows inmates to request and receive routine medical care for illnesses and injuries.
+3.  **Emergency Medical Services:** The ability to provide 24/7 emergency medical response.
+4.  **Dental Care:** Providing basic dental services.
+5.  **Mental Health Services:** Providing access to psychologists and psychiatrists for counseling, therapy, and management of mental illness.
+6.  **Management of Chronic Diseases:** Providing ongoing care for inmates with conditions like diabetes, hypertension, and asthma.
+
+### B. The Challenge of Communicable Diseases
+Correctional facilities, especially those that are overcrowded, are high-risk environments for the spread of communicable diseases.
+- **Tuberculosis (TB):** A major health problem in Philippine jails and prisons. Requires screening and a strict treatment regimen.
+- **HIV/AIDS, Hepatitis C:** Spread through shared needles (in the case of drug use) and unprotected sexual contact.
+- **Skin Diseases (Scabies):** Common in overcrowded and unhygienic conditions.
+
+Effective management requires a robust system of screening, testing, treatment, and isolation when necessary.
+
 
 ## Conclusion
 

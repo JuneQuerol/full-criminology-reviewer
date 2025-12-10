@@ -2,20 +2,6 @@
 title: 'Module 8.4: Crime Scene Investigation Procedures'
 description: 'A step-by-step guide to the systematic process of crime scene investigation, from the initial response to the final processing of the scene.'
 ---
-
-# Module 8.4: Crime Scene Investigation Procedures
-
-## Introduction
-
-The crime scene is the most important and information-rich area in any criminal investigation. It is the place where the crime occurred and where the most valuable physical evidence is likely to be found. **Crime Scene Investigation (CSI)** is the systematic process of searching for, documenting, collecting, and preserving physical evidence. The manner in which the crime scene is handled from the very beginning can determine the success or failure of the entire investigation. This module outlines the standard procedures followed by law enforcement and crime scene investigators.
-
-### Key Learning Objectives:
-- Identify the first responder's duties at a crime scene.
-- Understand the importance of securing the crime scene.
-- Describe the different types of crime scene search patterns.
-- Explain the process of documenting the crime scene (notes, photos, sketches).
-- Outline the general procedure for handling a crime scene from arrival to departure.
-
 ---
 
 ## I. The First Responder's Duties
@@ -32,16 +18,6 @@ The first police officer to arrive at a crime scene is the **first responder**. 
 **Board Exam Tip:** The first responder's most important *investigative* duty is to **secure the scene**. While life-saving is the top overall priority, securing the scene is what protects the evidence.
 
 ---
-
-## II. Securing the Crime Scene
-
-- **Purpose:** To prevent the contamination, destruction, or removal of physical evidence.
-- **Method:**
-    - **Establish a Perimeter:** Use crime scene tape ("POLICE LINE - DO NOT CROSS"), vehicles, or other barriers to create a clear boundary. The perimeter should always be larger than the actual scene appears to be.
-    - **Control Entry and Exit:** Establish a single point of entry and exit.
-    - **Maintain a Crime Scene Log:** Everyone who enters or leaves the secured area must be logged in and out. This is crucial for maintaining the chain of custody for the scene itself.
-    - **Deny Access:** Only authorized personnel (investigators, crime scene specialists, medical examiner) should be allowed inside the perimeter.
-
 ---
 
 ## III. Crime Scene Search Patterns
@@ -72,17 +48,6 @@ Once the scene is secure and documented, a systematic search for evidence is con
 **Board Exam Tip:** The **grid search** is considered the most thorough search pattern.
 
 ---
-
-## IV. Documenting the Crime Scene
-
-Before any evidence is collected, the scene must be thoroughly documented in its original condition. This is done through three methods: notes, photography, and sketches.
-
-1.  **Notes:** A detailed, running narrative of everything the investigator observes and does. Notes should be taken in ink, and any errors should be crossed out with a single line and initialed.
-2.  **Photography:** Creating a complete and accurate visual record of the scene and evidence. This involves taking overall, mid-range, and close-up photos (as covered in Module 7.13).
-3.  **Sketches:** A hand-drawn diagram that shows the layout of the scene and the location of evidence and other important features. The sketch provides accurate measurements that photos cannot.
-
-These three methods work together. The **notes** explain the scene, the **photos** show the scene, and the **sketch** provides the measurements and layout of the scene.
-
 ---
 
 ## V. Collection and Preservation of Evidence
@@ -103,6 +68,44 @@ This is the final stage of crime scene processing.
 4.  **Chain of Custody:** The package must be sealed with evidence tape, and the collecting officer must sign or initial across the tape. This begins the **Chain of Custody**—the chronological written record of everyone who has had possession of the evidence from the moment it was collected until it is presented in court.
 
 ---
+---
+
+## Conclusion
+
+Crime Scene Investigation is a meticulous and destructive process. It is meticulous because every step must be done systematically and thoroughly. It is destructive because every action—from searching for evidence to collecting it—alters the original state of the scene. Therefore, it is essential that the process is handled with the utmost care and professionalism. A well-managed crime scene provides the foundation of objective evidence upon which a successful prosecution can be built. A poorly managed scene can result in the loss of critical evidence and the potential collapse of the entire case.
+
+## Introduction
+
+The crime scene is the most important and information-rich area in any criminal investigation. It is the place where the crime occurred and where the most valuable physical evidence is likely to be found. **Crime Scene Investigation (CSI)** is the systematic process of searching for, documenting, collecting, and preserving physical evidence. The manner in which the crime scene is handled from the very beginning can determine the success or failure of the entire investigation. This module outlines the standard procedures followed by law enforcement and crime scene investigators.
+
+### Key Learning Objectives:
+- Identify the first responder's duties at a crime scene.
+- Understand the importance of securing the crime scene.
+- Describe the different types of crime scene search patterns.
+- Explain the process of documenting the crime scene (notes, photos, sketches).
+- Outline the general procedure for handling a crime scene from arrival to departure.
+
+
+## II. Securing the Crime Scene
+
+- **Purpose:** To prevent the contamination, destruction, or removal of physical evidence.
+- **Method:**
+    - **Establish a Perimeter:** Use crime scene tape ("POLICE LINE - DO NOT CROSS"), vehicles, or other barriers to create a clear boundary. The perimeter should always be larger than the actual scene appears to be.
+    - **Control Entry and Exit:** Establish a single point of entry and exit.
+    - **Maintain a Crime Scene Log:** Everyone who enters or leaves the secured area must be logged in and out. This is crucial for maintaining the chain of custody for the scene itself.
+    - **Deny Access:** Only authorized personnel (investigators, crime scene specialists, medical examiner) should be allowed inside the perimeter.
+
+
+## IV. Documenting the Crime Scene
+
+Before any evidence is collected, the scene must be thoroughly documented in its original condition. This is done through three methods: notes, photography, and sketches.
+
+1.  **Notes:** A detailed, running narrative of everything the investigator observes and does. Notes should be taken in ink, and any errors should be crossed out with a single line and initialed.
+2.  **Photography:** Creating a complete and accurate visual record of the scene and evidence. This involves taking overall, mid-range, and close-up photos (as covered in Module 7.13).
+3.  **Sketches:** A hand-drawn diagram that shows the layout of the scene and the location of evidence and other important features. The sketch provides accurate measurements that photos cannot.
+
+These three methods work together. The **notes** explain the scene, the **photos** show the scene, and the **sketch** provides the measurements and layout of the scene.
+
 
 ## VI. The General Procedure: A Summary
 
@@ -114,9 +117,3 @@ This is the final stage of crime scene processing.
 6.  **Final Walk-Through and Release:** The lead investigator does one final walk-through to ensure nothing has been missed. Once the investigator is satisfied, the scene is formally released.
 
 **Important:** Once a crime scene is released, re-entry may require a new search warrant. The processing must be done correctly the first time.
-
----
-
-## Conclusion
-
-Crime Scene Investigation is a meticulous and destructive process. It is meticulous because every step must be done systematically and thoroughly. It is destructive because every action—from searching for evidence to collecting it—alters the original state of the scene. Therefore, it is essential that the process is handled with the utmost care and professionalism. A well-managed crime scene provides the foundation of objective evidence upon which a successful prosecution can be built. A poorly managed scene can result in the loss of critical evidence and the potential collapse of the entire case.

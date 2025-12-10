@@ -2,20 +2,6 @@
 title: 'Module 9.12: Human Rights in Law Enforcement & Use of Force'
 description: 'An examination of the fundamental principles of human rights as they apply to law enforcement, with a special focus on the legal and ethical standards governing the use of force.'
 ---
-
-# Module 9.12: Human Rights in Law Enforcement & Use of Force
-
-## Introduction
-
-A democratic society is defined by its commitment to protecting the fundamental **Human Rights** of its citizens. Police officers, as agents of the state, have a dual role: they are the primary protectors of these rights, but they also have the potential to be their primary violators. Therefore, a deep understanding of and respect for human rights is an indispensable part of professional policing. This module will cover the basic concepts of human rights and delve into one of the most critical and scrutinized areas of policing: the principles governing the **Use of Force**.
-
-### Key Learning Objectives:
-- Define Human Rights and understand their importance in a democracy.
-- Identify the key constitutional rights that limit police power.
-- Explain the principles of the PNP's Use of Force Continuum.
-- Differentiate between lethal and less-lethal force.
-- Understand the concepts of necessity, proportionality, and accountability in the use of force.
-
 ---
 
 ## I. Human Rights and Policing
@@ -32,6 +18,37 @@ For law enforcement, the Bill of Rights is not just a legal document; it is a se
 A professional police officer must see themselves as a **human rights protector**. Every action they take must be grounded in respect for these fundamental rights.
 
 ---
+---
+
+## III. The Concept of the "Reasonable Officer"
+
+When a use of force incident is reviewed, the central legal question is: "Was the officer's action **objectively reasonable** at that moment?"
+
+- **The Standard:** The reasonableness of a particular use of force must be judged from the **perspective of a reasonable officer on the scene**, rather than with the 20/20 vision of hindsight.
+- **Factors to Consider:** The court must consider the facts and circumstances of the particular case, including:
+    - The severity of the crime at issue.
+    - Whether the suspect poses an immediate threat to the safety of the officers or others.
+    - Whether the suspect is actively resisting arrest or attempting to evade arrest by flight.
+- **Tense, Uncertain, and Rapidly Evolving:** The law recognizes that police officers are often forced to make split-second judgments in circumstances that are tense, uncertain, and rapidly evolving.
+
+---
+---
+
+## Conclusion
+
+The relationship between human rights and law enforcement is the defining feature of a democratic police service. Police officers are the guardians of the rights of all citizens, and their adherence to the rule of law is what separates them from the criminals they pursue. The use of force, in particular, must be guided by a strict ethical and legal framework. The principles of necessity and proportionality, as embodied in the use of force continuum, demand that officers use the minimum force necessary and that lethal force is employed only as a last resort to protect life. By internalizing these principles, police officers can effectively enforce the law while remaining true to their highest calling: to be protectors of the people and their rights.
+
+## Introduction
+
+A democratic society is defined by its commitment to protecting the fundamental **Human Rights** of its citizens. Police officers, as agents of the state, have a dual role: they are the primary protectors of these rights, but they also have the potential to be their primary violators. Therefore, a deep understanding of and respect for human rights is an indispensable part of professional policing. This module will cover the basic concepts of human rights and delve into one of the most critical and scrutinized areas of policing: the principles governing the **Use of Force**.
+
+### Key Learning Objectives:
+- Define Human Rights and understand their importance in a democracy.
+- Identify the key constitutional rights that limit police power.
+- Explain the principles of the PNP's Use of Force Continuum.
+- Differentiate between lethal and less-lethal force.
+- Understand the concepts of necessity, proportionality, and accountability in the use of force.
+
 
 ## II. The Use of Force: A Critical Responsibility
 
@@ -61,27 +78,7 @@ The Philippine National Police follows a "force continuum" model, which illustra
 2.  **Proportionality:** The level of force used must be proportional to the level of threat or resistance faced by the officer. An officer cannot use lethal force against a subject who is only passively resisting.
 3.  **Accountability:** Police officers are accountable for every use of force. Every time force is used, especially lethal force, it must be documented, reported, and reviewed by the officer's superiors to ensure it was justified and within policy.
 
----
-
-## III. The Concept of the "Reasonable Officer"
-
-When a use of force incident is reviewed, the central legal question is: "Was the officer's action **objectively reasonable** at that moment?"
-
-- **The Standard:** The reasonableness of a particular use of force must be judged from the **perspective of a reasonable officer on the scene**, rather than with the 20/20 vision of hindsight.
-- **Factors to Consider:** The court must consider the facts and circumstances of the particular case, including:
-    - The severity of the crime at issue.
-    - Whether the suspect poses an immediate threat to the safety of the officers or others.
-    - Whether the suspect is actively resisting arrest or attempting to evade arrest by flight.
-- **Tense, Uncertain, and Rapidly Evolving:** The law recognizes that police officers are often forced to make split-second judgments in circumstances that are tense, uncertain, and rapidly evolving.
-
----
 
 ## IV. Human Rights and Counter-Terrorism
 
 In the context of counter-terrorism, the state's responsibility to protect its citizens from harm must be balanced with its duty to uphold human rights. Laws like **RA 11479 (The Anti-Terrorism Act of 2020)** grant the state significant powers to surveil, detain, and prosecute suspected terrorists. However, these laws also contain provisions designed to safeguard against abuse and protect the rights of the accused. The challenge for law enforcement is to use these powers effectively to prevent terrorism while ensuring that the fundamental rights guaranteed by the Constitution are not violated.
-
----
-
-## Conclusion
-
-The relationship between human rights and law enforcement is the defining feature of a democratic police service. Police officers are the guardians of the rights of all citizens, and their adherence to the rule of law is what separates them from the criminals they pursue. The use of force, in particular, must be guided by a strict ethical and legal framework. The principles of necessity and proportionality, as embodied in the use of force continuum, demand that officers use the minimum force necessary and that lethal force is employed only as a last resort to protect life. By internalizing these principles, police officers can effectively enforce the law while remaining true to their highest calling: to be protectors of the people and their rights.

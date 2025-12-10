@@ -2,19 +2,6 @@
 title: 'Module 10.10: Executive Clemency & GCTA (RA 10592)'
 description: 'An exploration of the forms of executive clemency available to prisoners and the provisions of the Good Conduct Time Allowance (GCTA) law.'
 ---
-
-# Module 10.10: Executive Clemency & GCTA (RA 10592)
-
-## Introduction
-
-Beyond the judicial processes of trial and sentencing, and the administrative process of parole, there are other legal mechanisms that can modify a prisoner's sentence. These fall into two main categories: **Executive Clemency**, which is an act of grace by the Chief Executive, and **Good Conduct Time Allowance (GCTA)**, which is a statutory privilege earned by the prisoner through good behavior. This module will explain the different forms of executive clemency and detail the provisions of RA 10592, the law that governs GCTA.
-
-### Key Learning Objectives:
-- Define Executive Clemency and identify its legal basis.
-- Differentiate between the forms of clemency: Pardon (Absolute and Conditional), Amnesty, and Commutation of Sentence.
-- Understand the purpose and mechanics of the Good Conduct Time Allowance (GCTA) under RA 10592.
-- Explain the role of the Board of Pardons and Parole in the clemency process.
-
 ---
 
 ## I. Executive Clemency
@@ -49,22 +36,6 @@ Beyond the judicial processes of trial and sentencing, and the administrative pr
     - **Definition:** The temporary postponement or suspension of the execution of a sentence, usually a death sentence. It does not change the sentence but merely delays its implementation.
 
 ---
-
-## II. Good Conduct Time Allowance (GCTA) - RA 10592
-
-While clemency is an act of executive grace, GCTA is a **statutory right** that a prisoner earns through good behavior. It is a sentence reduction privilege.
-
-- **Legal Basis:** **Republic Act No. 10592**, enacted in 2013, amended the Revised Penal Code to increase the amount of GCTA that can be earned and to allow for its application to detention prisoners.
-
-### A. What is GCTA?
-- **Definition:** GCTA is a deduction from a prisoner's sentence for good conduct and for actively participating in rehabilitation programs.
-- **Purpose:** To serve as a primary incentive for good behavior and to encourage inmates to engage in treatment programs.
-- **Who is eligible?** All convicted prisoners in any jail or prison are eligible. The law also allows detention prisoners to earn GCTA.
-
-### B. How GCTA is Calculated
-RA 10592 provides a progressive schedule for GCTA credits. The longer a prisoner serves and maintains good behavior, the more "good time" they earn per month.
-
-| Period of Incarceration | Good Conduct Time Allowance |
 | :--- | :--- |
 | First two years of imprisonment | **20 days** deduction for each month of actual service. |
 | Third to the fifth year | **23 days** deduction for each month. |
@@ -86,6 +57,31 @@ RA 10592 provides a progressive schedule for GCTA credits. The longer a prisoner
 Once granted, a GCTA credit **cannot be revoked**.
 
 ---
+
+Beyond the judicial processes of trial and sentencing, and the administrative process of parole, there are other legal mechanisms that can modify a prisoner's sentence. These fall into two main categories: **Executive Clemency**, which is an act of grace by the Chief Executive, and **Good Conduct Time Allowance (GCTA)**, which is a statutory privilege earned by the prisoner through good behavior. This module will explain the different forms of executive clemency and detail the provisions of RA 10592, the law that governs GCTA.
+
+### Key Learning Objectives:
+- Define Executive Clemency and identify its legal basis.
+- Differentiate between the forms of clemency: Pardon (Absolute and Conditional), Amnesty, and Commutation of Sentence.
+- Understand the purpose and mechanics of the Good Conduct Time Allowance (GCTA) under RA 10592.
+- Explain the role of the Board of Pardons and Parole in the clemency process.
+
+
+## II. Good Conduct Time Allowance (GCTA) - RA 10592
+
+While clemency is an act of executive grace, GCTA is a **statutory right** that a prisoner earns through good behavior. It is a sentence reduction privilege.
+
+- **Legal Basis:** **Republic Act No. 10592**, enacted in 2013, amended the Revised Penal Code to increase the amount of GCTA that can be earned and to allow for its application to detention prisoners.
+
+### A. What is GCTA?
+- **Definition:** GCTA is a deduction from a prisoner's sentence for good conduct and for actively participating in rehabilitation programs.
+- **Purpose:** To serve as a primary incentive for good behavior and to encourage inmates to engage in treatment programs.
+- **Who is eligible?** All convicted prisoners in any jail or prison are eligible. The law also allows detention prisoners to earn GCTA.
+
+### B. How GCTA is Calculated
+RA 10592 provides a progressive schedule for GCTA credits. The longer a prisoner serves and maintains good behavior, the more "good time" they earn per month.
+
+| Period of Incarceration | Good Conduct Time Allowance |
 
 ## Conclusion
 

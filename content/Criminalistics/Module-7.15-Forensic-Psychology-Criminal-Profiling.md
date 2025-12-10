@@ -2,20 +2,6 @@
 title: 'Module 7.15: Forensic Psychology & Criminal Profiling'
 description: 'An introduction to the intersection of psychology and the law, focusing on the role of the forensic psychologist and the investigative technique of criminal profiling.'
 ---
-
-# Module 7.15: Forensic Psychology & Criminal Profiling
-
-## Introduction
-
-**Forensic Psychology** is the application of the science and profession of psychology to questions and issues relating to the law and the legal system. It is a broad field that encompasses a wide range of activities. One of the most well-known, and often mythologized, of these activities is **Criminal Profiling**. This is an investigative tool used by law enforcement to identify the likely characteristics of an unknown offender based on the way they committed a particular crime. This module will provide an overview of the field of forensic psychology and then focus on the process and application of criminal profiling.
-
-### Key Learning Objectives:
-- Define Forensic Psychology and describe the various roles of a forensic psychologist.
-- Define Criminal Profiling and understand its purpose as an investigative tool.
-- Differentiate between organized and disorganized crime scenes.
-- Explain the basic inputs and goals of the criminal profiling process.
-- Understand the limitations and scientific validity of profiling.
-
 ---
 
 ## I. The Field of Forensic Psychology
@@ -43,6 +29,49 @@ Forensic psychologists are practitioners of psychology who apply their skills to
     - Testifying in court on any of the assessment topics listed above, offering their expert opinion to the judge and jury.
 
 ---
+---
+
+## III. The Profiling Process
+
+The process of creating a profile involves a rigorous analysis of all available information about the crime.
+
+**1. Profiling Inputs:** This is the data collection phase. The profiler gathers:
+- **Crime Scene Photos and Sketches:** To analyze the physical evidence and its layout.
+- **Autopsy Reports (Medico-Legal Reports):** To understand the nature of the victim's injuries and cause of death.
+- **Complete Victimology:** A thorough investigation of the victim's background, lifestyle, habits, and relationships. Who was this person and why were they chosen?
+- **Police Reports:** To get the full narrative of the investigation so far.
+
+**2. Decision Process Models:** The profiler analyzes the inputs, looking for meaningful patterns and asking key questions:
+- What was the offender's primary motive?
+- How much risk did the offender take?
+- What was the sequence of acts during the crime?
+
+**3. Crime Assessment:** The profiler reconstructs the behavior of the offender and the victim. Was the crime organized or disorganized? What was the motive?
+
+**4. The Criminal Profile:** The profiler creates the actual profile, which will include hypotheses about the offender's:
+- **Demographics:** Age range, race, sex.
+- **Personality:** Intelligent, impulsive, aggressive, etc.
+- **Behavioral Habits:** Lifestyle, occupation.
+- **Recommendations to the Investigation:** The profile will often include strategies for how to identify and apprehend the suspect (e.g., where to look, what kind of interrogation techniques might be effective).
+
+---
+---
+
+## Conclusion
+
+Forensic psychology brings the insights of human behavior into the legal system, performing crucial roles from assessing competency to consulting with police. Criminal profiling is one specific application of this expertise, offering a glimpse into the mind of an unknown offender. It is an attempt to infer the "who" from the "how." While not the infallible science often portrayed in fiction, profiling provides a structured way for investigators to make educated guesses, helping to bring focus to a complex investigation and offering a behavioral compass to guide the search for a violent criminal.
+
+## Introduction
+
+**Forensic Psychology** is the application of the science and profession of psychology to questions and issues relating to the law and the legal system. It is a broad field that encompasses a wide range of activities. One of the most well-known, and often mythologized, of these activities is **Criminal Profiling**. This is an investigative tool used by law enforcement to identify the likely characteristics of an unknown offender based on the way they committed a particular crime. This module will provide an overview of the field of forensic psychology and then focus on the process and application of criminal profiling.
+
+### Key Learning Objectives:
+- Define Forensic Psychology and describe the various roles of a forensic psychologist.
+- Define Criminal Profiling and understand its purpose as an investigative tool.
+- Differentiate between organized and disorganized crime scenes.
+- Explain the basic inputs and goals of the criminal profiling process.
+- Understand the limitations and scientific validity of profiling.
+
 
 ## II. Criminal Profiling: An Investigative Tool
 
@@ -92,32 +121,6 @@ This is a classic classification system developed by the FBI's Behavioral Scienc
 
 **Board Exam Tip:** This dichotomy is a foundational concept in profiling. Be able to list the characteristics of both the crime scene and the inferred offender profile for each type.
 
----
-
-## III. The Profiling Process
-
-The process of creating a profile involves a rigorous analysis of all available information about the crime.
-
-**1. Profiling Inputs:** This is the data collection phase. The profiler gathers:
-- **Crime Scene Photos and Sketches:** To analyze the physical evidence and its layout.
-- **Autopsy Reports (Medico-Legal Reports):** To understand the nature of the victim's injuries and cause of death.
-- **Complete Victimology:** A thorough investigation of the victim's background, lifestyle, habits, and relationships. Who was this person and why were they chosen?
-- **Police Reports:** To get the full narrative of the investigation so far.
-
-**2. Decision Process Models:** The profiler analyzes the inputs, looking for meaningful patterns and asking key questions:
-- What was the offender's primary motive?
-- How much risk did the offender take?
-- What was the sequence of acts during the crime?
-
-**3. Crime Assessment:** The profiler reconstructs the behavior of the offender and the victim. Was the crime organized or disorganized? What was the motive?
-
-**4. The Criminal Profile:** The profiler creates the actual profile, which will include hypotheses about the offender's:
-- **Demographics:** Age range, race, sex.
-- **Personality:** Intelligent, impulsive, aggressive, etc.
-- **Behavioral Habits:** Lifestyle, occupation.
-- **Recommendations to the Investigation:** The profile will often include strategies for how to identify and apprehend the suspect (e.g., where to look, what kind of interrogation techniques might be effective).
-
----
 
 ## IV. Validity and Limitations
 
@@ -128,9 +131,3 @@ While made famous by movies and television, criminal profiling is a controversia
 - **Potential for Misdirection:** A poorly constructed profile can send an investigation in the wrong direction, causing police to focus on the wrong type of suspect and ignore the real offender.
 
 Despite these limitations, when used properly as one tool among many, profiling can be a valuable asset. It can help investigators think strategically about a case, prioritize leads, and develop a plan for interviewing suspects.
-
----
-
-## Conclusion
-
-Forensic psychology brings the insights of human behavior into the legal system, performing crucial roles from assessing competency to consulting with police. Criminal profiling is one specific application of this expertise, offering a glimpse into the mind of an unknown offender. It is an attempt to infer the "who" from the "how." While not the infallible science often portrayed in fiction, profiling provides a structured way for investigators to make educated guesses, helping to bring focus to a complex investigation and offering a behavioral compass to guide the search for a violent criminal.

@@ -2,20 +2,6 @@
 title: 'Module 7.5: DNA Profiling & Analysis'
 description: 'An introduction to the revolutionary science of DNA profiling, covering what DNA is, where it can be found, and how it is used as the ultimate biometric identifier in forensic science.'
 ---
-
-# Module 7.5: DNA Profiling & Analysis
-
-## Introduction
-
-The discovery of DNA profiling in the mid-1980s was the single most significant advancement in forensic science since the discovery of fingerprints. Often called "DNA fingerprinting," this technology allows for the identification of an individual from the smallest biological samples with a level of accuracy that is virtually irrefutable. DNA has become the new gold standard for personal identification, capable of linking suspects to crimes with unprecedented certainty, exonerating the innocent, and identifying victims when all other methods fail. This module will explain what DNA is, how it is used in forensic science, and the basic process of creating a DNA profile.
-
-### Key Learning Objectives:
-- Define DNA and explain its basic structure.
-- Identify common sources of forensic DNA evidence.
-- Understand the concept of Short Tandem Repeats (STRs) and their importance in DNA profiling.
-- Outline the basic steps of the DNA analysis process.
-- Explain the role of the CODIS database in modern investigation.
-
 ---
 
 ## I. What is DNA?
@@ -34,6 +20,47 @@ The discovery of DNA profiling in the mid-1980s was the single most significant 
     - **Usefulness:** mtDNA is present in much greater numbers per cell than nDNA. This makes it useful for analyzing samples where nuclear DNA is degraded or scarce, such as in old bones, teeth, and hair shafts. It can be used to link individuals who share a maternal lineage.
 
 ---
+---
+
+## III. The Basis of DNA Profiling: STR Analysis
+
+While the vast majority of human DNA (over 99%) is the same for everyone, there are specific regions within the DNA that are highly variable from person to person. Modern DNA profiling focuses on these regions.
+
+- **Short Tandem Repeats (STRs):**
+    - STRs are short sequences of DNA (typically 3-7 bases long) that are repeated multiple times in a row (e.g., "AGATAGATAGAT...").
+    - The number of times a specific STR sequence is repeated at a particular location (**locus**) on a chromosome varies greatly among individuals.
+    - **Example:** At one STR locus, you might have inherited 10 repeats from your mother and 15 repeats from your father. Your DNA profile for that locus would be "10, 15." Someone else might be "7, 12."
+
+- **The Power of Combination:**
+    - A single STR locus is not enough to identify a person. But by analyzing a standard set of 13 to 20 different STR loci across the DNA, forensic scientists can create a DNA profile.
+    - The probability of two unrelated individuals having the exact same number of repeats at all 20 standard loci is astronomically low (often less than one in a quintillion), making the DNA profile a unique identifier.
+
+---
+---
+
+## V. DNA Databases: CODIS
+
+- **CODIS (Combined DNA Index System):** This is the FBI's software program that operates local, state, and national databases of DNA profiles from convicted offenders, unsolved crime scene evidence, and missing persons.
+- **How it Works:**
+    - The DNA profile from a crime scene with an unknown suspect can be searched against the entire CODIS database.
+    - If the crime scene profile matches the profile of a convicted offender in the database, the police have identified their suspect. This is called a **"cold hit."**
+    - CODIS can also link different crime scenes together if the same DNA profile is found at multiple locations, indicating a serial offender.
+
+In the Philippines, the **PNP DNA Laboratory** maintains the **Philippine National DNA Database**.
+
+---
+
+## Introduction
+
+The discovery of DNA profiling in the mid-1980s was the single most significant advancement in forensic science since the discovery of fingerprints. Often called "DNA fingerprinting," this technology allows for the identification of an individual from the smallest biological samples with a level of accuracy that is virtually irrefutable. DNA has become the new gold standard for personal identification, capable of linking suspects to crimes with unprecedented certainty, exonerating the innocent, and identifying victims when all other methods fail. This module will explain what DNA is, how it is used in forensic science, and the basic process of creating a DNA profile.
+
+### Key Learning Objectives:
+- Define DNA and explain its basic structure.
+- Identify common sources of forensic DNA evidence.
+- Understand the concept of Short Tandem Repeats (STRs) and their importance in DNA profiling.
+- Outline the basic steps of the DNA analysis process.
+- Explain the role of the CODIS database in modern investigation.
+
 
 ## II. Sources of Forensic DNA
 
@@ -54,22 +81,6 @@ DNA can be extracted from any biological material that contains cells with a nuc
 
 **Board Exam Tip:** Proper collection and preservation are critical. Packaging biological evidence in plastic is a common mistake and a frequent topic in exam questions. Always choose paper.
 
----
-
-## III. The Basis of DNA Profiling: STR Analysis
-
-While the vast majority of human DNA (over 99%) is the same for everyone, there are specific regions within the DNA that are highly variable from person to person. Modern DNA profiling focuses on these regions.
-
-- **Short Tandem Repeats (STRs):**
-    - STRs are short sequences of DNA (typically 3-7 bases long) that are repeated multiple times in a row (e.g., "AGATAGATAGAT...").
-    - The number of times a specific STR sequence is repeated at a particular location (**locus**) on a chromosome varies greatly among individuals.
-    - **Example:** At one STR locus, you might have inherited 10 repeats from your mother and 15 repeats from your father. Your DNA profile for that locus would be "10, 15." Someone else might be "7, 12."
-
-- **The Power of Combination:**
-    - A single STR locus is not enough to identify a person. But by analyzing a standard set of 13 to 20 different STR loci across the DNA, forensic scientists can create a DNA profile.
-    - The probability of two unrelated individuals having the exact same number of repeats at all 20 standard loci is astronomically low (often less than one in a quintillion), making the DNA profile a unique identifier.
-
----
 
 ## IV. The DNA Analysis Process
 
@@ -79,19 +90,6 @@ While the vast majority of human DNA (over 99%) is the same for everyone, there 
 4.  **Separation and Detection (Electrophoresis):** The amplified STR fragments are separated by size using a technique called **capillary electrophoresis**. A laser detects the fragments as they pass by, and a computer software translates this into a DNA profile.
 5.  **Interpretation:** A DNA analyst compares the DNA profile from the crime scene evidence to the DNA profile from a known reference sample (e.g., a blood sample from a suspect). If the profiles match at every locus, it is a **match**.
 
----
-
-## V. DNA Databases: CODIS
-
-- **CODIS (Combined DNA Index System):** This is the FBI's software program that operates local, state, and national databases of DNA profiles from convicted offenders, unsolved crime scene evidence, and missing persons.
-- **How it Works:**
-    - The DNA profile from a crime scene with an unknown suspect can be searched against the entire CODIS database.
-    - If the crime scene profile matches the profile of a convicted offender in the database, the police have identified their suspect. This is called a **"cold hit."**
-    - CODIS can also link different crime scenes together if the same DNA profile is found at multiple locations, indicating a serial offender.
-
-In the Philippines, the **PNP DNA Laboratory** maintains the **Philippine National DNA Database**.
-
----
 
 ## Conclusion
 

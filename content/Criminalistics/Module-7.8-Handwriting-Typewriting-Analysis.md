@@ -2,20 +2,6 @@
 title: 'Module 7.8: Handwriting & Typewriting Analysis'
 description: 'A detailed look at the principles of handwriting identification and the forensic analysis of typewritten documents to determine their source.'
 ---
-
-# Module 7.8: Handwriting & Typewriting Analysis
-
-## Introduction
-
-Beyond the detection of forgery, the core of questioned document examination often involves determining the **authorship** of handwriting or the **source** of a typewritten document. Handwriting analysis is based on the principle that every person's handwriting is unique. Similarly, typewriting analysis is based on the fact that, like any machine, a typewriter can acquire unique defects that are transferred to the paper. This module delves into the specifics of handwriting identification and the forensic examination of typewritten documents.
-
-### Key Learning Objectives:
-- Understand the basis for handwriting identification.
-- Differentiate between class and individual characteristics in handwriting.
-- Identify various handwriting characteristics used for comparison.
-- Explain how a typewriter can be identified as the source of a document.
-- Distinguish between defects in typewriters and printers.
-
 ---
 
 ## I. Handwriting Identification and Comparison
@@ -46,24 +32,6 @@ The fundamental principle of handwriting analysis is that **no two people write 
 A positive identification in handwriting analysis is made when the examiner finds a **sufficient quantity and quality of individual characteristics** in common between the questioned writing and the known standards, with no significant unexplained differences.
 
 ---
-
-## II. Challenges in Handwriting Analysis
-
-### A. Natural Variation
-- No one signs their name or writes a passage exactly the same way twice. **Natural variation** refers to the normal, slight differences that occur in a person's repeated writings.
-- An examiner must be able to distinguish between natural variation (which is expected) and a fundamental difference (which suggests a different writer).
-
-### B. Disguise
-- **Disguised writing** is an attempt by a writer to deliberately alter their handwriting to hide their identity.
-- **Common Methods of Disguise:**
-    - Writing with the non-dominant hand.
-    - Changing the slant of the writing.
-    - Writing in all capital letters.
-- **Detection:** It is very difficult for a person to suppress all of their individual habits. A sufficient amount of writing will often reveal underlying individual characteristics that can still lead to an identification.
-
-### C. Health and External Factors
-- Factors such as old age, illness, injury (a broken arm), intoxication, or writing in an awkward position can all affect a person's handwriting. The examiner must take these factors into account when comparing samples.
-
 ---
 
 ## III. Typewriting Analysis
@@ -97,6 +65,36 @@ A positive identification is made when the examiner finds a sufficient number of
 - **Watermarks:** Some color laser printers embed a secret, nearly invisible pattern of tiny yellow dots on every page they print. This pattern can encode the printer's serial number and the date/time of printing, a feature designed to help track counterfeiters.
 
 ---
+
+## Introduction
+
+Beyond the detection of forgery, the core of questioned document examination often involves determining the **authorship** of handwriting or the **source** of a typewritten document. Handwriting analysis is based on the principle that every person's handwriting is unique. Similarly, typewriting analysis is based on the fact that, like any machine, a typewriter can acquire unique defects that are transferred to the paper. This module delves into the specifics of handwriting identification and the forensic examination of typewritten documents.
+
+### Key Learning Objectives:
+- Understand the basis for handwriting identification.
+- Differentiate between class and individual characteristics in handwriting.
+- Identify various handwriting characteristics used for comparison.
+- Explain how a typewriter can be identified as the source of a document.
+- Distinguish between defects in typewriters and printers.
+
+
+## II. Challenges in Handwriting Analysis
+
+### A. Natural Variation
+- No one signs their name or writes a passage exactly the same way twice. **Natural variation** refers to the normal, slight differences that occur in a person's repeated writings.
+- An examiner must be able to distinguish between natural variation (which is expected) and a fundamental difference (which suggests a different writer).
+
+### B. Disguise
+- **Disguised writing** is an attempt by a writer to deliberately alter their handwriting to hide their identity.
+- **Common Methods of Disguise:**
+    - Writing with the non-dominant hand.
+    - Changing the slant of the writing.
+    - Writing in all capital letters.
+- **Detection:** It is very difficult for a person to suppress all of their individual habits. A sufficient amount of writing will often reveal underlying individual characteristics that can still lead to an identification.
+
+### C. Health and External Factors
+- Factors such as old age, illness, injury (a broken arm), intoxication, or writing in an awkward position can all affect a person's handwriting. The examiner must take these factors into account when comparing samples.
+
 
 ## Conclusion
 

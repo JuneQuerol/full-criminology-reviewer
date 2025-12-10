@@ -2,24 +2,6 @@
 title: 'Module 6.3: Legal Bases of Modern Philippine Policing'
 description: 'A detailed examination of the key laws that shape the Philippine National Police, primarily RA 6975, RA 8551, and RA 9708, outlining their most important provisions.'
 ---
-
-# Module 6.3: Legal Bases (RA 6975, RA 8551, RA 11200)
-
-## Introduction
-
-The modern Philippine National Police (PNP) is a creature of law. Its structure, powers, and limitations are not arbitrary but are defined by specific statutes enacted by Congress. This module provides a focused analysis of the three most important laws that serve as the legal foundation of the PNP:
-1.  **RA 6975 (The DILG Act of 1990):** The birth certificate of the PNP.
-2.  **RA 8551 (The PNP Reform and Reorganization Act of 1998):** The law that aimed to professionalize and reform the PNP.
-3.  **RA 11200 (An Act Providing for the Rank Classification in the PNP):** The law that standardized PNP ranks to align with military nomenclature.
-
-A thorough understanding of these laws is non-negotiable for the Criminology Board Exam.
-
-### Key Learning Objectives:
-- Identify the core purpose and key provisions of RA 6975.
-- Analyze the major reforms introduced by RA 8551.
-- Understand the changes in rank classification brought by RA 11200.
-- Compare and contrast the key features of these foundational laws.
-
 ---
 
 ## I. RA 6975: The Department of the Interior and Local Government Act of 1990
@@ -43,6 +25,40 @@ The primary goal of RA 6975 was to establish a police force that is **national i
 **Board Exam Tip:** RA 6975 is the "mother law" of the PNP. Questions often revolve around its fundamental purpose: creating a *national and civilian* police force. Memorize this phrase.
 
 ---
+| :--- | :--- | :--- |
+| **Main Goal** | Establish a national and civilian PNP. | Professionalize and reform the PNP. |
+| **Education Req.** | 72 Collegiate Units | Baccalaureate Degree |
+| **NAPOLCOM Power** | Reorganized and placed under DILG. | Powers significantly strengthened and expanded. |
+| **Key Intro** | Attrition System, 10% Women Quota |
+
+**Board Exam Tip:** RA 8551 is the "reform law." Associate it with "professionalization," "higher education," "attrition," and "strengthening NAPOLCOM." The 10% quota for women is a very common exam question.
+
+---
+| :--- | :--- | :--- |
+| Director General | **Police General** | General |
+| Chief Superintendent | **Police Brigadier General** | Brigadier General |
+| Senior Inspector | **Police Captain** | Captain |
+| Police Officer 1 (PO1) | **Police Patrolman/Patrolwoman** | Private |
+
+**Board Exam Tip:** RA 11200 is purely about *rank names*. It did *not* militarize the PNP. Any question suggesting that this law changed the PNP's civilian character would be false. Know the new ranks and their old equivalents.
+
+---
+
+## Introduction
+
+The modern Philippine National Police (PNP) is a creature of law. Its structure, powers, and limitations are not arbitrary but are defined by specific statutes enacted by Congress. This module provides a focused analysis of the three most important laws that serve as the legal foundation of the PNP:
+1.  **RA 6975 (The DILG Act of 1990):** The birth certificate of the PNP.
+2.  **RA 8551 (The PNP Reform and Reorganization Act of 1998):** The law that aimed to professionalize and reform the PNP.
+3.  **RA 11200 (An Act Providing for the Rank Classification in the PNP):** The law that standardized PNP ranks to align with military nomenclature.
+
+A thorough understanding of these laws is non-negotiable for the Criminology Board Exam.
+
+### Key Learning Objectives:
+- Identify the core purpose and key provisions of RA 6975.
+- Analyze the major reforms introduced by RA 8551.
+- Understand the changes in rank classification brought by RA 11200.
+- Compare and contrast the key features of these foundational laws.
+
 
 ## II. RA 8551: The PNP Reform and Reorganization Act of 1998
 
@@ -66,15 +82,6 @@ The main objective of RA 8551 was to professionalize the PNP and institute refor
 
 **Comparison Table: RA 6975 vs. RA 8551**
 | Feature | RA 6975 (Creation) | RA 8551 (Reform) |
-| :--- | :--- | :--- |
-| **Main Goal** | Establish a national and civilian PNP. | Professionalize and reform the PNP. |
-| **Education Req.** | 72 Collegiate Units | Baccalaureate Degree |
-| **NAPOLCOM Power** | Reorganized and placed under DILG. | Powers significantly strengthened and expanded. |
-| **Key Intro** | Attrition System, 10% Women Quota |
-
-**Board Exam Tip:** RA 8551 is the "reform law." Associate it with "professionalization," "higher education," "attrition," and "strengthening NAPOLCOM." The 10% quota for women is a very common exam question.
-
----
 
 ## III. RA 11200: PNP Rank Classification Act (2019)
 
@@ -90,15 +97,6 @@ The sole purpose of this law is to change the rank names used in the PNP to make
 
 **Old Ranks vs. New Ranks (Sample)**
 | Old PNP Rank (RA 6975) | New PNP Rank (RA 11200) | Military Equivalent |
-| :--- | :--- | :--- |
-| Director General | **Police General** | General |
-| Chief Superintendent | **Police Brigadier General** | Brigadier General |
-| Senior Inspector | **Police Captain** | Captain |
-| Police Officer 1 (PO1) | **Police Patrolman/Patrolwoman** | Private |
-
-**Board Exam Tip:** RA 11200 is purely about *rank names*. It did *not* militarize the PNP. Any question suggesting that this law changed the PNP's civilian character would be false. Know the new ranks and their old equivalents.
-
----
 
 ## Conclusion
 

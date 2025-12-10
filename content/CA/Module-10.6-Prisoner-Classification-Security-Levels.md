@@ -2,19 +2,6 @@
 title: 'Module 10.6: Prisoner Classification & Security Levels'
 description: 'An exploration of the process of prisoner classification and the different levels of security within a correctional system, from maximum to minimum security.'
 ---
-
-# Module 10.6: Prisoner Classification & Security Levels
-
-## Introduction
-
-Not all prisoners are the same. They vary widely in terms of the crimes they have committed, their history of violence, their risk of escape, and their rehabilitative needs. To manage a large and diverse inmate population safely and effectively, correctional administrators rely on a process called **Classification**. This is the process of assessing each inmate and assigning them to the appropriate custody and treatment programs. A key outcome of this process is the inmate's assignment to a specific **security level**. This module will explain the purpose of classification and describe the different security levels within a prison system.
-
-### Key Learning Objectives:
-- Define prisoner classification and state its primary purposes.
-- Describe the role of the Reception and Diagnostic Center (RDC) in the classification process.
-- Identify and describe the four main security levels in the Bureau of Corrections (BuCor).
-- Understand the criteria used to determine an inmate's security classification.
-
 ---
 
 ## I. The Purpose of Prisoner Classification
@@ -29,27 +16,6 @@ Not all prisoners are the same. They vary widely in terms of the crimes they hav
 4.  **To Facilitate Effective Rehabilitation:** By identifying an inmate's specific needs (e.g., for drug treatment, education, or vocational training), classification allows for the creation of a personalized treatment plan that has the best chance of success.
 
 ---
-
-## II. The Classification Process
-
-The classification process begins the moment an offender is committed to the correctional system.
-
-### A. The Reception and Diagnostic Center (RDC)
-- As discussed in Module 10.4, all national prisoners committed to the Bureau of Corrections first pass through the RDC.
-- During their stay at the RDC (approx. 60 days), they are subjected to a battery of tests and examinations (medical, psychological, sociological, etc.).
-- The purpose of the RDC is to gather all the necessary information to make an initial classification decision.
-
-### B. The Initial Classification
-- At the end of the diagnostic period, a **Classification Board** or "Staff Conference" is held.
-- The board reviews all the information gathered and makes the initial determination of the inmate's:
-    1.  **Security Classification** (Maximum, Medium, or Minimum).
-    2.  **Rehabilitation Program** (the specific treatment and training plan for the inmate).
-
-### C. Re-classification
-- Classification is not a one-time event; it is a continuous process.
-- An inmate's security level and program assignment are reviewed periodically (e.g., every 6 months or annually).
-- An inmate who demonstrates good behavior and progress in their rehabilitation program can be **re-classified to a lower security level**. Conversely, an inmate who commits serious violations can be moved to a higher security level.
-
 ---
 
 ## III. The Four Security Levels in the Bureau of Corrections
@@ -88,15 +54,46 @@ The BuCor system classifies prisoners into one of four security levels. This cla
 **Board Exam Tip:** Memorize the three main security levels (Maximum, Medium, Minimum) and the corresponding uniform colors (Orange, Blue, Brown). Remember the acronym **"OMB"**.
 
 ---
+---
+
+## Conclusion
+
+Prisoner classification is the essential management tool that allows correctional agencies to safely and efficiently manage a large and heterogeneous inmate population. It is a dynamic process that aims to match the right inmate to the right security level and the right rehabilitation program. By separating inmates based on the risk they pose, the system protects both the public and the inmates themselves. By identifying their individual needs, it provides a roadmap for their potential rehabilitation. A sound classification system is the foundation upon which all other aspects of modern, effective prison management are built.
+
+## Introduction
+
+Not all prisoners are the same. They vary widely in terms of the crimes they have committed, their history of violence, their risk of escape, and their rehabilitative needs. To manage a large and diverse inmate population safely and effectively, correctional administrators rely on a process called **Classification**. This is the process of assessing each inmate and assigning them to the appropriate custody and treatment programs. A key outcome of this process is the inmate's assignment to a specific **security level**. This module will explain the purpose of classification and describe the different security levels within a prison system.
+
+### Key Learning Objectives:
+- Define prisoner classification and state its primary purposes.
+- Describe the role of the Reception and Diagnostic Center (RDC) in the classification process.
+- Identify and describe the four main security levels in the Bureau of Corrections (BuCor).
+- Understand the criteria used to determine an inmate's security classification.
+
+
+## II. The Classification Process
+
+The classification process begins the moment an offender is committed to the correctional system.
+
+### A. The Reception and Diagnostic Center (RDC)
+- As discussed in Module 10.4, all national prisoners committed to the Bureau of Corrections first pass through the RDC.
+- During their stay at the RDC (approx. 60 days), they are subjected to a battery of tests and examinations (medical, psychological, sociological, etc.).
+- The purpose of the RDC is to gather all the necessary information to make an initial classification decision.
+
+### B. The Initial Classification
+- At the end of the diagnostic period, a **Classification Board** or "Staff Conference" is held.
+- The board reviews all the information gathered and makes the initial determination of the inmate's:
+    1.  **Security Classification** (Maximum, Medium, or Minimum).
+    2.  **Rehabilitation Program** (the specific treatment and training plan for the inmate).
+
+### C. Re-classification
+- Classification is not a one-time event; it is a continuous process.
+- An inmate's security level and program assignment are reviewed periodically (e.g., every 6 months or annually).
+- An inmate who demonstrates good behavior and progress in their rehabilitation program can be **re-classified to a lower security level**. Conversely, an inmate who commits serious violations can be moved to a higher security level.
+
 
 ## IV. The Role of the Classification Board
 
 Each prison facility has a Classification Board that is responsible for the re-classification of inmates and for recommending changes to their rehabilitation programs.
 - **Composition:** The board is usually chaired by the prison's Deputy Superintendent for Reformation and includes members like the chief medical officer, the chief education officer, and a psychologist.
 - **Function:** The board regularly reviews the case of each inmate, considering their disciplinary record, their progress in work and educational programs, and their overall attitude, to determine if a change in their classification is warranted.
-
----
-
-## Conclusion
-
-Prisoner classification is the essential management tool that allows correctional agencies to safely and efficiently manage a large and heterogeneous inmate population. It is a dynamic process that aims to match the right inmate to the right security level and the right rehabilitation program. By separating inmates based on the risk they pose, the system protects both the public and the inmates themselves. By identifying their individual needs, it provides a roadmap for their potential rehabilitation. A sound classification system is the foundation upon which all other aspects of modern, effective prison management are built.

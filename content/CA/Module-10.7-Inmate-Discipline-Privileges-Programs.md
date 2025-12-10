@@ -2,19 +2,6 @@
 title: 'Module 10.7: Inmate Discipline, Privileges, & Programs'
 description: 'An overview of the principles of inmate discipline, the concept of inmate privileges, and the various rehabilitative programs offered in correctional facilities.'
 ---
-
-# Module 10.7: Inmate Discipline, Privileges, & Programs
-
-## Introduction
-
-Life inside a correctional facility is a balance of control and opportunity. **Inmate discipline** refers to the system of rules and punishments used to maintain order and security. **Privileges** are the rewards and amenities that can be earned for good behavior. And **rehabilitation programs** are the opportunities provided to inmates for self-improvement and positive change. A well-managed correctional facility effectively combines these three elements to create an environment that is both safe and conducive to reform. This module will explore the principles of inmate discipline, the nature of privileges, and the various programs that form the core of the rehabilitative mission.
-
-### Key Learning Objectives:
-- Understand the importance of a fair and consistent disciplinary system.
-- Differentiate between a right and a privilege in a correctional setting.
-- Identify the major types of rehabilitative programs available to inmates.
-- Explain the purpose of therapeutic community programs.
-
 ---
 
 ## I. Inmate Discipline
@@ -41,26 +28,6 @@ When an inmate violates a rule, they are subject to a disciplinary process. To c
     - **Solitary Confinement (Disciplinary Segregation):** Confining the inmate to a special disciplinary cell for a specified period.
 
 ---
-
-## II. Inmate Rights vs. Privileges
-
-It is crucial to distinguish between a right and a privilege.
-
-- **Rights:** These are the fundamental human rights that an inmate retains even while incarcerated. These cannot be taken away as a form of punishment. They include:
-    - The right to be free from cruel and unusual punishment.
-    - The right to adequate food, shelter, and medical care.
-    - The right to communicate with their lawyer.
-    - The right to due process in disciplinary hearings.
-
-- **Privileges:** These are amenities or opportunities that are not constitutional rights and that can be granted or denied based on the inmate's behavior and security level. The granting of privileges is a key tool for encouraging good behavior. Examples of privileges include:
-    - The right to watch TV or listen to the radio.
-    - The right to make phone calls to family.
-    - The right to have visitors ("visitation privileges").
-    - The right to purchase items from the prison commissary (store).
-    - The right to participate in certain recreational or educational programs.
-
-The principle is simple: **good behavior earns privileges; bad behavior results in the loss of privileges.**
-
 ---
 
 ## III. Inmate Rehabilitation Programs
@@ -96,6 +63,42 @@ The "development" or "reformation" side of corrections is accomplished through a
 - **Activities:** Basketball, volleyball, chess, and other organized sports.
 
 ---
+---
+
+## Conclusion
+
+A modern correctional system is more than just a place of confinement; it is a complex environment that must balance security with opportunities for change. A fair and consistent disciplinary system provides the necessary control and order. A system of privileges provides the incentives for inmates to follow the rules. And a robust set of rehabilitative programs—covering work, education, health, and spiritual life—provides the tools that inmates can use to rebuild their lives. By effectively managing this balance of discipline, privileges, and programs, a correctional institution can fulfill its dual mandate: to protect society and to reform the offender.
+
+## Introduction
+
+Life inside a correctional facility is a balance of control and opportunity. **Inmate discipline** refers to the system of rules and punishments used to maintain order and security. **Privileges** are the rewards and amenities that can be earned for good behavior. And **rehabilitation programs** are the opportunities provided to inmates for self-improvement and positive change. A well-managed correctional facility effectively combines these three elements to create an environment that is both safe and conducive to reform. This module will explore the principles of inmate discipline, the nature of privileges, and the various programs that form the core of the rehabilitative mission.
+
+### Key Learning Objectives:
+- Understand the importance of a fair and consistent disciplinary system.
+- Differentiate between a right and a privilege in a correctional setting.
+- Identify the major types of rehabilitative programs available to inmates.
+- Explain the purpose of therapeutic community programs.
+
+
+## II. Inmate Rights vs. Privileges
+
+It is crucial to distinguish between a right and a privilege.
+
+- **Rights:** These are the fundamental human rights that an inmate retains even while incarcerated. These cannot be taken away as a form of punishment. They include:
+    - The right to be free from cruel and unusual punishment.
+    - The right to adequate food, shelter, and medical care.
+    - The right to communicate with their lawyer.
+    - The right to due process in disciplinary hearings.
+
+- **Privileges:** These are amenities or opportunities that are not constitutional rights and that can be granted or denied based on the inmate's behavior and security level. The granting of privileges is a key tool for encouraging good behavior. Examples of privileges include:
+    - The right to watch TV or listen to the radio.
+    - The right to make phone calls to family.
+    - The right to have visitors ("visitation privileges").
+    - The right to purchase items from the prison commissary (store).
+    - The right to participate in certain recreational or educational programs.
+
+The principle is simple: **good behavior earns privileges; bad behavior results in the loss of privileges.**
+
 
 ## IV. The Therapeutic Community (TC) Modality
 
@@ -107,9 +110,3 @@ The **Therapeutic Community (TC)** is a specific, intensive, and highly structur
     - **Hierarchical Structure:** Inmates can earn higher positions and greater responsibilities within the community as they demonstrate progress.
     - **Emphasis on Personal Responsibility and Accountability:** The program forces inmates to take responsibility for their past actions and their present behavior.
 - The TC model has been found to be one of the most effective methods for treating substance abuse among offenders.
-
----
-
-## Conclusion
-
-A modern correctional system is more than just a place of confinement; it is a complex environment that must balance security with opportunities for change. A fair and consistent disciplinary system provides the necessary control and order. A system of privileges provides the incentives for inmates to follow the rules. And a robust set of rehabilitative programs—covering work, education, health, and spiritual life—provides the tools that inmates can use to rebuild their lives. By effectively managing this balance of discipline, privileges, and programs, a correctional institution can fulfill its dual mandate: to protect society and to reform the offender.

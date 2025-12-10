@@ -2,20 +2,6 @@
 title: 'Module 9.8: Victimology & Victim Rights'
 description: 'An introduction to the field of Victimology, the study of victims of crime, including theories of victimization and an overview of victims'' rights.'
 ---
-
-# Module 9.8: Victimology & Victim Rights
-
-## Introduction
-
-For much of the history of criminology and criminal justice, the primary focus was on the offender and the crime. The victim was often overlooked, treated merely as a source of evidence or a witness. **Victimology** is the subfield of criminology that seeks to change this. It is the scientific study of crime victims, including the nature and extent of victimization, the relationship between victims and offenders, and the victim's role in the criminal justice process. This module will explore the key concepts of victimology, theories of victimization, and the growing movement to recognize and protect the rights of victims.
-
-### Key Learning Objectives:
-- Define Victimology and its scope.
-- Explain key concepts like victim precipitation and victim blaming.
-- Describe the major theories of victimization (Lifestyle Theory, Routine Activities Theory).
-- Understand the impact of crime on victims, including the concept of PTSD.
-- Identify the basic rights of crime victims in the justice system.
-
 ---
 
 ## I. The Field of Victimology
@@ -31,20 +17,6 @@ For much of the history of criminology and criminal justice, the primary focus w
 - How does the criminal justice system treat victims?
 
 ---
-
-## II. Key Concepts in Victimology
-
-### A. Victim Precipitation Theory
-- **Core Idea:** This controversial theory suggests that in some cases, the victim may, either actively or passively, initiate the confrontation that leads to their own victimization.
-- **Active Precipitation:** Occurs when the victim is the first to act aggressively or to provoke the offender.
-- **Passive Precipitation:** Occurs when a victim unknowingly possesses a characteristic that encourages or triggers an attack (e.g., belonging to a group that is a target of hate crimes).
-- **Controversy:** This theory is highly controversial, especially in cases of rape and domestic violence, because it can easily lead to **victim blaming**.
-
-### B. Victim Blaming
-- **Definition:** The act of holding the victim of a crime entirely or partially responsible for the harm that befell them.
-- **Examples:** "She shouldn't have been walking alone so late at night." "He was asking for it by flashing his expensive watch."
-- **Problem:** Victim blaming shifts the responsibility from the offender to the victim, which is unjust and can cause further psychological harm to the victim by making them feel guilty for what happened. Modern victimology strongly rejects victim blaming.
-
 ---
 
 ## III. Theories of Victimization
@@ -68,6 +40,49 @@ These theories attempt to explain why some individuals are more likely than othe
 - **Example:** A student who studies at the library until midnight (routine activity) and then walks home alone through a poorly lit, deserted area (absence of a guardian) becomes a more suitable target for a motivated offender who is looking for someone to rob.
 
 ---
+---
+
+## V. The Victims' Rights Movement
+
+Beginning in the 1970s, a social movement arose to demand that the justice system pay more attention to the needs and rights of victims. This has led to the passage of numerous laws to protect and assist crime victims.
+
+### Basic Rights of a Crime Victim
+While specific rights vary, most jurisdictions now recognize that victims have:
+1.  **The Right to Protection:** To be reasonably protected from the accused throughout the criminal justice process.
+2.  **The Right to Information:** To be informed about the status of the case, including the arrest of a suspect, court dates, and the release of the offender from custody.
+3.  **The Right to be Present:** To be present at all public court proceedings related to the offense.
+4.  **The Right to be Heard (Victim Impact Statement):** The right to provide a statement to the court, either in writing or orally, about the physical, emotional, and financial impact the crime has had on them. This statement is considered by the judge during sentencing.
+5.  **The Right to Restitution:** The right to receive financial compensation from the offender for the economic losses caused by the crime.
+
+In the Philippines, **RA 9262 (The Anti-Violence Against Women and Their Children Act)** and **RA 8505 (The Rape Victim Assistance and Protection Act)** are examples of laws that contain specific provisions to protect the rights and welfare of victims.
+
+---
+
+## Introduction
+
+For much of the history of criminology and criminal justice, the primary focus was on the offender and the crime. The victim was often overlooked, treated merely as a source of evidence or a witness. **Victimology** is the subfield of criminology that seeks to change this. It is the scientific study of crime victims, including the nature and extent of victimization, the relationship between victims and offenders, and the victim's role in the criminal justice process. This module will explore the key concepts of victimology, theories of victimization, and the growing movement to recognize and protect the rights of victims.
+
+### Key Learning Objectives:
+- Define Victimology and its scope.
+- Explain key concepts like victim precipitation and victim blaming.
+- Describe the major theories of victimization (Lifestyle Theory, Routine Activities Theory).
+- Understand the impact of crime on victims, including the concept of PTSD.
+- Identify the basic rights of crime victims in the justice system.
+
+
+## II. Key Concepts in Victimology
+
+### A. Victim Precipitation Theory
+- **Core Idea:** This controversial theory suggests that in some cases, the victim may, either actively or passively, initiate the confrontation that leads to their own victimization.
+- **Active Precipitation:** Occurs when the victim is the first to act aggressively or to provoke the offender.
+- **Passive Precipitation:** Occurs when a victim unknowingly possesses a characteristic that encourages or triggers an attack (e.g., belonging to a group that is a target of hate crimes).
+- **Controversy:** This theory is highly controversial, especially in cases of rape and domestic violence, because it can easily lead to **victim blaming**.
+
+### B. Victim Blaming
+- **Definition:** The act of holding the victim of a crime entirely or partially responsible for the harm that befell them.
+- **Examples:** "She shouldn't have been walking alone so late at night." "He was asking for it by flashing his expensive watch."
+- **Problem:** Victim blaming shifts the responsibility from the offender to the victim, which is unjust and can cause further psychological harm to the victim by making them feel guilty for what happened. Modern victimology strongly rejects victim blaming.
+
 
 ## IV. The Impact of Crime on Victims
 
@@ -86,23 +101,6 @@ Victimization can have profound and lasting consequences.
     - **A sense of violation and loss of trust.**
     - **Secondary Victimization:** The additional harm that victims can suffer, not from the offender, but from the insensitive treatment they receive from the criminal justice system, the media, or their own friends and family.
 
----
-
-## V. The Victims' Rights Movement
-
-Beginning in the 1970s, a social movement arose to demand that the justice system pay more attention to the needs and rights of victims. This has led to the passage of numerous laws to protect and assist crime victims.
-
-### Basic Rights of a Crime Victim
-While specific rights vary, most jurisdictions now recognize that victims have:
-1.  **The Right to Protection:** To be reasonably protected from the accused throughout the criminal justice process.
-2.  **The Right to Information:** To be informed about the status of the case, including the arrest of a suspect, court dates, and the release of the offender from custody.
-3.  **The Right to be Present:** To be present at all public court proceedings related to the offense.
-4.  **The Right to be Heard (Victim Impact Statement):** The right to provide a statement to the court, either in writing or orally, about the physical, emotional, and financial impact the crime has had on them. This statement is considered by the judge during sentencing.
-5.  **The Right to Restitution:** The right to receive financial compensation from the offender for the economic losses caused by the crime.
-
-In the Philippines, **RA 9262 (The Anti-Violence Against Women and Their Children Act)** and **RA 8505 (The Rape Victim Assistance and Protection Act)** are examples of laws that contain specific provisions to protect the rights and welfare of victims.
-
----
 
 ## Conclusion
 

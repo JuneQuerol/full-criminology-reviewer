@@ -2,19 +2,6 @@
 title: 'Module 7.2: History & Development of Forensic Science'
 description: 'A historical journey through the key milestones and personalities that shaped the field of forensic science, including the formulation of Locard''s Exchange Principle.'
 ---
-
-# Module 7.2: History & Development (Locard's Exchange Principle)
-
-## Introduction
-
-Forensic science as we know it today is the result of centuries of scientific discovery and the contributions of brilliant individuals who saw the potential of applying science to criminal investigation. Understanding this history provides context for the techniques used today and appreciation for the foundational principles that remain unchanged. This module traces the development of forensic science from its earliest days to the modern era, highlighting the key figures and their groundbreaking work, with a special focus on the cornerstone principle of the field: Locard's Exchange Principle.
-
-### Key Learning Objectives:
-- Identify key historical figures and their contributions to forensic science.
-- Explain the significance of Anthropometry and fingerprinting in the history of identification.
-- Define and thoroughly explain Locard's Exchange Principle.
-- Provide practical examples of Locard's Exchange Principle in action.
-
 ---
 
 ## I. Early Pioneers of Forensic Science
@@ -36,20 +23,6 @@ Long before the existence of formal crime labs, individuals from various scienti
 - **Albert S. Osborn (1858-1946):** The **"Father of Questioned Documents Examination."** His 1910 book, *Questioned Documents*, remains a primary reference for document examiners. He established the fundamental principles of document analysis and the acceptance of documents as scientific evidence in court.
 
 ---
-
-## II. The Crime Lab and a Central Principle
-
-While many individuals contributed pieces to the puzzle, it was a French professor who synthesized these ideas into a coherent field and established the first crime laboratory.
-
-### Hans Gross (1847-1915)
-- An Austrian prosecutor and judge who is credited with coining the term **"Criminalistics."**
-- In 1893, he published his landmark book, *Criminal Investigation*, which detailed how the principles of various sciences could be applied to the work of a criminal investigator. He envisioned a future where science was a routine part of police work.
-
-### Dr. Edmond Locard (1877-1966)
-- The **"Father of the Crime Laboratory."** A French criminologist and medical doctor who was heavily influenced by Hans Gross.
-- In 1910, in Lyon, France, Locard established the **first-ever forensic laboratory** in two attic rooms of the police department.
-- His most significant contribution, however, was not the lab itself, but the principle upon which it, and all of forensic science, operates.
-
 ---
 
 ## III. Locard's Exchange Principle
@@ -79,6 +52,36 @@ This principle is the foundation of all physical evidence analysis. The job of t
 **Board Exam Tip:** You must be able to define Locard's Exchange Principle and provide examples. It is the single most important principle in all of criminalistics. The concept of a "two-way transfer" is key.
 
 ---
+---
+
+## Conclusion
+
+From Orfila's first tests for arsenic to the complex DNA profiling of today, the history of forensic science is a story of continuous innovation. Yet, through all the technological advancements, the fundamental principle articulated by Edmond Locard remains the same: every contact leaves a trace. The history of this field is a testament to the power of the scientific method to uncover truths that would otherwise remain hidden, making it an indispensable tool for modern justice.
+
+## Introduction
+
+Forensic science as we know it today is the result of centuries of scientific discovery and the contributions of brilliant individuals who saw the potential of applying science to criminal investigation. Understanding this history provides context for the techniques used today and appreciation for the foundational principles that remain unchanged. This module traces the development of forensic science from its earliest days to the modern era, highlighting the key figures and their groundbreaking work, with a special focus on the cornerstone principle of the field: Locard's Exchange Principle.
+
+### Key Learning Objectives:
+- Identify key historical figures and their contributions to forensic science.
+- Explain the significance of Anthropometry and fingerprinting in the history of identification.
+- Define and thoroughly explain Locard's Exchange Principle.
+- Provide practical examples of Locard's Exchange Principle in action.
+
+
+## II. The Crime Lab and a Central Principle
+
+While many individuals contributed pieces to the puzzle, it was a French professor who synthesized these ideas into a coherent field and established the first crime laboratory.
+
+### Hans Gross (1847-1915)
+- An Austrian prosecutor and judge who is credited with coining the term **"Criminalistics."**
+- In 1893, he published his landmark book, *Criminal Investigation*, which detailed how the principles of various sciences could be applied to the work of a criminal investigator. He envisioned a future where science was a routine part of police work.
+
+### Dr. Edmond Locard (1877-1966)
+- The **"Father of the Crime Laboratory."** A French criminologist and medical doctor who was heavily influenced by Hans Gross.
+- In 1910, in Lyon, France, Locard established the **first-ever forensic laboratory** in two attic rooms of the police department.
+- His most significant contribution, however, was not the lab itself, but the principle upon which it, and all of forensic science, operates.
+
 
 ## IV. The Modern Crime Laboratory
 
@@ -88,9 +91,3 @@ The proliferation of crime labs since the 1960s can be attributed to several fac
 1.  **Supreme Court Decisions in the 1960s:** Rulings like *Miranda v. Arizona* placed a greater emphasis on scientifically-validated evidence and less on traditional confessions.
 2.  **Increase in Crime Rates:** Rising crime rates in the mid-20th century created a greater demand for police services and scientific evidence.
 3.  **The Advent of DNA Profiling:** The discovery of DNA fingerprinting in the 1980s revolutionized forensic science and created a new, high-demand section in every crime lab.
-
----
-
-## Conclusion
-
-From Orfila's first tests for arsenic to the complex DNA profiling of today, the history of forensic science is a story of continuous innovation. Yet, through all the technological advancements, the fundamental principle articulated by Edmond Locard remains the same: every contact leaves a trace. The history of this field is a testament to the power of the scientific method to uncover truths that would otherwise remain hidden, making it an indispensable tool for modern justice.

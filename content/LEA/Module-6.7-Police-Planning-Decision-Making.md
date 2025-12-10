@@ -2,20 +2,6 @@
 title: 'Module 6.7: Police Planning & Decision Making'
 description: 'A study of the principles and processes of police planning, different types of police plans, and the fundamentals of effective decision-making in a law enforcement context.'
 ---
-
-# Module 6.7: Police Planning & Decision Making
-
-## Introduction
-
-Effective policing is not merely a reactive endeavor; it is a proactive and deliberate process rooted in sound planning and decision-making. Police commanders and administrators must be able to anticipate future needs, allocate resources effectively, and make critical decisions, often under pressure. This module explores the systematic process of police planning, outlines the various types of plans used in law enforcement, and introduces fundamental models of decision-making.
-
-### Key Learning Objectives:
-- Define police planning and explain its importance.
-- Outline the steps in the basic planning process.
-- Differentiate between strategic, operational, and tactical plans.
-- Identify and describe various types of police plans (e.g., procedural, emergency).
-- Understand the rational and intuitive approaches to decision-making.
-
 ---
 
 ## I. The Nature of Police Planning
@@ -44,6 +30,51 @@ Effective policing is not merely a reactive endeavor; it is a proactive and deli
     - **Evaluation:** After the plan is complete, assess its results. Did it achieve the objective? What lessons were learned for future planning?
 
 ---
+---
+
+## III. Police Decision-Making
+
+**Definition:** Decision-making is the process of choosing a course of action from among two or more alternatives. It is the most critical function of any manager or commander.
+
+### A. The Rational Decision-Making Model
+This model presumes that the decision-maker is logical and will always choose the option that provides the maximum benefit. It follows a clear, step-by-step process:
+1.  **Define the Problem:** Clearly identify the issue requiring a decision.
+2.  **Identify Decision Criteria:** Determine what factors are important (e.g., cost, safety, legality).
+3.  **Gather Information:** Collect all relevant data and facts.
+4.  **Develop Alternatives:** Brainstorm all possible courses of action.
+5.  **Evaluate Alternatives:** Systematically assess each alternative against the criteria.
+6.  **Select the Best Alternative:** Choose the one with the highest score or best outcome.
+7.  **Implement and Evaluate:** Execute the decision and review the results.
+
+This model is ideal for **non-urgent, complex decisions** where time is available for thorough analysis, such as developing a new policy or creating a budget.
+
+### B. The Intuitive / Heuristic Decision-Making Model
+This model relies on the decision-maker's experience, judgment, and "gut feeling." It is less structured and much faster.
+
+- **Basis:** Pattern recognition based on years of experience. An experienced police commander can quickly size up a situation and "know" what to do because they have seen similar situations before.
+- **Process:** It is often subconscious and very rapid.
+
+This model is essential for **urgent, tactical decisions** made in the field, where there is no time for a lengthy rational analysis. Examples include:
+- A patrol officer deciding whether to pursue a fleeing vehicle.
+- A SWAT team leader deciding how to make entry into a building with a hostage.
+- A patrol supervisor deciding how to de-escalate a volatile domestic dispute.
+
+### C. The Balance
+Effective police leaders use a **balance of both models**. They use the rational model for planning and administrative decisions, and the intuitive model for tactical, on-the-spot command decisions. Over-reliance on intuition without rational analysis can lead to reckless choices, while over-reliance on rational analysis in a crisis can lead to paralysis and inaction.
+
+---
+
+## Introduction
+
+Effective policing is not merely a reactive endeavor; it is a proactive and deliberate process rooted in sound planning and decision-making. Police commanders and administrators must be able to anticipate future needs, allocate resources effectively, and make critical decisions, often under pressure. This module explores the systematic process of police planning, outlines the various types of plans used in law enforcement, and introduces fundamental models of decision-making.
+
+### Key Learning Objectives:
+- Define police planning and explain its importance.
+- Outline the steps in the basic planning process.
+- Differentiate between strategic, operational, and tactical plans.
+- Identify and describe various types of police plans (e.g., procedural, emergency).
+- Understand the rational and intuitive approaches to decision-making.
+
 
 ## II. Types of Police Plans
 
@@ -85,39 +116,6 @@ Police plans can be categorized based on their scope, time frame, and purpose.
 
 **Board Exam Tip:** Be able to differentiate between Strategic, Operational, and Tactical plans based on their time frame and scope. Strategic = Broad/Long-term. Tactical = Specific/Short-term.
 
----
-
-## III. Police Decision-Making
-
-**Definition:** Decision-making is the process of choosing a course of action from among two or more alternatives. It is the most critical function of any manager or commander.
-
-### A. The Rational Decision-Making Model
-This model presumes that the decision-maker is logical and will always choose the option that provides the maximum benefit. It follows a clear, step-by-step process:
-1.  **Define the Problem:** Clearly identify the issue requiring a decision.
-2.  **Identify Decision Criteria:** Determine what factors are important (e.g., cost, safety, legality).
-3.  **Gather Information:** Collect all relevant data and facts.
-4.  **Develop Alternatives:** Brainstorm all possible courses of action.
-5.  **Evaluate Alternatives:** Systematically assess each alternative against the criteria.
-6.  **Select the Best Alternative:** Choose the one with the highest score or best outcome.
-7.  **Implement and Evaluate:** Execute the decision and review the results.
-
-This model is ideal for **non-urgent, complex decisions** where time is available for thorough analysis, such as developing a new policy or creating a budget.
-
-### B. The Intuitive / Heuristic Decision-Making Model
-This model relies on the decision-maker's experience, judgment, and "gut feeling." It is less structured and much faster.
-
-- **Basis:** Pattern recognition based on years of experience. An experienced police commander can quickly size up a situation and "know" what to do because they have seen similar situations before.
-- **Process:** It is often subconscious and very rapid.
-
-This model is essential for **urgent, tactical decisions** made in the field, where there is no time for a lengthy rational analysis. Examples include:
-- A patrol officer deciding whether to pursue a fleeing vehicle.
-- A SWAT team leader deciding how to make entry into a building with a hostage.
-- A patrol supervisor deciding how to de-escalate a volatile domestic dispute.
-
-### C. The Balance
-Effective police leaders use a **balance of both models**. They use the rational model for planning and administrative decisions, and the intuitive model for tactical, on-the-spot command decisions. Over-reliance on intuition without rational analysis can lead to reckless choices, while over-reliance on rational analysis in a crisis can lead to paralysis and inaction.
-
----
 
 ## Conclusion
 

@@ -2,20 +2,6 @@
 title: 'Module 10.9: Probation & Parole Procedures'
 description: 'A detailed guide to two key forms of non-institutional corrections: Probation, a community-based sentence, and Parole, the conditional release from prison.'
 ---
-
-# Module 10.9: Probation & Parole Procedures
-
-## Introduction
-
-**Non-Institutional Corrections**, also known as community-based corrections, refers to the supervision of criminal offenders in the community as an alternative to incarceration. The two main forms of community-based corrections are **Probation** and **Parole**. While both involve supervision within the community, they are distinct processes that occur at different stages of the criminal justice system. This module will define and differentiate between probation and parole, and outline the basic procedures for their application and administration in the Philippines.
-
-### Key Learning Objectives:
-- Define Probation and Parole and differentiate between the two.
-- Identify the purpose and benefits of probation.
-- Understand the eligibility requirements and application process for probation under PD 968.
-- Describe the role of the Parole and Probation Administration (PPA) and the Board of Pardons and Parole (BPP).
-- Explain the concept of conditions of probation/parole and the consequences of revocation.
-
 ---
 
 ## I. Probation
@@ -58,6 +44,24 @@ PD 968 specifies several categories of offenders who are **disqualified** from b
 - **Revocation:** If the probationer violates the conditions of their probation, the probation officer can recommend that the court **revoke** the probation. If revoked, the court will order the probationer to serve their original prison sentence.
 
 ---
+| :--- | :--- | :--- |
+| **What is it?**| An alternative to prison. | An early release from prison. |
+| **Who grants it?** | The Judge / Court. | The Board of Pardons and Parole (BPP). |
+| **When is it granted?**| After conviction, instead of incarceration. | After serving the minimum prison sentence. |
+| **Supervising Agency**| Parole and Probation Administration (PPA) | Parole and Probation Administration (PPA) |
+| **Subject** | Probationer | Parolee |
+
+---
+
+**Non-Institutional Corrections**, also known as community-based corrections, refers to the supervision of criminal offenders in the community as an alternative to incarceration. The two main forms of community-based corrections are **Probation** and **Parole**. While both involve supervision within the community, they are distinct processes that occur at different stages of the criminal justice system. This module will define and differentiate between probation and parole, and outline the basic procedures for their application and administration in the Philippines.
+
+### Key Learning Objectives:
+- Define Probation and Parole and differentiate between the two.
+- Identify the purpose and benefits of probation.
+- Understand the eligibility requirements and application process for probation under PD 968.
+- Describe the role of the Parole and Probation Administration (PPA) and the Board of Pardons and Parole (BPP).
+- Explain the concept of conditions of probation/parole and the consequences of revocation.
+
 
 ## II. Parole
 
@@ -91,14 +95,6 @@ PD 968 specifies several categories of offenders who are **disqualified** from b
 
 **Summary: Probation vs. Parole**
 | Feature | Probation | Parole |
-| :--- | :--- | :--- |
-| **What is it?**| An alternative to prison. | An early release from prison. |
-| **Who grants it?** | The Judge / Court. | The Board of Pardons and Parole (BPP). |
-| **When is it granted?**| After conviction, instead of incarceration. | After serving the minimum prison sentence. |
-| **Supervising Agency**| Parole and Probation Administration (PPA) | Parole and Probation Administration (PPA) |
-| **Subject** | Probationer | Parolee |
-
----
 
 ## Conclusion
 

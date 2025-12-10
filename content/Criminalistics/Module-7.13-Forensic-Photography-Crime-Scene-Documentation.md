@@ -2,20 +2,6 @@
 title: 'Module 7.13: Forensic Photography & Crime Scene Documentation'
 description: 'An introduction to the principles and techniques of forensic photography, its role in documenting the crime scene, and the importance of maintaining a proper chain of custody for digital evidence.'
 ---
-
-# Module 7.13: Forensic Photography & Crime Scene Documentation
-
-## Introduction
-
-"A picture is worth a thousand words." This is especially true in a criminal investigation. **Forensic Photography**, also known as crime scene photography, is the art and science of creating a permanent, accurate, and fair visual record of a crime scene and physical evidence. Its purpose is to support the notes and sketches of the crime scene investigator and to provide a visual aid for the judge, jury, and others who were not present at the scene. Effective crime scene documentation, with photography at its core, is essential for the successful investigation and prosecution of a crime.
-
-### Key Learning Objectives:
-- State the purpose and cardinal principles of forensic photography.
-- Describe the three main types of photographs taken at a crime scene (Overall, Mid-range, Close-up).
-- Understand the importance of using a photographic scale.
-- Explain the basics of crime scene sketching.
-- Discuss the importance of the chain of custody for digital images.
-
 ---
 
 ## I. The Purpose and Principles of Forensic Photography
@@ -34,6 +20,53 @@ There are two main principles that govern the practice of forensic photography:
 2.  **Completeness:** The photographic record must be complete. It is a common saying that it is better to take too many photos than too few. The investigator should photograph the entire scene, all evidence, and all approaches and exits.
 
 ---
+---
+
+## III. Crime Scene Sketching
+
+A crime scene sketch is a hand-drawn or computer-generated diagram of the crime scene that accurately depicts the location of evidence and other important features. It is a vital supplement to the photographs.
+
+### A. Why Sketch if You Have Photos?
+- **Selectivity:** A sketch can leave out irrelevant clutter and focus only on the important items.
+- **Measurements:** A sketch provides the precise measurements and distances between objects, which a photograph cannot do.
+- **Clarity:** It can provide a simple, "bird's-eye view" that is easy for a jury to understand.
+
+### B. Types of Sketches
+1.  **Rough Sketch:** A pencil-drawn sketch created *at the crime scene*. It contains all the necessary information, measurements, and evidence locations, but it is not "pretty."
+2.  **Finished/Final Sketch:** A formal, cleaned-up version of the rough sketch that is created back at the office, often using computer-aided design (CAD) software. It is drawn to scale and is used for courtroom presentation. The rough sketch is still retained as evidence.
+
+### C. Information on a Sketch
+A proper sketch must include:
+- A **legend** identifying the items of evidence.
+- A **compass** showing the north direction.
+- The **date, time, and location** of the scene.
+- The **name of the artist** and the case number.
+- Accurate **measurements** showing the location of evidence from at least two fixed points (a method called **triangulation**).
+
+---
+---
+
+## V. Digital Photography and Chain of Custody
+
+The move from film to digital photography has created new challenges for evidence management.
+
+- **Chain of Custody:** Just like physical evidence, digital images must have a documented chain of custody. This means tracking the image file from the moment it is created on the camera's memory card to the time it is presented in court.
+- **Authenticity:** To ensure the images are not altered, the original, unaltered digital files must be preserved. Any adjustments (like brightness or contrast) must be made on a *copy* of the original image, and all changes must be documented.
+- **Metadata:** The data attached to a digital image file (such as the date, time, and camera used) is also an important part of the record.
+
+---
+
+## Introduction
+
+"A picture is worth a thousand words." This is especially true in a criminal investigation. **Forensic Photography**, also known as crime scene photography, is the art and science of creating a permanent, accurate, and fair visual record of a crime scene and physical evidence. Its purpose is to support the notes and sketches of the crime scene investigator and to provide a visual aid for the judge, jury, and others who were not present at the scene. Effective crime scene documentation, with photography at its core, is essential for the successful investigation and prosecution of a crime.
+
+### Key Learning Objectives:
+- State the purpose and cardinal principles of forensic photography.
+- Describe the three main types of photographs taken at a crime scene (Overall, Mid-range, Close-up).
+- Understand the importance of using a photographic scale.
+- Explain the basics of crime scene sketching.
+- Discuss the importance of the chain of custody for digital images.
+
 
 ## II. The Three Stages of Crime Scene Photography
 
@@ -67,30 +100,6 @@ A systematic approach is required to ensure a complete photographic record. This
 2.  **Mid-Range:** Where is the evidence within the scene?
 3.  **Close-Up (with scale):** What are the specific details and size of the evidence?
 
----
-
-## III. Crime Scene Sketching
-
-A crime scene sketch is a hand-drawn or computer-generated diagram of the crime scene that accurately depicts the location of evidence and other important features. It is a vital supplement to the photographs.
-
-### A. Why Sketch if You Have Photos?
-- **Selectivity:** A sketch can leave out irrelevant clutter and focus only on the important items.
-- **Measurements:** A sketch provides the precise measurements and distances between objects, which a photograph cannot do.
-- **Clarity:** It can provide a simple, "bird's-eye view" that is easy for a jury to understand.
-
-### B. Types of Sketches
-1.  **Rough Sketch:** A pencil-drawn sketch created *at the crime scene*. It contains all the necessary information, measurements, and evidence locations, but it is not "pretty."
-2.  **Finished/Final Sketch:** A formal, cleaned-up version of the rough sketch that is created back at the office, often using computer-aided design (CAD) software. It is drawn to scale and is used for courtroom presentation. The rough sketch is still retained as evidence.
-
-### C. Information on a Sketch
-A proper sketch must include:
-- A **legend** identifying the items of evidence.
-- A **compass** showing the north direction.
-- The **date, time, and location** of the scene.
-- The **name of the artist** and the case number.
-- Accurate **measurements** showing the location of evidence from at least two fixed points (a method called **triangulation**).
-
----
 
 ## IV. Other Forms of Documentation
 
@@ -105,17 +114,6 @@ A **photo log** is a written record of every photograph taken at the scene. It i
 - The location and camera settings.
 - This log is essential for keeping track of the photos and is a required part of the case file.
 
----
-
-## V. Digital Photography and Chain of Custody
-
-The move from film to digital photography has created new challenges for evidence management.
-
-- **Chain of Custody:** Just like physical evidence, digital images must have a documented chain of custody. This means tracking the image file from the moment it is created on the camera's memory card to the time it is presented in court.
-- **Authenticity:** To ensure the images are not altered, the original, unaltered digital files must be preserved. Any adjustments (like brightness or contrast) must be made on a *copy* of the original image, and all changes must be documented.
-- **Metadata:** The data attached to a digital image file (such as the date, time, and camera used) is also an important part of the record.
-
----
 
 ## Conclusion
 

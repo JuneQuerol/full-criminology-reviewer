@@ -2,20 +2,6 @@
 title: 'Module 7.6: Other Biometric Methods'
 description: 'An exploration of other biometric identification methods used in forensic science beyond fingerprints and DNA, including facial recognition, iris/retinal scanning, and voice analysis.'
 ---
-
-# Module 7.6: Other Biometric Methods (Facial, Iris, Voice)
-
-## Introduction
-
-While fingerprints and DNA are the undisputed heavyweights of forensic identification, advances in technology have introduced a range of other biometric methods that are increasingly used to identify individuals. **Biometrics** refers to the measurement and statistical analysis of people's unique physical and behavioral characteristics. This module explores several of these emerging and established biometric techniques, including facial recognition, iris and retinal scanning, and voice analysis, and discusses their applications and limitations in a forensic context.
-
-### Key Learning Objectives:
-- Define biometrics and understand its application in forensic science.
-- Explain the principles of facial recognition technology.
-- Differentiate between iris scanning and retinal scanning.
-- Describe the basis for voice identification.
-- Compare the reliability of these methods to traditional fingerprint and DNA analysis.
-
 ---
 
 ## I. Facial Recognition
@@ -45,6 +31,31 @@ The process generally involves four steps:
 - **Not Unique:** Unlike fingerprints or DNA, facial features are not scientifically proven to be unique. It is a tool for generating investigative leads, not for absolute identification in court.
 
 ---
+| :--- | :--- | :--- |
+| **Target** | Front, colored part of the eye | Back of the eyeball (blood vessels) |
+| **Process** | Similar to taking a photograph | Requires looking into a receptacle |
+| **Accuracy** | Extremely High | Extremely High |
+| **Intrusiveness**| Low | High |
+| **Common Use** | High-security access control, national ID programs | Ultra-high security military/government facilities |
+
+---
+---
+
+## Conclusion
+
+Biometrics is a rapidly evolving field that offers powerful new tools for forensic investigation. Facial recognition provides a means to generate leads from the vast amount of video surveillance in modern society. Ocular scanning offers an almost infallible method of identity verification for high-security applications. Voice recognition can provide valuable clues in cases involving recorded conversations. However, it is crucial to understand the limitations of each technology. While they are powerful investigative aids, none of these methods currently matches the universal acceptance and scientific foundation of fingerprint and DNA analysis for providing absolute proof of identity in a court of law.
+
+## Introduction
+
+While fingerprints and DNA are the undisputed heavyweights of forensic identification, advances in technology have introduced a range of other biometric methods that are increasingly used to identify individuals. **Biometrics** refers to the measurement and statistical analysis of people's unique physical and behavioral characteristics. This module explores several of these emerging and established biometric techniques, including facial recognition, iris and retinal scanning, and voice analysis, and discusses their applications and limitations in a forensic context.
+
+### Key Learning Objectives:
+- Define biometrics and understand its application in forensic science.
+- Explain the principles of facial recognition technology.
+- Differentiate between iris scanning and retinal scanning.
+- Describe the basis for voice identification.
+- Compare the reliability of these methods to traditional fingerprint and DNA analysis.
+
 
 ## II. Ocular Recognition (Iris and Retina)
 
@@ -65,14 +76,6 @@ The human eye contains complex and unique patterns that can be used for highly a
 
 **Comparison: Iris vs. Retina**
 | Feature | Iris Scan | Retina Scan |
-| :--- | :--- | :--- |
-| **Target** | Front, colored part of the eye | Back of the eyeball (blood vessels) |
-| **Process** | Similar to taking a photograph | Requires looking into a receptacle |
-| **Accuracy** | Extremely High | Extremely High |
-| **Intrusiveness**| Low | High |
-| **Common Use** | High-security access control, national ID programs | Ultra-high security military/government facilities |
-
----
 
 ## III. Voice Recognition (Voiceprinting)
 
@@ -94,9 +97,3 @@ Voice recognition uses a person's voice as a unique identifying characteristic. 
 - **Variability:** A person's voice can be altered by illness (a cold), emotion (stress, anger), or intoxication.
 - **Background Noise:** Can interfere with the quality of the recording.
 - **Disguise:** A person can deliberately attempt to disguise their voice.
-
----
-
-## Conclusion
-
-Biometrics is a rapidly evolving field that offers powerful new tools for forensic investigation. Facial recognition provides a means to generate leads from the vast amount of video surveillance in modern society. Ocular scanning offers an almost infallible method of identity verification for high-security applications. Voice recognition can provide valuable clues in cases involving recorded conversations. However, it is crucial to understand the limitations of each technology. While they are powerful investigative aids, none of these methods currently matches the universal acceptance and scientific foundation of fingerprint and DNA analysis for providing absolute proof of identity in a court of law.

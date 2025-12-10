@@ -2,19 +2,6 @@
 title: 'Module 9.3: Crime, Criminal, and Criminality Defined'
 description: 'A conceptual exploration of the core terms in criminology: Crime, Criminal, and Criminality, and the different ways in which crime is defined and classified.'
 ---
-
-# Module 9.3: Crime, Criminal, and Criminality Defined
-
-## Introduction
-
-To study criminology, one must first have a clear understanding of its core concepts. The field revolves around three central terms: **Crime**, the act itself; **Criminal**, the person who commits the act; and **Criminality**, the nature or quality of the act. While these terms may seem simple, their definitions are complex and are viewed differently from legal and criminological perspectives. This module will define these foundational terms and explore the various ways in which crime is classified.
-
-### Key Learning Objectives:
-- Differentiate between the legal and criminological definitions of crime.
-- Define the terms "criminal" and "criminality."
-- Classify crimes according to their legal status, severity, and nature.
-- Understand the concept of the "crime triangle."
-
 ---
 
 ## I. Defining "Crime"
@@ -43,17 +30,6 @@ This is a simple model used in crime analysis to understand the necessary elemen
 The central idea of many crime prevention strategies is to break this triangle by removing one of its sides (e.g., by increasing guardianship through more police patrols).
 
 ---
-
-## II. Defining "Criminal" and "Criminality"
-
-### A. Criminal
-- **Legal Definition:** A "criminal" is a person who has been tried and convicted of a crime in a court of law. Until a conviction is final, a person is only a **suspect** or an **accused**.
-- **Criminological Definition:** From a criminological perspective, a "criminal" is any person who has committed a criminal act, regardless of whether they have been caught, tried, or convicted.
-
-### B. Criminality
-- **Definition:** Criminality is the **quality or state of being criminal**. It is the set of behavioral, psychological, and social characteristics associated with the tendency to commit crimes.
-- **Focus of Study:** While the law focuses on the crime (the act), criminology is often more interested in the criminality (the nature of the person). Positivist criminologists, in particular, seek to identify the factors that contribute to a person's criminality.
-
 ---
 
 ## III. Classification of Crimes
@@ -95,6 +71,28 @@ Crimes can be classified in many different ways.
     - **Non-Index Crimes:** All other illegal acts, including violations of special laws (e.g., drug laws, traffic laws) or less serious felonies.
 
 ---
+
+## Introduction
+
+To study criminology, one must first have a clear understanding of its core concepts. The field revolves around three central terms: **Crime**, the act itself; **Criminal**, the person who commits the act; and **Criminality**, the nature or quality of the act. While these terms may seem simple, their definitions are complex and are viewed differently from legal and criminological perspectives. This module will define these foundational terms and explore the various ways in which crime is classified.
+
+### Key Learning Objectives:
+- Differentiate between the legal and criminological definitions of crime.
+- Define the terms "criminal" and "criminality."
+- Classify crimes according to their legal status, severity, and nature.
+- Understand the concept of the "crime triangle."
+
+
+## II. Defining "Criminal" and "Criminality"
+
+### A. Criminal
+- **Legal Definition:** A "criminal" is a person who has been tried and convicted of a crime in a court of law. Until a conviction is final, a person is only a **suspect** or an **accused**.
+- **Criminological Definition:** From a criminological perspective, a "criminal" is any person who has committed a criminal act, regardless of whether they have been caught, tried, or convicted.
+
+### B. Criminality
+- **Definition:** Criminality is the **quality or state of being criminal**. It is the set of behavioral, psychological, and social characteristics associated with the tendency to commit crimes.
+- **Focus of Study:** While the law focuses on the crime (the act), criminology is often more interested in the criminality (the nature of the person). Positivist criminologists, in particular, seek to identify the factors that contribute to a person's criminality.
+
 
 ## Conclusion
 

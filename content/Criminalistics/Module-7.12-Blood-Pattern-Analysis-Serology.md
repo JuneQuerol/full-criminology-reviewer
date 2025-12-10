@@ -2,20 +2,6 @@
 title: 'Module 7.12: Blood Pattern Analysis & Serology'
 description: 'An introduction to the analysis of blood evidence, covering Serology (the identification of bodily fluids) and Bloodstain Pattern Analysis (BPA), which interprets the physical patterns of bloodstains.'
 ---
-
-# Module 7.12: Blood Pattern Analysis & Serology
-
-## Introduction
-
-Blood is one of the most common and important types of physical evidence found at violent crime scenes. Its analysis involves two distinct but related disciplines: **Serology**, which deals with the identification of bodily fluids, and **Bloodstain Pattern Analysis (BPA)**, which is the interpretation of the shape, size, and distribution of bloodstains to reconstruct the events of a crime. This module will cover the basics of serology—confirming a substance is blood and determining its origin—and then delve into the fascinating field of BPA, which can tell a story written in blood.
-
-### Key Learning Objectives:
-- Differentiate between Serology and Bloodstain Pattern Analysis.
-- Describe the process for identifying a substance as blood.
-- Explain how to determine if blood is of human or animal origin.
-- Understand how the shape of a bloodstain reveals its angle of impact.
-- Identify and interpret different types of bloodstain patterns (passive, spatter, transfer).
-
 ---
 
 ## I. Serology: The Identification of Blood
@@ -47,32 +33,6 @@ Before any advanced analysis can be done, a red-brown stain found at a crime sce
 Once identified as human blood, the sample would then proceed to the DNA lab for profiling (as covered in Module 7.5).
 
 ---
-
-## II. Bloodstain Pattern Analysis (BPA)
-
-BPA is the examination of the shapes, locations, and distribution patterns of bloodstains, in order to provide an interpretation of the physical events that gave rise to their origin. A bloodstain pattern analyst can reconstruct events by applying principles of biology, physics (fluid dynamics), and mathematics.
-
-### A. Physical Properties of Blood
-- Blood is held together by **surface tension**, which causes it to form spherical droplets when in flight.
-- A standard drop of blood has a volume of approximately 0.05 mL.
-
-### B. Information from a Single Bloodstain
-
-1.  **Shape and Angle of Impact:** The shape of a bloodstain reveals the angle at which it struck a surface.
-    - **90-degree impact (drip):** Produces a perfectly round stain.
-    - **Less than 90 degrees:** The stain becomes elongated, forming an **elliptical** or "teardrop" shape. The narrower the angle, the longer the stain.
-    - The pointed or "tailed" end of the bloodstain always points in the **direction of travel**.
-
-2.  **Calculating the Angle of Impact:**
-    - The angle can be calculated using trigonometry:
-      **Angle (θ) = arcsin (Width / Length)**
-    - For example, a stain that is 1 cm wide and 2 cm long struck the surface at an angle of 30 degrees (arcsin(1/2) = 30°).
-
-### C. The Area of Convergence and Origin
-
-- **Area of Convergence:** The point on a two-dimensional surface from which the bloodstains originated. It is found by drawing straight lines through the long axis of several individual bloodstains. The point where the lines intersect is the area of convergence.
-- **Area of Origin (or Point of Origin):** The three-dimensional location from which the blood originated. It is determined by using the angle of impact of each stain in conjunction with the area of convergence. This helps to determine if a victim was standing, sitting, or lying down when they were bleeding.
-
 ---
 
 ## III. Classification of Bloodstain Patterns
@@ -106,6 +66,44 @@ Bloodstain patterns are generally classified into three main categories: passive
 - **Pattern Transfers:** A recognizable image of a bloody object is left on a surface, such as a bloody handprint, footprint, or the impression of a weapon.
 
 ---
+
+## Introduction
+
+Blood is one of the most common and important types of physical evidence found at violent crime scenes. Its analysis involves two distinct but related disciplines: **Serology**, which deals with the identification of bodily fluids, and **Bloodstain Pattern Analysis (BPA)**, which is the interpretation of the shape, size, and distribution of bloodstains to reconstruct the events of a crime. This module will cover the basics of serology—confirming a substance is blood and determining its origin—and then delve into the fascinating field of BPA, which can tell a story written in blood.
+
+### Key Learning Objectives:
+- Differentiate between Serology and Bloodstain Pattern Analysis.
+- Describe the process for identifying a substance as blood.
+- Explain how to determine if blood is of human or animal origin.
+- Understand how the shape of a bloodstain reveals its angle of impact.
+- Identify and interpret different types of bloodstain patterns (passive, spatter, transfer).
+
+
+## II. Bloodstain Pattern Analysis (BPA)
+
+BPA is the examination of the shapes, locations, and distribution patterns of bloodstains, in order to provide an interpretation of the physical events that gave rise to their origin. A bloodstain pattern analyst can reconstruct events by applying principles of biology, physics (fluid dynamics), and mathematics.
+
+### A. Physical Properties of Blood
+- Blood is held together by **surface tension**, which causes it to form spherical droplets when in flight.
+- A standard drop of blood has a volume of approximately 0.05 mL.
+
+### B. Information from a Single Bloodstain
+
+1.  **Shape and Angle of Impact:** The shape of a bloodstain reveals the angle at which it struck a surface.
+    - **90-degree impact (drip):** Produces a perfectly round stain.
+    - **Less than 90 degrees:** The stain becomes elongated, forming an **elliptical** or "teardrop" shape. The narrower the angle, the longer the stain.
+    - The pointed or "tailed" end of the bloodstain always points in the **direction of travel**.
+
+2.  **Calculating the Angle of Impact:**
+    - The angle can be calculated using trigonometry:
+      **Angle (θ) = arcsin (Width / Length)**
+    - For example, a stain that is 1 cm wide and 2 cm long struck the surface at an angle of 30 degrees (arcsin(1/2) = 30°).
+
+### C. The Area of Convergence and Origin
+
+- **Area of Convergence:** The point on a two-dimensional surface from which the bloodstains originated. It is found by drawing straight lines through the long axis of several individual bloodstains. The point where the lines intersect is the area of convergence.
+- **Area of Origin (or Point of Origin):** The three-dimensional location from which the blood originated. It is determined by using the angle of impact of each stain in conjunction with the area of convergence. This helps to determine if a victim was standing, sitting, or lying down when they were bleeding.
+
 
 ## Conclusion
 

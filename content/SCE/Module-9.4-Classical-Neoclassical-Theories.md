@@ -2,20 +2,6 @@
 title: 'Module 9.4: Classical & Neoclassical Theories'
 description: 'A detailed look at the Classical School of Criminology, its core principles of free will and deterrence, and the modifications introduced by the Neoclassical School.'
 ---
-
-# Module 9.4: Classical & Neoclassical Theories (Beccaria, Bentham)
-
-## Introduction
-
-The **Classical School of Criminology**, which emerged in the 18th century during the Enlightenment, represents the first modern attempt to explain criminal behavior in a systematic and logical way. Its theories were not concerned with the "causes" of crime in a scientific sense, but with creating a more rational and humane legal system. The classical view is based on the central premise that human beings are rational actors who possess free will. This module will explore the foundational ideas of the Classical School, as articulated by its primary thinkers, and the subsequent modifications made by the **Neoclassical School**.
-
-### Key Learning Objectives:
-- Explain the historical context of the Classical School.
-- Describe the core principles of Classical theory: free will, hedonism, and rational calculation.
-- Understand Cesare Beccaria's and Jeremy Bentham's contributions to criminology.
-- Explain the concept of deterrence and its role in classical thought.
-- Differentiate between the pure Classical School and the Neoclassical School.
-
 ---
 
 ## I. The Classical School of Criminology
@@ -41,25 +27,6 @@ For punishment to be an effective deterrent, it must have three key qualities:
 **Board Exam Tip:** Certainty is the most important element of deterrence.
 
 ---
-
-## II. Key Thinkers of the Classical School
-
-### A. Cesare Beccaria (1738-1794)
-- **Contribution:** His book *On Crimes and Punishments* (1764) is the single most important work of the Classical School. It was a passionate plea for a rational and humane justice system.
-- **Key Ideas:**
-    - The law should be clear and written down, and it should apply equally to all citizens.
-    - The purpose of punishment is deterrence, not revenge.
-    - Punishment should be swift, certain, and proportionate to the crime.
-    - He argued against the use of torture to obtain confessions and was one of the first major thinkers to call for the abolition of the death penalty.
-    - The judge's role should be limited to determining guilt or innocence; they should not have the discretion to interpret the law or create punishments.
-
-### B. Jeremy Bentham (1748-1832)
-- **Contribution:** An English philosopher who expanded on Beccaria's ideas and developed the principle of **Utilitarianism**.
-- **Key Ideas:**
-    - **Utilitarianism:** The idea that all laws and actions should be judged by their "utility"—their ability to produce the greatest happiness for the greatest number of people.
-    - **Hedonistic Calculus:** He formalized the idea that people make rational choices based on a calculation of pleasure vs. pain.
-    - **The Panopticon:** He designed a famous model for a prison, the "Panopticon," where a single guard could observe all the inmates without them knowing if they were being watched. This was intended as a physical manifestation of the principle of certainty of punishment.
-
 ---
 
 ## III. The Neoclassical School of Criminology
@@ -83,6 +50,42 @@ The Neoclassical School accepted the basic principle of free will but argued tha
 The legal system in the Philippines today is largely neoclassical. The Revised Penal Code defines crimes and sets out punishments (Classical), but it also provides for a wide range of **mitigating and justifying circumstances** (Neoclassical) that can modify criminal liability.
 
 ---
+---
+
+## Conclusion
+
+The Classical School of Criminology provided the world with its first modern, rational theory of crime. By asserting that individuals are free-willed, rational actors, Beccaria and Bentham laid the groundwork for a justice system based on deterrence and the rule of law, replacing one based on superstition and arbitrary power. The Neoclassical School refined these ideas, introducing a crucial element of flexibility by recognizing that free will is not absolute and that individual circumstances matter. These two-hundred-year-old ideas remain profoundly influential, continuing to shape our debates about crime, punishment, and human nature to this day.
+
+## Introduction
+
+The **Classical School of Criminology**, which emerged in the 18th century during the Enlightenment, represents the first modern attempt to explain criminal behavior in a systematic and logical way. Its theories were not concerned with the "causes" of crime in a scientific sense, but with creating a more rational and humane legal system. The classical view is based on the central premise that human beings are rational actors who possess free will. This module will explore the foundational ideas of the Classical School, as articulated by its primary thinkers, and the subsequent modifications made by the **Neoclassical School**.
+
+### Key Learning Objectives:
+- Explain the historical context of the Classical School.
+- Describe the core principles of Classical theory: free will, hedonism, and rational calculation.
+- Understand Cesare Beccaria's and Jeremy Bentham's contributions to criminology.
+- Explain the concept of deterrence and its role in classical thought.
+- Differentiate between the pure Classical School and the Neoclassical School.
+
+
+## II. Key Thinkers of the Classical School
+
+### A. Cesare Beccaria (1738-1794)
+- **Contribution:** His book *On Crimes and Punishments* (1764) is the single most important work of the Classical School. It was a passionate plea for a rational and humane justice system.
+- **Key Ideas:**
+    - The law should be clear and written down, and it should apply equally to all citizens.
+    - The purpose of punishment is deterrence, not revenge.
+    - Punishment should be swift, certain, and proportionate to the crime.
+    - He argued against the use of torture to obtain confessions and was one of the first major thinkers to call for the abolition of the death penalty.
+    - The judge's role should be limited to determining guilt or innocence; they should not have the discretion to interpret the law or create punishments.
+
+### B. Jeremy Bentham (1748-1832)
+- **Contribution:** An English philosopher who expanded on Beccaria's ideas and developed the principle of **Utilitarianism**.
+- **Key Ideas:**
+    - **Utilitarianism:** The idea that all laws and actions should be judged by their "utility"—their ability to produce the greatest happiness for the greatest number of people.
+    - **Hedonistic Calculus:** He formalized the idea that people make rational choices based on a calculation of pleasure vs. pain.
+    - **The Panopticon:** He designed a famous model for a prison, the "Panopticon," where a single guard could observe all the inmates without them knowing if they were being watched. This was intended as a physical manifestation of the principle of certainty of punishment.
+
 
 ## IV. Legacy and Modern Relevance
 
@@ -96,9 +99,3 @@ Modern crime control strategies that are based on these theories include:
 - **Rational Choice Theory:** A modern version of Classical theory which views crime as a rational calculation of risk vs. reward.
 - **Deterrence Theory:** The basis for strategies like increasing police patrols (to increase the certainty of being caught) or imposing mandatory minimum sentences (to increase the severity of punishment).
 - **Situational Crime Prevention:** The strategy of making crime a less rational choice by "hardening" targets and increasing the risks (e.g., putting up CCTV cameras, using stronger locks, having more security guards).
-
----
-
-## Conclusion
-
-The Classical School of Criminology provided the world with its first modern, rational theory of crime. By asserting that individuals are free-willed, rational actors, Beccaria and Bentham laid the groundwork for a justice system based on deterrence and the rule of law, replacing one based on superstition and arbitrary power. The Neoclassical School refined these ideas, introducing a crucial element of flexibility by recognizing that free will is not absolute and that individual circumstances matter. These two-hundred-year-old ideas remain profoundly influential, continuing to shape our debates about crime, punishment, and human nature to this day.

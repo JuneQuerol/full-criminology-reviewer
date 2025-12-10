@@ -2,20 +2,6 @@
 title: 'Module 7.14: Polygraphy & Lie Detection'
 description: 'An exploration of the theory and practice of polygraphy, the "lie detector," including the instrument, the examination process, and its controversial status in the legal system.'
 ---
-
-# Module 7.14: Polygraphy & Lie Detection
-
-## Introduction
-
-The quest for a reliable method of detecting deception is as old as crime itself. The most well-known, and most controversial, of these methods is **Polygraphy**. The polygraph, popularly known as the "lie detector," is not actually a lie detector. It is an instrument that measures and records several physiological responses from the human body on the theory that a person's fear of detection will cause these responses to change when they are being deceptive. This module will explain the theory behind polygraphy, the components of the instrument, the examination process, and its limited role in the criminal justice system.
-
-### Key Learning Objectives:
-- Explain the psycho-physiological theory behind the polygraph.
-- Identify the four major components of a modern polygraph instrument.
-- Describe the stages of a polygraph examination.
-- Differentiate between relevant, irrelevant, and control questions.
-- Understand the legal status of polygraph results in Philippine courts.
-
 ---
 
 ## I. The Theory of Polygraphy
@@ -32,26 +18,6 @@ The use of the polygraph is based on the **Psycho-physiological Principle**: a p
 **Board Exam Tip:** This is a critical distinction. The polygraph is not a "lie detector." It is a recorder of physiological arousal. The human examiner is the "detector."
 
 ---
-
-## II. The Polygraph Instrument
-
-The term "polygraph" literally means "many writings." A modern polygraph instrument simultaneously measures and records at least four physiological responses.
-
-1.  **Cardio-sphygmograph (Cardio) Component:**
-    - **Measures:** Changes in blood pressure and heart rate.
-    - **How it Works:** A standard blood pressure cuff is attached to the subject's upper arm.
-
-2.  **Pneumograph Component:**
-    - **Measures:** Changes in breathing (respiration rate and depth).
-    - **How it Works:** Two convoluted rubber tubes are placed around the subject's chest and abdomen.
-
-3.  **Galvanograph (Galvanic Skin Response - GSR) Component:**
-    - **Measures:** Changes in the skin's electrical resistance, which is related to sweating.
-    - **How it Works:** Two small electrodes are attached to the fingers of one hand. As the sweat glands open, the skin's resistance to the small electrical current decreases.
-
-4.  **Kymograph Component:**
-    - **Measures:** This is the recording part of the instrument. In older analog polygraphs, it was a motorized chart recorder that pulled paper under a set of ink pens. In modern computerized polygraphs, this is the computer screen that displays the tracings.
-
 ---
 
 ## III. The Polygraph Examination Process
@@ -81,6 +47,54 @@ A professional polygraph examination is a lengthy and systematic process that co
     - **Inconclusive (INC):** The results are unclear and no opinion can be formed.
 
 ---
+---
+
+## V. Legal Status and Validity
+
+- **Not Admissible in Court:** In the Philippines, the results of a polygraph examination are **not admissible in court** as evidence of guilt or innocence. The scientific community has not universally accepted its reliability, and it is considered to fall short of the standard for scientific evidence.
+- **Investigative Aid:** Despite its inadmissibility, law enforcement agencies (like the PNP and NBI) use it extensively as an **investigative tool**.
+    - It can help narrow down a list of suspects.
+    - It can be very effective in inducing confessions.
+    - It can help verify the statements of witnesses.
+- **Pre-Employment Screening:** It is also widely used for pre-employment screening for sensitive positions in law enforcement and intelligence agencies.
+
+### Issues of Accuracy
+- **False Negatives:** A deceptive person who feels no fear or guilt (e.g., a psychopath) or who has been trained in countermeasures (e.g., a spy) might be able to "beat" the test.
+- **False Positives:** A truthful person who is extremely nervous might react strongly to the relevant questions, leading to a false indication of deception.
+
+---
+
+## Introduction
+
+The quest for a reliable method of detecting deception is as old as crime itself. The most well-known, and most controversial, of these methods is **Polygraphy**. The polygraph, popularly known as the "lie detector," is not actually a lie detector. It is an instrument that measures and records several physiological responses from the human body on the theory that a person's fear of detection will cause these responses to change when they are being deceptive. This module will explain the theory behind polygraphy, the components of the instrument, the examination process, and its limited role in the criminal justice system.
+
+### Key Learning Objectives:
+- Explain the psycho-physiological theory behind the polygraph.
+- Identify the four major components of a modern polygraph instrument.
+- Describe the stages of a polygraph examination.
+- Differentiate between relevant, irrelevant, and control questions.
+- Understand the legal status of polygraph results in Philippine courts.
+
+
+## II. The Polygraph Instrument
+
+The term "polygraph" literally means "many writings." A modern polygraph instrument simultaneously measures and records at least four physiological responses.
+
+1.  **Cardio-sphygmograph (Cardio) Component:**
+    - **Measures:** Changes in blood pressure and heart rate.
+    - **How it Works:** A standard blood pressure cuff is attached to the subject's upper arm.
+
+2.  **Pneumograph Component:**
+    - **Measures:** Changes in breathing (respiration rate and depth).
+    - **How it Works:** Two convoluted rubber tubes are placed around the subject's chest and abdomen.
+
+3.  **Galvanograph (Galvanic Skin Response - GSR) Component:**
+    - **Measures:** Changes in the skin's electrical resistance, which is related to sweating.
+    - **How it Works:** Two small electrodes are attached to the fingers of one hand. As the sweat glands open, the skin's resistance to the small electrical current decreases.
+
+4.  **Kymograph Component:**
+    - **Measures:** This is the recording part of the instrument. In older analog polygraphs, it was a motorized chart recorder that pulled paper under a set of ink pens. In modern computerized polygraphs, this is the computer screen that displays the tracings.
+
 
 ## IV. Question Formulation
 
@@ -105,22 +119,6 @@ The "art" of polygraphy lies in the proper formulation and sequence of questions
 - A **truthful** person's biggest concern is the control question (they are worried the examiner will find out about their past). They will react more strongly to the control question than to the relevant question (which they know they are innocent of).
 - A **deceptive** person's biggest concern is the relevant question (they are afraid of being caught for the crime). They will react more strongly to the relevant question than to the control question.
 
----
-
-## V. Legal Status and Validity
-
-- **Not Admissible in Court:** In the Philippines, the results of a polygraph examination are **not admissible in court** as evidence of guilt or innocence. The scientific community has not universally accepted its reliability, and it is considered to fall short of the standard for scientific evidence.
-- **Investigative Aid:** Despite its inadmissibility, law enforcement agencies (like the PNP and NBI) use it extensively as an **investigative tool**.
-    - It can help narrow down a list of suspects.
-    - It can be very effective in inducing confessions.
-    - It can help verify the statements of witnesses.
-- **Pre-Employment Screening:** It is also widely used for pre-employment screening for sensitive positions in law enforcement and intelligence agencies.
-
-### Issues of Accuracy
-- **False Negatives:** A deceptive person who feels no fear or guilt (e.g., a psychopath) or who has been trained in countermeasures (e.g., a spy) might be able to "beat" the test.
-- **False Positives:** A truthful person who is extremely nervous might react strongly to the relevant questions, leading to a false indication of deception.
-
----
 
 ## Conclusion
 

@@ -2,20 +2,6 @@
 title: 'Module 9.7: Juvenile Delinquency & RA 9344'
 description: 'An overview of the concept of juvenile delinquency and the legal framework that governs children in conflict with the law in the Philippines, primarily RA 9344.'
 ---
-
-# Module 9.7: Juvenile Delinquency & RA 9344
-
-## Introduction
-
-**Juvenile Delinquency** refers to criminal or antisocial acts committed by minors (persons below the age of legal majority). The handling of juvenile offenders is one of the most complex and debated areas of the criminal justice system. Society recognizes that children are different from adults—they are less mature, more impulsive, and more capable of change. For this reason, most countries have a separate juvenile justice system. In the Philippines, the cornerstone of this system is **Republic Act No. 9344**, also known as the **"Juvenile Justice and Welfare Act of 2006."** This module explains the concept of delinquency and details the key provisions of this landmark law.
-
-### Key Learning Objectives:
-- Define juvenile delinquency and "child in conflict with the law."
-- Understand the concept of "parens patriae" as the philosophy of juvenile justice.
-- Explain the key principle of "restorative justice" under RA 9344.
-- Identify the different age levels of criminal responsibility.
-- Describe the process of diversion and intervention for children in conflict with the law.
-
 ---
 
 ## I. The Concept of Juvenile Delinquency
@@ -29,6 +15,40 @@ description: 'An overview of the concept of juvenile delinquency and the legal f
 - **Focus:** The primary goal of the juvenile justice system is not to punish the child but to **rehabilitate and protect** them. The focus is on the child's welfare and best interests, not on retribution.
 
 ---
+| :--- | :--- | :--- |
+| **15 years old or younger** | **Absolutely Exempt** from criminal liability. | The child is immediately released to their parents/guardian. They must undergo a community-based **intervention program**. |
+| **Over 15 but under 18** | **Exempt, UNLESS** they acted with **discernment**. | **Without Discernment:** Same as below 15 (intervention). <br> **With Discernment:** The child undergoes a **diversion program** instead of a formal court proceeding. |
+| **18 years old and above** | **Full Criminal Responsibility.** | Treated as an adult offender. |
+
+- **Discernment:** The mental capacity of a child to understand the difference between right and wrong and to appreciate the consequences of their actions. This is determined by a social worker, not by the police.
+
+**Board Exam Tip:** This age table is the most critical part of RA 9344. You must memorize the different age brackets and the corresponding legal consequences.
+
+---
+---
+
+## IV. Rights of the Child in Conflict with the Law
+
+RA 9344 guarantees that children in conflict with the law are afforded all the rights of an adult accused, plus several special rights, including:
+- The right not to be subjected to torture or other cruel, inhuman, or degrading treatment.
+- The right to privacy at all stages of the proceedings.
+- The right to be treated with humanity and respect for their inherent dignity.
+- The right to have their case handled with dispatch in a separate and specialized juvenile court.
+- The right not to be detained in a jail with adults.
+
+---
+
+## Introduction
+
+**Juvenile Delinquency** refers to criminal or antisocial acts committed by minors (persons below the age of legal majority). The handling of juvenile offenders is one of the most complex and debated areas of the criminal justice system. Society recognizes that children are different from adults—they are less mature, more impulsive, and more capable of change. For this reason, most countries have a separate juvenile justice system. In the Philippines, the cornerstone of this system is **Republic Act No. 9344**, also known as the **"Juvenile Justice and Welfare Act of 2006."** This module explains the concept of delinquency and details the key provisions of this landmark law.
+
+### Key Learning Objectives:
+- Define juvenile delinquency and "child in conflict with the law."
+- Understand the concept of "parens patriae" as the philosophy of juvenile justice.
+- Explain the key principle of "restorative justice" under RA 9344.
+- Identify the different age levels of criminal responsibility.
+- Describe the process of diversion and intervention for children in conflict with the law.
+
 
 ## II. RA 9344: The Juvenile Justice and Welfare Act
 
@@ -43,16 +63,6 @@ Enacted in 2006, RA 9344 represents a major shift in the Philippine approach to 
 RA 9344 (as amended by RA 10630) establishes a system of **differentiated age of criminal responsibility**.
 
 | Age of the Child | Criminal Responsibility | Procedure |
-| :--- | :--- | :--- |
-| **15 years old or younger** | **Absolutely Exempt** from criminal liability. | The child is immediately released to their parents/guardian. They must undergo a community-based **intervention program**. |
-| **Over 15 but under 18** | **Exempt, UNLESS** they acted with **discernment**. | **Without Discernment:** Same as below 15 (intervention). <br> **With Discernment:** The child undergoes a **diversion program** instead of a formal court proceeding. |
-| **18 years old and above** | **Full Criminal Responsibility.** | Treated as an adult offender. |
-
-- **Discernment:** The mental capacity of a child to understand the difference between right and wrong and to appreciate the consequences of their actions. This is determined by a social worker, not by the police.
-
-**Board Exam Tip:** This age table is the most critical part of RA 9344. You must memorize the different age brackets and the corresponding legal consequences.
-
----
 
 ## III. Key Processes under RA 9344
 
@@ -79,18 +89,6 @@ RA 9344 (as amended by RA 10630) establishes a system of **differentiated age of
 - **Definition:** A 24-hour child-caring institution established, funded, and managed by local government units.
 - **Purpose:** To provide short-term residential care for children in conflict with the law who are awaiting court disposition or who need more intensive intervention. It is **not a jail**. It is a youth care facility focused on rehabilitation.
 
----
-
-## IV. Rights of the Child in Conflict with the Law
-
-RA 9344 guarantees that children in conflict with the law are afforded all the rights of an adult accused, plus several special rights, including:
-- The right not to be subjected to torture or other cruel, inhuman, or degrading treatment.
-- The right to privacy at all stages of the proceedings.
-- The right to be treated with humanity and respect for their inherent dignity.
-- The right to have their case handled with dispatch in a separate and specialized juvenile court.
-- The right not to be detained in a jail with adults.
-
----
 
 ## Conclusion
 

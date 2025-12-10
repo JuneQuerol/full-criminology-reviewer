@@ -2,20 +2,6 @@
 title: 'Module 8.8: Types of Surveillance'
 description: 'An overview of the investigative technique of surveillance, covering its purpose and the different types, including fixed, mobile, and electronic surveillance.'
 ---
-
-# Module 8.8: Types of Surveillance
-
-## Introduction
-
-**Surveillance**, in the context of criminal investigation, is the covert (secret) and continuous observation of persons, places, or things to obtain information concerning the activities and identities of individuals. It is a proactive investigative tool used when traditional methods are not sufficient. The goal of surveillance is to see without being seen, to listen without being heard. This module will cover the purpose of surveillance and explore its main types: fixed, mobile, and electronic.
-
-### Key Learning Objectives:
-- Define surveillance and state its primary objectives.
-- Differentiate between fixed/stationary surveillance and mobile/moving surveillance.
-- Describe various methods of mobile surveillance (foot, vehicle).
-- Understand the basics of electronic surveillance.
-- Recognize the legal and privacy issues associated with surveillance.
-
 ---
 
 ## I. The Purpose of Surveillance
@@ -35,22 +21,6 @@ Investigators conduct surveillance to achieve a variety of objectives:
 - **Surveillant:** The investigator conducting the surveillance.
 
 ---
-
-## II. Fixed Surveillance (Stakeout)
-
-Also known as a **stakeout**, this type of surveillance involves observing the subject from a stationary, hidden position.
-
-- **Method:** The surveillant remains in one location, such as a parked car, a rented room, or a concealed observation post (OP).
-- **Purpose:** To monitor activities at a specific location, such as a suspect's house, a known drug den, or a meeting place for criminals.
-- **Advantages:**
-    - It is relatively easy to conduct with minimal personnel.
-    - It is less likely to be detected by the subject than mobile surveillance.
-- **Disadvantages:**
-    - It is ineffective if the subject becomes mobile and leaves the area.
-    - The surveillant can become bored and lose focus over long periods.
-
-**Equipment:** A stakeout often requires specialized equipment, including binoculars or spotting scopes, cameras with telephoto lenses, and night vision devices.
-
 ---
 
 ## III. Mobile Surveillance (Tailing or Shadowing)
@@ -78,6 +48,45 @@ This type of surveillance involves following a subject who is on the move.
 **Board Exam Tip:** Understand the ABC method for foot surveillance and the principle of using multiple cars and rotating positions for vehicular surveillance. The goal is always to follow the subject without them knowing they are being followed.
 
 ---
+---
+
+## V. Technical Surveillance
+
+This is a broad category that includes any specialized technical methods used to gather information.
+- **Binoculars/Telescopes:** For long-distance observation.
+- **Night Vision Goggles:** To see in low-light conditions.
+- **Thermal Imaging:** To detect heat signatures, which can indicate the presence of people inside a building.
+- **Parabolic Microphone:** A long-distance microphone used to listen to conversations from far away.
+
+---
+
+## Introduction
+
+**Surveillance**, in the context of criminal investigation, is the covert (secret) and continuous observation of persons, places, or things to obtain information concerning the activities and identities of individuals. It is a proactive investigative tool used when traditional methods are not sufficient. The goal of surveillance is to see without being seen, to listen without being heard. This module will cover the purpose of surveillance and explore its main types: fixed, mobile, and electronic.
+
+### Key Learning Objectives:
+- Define surveillance and state its primary objectives.
+- Differentiate between fixed/stationary surveillance and mobile/moving surveillance.
+- Describe various methods of mobile surveillance (foot, vehicle).
+- Understand the basics of electronic surveillance.
+- Recognize the legal and privacy issues associated with surveillance.
+
+
+## II. Fixed Surveillance (Stakeout)
+
+Also known as a **stakeout**, this type of surveillance involves observing the subject from a stationary, hidden position.
+
+- **Method:** The surveillant remains in one location, such as a parked car, a rented room, or a concealed observation post (OP).
+- **Purpose:** To monitor activities at a specific location, such as a suspect's house, a known drug den, or a meeting place for criminals.
+- **Advantages:**
+    - It is relatively easy to conduct with minimal personnel.
+    - It is less likely to be detected by the subject than mobile surveillance.
+- **Disadvantages:**
+    - It is ineffective if the subject becomes mobile and leaves the area.
+    - The surveillant can become bored and lose focus over long periods.
+
+**Equipment:** A stakeout often requires specialized equipment, including binoculars or spotting scopes, cameras with telephoto lenses, and night vision devices.
+
 
 ## IV. Electronic Surveillance
 
@@ -98,17 +107,6 @@ This type of surveillance involves the use of electronic devices to monitor conv
 - **Overt CCTV:** Cameras in public places, banks, and stores act as a deterrent and provide evidence after a crime.
 - **Covert Video:** Hidden "pinhole" cameras can be installed (usually with a warrant) to monitor criminal activity inside a specific location.
 
----
-
-## V. Technical Surveillance
-
-This is a broad category that includes any specialized technical methods used to gather information.
-- **Binoculars/Telescopes:** For long-distance observation.
-- **Night Vision Goggles:** To see in low-light conditions.
-- **Thermal Imaging:** To detect heat signatures, which can indicate the presence of people inside a building.
-- **Parabolic Microphone:** A long-distance microphone used to listen to conversations from far away.
-
----
 
 ## Conclusion
 

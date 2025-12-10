@@ -2,20 +2,6 @@
 title: 'Module 6.2: DILG, NAPOLCOM, and the PNP'
 description: 'An in-depth analysis of the organizational relationship between the Department of the Interior and Local Government (DILG), the National Police Commission (NAPOLCOM), and the Philippine National Police (PNP).'
 ---
-
-# Module 6.2: DILG-PNP Relationship & NAPOLCOM
-
-## Introduction
-
-Understanding the precise relationship between the Department of the Interior and Local Government (DILG), the National Police Commission (NAPOLCOM), and the Philippine National Police (PNP) is fundamental to the study of Law Enforcement Administration in the Philippines. This module dissects the legal framework established by RA 6975 and its amendments, clarifying the roles, powers, and functions of each entity. We will explore how these three bodies interact to ensure the PNP remains a civilian force, accountable, and effective in its mission.
-
-### Key Learning Objectives:
-- Define the "triad of police administration" in the Philippine context.
-- Explain the role of the DILG Secretary over the PNP.
-- Detail the composition, powers, and functions of the NAPOLCOM.
-- Distinguish between administrative control and operational supervision.
-- Analyze how these relationships ensure the civilian character of the police.
-
 ---
 
 ## I. The Civilian Character of the Police
@@ -31,6 +17,57 @@ This structure prevents the militarization of law enforcement and ensures that t
 **Board Exam Tip:** Questions frequently test the concept of the "civilian character" of the PNP. Remember that this principle is the primary reason the PNP was moved from the Armed Forces of the Philippines (AFP) to the DILG.
 
 ---
+---
+
+## III. The National Police Commission (NAPOLCOM)
+
+NAPOLCOM is the agency mandated to administer and control the PNP. It is an collegial body attached to the DILG for policy and program coordination. The term "attached" means it retains a degree of independence in its decision-making, even though its Chairperson is the DILG Secretary.
+
+### A. Composition of NAPOLCOM
+The Commission is composed of a Chairperson, four (4) regular Commissioners, and the Chief of the PNP as an *ex-officio* member.
+
+| Member | Details |
+| :--- | :--- |
+---
+
+## IV. PNP: Operational Autonomy and Accountability
+
+While under the DILG and NAPOLCOM, the PNP maintains a degree of operational autonomy necessary for effective law enforcement.
+
+### A. The Chief, PNP
+- The head of the PNP with the rank of Police General.
+- He has the power to **command and direct** the PNP.
+- He is responsible for the day-to-day operations of the police force.
+- He is accountable to the President, the DILG Secretary, and NAPOLCOM.
+
+### B. The Command Structure
+- The PNP has its own internal chain of command, from the Chief, PNP down to the lowest-ranking patrolman.
+- This ensures that operational orders are transmitted efficiently and that there is clear accountability for actions taken in the field.
+
+---
+| :--- | :--- | :--- |
+| **DILG** | **Administrative Control:** Overall departmental authority, budget, and policy alignment. | The DILG Secretary is the head of the department that "houses" the PNP and also chairs NAPOLCOM. |
+| **NAPOLCOM** | **Policy & Oversight:** Sets standards, administers exams, and acts as an appellate body. Exercises administrative control & operational supervision. | An "attached" agency to DILG, it provides a specialized, collegial body to oversee the police. |
+| **PNP** | **Operations:** Enforces the law, maintains peace and order, and investigates crimes. | The executing arm, accountable to both DILG and NAPOLCOM for its administration and performance. |
+
+This triad ensures that:
+- The PNP's administration is consistent with the policies of the civilian government (via DILG).
+- The PNP adheres to professional standards and is subject to external oversight (via NAPOLCOM).
+- The PNP has the operational capability to perform its duties effectively (via its own command structure).
+
+---
+
+## Introduction
+
+Understanding the precise relationship between the Department of the Interior and Local Government (DILG), the National Police Commission (NAPOLCOM), and the Philippine National Police (PNP) is fundamental to the study of Law Enforcement Administration in the Philippines. This module dissects the legal framework established by RA 6975 and its amendments, clarifying the roles, powers, and functions of each entity. We will explore how these three bodies interact to ensure the PNP remains a civilian force, accountable, and effective in its mission.
+
+### Key Learning Objectives:
+- Define the "triad of police administration" in the Philippine context.
+- Explain the role of the DILG Secretary over the PNP.
+- Detail the composition, powers, and functions of the NAPOLCOM.
+- Distinguish between administrative control and operational supervision.
+- Analyze how these relationships ensure the civilian character of the police.
+
 
 ## II. The Department of the Interior and Local Government (DILG)
 
@@ -53,17 +90,6 @@ The DILG Secretary exercises **administrative control** over the PNP. This inclu
 
 **Key Point:** The DILG Secretary's power is one of *control*, not direct command. The day-to-day running of the PNP is left to the Chief, PNP, but the overall administration is under the DILG's purview.
 
----
-
-## III. The National Police Commission (NAPOLCOM)
-
-NAPOLCOM is the agency mandated to administer and control the PNP. It is an collegial body attached to the DILG for policy and program coordination. The term "attached" means it retains a degree of independence in its decision-making, even though its Chairperson is the DILG Secretary.
-
-### A. Composition of NAPOLCOM
-The Commission is composed of a Chairperson, four (4) regular Commissioners, and the Chief of the PNP as an *ex-officio* member.
-
-| Member | Details |
-| :--- | :--- |
 | **Chairperson** | The Secretary of the DILG (Ex-Officio). |
 | **Vice Chairperson & Exec. Officer** | A regular commissioner designated by the President. |
 | **4 Regular Commissioners** | Appointed by the President. At least one must be a woman. Three must be regular members of the Philippine Bar. |
@@ -99,40 +125,12 @@ NAPOLCOM's functions are broad and are central to the professionalization and ad
 
 **Board Exam Tip:** Differentiate between the DILG's *administrative control* and NAPOLCOM's *administrative control and operational supervision*. RA 8551 strengthened NAPOLCOM by giving it greater administrative and supervisory powers to institutionalize police reforms.
 
----
-
-## IV. PNP: Operational Autonomy and Accountability
-
-While under the DILG and NAPOLCOM, the PNP maintains a degree of operational autonomy necessary for effective law enforcement.
-
-### A. The Chief, PNP
-- The head of the PNP with the rank of Police General.
-- He has the power to **command and direct** the PNP.
-- He is responsible for the day-to-day operations of the police force.
-- He is accountable to the President, the DILG Secretary, and NAPOLCOM.
-
-### B. The Command Structure
-- The PNP has its own internal chain of command, from the Chief, PNP down to the lowest-ranking patrolman.
-- This ensures that operational orders are transmitted efficiently and that there is clear accountability for actions taken in the field.
-
----
 
 ## V. The Triad: A System of Checks and Balances
 
 The relationship between the DILG, NAPOLCOM, and the PNP creates a system of checks and balances designed to prevent abuse of power and ensure accountability.
 
 | Entity | Primary Role | Key Relationship |
-| :--- | :--- | :--- |
-| **DILG** | **Administrative Control:** Overall departmental authority, budget, and policy alignment. | The DILG Secretary is the head of the department that "houses" the PNP and also chairs NAPOLCOM. |
-| **NAPOLCOM** | **Policy & Oversight:** Sets standards, administers exams, and acts as an appellate body. Exercises administrative control & operational supervision. | An "attached" agency to DILG, it provides a specialized, collegial body to oversee the police. |
-| **PNP** | **Operations:** Enforces the law, maintains peace and order, and investigates crimes. | The executing arm, accountable to both DILG and NAPOLCOM for its administration and performance. |
-
-This triad ensures that:
-- The PNP's administration is consistent with the policies of the civilian government (via DILG).
-- The PNP adheres to professional standards and is subject to external oversight (via NAPOLCOM).
-- The PNP has the operational capability to perform its duties effectively (via its own command structure).
-
----
 
 ## Conclusion
 

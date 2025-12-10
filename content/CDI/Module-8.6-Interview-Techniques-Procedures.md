@@ -2,20 +2,6 @@
 title: 'Module 8.6: Interview Techniques & Procedures'
 description: 'A guide to the art of the investigative interview, covering the different types of witnesses, the ideal interview environment, and the cognitive interview technique.'
 ---
-
-# Module 8.6: Interview Techniques & Procedures
-
-## Introduction
-
-The **interview** is one of the most common and essential tools of a criminal investigator. It is a conversation with a purpose: to obtain information from someone who has knowledge that may be of value to an investigation. Unlike an interrogation, an interview is non-accusatory and is designed to build rapport with a witness or victim to elicit the most accurate and complete information possible. The ability to conduct a good interview is a skill that requires planning, psychological insight, and the use of specific techniques. This module covers the procedures and techniques for conducting effective investigative interviews.
-
-### Key Learning Objectives:
-- Differentiate between an interview and an interrogation.
-- Describe the ideal setting and conditions for conducting an interview.
-- Identify different types of witnesses and the challenges they may present.
-- Explain the three main phases of an interview.
-- Describe the steps and purpose of the Cognitive Interview technique.
-
 ---
 
 ## I. The Basics of Interviewing
@@ -31,12 +17,6 @@ The **interview** is one of the most common and essential tools of a criminal in
 - **Setting:** A familiar setting, like the witness's home or office, can help them feel more relaxed than a formal police station interview room.
 
 ---
-
-## II. Types of Witnesses
-
-Investigators will encounter many different types of people during an investigation. Understanding a witness's potential motivations and limitations is key to evaluating their testimony.
-
-| Witness Type | Characteristics | Interview Strategy |
 | :--- | :--- | :--- |
 | **Know-Nothing Witness** | Claims to have seen or heard nothing. May be afraid to get involved or may genuinely not know anything. | Build rapport. Reassure them of their safety. Try to jog their memory with specific questions. |
 | **Disinterested Witness** | Apathetic and uncooperative. They feel the crime is "not their problem." | Appeal to their sense of civic duty. Emphasize the importance of their information, no matter how small. |
@@ -46,37 +26,6 @@ Investigators will encounter many different types of people during an investigat
 | **Talkative / Boastful Witness**| Eager to talk and may provide a lot of information, but it may be exaggerated or irrelevant. | Patiently listen, then gently guide them back to the specific topic. Separate fact from their opinion and speculation. |
 
 ---
-
-## III. The Three Phases of an Interview
-
-A structured interview generally follows three stages.
-
-### Phase 1: Preparation and Planning
-- The investigator should review all available information about the case before the interview.
-- Prepare a basic outline of the topics to be covered.
-- Check the witness's background to be aware of any potential biases or credibility issues.
-
-### Phase 2: The Interview Itself
-1.  **Introduction and Rapport Building:**
-    - The investigator introduces themselves, shows their credentials, and states the purpose of the interview.
-    - The first few minutes should be spent building rapport with "small talk" to put the witness at ease.
-2.  **Narrative Phase (Free Recall):**
-    - The investigator asks a broad, open-ended question like, **"Tell me in your own words what happened."**
-    - The investigator's job here is to **listen actively** and not interrupt. This allows the witness to tell their story in a way that is natural to them and may reveal details the investigator wouldn't have thought to ask about.
-3.  **Question-and-Answer Phase (Probing):**
-    - After the free narrative, the investigator goes back over the story and asks specific questions to clarify details, resolve inconsistencies, and obtain more information.
-    - **Open-ended Questions:** "What happened next?" "Can you describe the car?"
-    - **Closed-ended Questions:** "What color was the car?" "Was he tall or short?"
-    - Avoid **Leading Questions** that suggest an answer (e.g., "The car was red, wasn't it?").
-4.  **Closing:**
-    - The investigator summarizes the key points of the witness's statement to ensure it was understood correctly.
-    - The investigator thanks the witness for their time and asks, "Is there anything else you think I should know?"
-    - Provide contact information in case the witness remembers something later.
-
-### Phase 3: Post-Interview
-- The investigator should immediately write up their notes or report while the interview is still fresh in their mind.
-- Evaluate the information obtained and compare it with other evidence in the case.
-
 ---
 
 ## IV. The Cognitive Interview Technique
@@ -108,6 +57,55 @@ The **Cognitive Interview** is a scientifically-designed method of interviewing 
 The Cognitive Interview is a powerful technique that has been shown to elicit significantly more information from cooperative witnesses than a standard police interview.
 
 ---
+
+## Introduction
+
+The **interview** is one of the most common and essential tools of a criminal investigator. It is a conversation with a purpose: to obtain information from someone who has knowledge that may be of value to an investigation. Unlike an interrogation, an interview is non-accusatory and is designed to build rapport with a witness or victim to elicit the most accurate and complete information possible. The ability to conduct a good interview is a skill that requires planning, psychological insight, and the use of specific techniques. This module covers the procedures and techniques for conducting effective investigative interviews.
+
+### Key Learning Objectives:
+- Differentiate between an interview and an interrogation.
+- Describe the ideal setting and conditions for conducting an interview.
+- Identify different types of witnesses and the challenges they may present.
+- Explain the three main phases of an interview.
+- Describe the steps and purpose of the Cognitive Interview technique.
+
+
+## II. Types of Witnesses
+
+Investigators will encounter many different types of people during an investigation. Understanding a witness's potential motivations and limitations is key to evaluating their testimony.
+
+| Witness Type | Characteristics | Interview Strategy |
+
+## III. The Three Phases of an Interview
+
+A structured interview generally follows three stages.
+
+### Phase 1: Preparation and Planning
+- The investigator should review all available information about the case before the interview.
+- Prepare a basic outline of the topics to be covered.
+- Check the witness's background to be aware of any potential biases or credibility issues.
+
+### Phase 2: The Interview Itself
+1.  **Introduction and Rapport Building:**
+    - The investigator introduces themselves, shows their credentials, and states the purpose of the interview.
+    - The first few minutes should be spent building rapport with "small talk" to put the witness at ease.
+2.  **Narrative Phase (Free Recall):**
+    - The investigator asks a broad, open-ended question like, **"Tell me in your own words what happened."**
+    - The investigator's job here is to **listen actively** and not interrupt. This allows the witness to tell their story in a way that is natural to them and may reveal details the investigator wouldn't have thought to ask about.
+3.  **Question-and-Answer Phase (Probing):**
+    - After the free narrative, the investigator goes back over the story and asks specific questions to clarify details, resolve inconsistencies, and obtain more information.
+    - **Open-ended Questions:** "What happened next?" "Can you describe the car?"
+    - **Closed-ended Questions:** "What color was the car?" "Was he tall or short?"
+    - Avoid **Leading Questions** that suggest an answer (e.g., "The car was red, wasn't it?").
+4.  **Closing:**
+    - The investigator summarizes the key points of the witness's statement to ensure it was understood correctly.
+    - The investigator thanks the witness for their time and asks, "Is there anything else you think I should know?"
+    - Provide contact information in case the witness remembers something later.
+
+### Phase 3: Post-Interview
+- The investigator should immediately write up their notes or report while the interview is still fresh in their mind.
+- Evaluate the information obtained and compare it with other evidence in the case.
+
 
 ## Conclusion
 

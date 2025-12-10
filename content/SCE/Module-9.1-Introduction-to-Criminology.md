@@ -2,19 +2,6 @@
 title: 'Module 9.1: Introduction to Criminology as a Science'
 description: 'An introduction to the field of Criminology, defining its nature and scope, and its status as a social science.'
 ---
-
-# Module 9.1: Introduction to Criminology as a Science
-
-## Introduction
-
-Why do people commit crimes? How does society react to crime? And how can we prevent it? These are the fundamental questions at the heart of **Criminology**. Criminology is the scientific body of knowledge regarding crime as a social phenomenon. It is a multidisciplinary science that studies the nature and extent of crime, the causes of criminal behavior, and the methods used to control it. This module introduces the field of criminology, defining its scope and its nature as an applied social science.
-
-### Key Learning Objectives:
-- Define Criminology.
-- Explain the nature and scope of the study of Criminology.
-- Understand why Criminology is considered an applied social science and a dynamic discipline.
-- Identify the principal divisions of Criminology.
-
 ---
 
 ## I. What is Criminology?
@@ -29,29 +16,6 @@ This definition breaks Criminology down into three key areas:
 3.  **Penology:** The study of the control of crime and the rehabilitation of offenders. This includes the study of the police, courts, and correctional systems.
 
 ---
-
-## II. The Nature of Criminology
-
-Criminology has several key characteristics as a field of study.
-
-### A. An Applied Science
-- Criminology is not a "pure" science like chemistry or physics. It is an **applied science**.
-- This means it uses the principles and techniques of other sciences (like sociology, psychology, biology, and law) to study the specific subject of crime.
-- A criminologist is like an engineer who applies the principles of physics and mathematics to build a bridge. The criminologist applies the principles of social and behavioral sciences to understand and control crime.
-
-### B. A Social Science
-- Crime is a social phenomenon. It is a product of society, defined by social norms, and committed by people within a society.
-- Therefore, Criminology is primarily a **social science**. It studies crime and criminals from a sociological and psychological perspective, focusing on how social structures, relationships, and individual behavior contribute to crime.
-
-### C. Dynamic
-- The concepts of crime and criminality are constantly changing. What is considered a crime in one society or at one point in time may not be in another.
-- **Example:** The use of marijuana was once universally illegal; now it is legal in many places. Cybercrime did not exist 30 years ago.
-- Because crime changes, the field of Criminology must also be **dynamic**. It must constantly adapt and evolve to study new forms of crime and to develop new theories and control strategies.
-
-### D. Nationalistic
-- The study of crime must be related to the existing laws of a particular country.
-- Criminology in the Philippines is focused on understanding crime within the context of Philippine laws (like the Revised Penal Code), culture, and society. The causes and patterns of crime in the Philippines may be different from those in the United States or Japan.
-
 ---
 
 ## III. Scope and Principal Divisions of Criminology
@@ -77,6 +41,45 @@ This division is focused on the control of crime and the treatment of offenders.
 - **Rehabilitation and Reintegration:** Programs designed to treat offenders and prepare them for a successful return to society.
 
 ---
+---
+
+## Conclusion
+
+Criminology is a fascinating and complex field that seeks to understand one of society's most enduring problems. It is an applied social science that draws upon a wide range of other disciplines to study the making of laws, the breaking of laws, and society's reaction to the breaking of laws. By scientifically analyzing the causes of crime and the effectiveness of our responses to it, criminology provides the essential knowledge needed to develop more just, humane, and effective strategies for creating a safer society.
+
+## Introduction
+
+Why do people commit crimes? How does society react to crime? And how can we prevent it? These are the fundamental questions at the heart of **Criminology**. Criminology is the scientific body of knowledge regarding crime as a social phenomenon. It is a multidisciplinary science that studies the nature and extent of crime, the causes of criminal behavior, and the methods used to control it. This module introduces the field of criminology, defining its scope and its nature as an applied social science.
+
+### Key Learning Objectives:
+- Define Criminology.
+- Explain the nature and scope of the study of Criminology.
+- Understand why Criminology is considered an applied social science and a dynamic discipline.
+- Identify the principal divisions of Criminology.
+
+
+## II. The Nature of Criminology
+
+Criminology has several key characteristics as a field of study.
+
+### A. An Applied Science
+- Criminology is not a "pure" science like chemistry or physics. It is an **applied science**.
+- This means it uses the principles and techniques of other sciences (like sociology, psychology, biology, and law) to study the specific subject of crime.
+- A criminologist is like an engineer who applies the principles of physics and mathematics to build a bridge. The criminologist applies the principles of social and behavioral sciences to understand and control crime.
+
+### B. A Social Science
+- Crime is a social phenomenon. It is a product of society, defined by social norms, and committed by people within a society.
+- Therefore, Criminology is primarily a **social science**. It studies crime and criminals from a sociological and psychological perspective, focusing on how social structures, relationships, and individual behavior contribute to crime.
+
+### C. Dynamic
+- The concepts of crime and criminality are constantly changing. What is considered a crime in one society or at one point in time may not be in another.
+- **Example:** The use of marijuana was once universally illegal; now it is legal in many places. Cybercrime did not exist 30 years ago.
+- Because crime changes, the field of Criminology must also be **dynamic**. It must constantly adapt and evolve to study new forms of crime and to develop new theories and control strategies.
+
+### D. Nationalistic
+- The study of crime must be related to the existing laws of a particular country.
+- Criminology in the Philippines is focused on understanding crime within the context of Philippine laws (like the Revised Penal Code), culture, and society. The causes and patterns of crime in the Philippines may be different from those in the United States or Japan.
+
 
 ## IV. Criminology vs. Criminal Justice
 
@@ -90,9 +93,3 @@ These two terms are related but distinct.
 - A **criminal justice** professional (like a police officer) would use that information to decide where to deploy more patrols to prevent robberies.
 
 The criminologist provides the theory; the criminal justice system puts it into practice.
-
----
-
-## Conclusion
-
-Criminology is a fascinating and complex field that seeks to understand one of society's most enduring problems. It is an applied social science that draws upon a wide range of other disciplines to study the making of laws, the breaking of laws, and society's reaction to the breaking of laws. By scientifically analyzing the causes of crime and the effectiveness of our responses to it, criminology provides the essential knowledge needed to develop more just, humane, and effective strategies for creating a safer society.

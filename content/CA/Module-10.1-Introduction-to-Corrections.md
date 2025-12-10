@@ -2,19 +2,6 @@
 title: 'Module 10.1: Introduction to Corrections (Philosophy of Punishment)'
 description: 'An introduction to the field of Corrections, exploring its role in the criminal justice system and the underlying philosophies of punishment.'
 ---
-
-# Module 10.1: Introduction to Corrections (Philosophy of Punishment)
-
-## Introduction
-
-**Corrections** is the branch of the criminal justice system responsible for the custody, supervision, and treatment of persons convicted of a crime. It is the final pillar of the system, following law enforcement (the police) and the courts. The study of corrections, also known as **Penology**, examines the philosophies and practices that society uses to handle criminal offenders. This module will introduce the field of corrections and explore the five major philosophical justifications for punishment that underpin all correctional systems.
-
-### Key Learning Objectives:
-- Define Corrections and Penology.
-- Differentiate between institutional and non-institutional corrections.
-- Identify and explain the five major philosophies of punishment.
-- Compare and contrast the goals of retribution, deterrence, incapacitation, rehabilitation, and restoration.
-
 ---
 
 ## I. What is Corrections?
@@ -34,6 +21,30 @@ description: 'An introduction to the field of Corrections, exploring its role in
     - **Pardons and Clemency:** An act of executive grace that forgives an offender.
 
 ---
+| :--- | :--- | :--- | :--- |
+| **Retribution**| Offender deserves it (just deserts). | Past | Balance the scales of justice. |
+| **Deterrence** | Fear of punishment prevents crime. | Future | Prevent crime (general & specific).|
+| **Incapacitation**| Offender in prison cannot harm society.| Future | Protect the public. |
+| **Rehabilitation**| Offenders can be cured/changed. | Future | Transform the offender. |
+| **Restoration** | Crime harms victims & community. | Present/Future | Repair the harm. |
+
+---
+---
+
+## Conclusion
+
+Corrections is the part of the justice system where the philosophical justifications for punishment are put into practice. The decision of what to do with a convicted offender—whether to punish, to treat, or to try to restore—reflects a society's deepest beliefs about the nature of crime and justice. The five major philosophies of retribution, deterrence, incapacitation, rehabilitation, and restoration provide the framework for this complex and often conflicting enterprise. Understanding these philosophies is the first step to understanding the purpose and function of every jail, prison, probation office, and parole board in the country.
+
+## Introduction
+
+**Corrections** is the branch of the criminal justice system responsible for the custody, supervision, and treatment of persons convicted of a crime. It is the final pillar of the system, following law enforcement (the police) and the courts. The study of corrections, also known as **Penology**, examines the philosophies and practices that society uses to handle criminal offenders. This module will introduce the field of corrections and explore the five major philosophical justifications for punishment that underpin all correctional systems.
+
+### Key Learning Objectives:
+- Define Corrections and Penology.
+- Differentiate between institutional and non-institutional corrections.
+- Identify and explain the five major philosophies of punishment.
+- Compare and contrast the goals of retribution, deterrence, incapacitation, rehabilitation, and restoration.
+
 
 ## II. The Five Philosophies of Punishment
 
@@ -79,14 +90,6 @@ Why do we punish offenders? The answer to this question has changed over time an
 
 **Summary of Punishment Philosophies**
 | Philosophy | Justification | Focus | Goal |
-| :--- | :--- | :--- | :--- |
-| **Retribution**| Offender deserves it (just deserts). | Past | Balance the scales of justice. |
-| **Deterrence** | Fear of punishment prevents crime. | Future | Prevent crime (general & specific).|
-| **Incapacitation**| Offender in prison cannot harm society.| Future | Protect the public. |
-| **Rehabilitation**| Offenders can be cured/changed. | Future | Transform the offender. |
-| **Restoration** | Crime harms victims & community. | Present/Future | Repair the harm. |
-
----
 
 ## III. The Shifting Pendulum
 
@@ -97,9 +100,3 @@ Throughout history, the popularity of these different philosophies has swung bac
 - **Today:** There is a growing interest in evidence-based practices and restorative justice as alternatives to purely punitive approaches.
 
 Most modern correctional systems are a hybrid of all five philosophies. A single prison sentence may be intended to satisfy the public's demand for retribution, deter others, incapacitate the offender, provide opportunities for rehabilitation, and include a restitution order to restore the victim.
-
----
-
-## Conclusion
-
-Corrections is the part of the justice system where the philosophical justifications for punishment are put into practice. The decision of what to do with a convicted offender—whether to punish, to treat, or to try to restore—reflects a society's deepest beliefs about the nature of crime and justice. The five major philosophies of retribution, deterrence, incapacitation, rehabilitation, and restoration provide the framework for this complex and often conflicting enterprise. Understanding these philosophies is the first step to understanding the purpose and function of every jail, prison, probation office, and parole board in the country.

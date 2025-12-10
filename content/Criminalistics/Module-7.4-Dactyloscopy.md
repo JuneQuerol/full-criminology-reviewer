@@ -2,20 +2,6 @@
 title: 'Module 7.4: Dactyloscopy (Fingerprint Classification Systems)'
 description: 'A deep dive into Dactyloscopy, the science of fingerprint identification, covering the fundamental principles, fingerprint patterns, and the basics of classification.'
 ---
-
-# Module 7.4: Dactyloscopy (Fingerprint Classification Systems)
-
-## Introduction
-
-Dactyloscopy is the science of personal identification through the study of fingerprints. For over a century, it has been the most relied-upon and legally accepted method for identifying individuals in criminal investigations. The "inked" fingerprint is a powerful biometric signature that is unique to each person and remains unchanged throughout their life. This module will cover the fundamental principles of fingerprint science, the classification of fingerprint patterns, and the basic structure of the Henry Classification System, which forms the basis for fingerprint filing and searching.
-
-### Key Learning Objectives:
-- State and explain the three fundamental principles of fingerprint science (Individuality, Permanency, Infallibility).
-- Identify and describe the three basic fingerprint patterns: Arch, Loop, and Whorl.
-- Define key fingerprint terminology, including friction ridges, delta, and core.
-- Understand the concept of ridge counting and ridge tracing.
-- Explain the purpose of fingerprint classification.
-
 ---
 
 ## I. Fundamental Principles of Fingerprint Science
@@ -48,18 +34,6 @@ This principle states that fingerprints cannot be forged or faked. While a crimi
 **Board Exam Tip:** You must be able to state and explain these three principles. They are the absolute foundation of fingerprint science.
 
 ---
-
-## II. Friction Skin and Basic Terminology
-
-- **Friction Skin (Papillary Skin):** The specialized skin found on the palms of the hands and soles of the feet, characterized by a series of ridges and furrows. Its biological purpose is to provide friction for gripping.
-- **Friction Ridges:** The raised strips of skin on the fingers and palms.
-- **Furrows:** The valleys or depressions between the friction ridges.
-
-**Key Focal Points for Classification:**
-- **Pattern Area:** The part of a fingerprint where the core, delta, and ridges needed for classification are located.
-- **Delta:** The point on a ridge at or nearest to the point of divergence of two typelines. It is a triangular-shaped feature.
-- **Core:** The approximate center of the fingerprint pattern.
-
 ---
 
 ## III. The Three Basic Fingerprint Patterns
@@ -94,10 +68,6 @@ All fingerprint patterns can be classified into one of three large general group
 **Summary of Pattern Characteristics**
 | Pattern | Deltas | Core | Prevalence |
 | :--- | :--- | :--- | :--- |
-| **Arch** | 0 | 0 | ~5% |
-| **Loop** | 1 | 1 | ~60-65% |
-| **Whorl** | 2 or more | 1 | ~30-35% |
-
 ---
 
 ## IV. Fingerprint Classification
@@ -116,6 +86,34 @@ All fingerprint patterns can be classified into one of three large general group
 **Modern Systems (AFIS):** Today, manual classification is largely obsolete for searching. The **Automated Fingerprint Identification System (AFIS)** is a computerized database that can search through millions of prints in minutes. However, a knowledge of the basic classification rules is still essential for fingerprint examiners and is a major part of the board exam.
 
 ---
+
+## Introduction
+
+Dactyloscopy is the science of personal identification through the study of fingerprints. For over a century, it has been the most relied-upon and legally accepted method for identifying individuals in criminal investigations. The "inked" fingerprint is a powerful biometric signature that is unique to each person and remains unchanged throughout their life. This module will cover the fundamental principles of fingerprint science, the classification of fingerprint patterns, and the basic structure of the Henry Classification System, which forms the basis for fingerprint filing and searching.
+
+### Key Learning Objectives:
+- State and explain the three fundamental principles of fingerprint science (Individuality, Permanency, Infallibility).
+- Identify and describe the three basic fingerprint patterns: Arch, Loop, and Whorl.
+- Define key fingerprint terminology, including friction ridges, delta, and core.
+- Understand the concept of ridge counting and ridge tracing.
+- Explain the purpose of fingerprint classification.
+
+
+## II. Friction Skin and Basic Terminology
+
+- **Friction Skin (Papillary Skin):** The specialized skin found on the palms of the hands and soles of the feet, characterized by a series of ridges and furrows. Its biological purpose is to provide friction for gripping.
+- **Friction Ridges:** The raised strips of skin on the fingers and palms.
+- **Furrows:** The valleys or depressions between the friction ridges.
+
+**Key Focal Points for Classification:**
+- **Pattern Area:** The part of a fingerprint where the core, delta, and ridges needed for classification are located.
+- **Delta:** The point on a ridge at or nearest to the point of divergence of two typelines. It is a triangular-shaped feature.
+- **Core:** The approximate center of the fingerprint pattern.
+
+| **Arch** | 0 | 0 | ~5% |
+| **Loop** | 1 | 1 | ~60-65% |
+| **Whorl** | 2 or more | 1 | ~30-35% |
+
 
 ## Conclusion
 

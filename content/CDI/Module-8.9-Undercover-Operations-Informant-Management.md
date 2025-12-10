@@ -2,20 +2,6 @@
 title: 'Module 8.9: Undercover Operations & Informant Management'
 description: 'A look into two clandestine methods of gathering information: the use of undercover officers and the development and management of confidential informants.'
 ---
-
-# Module 8.9: Undercover Operations & Informant Management
-
-## Introduction
-
-Some criminal activities, particularly those involving organized crime, drug trafficking, and corruption, are almost impossible to investigate through traditional methods. These "victimless" crimes occur in secret, among willing participants. To penetrate these criminal worlds, investigators must rely on two powerful and sensitive techniques: **undercover operations** and the use of **confidential informants**. This module explores the nature of undercover work and the principles of developing and managing informants, both of which are essential for proactive policing.
-
-### Key Learning Objectives:
-- Define "undercover operation" and its purpose.
-- Describe the qualities of a good undercover officer.
-- Understand the risks and challenges of undercover work.
-- Define "confidential informant" and differentiate between different types.
-- Explain the principles and potential pitfalls of informant management.
-
 ---
 
 ## I. Undercover Operations
@@ -49,15 +35,6 @@ This is one of the most demanding and dangerous jobs in law enforcement.
 - **Entrapment:** This is a legal defense. Entrapment occurs if the undercover officer **induces** a person to commit a crime that they would not have otherwise committed. A valid undercover operation involves providing an **opportunity** for a willing criminal to commit a crime, not creating a criminal.
 
 ---
-
-## II. Informant Management
-
-A **Confidential Informant (CI)** is a person who secretly provides information to law enforcement about criminal activity. They are not police officers but are cooperating with the police, often for some personal benefit. The use of informants is a vital, though controversial, part of policing.
-
-### A. Types of Informants and Their Motivations
-Understanding an informant's motivation is key to managing them effectively and evaluating the reliability of their information.
-
-| Informant Type | Motivation | Characteristics & Challenges |
 | :--- | :--- | :--- |
 | **The Mercenary** | **Money:** They sell information for cash. | Their loyalty is only to the highest bidder. They may sell information to the police and to criminals simultaneously. |
 | **The Frightened** | **Fear:** They are afraid of a criminal or a criminal organization and seek police protection. | The information may be good, but they may be too scared to testify in court. |
@@ -81,6 +58,27 @@ Managing informants is a delicate and risky process. A "handler" or "controller"
 - **Physical Danger:** Meeting with informants is inherently dangerous, and handlers must take precautions.
 
 ---
+
+## Introduction
+
+Some criminal activities, particularly those involving organized crime, drug trafficking, and corruption, are almost impossible to investigate through traditional methods. These "victimless" crimes occur in secret, among willing participants. To penetrate these criminal worlds, investigators must rely on two powerful and sensitive techniques: **undercover operations** and the use of **confidential informants**. This module explores the nature of undercover work and the principles of developing and managing informants, both of which are essential for proactive policing.
+
+### Key Learning Objectives:
+- Define "undercover operation" and its purpose.
+- Describe the qualities of a good undercover officer.
+- Understand the risks and challenges of undercover work.
+- Define "confidential informant" and differentiate between different types.
+- Explain the principles and potential pitfalls of informant management.
+
+
+## II. Informant Management
+
+A **Confidential Informant (CI)** is a person who secretly provides information to law enforcement about criminal activity. They are not police officers but are cooperating with the police, often for some personal benefit. The use of informants is a vital, though controversial, part of policing.
+
+### A. Types of Informants and Their Motivations
+Understanding an informant's motivation is key to managing them effectively and evaluating the reliability of their information.
+
+| Informant Type | Motivation | Characteristics & Challenges |
 
 ## Conclusion
 

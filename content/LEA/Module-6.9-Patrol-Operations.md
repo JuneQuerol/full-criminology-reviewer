@@ -2,20 +2,6 @@
 title: 'Module 6.9: Patrol Operations - Types, Methods, and Techniques'
 description: 'A comprehensive guide to police patrol operations, covering the goals of patrol, different types of patrol (foot, mobile, air), and various methods and techniques used to ensure effective police visibility and response.'
 ---
-
-# Module 6.9: Patrol Operations (Types, Methods, Techniques)
-
-## Introduction
-
-Patrol is universally recognized as the **backbone of the police service**. It is the most visible and fundamental function of any police department. The patrol division is the largest single unit in the police force and is responsible for providing the continuous, 24/7 presence that is essential for crime prevention and public safety. This module will cover the core concepts of police patrol, including its goals, the different types and methods employed, and the key operational techniques used by patrol officers.
-
-### Key Learning Objectives:
-- Identify the primary and secondary goals of police patrol.
-- Differentiate between various types of police patrol (foot, automobile, air, etc.).
-- Analyze the advantages and disadvantages of each patrol method.
-- Describe different patrol strategies like routine, directed, and reactive patrol.
-- Understand key patrol techniques and concepts like police hazards and patrol patterns.
-
 ---
 
 ## I. The Goals of Police Patrol
@@ -35,6 +21,31 @@ The functions of police patrol are geared towards achieving several key objectiv
 **Board Exam Tip:** Crime prevention is the *number one* goal of patrol. The theory is that it is always better to prevent a crime from happening than to solve it after the fact.
 
 ---
+| :--- | :--- | :--- | :--- |
+| **Foot** | Community Interaction | Low Mobility | Crowded urban areas, markets |
+| **Automobile**| Mobility & Response Time | Low Interaction | Standard residential/suburban beats|
+| **Motorcycle**| Speed in Traffic | High Risk | Traffic enforcement, congested streets|
+| **Bicycle**| Balance of Mobility & Interaction| Officer Fatigue | Parks, campuses, business districts|
+| **Horse** | Crowd Control | High Maintenance Cost | Large crowds, rugged terrain |
+
+---
+---
+
+## Conclusion
+
+Patrol is the cornerstone of police work. Its visible presence deters crime, its rapid response protects lives, and its daily interactions build community trust. The effectiveness of patrol depends on the skillful selection of patrol methods suited to the environment and the intelligent application of proactive strategies based on crime analysis. From the simple foot post to the complex coordination of air and ground units, the principles of patrol remain the same: to be a constant, vigilant, and helpful presence in the community.
+
+## Introduction
+
+Patrol is universally recognized as the **backbone of the police service**. It is the most visible and fundamental function of any police department. The patrol division is the largest single unit in the police force and is responsible for providing the continuous, 24/7 presence that is essential for crime prevention and public safety. This module will cover the core concepts of police patrol, including its goals, the different types and methods employed, and the key operational techniques used by patrol officers.
+
+### Key Learning Objectives:
+- Identify the primary and secondary goals of police patrol.
+- Differentiate between various types of police patrol (foot, automobile, air, etc.).
+- Analyze the advantages and disadvantages of each patrol method.
+- Describe different patrol strategies like routine, directed, and reactive patrol.
+- Understand key patrol techniques and concepts like police hazards and patrol patterns.
+
 
 ## II. Types and Methods of Patrol
 
@@ -88,14 +99,6 @@ Police departments use various types of patrol, often in combination, depending 
 
 **Summary Table of Patrol Methods**
 | Method | Key Advantage | Key Disadvantage | Best Use Case |
-| :--- | :--- | :--- | :--- |
-| **Foot** | Community Interaction | Low Mobility | Crowded urban areas, markets |
-| **Automobile**| Mobility & Response Time | Low Interaction | Standard residential/suburban beats|
-| **Motorcycle**| Speed in Traffic | High Risk | Traffic enforcement, congested streets|
-| **Bicycle**| Balance of Mobility & Interaction| Officer Fatigue | Parks, campuses, business districts|
-| **Horse** | Crowd Control | High Maintenance Cost | Large crowds, rugged terrain |
-
----
 
 ## III. Patrol Strategies and Techniques
 
@@ -115,9 +118,3 @@ Police departments use various types of patrol, often in combination, depending 
 3.  **High-Risk vs. Unknown-Risk Stops:**
     - **High-Risk Stop (Felony Stop):** A procedure for stopping a vehicle believed to contain armed and dangerous suspects. It involves using multiple patrol cars, taking cover, and issuing loud commands.
     - **Unknown-Risk Stop:** A standard traffic stop where the risk level is not known. Officers must still be cautious and approach the vehicle carefully.
-
----
-
-## Conclusion
-
-Patrol is the cornerstone of police work. Its visible presence deters crime, its rapid response protects lives, and its daily interactions build community trust. The effectiveness of patrol depends on the skillful selection of patrol methods suited to the environment and the intelligent application of proactive strategies based on crime analysis. From the simple foot post to the complex coordination of air and ground units, the principles of patrol remain the same: to be a constant, vigilant, and helpful presence in the community.

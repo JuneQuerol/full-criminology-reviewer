@@ -2,20 +2,6 @@
 title: 'Module 8.7: Interrogation Methods & Confession Admissibility'
 description: 'A study of the principles of criminal interrogation, including various psychological techniques used to obtain a confession, and the legal requirements for a confession to be admissible in court.'
 ---
-
-# Module 8.7: Interrogation Methods & Confession Admissibility
-
-## Introduction
-
-While an interview seeks to gather information, an **interrogation** has a more specific and challenging goal: to secure a confession or admission from a suspect who is believed to be guilty. Interrogation is a psychological battle of wits between the investigator and the suspect. It involves the use of persuasive techniques, psychological pressure, and strategic questioning to break down a suspect's resistance to telling the truth. However, these powerful techniques must be balanced against the strict legal rules that govern the admissibility of a confession in court.
-
-### Key Learning Objectives:
-- Define interrogation and its primary purpose.
-- Describe the ideal physical environment for an interrogation.
-- Explain several psychological techniques used in interrogation (e.g., minimization, maximization).
-- Understand the legal rights of a suspect under the Miranda Doctrine and RA 7438.
-- Identify the requirements for a confession to be considered valid and admissible in court.
-
 ---
 
 ## I. The Nature and Purpose of Interrogation
@@ -34,32 +20,6 @@ The physical environment is a critical tool in a police interrogation.
 - **Seating Arrangement:** The investigators should sit between the suspect and the door to create a sense of psychological (not physical) entrapment.
 
 ---
-
-## II. Psychological Techniques in Interrogation
-
-A successful interrogator is a master of applied psychology. The goal is to make the suspect feel that confessing is the best or only option.
-
-### General Approaches
-
-1.  **Sympathetic Approach (Minimization):**
-    - The interrogator expresses sympathy, understanding, and compassion for the suspect.
-    - They "minimize" the moral seriousness of the crime, suggesting that anyone could have made the same mistake.
-    - **Themes:** "I understand why you did it." "You were under a lot of pressure." "It wasn't your fault."
-    - **Goal:** To lull the suspect into a false sense of security and to get them to see the interrogator as a confidant.
-
-2.  **Authoritative Approach (Maximization):**
-    - The interrogator presents a confident, overwhelming case against the suspect, making them feel that their guilt is already proven and that resistance is futile.
-    - The interrogator may exaggerate the strength of the evidence against the suspect. (Note: While police can lie about evidence, they cannot fabricate evidence).
-    - **Themes:** "We have your fingerprints at the scene." "Your accomplice is in the next room telling us everything." "The jury will see you as a cold-blooded killer if you don't tell your side of the story."
-    - **Goal:** To make the suspect feel hopeless and believe that confessing is the only way to get any leniency.
-
-### Specific Interrogation Techniques
-
-- **The "Good Cop, Bad Cop" Routine:** Two interrogators work together. The "bad cop" is aggressive and hostile. The "good cop" is kind and sympathetic. The bad cop leaves, and the good cop offers the suspect a way out by confessing to them.
-- **The Bluff on a Split Pair:** Used on two or more suspects. The suspects are separated, and one is told that the other has already confessed and pinned all the blame on them.
-- **The Alternative Question:** Giving the suspect two choices for why they committed the crime, both of which are incriminating. "Did you plan this for weeks, or did it just happen on the spur of the moment?"
-- **The Guilt-Trip:** Appealing to the suspect's sense of shame, religion, or decency.
-
 ---
 
 ## III. Legal Constraints: The Rights of the Accused
@@ -91,6 +51,49 @@ For a confession to be admissible as evidence in a Philippine court, it must be:
 **Board Exam Tip:** The presence of a **competent and independent counsel** during the signing of a written confession is an absolute requirement. A confession obtained without it is worthless in court.
 
 ---
+---
+
+## Conclusion
+
+Interrogation is a powerful and necessary tool for solving crimes, but it is a double-edged sword. When used skillfully and ethically, it can uncover the truth and bring offenders to justice. When used improperly or illegally, it can lead to the suppression of evidence and, in the worst cases, the conviction of an innocent person. A professional investigator must therefore be a master of not only the psychological techniques that produce confessions but also the legal rules that protect the rights of the accused, ensuring that justice is both done and seen to be done.
+
+## Introduction
+
+While an interview seeks to gather information, an **interrogation** has a more specific and challenging goal: to secure a confession or admission from a suspect who is believed to be guilty. Interrogation is a psychological battle of wits between the investigator and the suspect. It involves the use of persuasive techniques, psychological pressure, and strategic questioning to break down a suspect's resistance to telling the truth. However, these powerful techniques must be balanced against the strict legal rules that govern the admissibility of a confession in court.
+
+### Key Learning Objectives:
+- Define interrogation and its primary purpose.
+- Describe the ideal physical environment for an interrogation.
+- Explain several psychological techniques used in interrogation (e.g., minimization, maximization).
+- Understand the legal rights of a suspect under the Miranda Doctrine and RA 7438.
+- Identify the requirements for a confession to be considered valid and admissible in court.
+
+
+## II. Psychological Techniques in Interrogation
+
+A successful interrogator is a master of applied psychology. The goal is to make the suspect feel that confessing is the best or only option.
+
+### General Approaches
+
+1.  **Sympathetic Approach (Minimization):**
+    - The interrogator expresses sympathy, understanding, and compassion for the suspect.
+    - They "minimize" the moral seriousness of the crime, suggesting that anyone could have made the same mistake.
+    - **Themes:** "I understand why you did it." "You were under a lot of pressure." "It wasn't your fault."
+    - **Goal:** To lull the suspect into a false sense of security and to get them to see the interrogator as a confidant.
+
+2.  **Authoritative Approach (Maximization):**
+    - The interrogator presents a confident, overwhelming case against the suspect, making them feel that their guilt is already proven and that resistance is futile.
+    - The interrogator may exaggerate the strength of the evidence against the suspect. (Note: While police can lie about evidence, they cannot fabricate evidence).
+    - **Themes:** "We have your fingerprints at the scene." "Your accomplice is in the next room telling us everything." "The jury will see you as a cold-blooded killer if you don't tell your side of the story."
+    - **Goal:** To make the suspect feel hopeless and believe that confessing is the only way to get any leniency.
+
+### Specific Interrogation Techniques
+
+- **The "Good Cop, Bad Cop" Routine:** Two interrogators work together. The "bad cop" is aggressive and hostile. The "good cop" is kind and sympathetic. The bad cop leaves, and the good cop offers the suspect a way out by confessing to them.
+- **The Bluff on a Split Pair:** Used on two or more suspects. The suspects are separated, and one is told that the other has already confessed and pinned all the blame on them.
+- **The Alternative Question:** Giving the suspect two choices for why they committed the crime, both of which are incriminating. "Did you plan this for weeks, or did it just happen on the spur of the moment?"
+- **The Guilt-Trip:** Appealing to the suspect's sense of shame, religion, or decency.
+
 
 ## IV. Why Do People Confess?
 
@@ -101,9 +104,3 @@ For a confession to be admissible as evidence in a Philippine court, it must be:
 
 ### False Confessions
 It is crucial to remember that interrogations can sometimes lead to **false confessions**. This is why a confession should always be corroborated with independent physical evidence. A good investigator never considers a case closed based on a confession alone.
-
----
-
-## Conclusion
-
-Interrogation is a powerful and necessary tool for solving crimes, but it is a double-edged sword. When used skillfully and ethically, it can uncover the truth and bring offenders to justice. When used improperly or illegally, it can lead to the suppression of evidence and, in the worst cases, the conviction of an innocent person. A professional investigator must therefore be a master of not only the psychological techniques that produce confessions but also the legal rules that protect the rights of the accused, ensuring that justice is both done and seen to be done.

@@ -2,20 +2,6 @@
 title: 'Module 6.6: Line and Staff Functions in Police Organization'
 description: 'A clear explanation of the differences between line, staff, and auxiliary functions within a police organization and how they work together to accomplish the police mission.'
 ---
-
-# Module 6.6: Line & Staff Functions
-
-## Introduction
-
-In any large organization, not everyone is directly involved in the primary mission. Some members perform the core work, while others provide support, advice, and essential services. Police organizations are no different. They are structured around three types of functions: **line, staff, and auxiliary**. This module will clearly define these roles, provide examples of each within the PNP, and explain how their coordination is essential for the overall success of the police force.
-
-### Key Learning Objectives:
-- Define and differentiate between line, staff, and auxiliary functions.
-- Identify which PNP units and personnel perform line functions.
-- Provide examples of staff functions and their importance.
-- Explain the role of auxiliary functions in supporting police operations.
-- Analyze the potential for conflict between line and staff personnel.
-
 ---
 
 ## I. Line Functions
@@ -38,6 +24,46 @@ In a police organization, the primary objectives are crime prevention, crime inv
 **Structure:** A police organization composed entirely of line functions would be a simple hierarchy, like a small town police department where the Chief and all the officers are directly involved in patrol and investigation.
 
 ---
+---
+
+## III. Auxiliary Functions
+
+**Definition:** Auxiliary functions provide **logistical and essential support services** to both line and staff personnel. They handle the practical, "housekeeping" tasks that the organization needs to function from day to day.
+
+If line personnel are the "doers" and staff are the "thinkers," auxiliary personnel are the "supporters" who provide the tools and services for everyone else.
+
+### A. Who Performs Auxiliary Functions?
+- **Communications Officers/Dispatchers:** They manage the 911 system and dispatch patrol cars.
+- **Records Clerks (DPRM):** They manage the vast system of personnel records, criminal records, and reports.
+- **Crime Lab Technicians (Forensic Group):** They process and analyze physical evidence collected by line officers.
+- **Supply Officers (Directorate for Logistics):** They are responsible for procuring, storing, and distributing all police equipment, from patrol cars and firearms to office supplies.
+- **Mechanics and Maintenance Staff:** They maintain the police vehicle fleet and facilities.
+- **IT Personnel (ITMS):** They manage the computer networks, radios, and other technology used by the force.
+
+### B. Characteristics of Auxiliary Functions
+- **Service-Oriented:** Their primary role is to provide a service to the rest of the organization.
+- **Indirect Impact:** Their work is crucial but has an indirect impact on crime fighting. For example, a well-maintained patrol car (auxiliary function) allows a patrol officer (line function) to respond to calls effectively.
+- **Foundational:** Without effective auxiliary functions, the entire police organization would quickly grind to a halt.
+
+---
+| :--- | :--- | :--- | :--- |
+| **Line** | Achieve primary objectives | Law Enforcement Operations | Patrol Officer, CIDG Detective, SAF Trooper |
+| **Staff** | Support the line | Planning, Advice, Research | Planning Officer, Legal Officer, DI Analyst |
+| **Auxiliary**| Support the whole organization | Logistical & Technical Services| Dispatcher, Records Clerk, Supply Officer|
+
+---
+
+## Introduction
+
+In any large organization, not everyone is directly involved in the primary mission. Some members perform the core work, while others provide support, advice, and essential services. Police organizations are no different. They are structured around three types of functions: **line, staff, and auxiliary**. This module will clearly define these roles, provide examples of each within the PNP, and explain how their coordination is essential for the overall success of the police force.
+
+### Key Learning Objectives:
+- Define and differentiate between line, staff, and auxiliary functions.
+- Identify which PNP units and personnel perform line functions.
+- Provide examples of staff functions and their importance.
+- Explain the role of auxiliary functions in supporting police operations.
+- Analyze the potential for conflict between line and staff personnel.
+
 
 ## II. Staff Functions
 
@@ -61,28 +87,6 @@ Staff personnel are "thinkers" and "planners" who assist the line commanders in 
 
 **Board Exam Tip:** A key distinction is authority. Line authority is the right to *command*. Staff authority is the right to *advise*. A planning officer cannot order a patrol captain to change his patrol routes, but he can advise the Chief of Police to do so.
 
----
-
-## III. Auxiliary Functions
-
-**Definition:** Auxiliary functions provide **logistical and essential support services** to both line and staff personnel. They handle the practical, "housekeeping" tasks that the organization needs to function from day to day.
-
-If line personnel are the "doers" and staff are the "thinkers," auxiliary personnel are the "supporters" who provide the tools and services for everyone else.
-
-### A. Who Performs Auxiliary Functions?
-- **Communications Officers/Dispatchers:** They manage the 911 system and dispatch patrol cars.
-- **Records Clerks (DPRM):** They manage the vast system of personnel records, criminal records, and reports.
-- **Crime Lab Technicians (Forensic Group):** They process and analyze physical evidence collected by line officers.
-- **Supply Officers (Directorate for Logistics):** They are responsible for procuring, storing, and distributing all police equipment, from patrol cars and firearms to office supplies.
-- **Mechanics and Maintenance Staff:** They maintain the police vehicle fleet and facilities.
-- **IT Personnel (ITMS):** They manage the computer networks, radios, and other technology used by the force.
-
-### B. Characteristics of Auxiliary Functions
-- **Service-Oriented:** Their primary role is to provide a service to the rest of the organization.
-- **Indirect Impact:** Their work is crucial but has an indirect impact on crime fighting. For example, a well-maintained patrol car (auxiliary function) allows a patrol officer (line function) to respond to calls effectively.
-- **Foundational:** Without effective auxiliary functions, the entire police organization would quickly grind to a halt.
-
----
 
 ## IV. The Interplay and Potential for Conflict
 
@@ -103,12 +107,6 @@ A common organizational problem is conflict between line and staff personnel.
 
 **Summary Table**
 | Function | Primary Role | Key Activity | Example Unit/Person |
-| :--- | :--- | :--- | :--- |
-| **Line** | Achieve primary objectives | Law Enforcement Operations | Patrol Officer, CIDG Detective, SAF Trooper |
-| **Staff** | Support the line | Planning, Advice, Research | Planning Officer, Legal Officer, DI Analyst |
-| **Auxiliary**| Support the whole organization | Logistical & Technical Services| Dispatcher, Records Clerk, Supply Officer|
-
----
 
 ## Conclusion
 

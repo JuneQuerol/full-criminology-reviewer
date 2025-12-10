@@ -2,20 +2,6 @@
 title: 'Module 6.1: History of Philippine Law Enforcement'
 description: 'A comprehensive overview of the evolution of law enforcement in the Philippines, from pre-colonial times to the modern era, covering Spanish, American, and Japanese periods.'
 ---
-
-# Module 6.1: History of Philippine Law Enforcement
-
-## Introduction
-
-This module provides a detailed history of the organized systems of law enforcement in the Philippines. Understanding the historical foundations of the Philippine National Police (PNP) is crucial for appreciating its current structure, challenges, and the legal framework that governs it. We will trace the lineage of policing from pre-colonial societies through the Spanish, American, and Japanese occupations, culminating in the establishment of the modern police force.
-
-### Key Learning Objectives:
-- Identify the forms of law enforcement during the pre-colonial period.
-- Analyze the impact of Spanish colonization on the Philippine justice system.
-- Describe the establishment and development of the police force during the American regime.
-- Understand the role of the police during the Japanese occupation and World War II.
-- Trace the post-war evolution leading to the creation of the PNP.
-
 ---
 
 ## I. Law Enforcement in Pre-Colonial Philippines
@@ -35,6 +21,48 @@ Before the arrival of the Spanish in 1521, the Philippines was an archipelago of
 **Board Exam Tip:** Questions about pre-colonial justice often focus on the roles of the datu and the concept of customary law. Be aware of the distinction between accepted historical fact and discredited sources like the Code of Kalantiaw.
 
 ---
+| :--- | :--- | :--- |
+| Pre-Colonial | Datu's Warriors | Enforce customary laws |
+| Spanish | Guardia Civil | National-level peace and order |
+| Spanish | Guardrilleros | Local town patrols/watchmen |
+
+---
+---
+
+## IV. The Japanese Occupation & Post-War Era (1942-1946)
+
+During World War II, the Japanese military took control of all police functions.
+
+### A. Kempeitai
+- The military police arm of the Imperial Japanese Army.
+- They were the supreme military and political authority, notorious for their brutality and human rights abuses.
+- Filipino police forces, including the PC, were disbanded and their members were either incorporated into Japanese-controlled constabulary units or joined the guerilla resistance.
+
+### B. Post-War Reorganization
+- After the war, the PC was reconstituted.
+- The issue of multiple, uncoordinated police forces (local police, PC) persisted, leading to calls for reform and integration.
+- This period saw a rise in crime and political instability, highlighting the need for a more unified and professional police system.
+
+---
+| :--- | :--- | :--- |
+| RA 4864 | 1966 | Created POLCOM (now NAPOLCOM) to professionalize police. |
+| PD 765 | 1975 | Established the Integrated National Police (INP) under the PC. |
+| RA 6975 | 1990 | Created the PNP, a national and civilian police force under DILG. |
+| RA 8551 | 1998 | Reformed and strengthened the PNP organization. |
+
+---
+
+## Introduction
+
+This module provides a detailed history of the organized systems of law enforcement in the Philippines. Understanding the historical foundations of the Philippine National Police (PNP) is crucial for appreciating its current structure, challenges, and the legal framework that governs it. We will trace the lineage of policing from pre-colonial societies through the Spanish, American, and Japanese occupations, culminating in the establishment of the modern police force.
+
+### Key Learning Objectives:
+- Identify the forms of law enforcement during the pre-colonial period.
+- Analyze the impact of Spanish colonization on the Philippine justice system.
+- Describe the establishment and development of the police force during the American regime.
+- Understand the role of the police during the Japanese occupation and World War II.
+- Trace the post-war evolution leading to the creation of the PNP.
+
 
 ## II. The Spanish Colonial Period (1521-1898)
 
@@ -61,12 +89,6 @@ The Spanish introduced a more centralized and formal system of law enforcement b
 
 **Key Point Summary:**
 | Period | Key Law Enforcement Body | Primary Function |
-| :--- | :--- | :--- |
-| Pre-Colonial | Datu's Warriors | Enforce customary laws |
-| Spanish | Guardia Civil | National-level peace and order |
-| Spanish | Guardrilleros | Local town patrols/watchmen |
-
----
 
 ## III. The American Regime (1898-1946)
 
@@ -94,23 +116,6 @@ The Americans established police forces that mirrored the structure of those in 
 
 **Board Exam Tip:** Memorize the key dates, names, and Republic Acts associated with the American period, especially the creation of the Philippine Constabulary and the Manila Police Department. Captain Henry T. Allen is a frequently asked name.
 
----
-
-## IV. The Japanese Occupation & Post-War Era (1942-1946)
-
-During World War II, the Japanese military took control of all police functions.
-
-### A. Kempeitai
-- The military police arm of the Imperial Japanese Army.
-- They were the supreme military and political authority, notorious for their brutality and human rights abuses.
-- Filipino police forces, including the PC, were disbanded and their members were either incorporated into Japanese-controlled constabulary units or joined the guerilla resistance.
-
-### B. Post-War Reorganization
-- After the war, the PC was reconstituted.
-- The issue of multiple, uncoordinated police forces (local police, PC) persisted, leading to calls for reform and integration.
-- This period saw a rise in crime and political instability, highlighting the need for a more unified and professional police system.
-
----
 
 ## V. The Modern Era: Towards a Single National Police
 
@@ -142,13 +147,6 @@ The decades following independence were marked by efforts to integrate the vario
 
 **Summary of Modern Police Evolution:**
 | Act / Decree | Year | Key Outcome |
-| :--- | :--- | :--- |
-| RA 4864 | 1966 | Created POLCOM (now NAPOLCOM) to professionalize police. |
-| PD 765 | 1975 | Established the Integrated National Police (INP) under the PC. |
-| RA 6975 | 1990 | Created the PNP, a national and civilian police force under DILG. |
-| RA 8551 | 1998 | Reformed and strengthened the PNP organization. |
-
----
 
 ## Conclusion & Key Takeaways
 

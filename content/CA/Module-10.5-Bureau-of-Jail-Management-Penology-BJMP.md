@@ -2,20 +2,6 @@
 title: 'Module 10.5: Bureau of Jail Management & Penology (BJMP)'
 description: 'A detailed examination of the Bureau of Jail Management and Penology (BJMP), its mandate, functions, and its critical role in managing the city, district, and municipal jails of the Philippines.'
 ---
-
-# Module 10.5: Bureau of Jail Management & Penology (BJMP)
-
-## Introduction
-
-While the Bureau of Corrections (BuCor) manages the national prison system for long-term convicts, the **Bureau of Jail Management and Penology (BJMP)** is the government agency responsible for the administration and operation of all **city, municipal, and district jails** in the Philippines. As a line bureau of the Department of the Interior and Local Government (DILG), the BJMP plays a vital and challenging role, primarily handling individuals who are still awaiting trial. This module focuses on the mandate, functions, and unique challenges of the BJMP.
-
-### Key Learning Objectives:
-- State the mandate and primary functions of the BJMP.
-- Differentiate between the inmate populations of the BJMP and BuCor.
-- Describe the two main categories of inmates (PDL) in BJMP facilities.
-- Understand the major challenges facing the BJMP, particularly jail congestion.
-- Identify the key rehabilitative programs offered by the BJMP.
-
 ---
 
 ## I. Mandate and Creation
@@ -27,25 +13,6 @@ While the Bureau of Corrections (BuCor) manages the national prison system for l
 - **Jurisdiction:** The BJMP has jurisdiction over all **city, municipal, and district jails** nationwide. (Note: Provincial jails are managed by their respective provincial governments, not by the BJMP).
 
 ---
-
-## II. The Inmate Population: A Tale of Two Categories
-
-The population inside a BJMP jail is fundamentally different from that of a BuCor prison. The vast majority of inmates in BJMP facilities have **not yet been convicted** of a crime.
-
-### A. Two Categories of Persons Deprived of Liberty (PDL) in Jails
-
-1.  **Detention Prisoners (Detainees):**
-    - These are individuals who are being held in jail while awaiting or undergoing investigation or trial.
-    - They are presumed innocent under the law.
-    - They constitute the **overwhelming majority** of the population in most BJMP jails.
-    - They cannot be required to perform labor without their consent.
-
-2.  **Sentenced Prisoners:**
-    - These are individuals who have been tried and convicted by a court and are serving a sentence.
-    - The BJMP only holds sentenced prisoners who are serving a term of **3 years or less**. If a prisoner's sentence is longer than 3 years, they are supposed to be transferred to the custody of the Bureau of Corrections (BuCor).
-
-**Board Exam Tip:** The key difference between BJMP and BuCor is the sentence length. BJMP is for those awaiting trial and those sentenced to 3 years or less. BuCor is for those sentenced to more than 3 years.
-
 ---
 
 ## III. Major Challenges Facing the BJMP
@@ -65,6 +32,42 @@ The BJMP faces enormous challenges in fulfilling its mandate, the most significa
 - **Staffing Shortages:** There is often a low ratio of jail officers to inmates.
 
 ---
+---
+
+## Conclusion
+
+The Bureau of Jail Management and Penology stands at the front line of the Philippine correctional system. It manages a dynamic and challenging population, the majority of whom are still awaiting the final disposition of their cases. The BJMP's dual mandate of "safekeeping and development" requires it to be both a secure detention facility and a center for rehabilitation. While crippled by the immense challenge of jail congestion, the bureau strives to maintain humane conditions and provide opportunities for change, fulfilling its crucial role as the temporary custodian of those entangled in the justice system and the primary rehabilitator for those serving short-term sentences.
+
+## Introduction
+
+While the Bureau of Corrections (BuCor) manages the national prison system for long-term convicts, the **Bureau of Jail Management and Penology (BJMP)** is the government agency responsible for the administration and operation of all **city, municipal, and district jails** in the Philippines. As a line bureau of the Department of the Interior and Local Government (DILG), the BJMP plays a vital and challenging role, primarily handling individuals who are still awaiting trial. This module focuses on the mandate, functions, and unique challenges of the BJMP.
+
+### Key Learning Objectives:
+- State the mandate and primary functions of the BJMP.
+- Differentiate between the inmate populations of the BJMP and BuCor.
+- Describe the two main categories of inmates (PDL) in BJMP facilities.
+- Understand the major challenges facing the BJMP, particularly jail congestion.
+- Identify the key rehabilitative programs offered by the BJMP.
+
+
+## II. The Inmate Population: A Tale of Two Categories
+
+The population inside a BJMP jail is fundamentally different from that of a BuCor prison. The vast majority of inmates in BJMP facilities have **not yet been convicted** of a crime.
+
+### A. Two Categories of Persons Deprived of Liberty (PDL) in Jails
+
+1.  **Detention Prisoners (Detainees):**
+    - These are individuals who are being held in jail while awaiting or undergoing investigation or trial.
+    - They are presumed innocent under the law.
+    - They constitute the **overwhelming majority** of the population in most BJMP jails.
+    - They cannot be required to perform labor without their consent.
+
+2.  **Sentenced Prisoners:**
+    - These are individuals who have been tried and convicted by a court and are serving a sentence.
+    - The BJMP only holds sentenced prisoners who are serving a term of **3 years or less**. If a prisoner's sentence is longer than 3 years, they are supposed to be transferred to the custody of the Bureau of Corrections (BuCor).
+
+**Board Exam Tip:** The key difference between BJMP and BuCor is the sentence length. BJMP is for those awaiting trial and those sentenced to 3 years or less. BuCor is for those sentenced to more than 3 years.
+
 
 ## IV. Core Functions and Programs of the BJMP
 
@@ -89,9 +92,3 @@ This is the "development" part of the BJMP's mandate. The goal is to provide inm
     - Medical and dental services.
     - Sports and recreation programs to promote physical health and reduce stress.
 5.  **Behavioral Management and Counseling:** Providing individual and group counseling to address personal and behavioral issues.
-
----
-
-## Conclusion
-
-The Bureau of Jail Management and Penology stands at the front line of the Philippine correctional system. It manages a dynamic and challenging population, the majority of whom are still awaiting the final disposition of their cases. The BJMP's dual mandate of "safekeeping and development" requires it to be both a secure detention facility and a center for rehabilitation. While crippled by the immense challenge of jail congestion, the bureau strives to maintain humane conditions and provide opportunities for change, fulfilling its crucial role as the temporary custodian of those entangled in the justice system and the primary rehabilitator for those serving short-term sentences.

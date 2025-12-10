@@ -2,20 +2,6 @@
 title: 'Module 10.12: Reintegration, Aftercare, & Restorative Justice'
 description: 'An exploration of the final stages of the correctional process: preparing offenders for reintegration, providing aftercare services, and the principles of restorative justice.'
 ---
-
-# Module 10.12: Reintegration, Aftercare, & Restorative Justice
-
-## Introduction
-
-The correctional process does not end when an inmate is released from prison. The period immediately following release is often the most critical and challenging. **Reintegration** is the process of helping an offender transition smoothly and successfully from life in prison back into the community. **Aftercare** refers to the services that support this process. This module will explore the challenges of reintegration, the components of effective aftercare, and the growing movement of **Restorative Justice**, which seeks to heal the harm caused by crime by involving victims, offenders, and the community.
-
-### Key Learning Objectives:
-- Define reintegration and understand the challenges faced by former inmates.
-- Describe the purpose and components of aftercare programs.
-- Define Restorative Justice and its core principles.
-- Differentiate between the retributive and restorative models of justice.
-- Identify key examples of restorative justice practices.
-
 ---
 
 ## I. Reintegration: Returning to Society
@@ -40,20 +26,6 @@ Effective reintegration begins *before* the inmate is released.
     - **Connecting with Outside Resources:** Providing information about government and non-profit agencies that can help them after release.
 
 ---
-
-## II. Aftercare Programs
-
-**Aftercare** refers to the supervision and support services provided to an offender *after* they are released.
-- **Parole and Probation Supervision:** This is the most common form of aftercare. A parole or probation officer supervises the ex-offender, makes sure they are complying with their conditions, and helps to connect them with necessary services.
-- **Halfway Houses:** These are residential facilities that serve as a bridge between prison and the community. They provide a structured and supportive living environment for newly released offenders while they look for a job and stabilize their lives.
-- **Community-Based Services:**
-    - Substance abuse treatment (e.g., Narcotics Anonymous).
-    - Mental health counseling.
-    - Employment assistance programs.
-    - Educational programs.
-
-The goal of all aftercare programs is to provide a "safety net" that supports the former offender during the difficult transition period and reduces their likelihood of returning to crime.
-
 ---
 
 ## III. Restorative Justice: A Different Approach to Justice
@@ -78,6 +50,35 @@ Restorative Justice is a philosophy of justice that offers an alternative to the
 3.  **Community Involvement:** The community has a role in facilitating the justice process and helping to reintegrate both the victim and the offender.
 
 ---
+---
+
+## Conclusion
+
+The end of a prison sentence is the beginning of a new and difficult journey. The process of **reintegration** requires careful preparation and the support of **aftercare** services to give former offenders a realistic chance at a second life. The philosophy of **Restorative Justice** offers a profound shift in how we think about this process. It moves beyond a simple focus on punishment and seeks to actively repair the harm caused by crime. By bringing victims, offenders, and communities together, restorative practices can provide a more meaningful sense of justice, promote healing for all parties, and create a more effective pathway for offenders to be reintegrated as responsible and productive members of society.
+
+The correctional process does not end when an inmate is released from prison. The period immediately following release is often the most critical and challenging. **Reintegration** is the process of helping an offender transition smoothly and successfully from life in prison back into the community. **Aftercare** refers to the services that support this process. This module will explore the challenges of reintegration, the components of effective aftercare, and the growing movement of **Restorative Justice**, which seeks to heal the harm caused by crime by involving victims, offenders, and the community.
+
+### Key Learning Objectives:
+- Define reintegration and understand the challenges faced by former inmates.
+- Describe the purpose and components of aftercare programs.
+- Define Restorative Justice and its core principles.
+- Differentiate between the retributive and restorative models of justice.
+- Identify key examples of restorative justice practices.
+
+
+## II. Aftercare Programs
+
+**Aftercare** refers to the supervision and support services provided to an offender *after* they are released.
+- **Parole and Probation Supervision:** This is the most common form of aftercare. A parole or probation officer supervises the ex-offender, makes sure they are complying with their conditions, and helps to connect them with necessary services.
+- **Halfway Houses:** These are residential facilities that serve as a bridge between prison and the community. They provide a structured and supportive living environment for newly released offenders while they look for a job and stabilize their lives.
+- **Community-Based Services:**
+    - Substance abuse treatment (e.g., Narcotics Anonymous).
+    - Mental health counseling.
+    - Employment assistance programs.
+    - Educational programs.
+
+The goal of all aftercare programs is to provide a "safety net" that supports the former offender during the difficult transition period and reduces their likelihood of returning to crime.
+
 
 ## IV. Practices of Restorative Justice
 
@@ -103,9 +104,3 @@ Restorative justice is put into practice through a variety of programs and encou
 - **As part of a probation** sentence.
 - **Inside prisons** to resolve conflicts.
 - **To prepare for an offender's reintegration** back into the community.
-
----
-
-## Conclusion
-
-The end of a prison sentence is the beginning of a new and difficult journey. The process of **reintegration** requires careful preparation and the support of **aftercare** services to give former offenders a realistic chance at a second life. The philosophy of **Restorative Justice** offers a profound shift in how we think about this process. It moves beyond a simple focus on punishment and seeks to actively repair the harm caused by crime. By bringing victims, offenders, and communities together, restorative practices can provide a more meaningful sense of justice, promote healing for all parties, and create a more effective pathway for offenders to be reintegrated as responsible and productive members of society.

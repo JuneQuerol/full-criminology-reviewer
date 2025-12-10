@@ -2,19 +2,6 @@
 title: 'Module 9.2: Schools of Criminological Thought'
 description: 'A historical overview of the major schools of thought in Criminology, from the Classical School''s focus on free will to the Positivist School''s focus on determinism, and the contributions of the Chicago School.'
 ---
-
-# Module 9.2: Schools of Criminological Thought
-
-## Introduction
-
-The scientific study of crime has evolved significantly over the past few centuries. This evolution can be understood by examining the major **schools of criminological thought**. These "schools" are not physical buildings, but rather groups of thinkers who shared a common perspective on the nature of crime and its causes. Understanding these foundational schools—primarily the Classical, Positivist, and Chicago schools—is essential for tracing the history of criminology and appreciating the different philosophical approaches to crime control.
-
-### Key Learning Objectives:
-- Explain the core principles of the Classical School of Criminology.
-- Explain the core principles of the Positivist School of Criminology.
-- Differentiate between the Classical and Positivist approaches to crime and punishment.
-- Describe the key contributions of the Chicago School to the study of crime.
-
 ---
 
 ## I. The Classical School of Criminology (Mid-18th Century)
@@ -38,6 +25,29 @@ The Classical School emerged during the Enlightenment, a period of intellectual 
 **Legacy:** The Classical School is the foundation of most modern legal systems in the Western world. The ideas of free will, deterrence, and due process are all classical in origin.
 
 ---
+| :--- | :--- | :--- |
+| **Core Idea** | Free Will & Rational Choice | Determinism & Scientific Method |
+| **Focus** | The Crime | The Criminal |
+| **Purpose of Punishment** | Deterrence | Treatment & Rehabilitation |
+| **Key Thinker** | Beccaria | Lombroso |
+
+---
+---
+
+## Conclusion
+
+The history of criminological thought is a journey from philosophy to science. The Classical School provided the philosophical and legal foundation for the modern justice system, based on the idea of the rational, free-willed offender. The Positivist School challenged this, introducing a scientific determinism that sought to find the biological and psychological causes of crime within the individual offender. The Chicago School then broadened the focus, looking at the social and environmental factors that create crime in specific communities. Each of these schools has left a lasting legacy, and modern criminology continues to draw upon the insights of all three in its ongoing quest to understand and control crime.
+
+## Introduction
+
+The scientific study of crime has evolved significantly over the past few centuries. This evolution can be understood by examining the major **schools of criminological thought**. These "schools" are not physical buildings, but rather groups of thinkers who shared a common perspective on the nature of crime and its causes. Understanding these foundational schools—primarily the Classical, Positivist, and Chicago schools—is essential for tracing the history of criminology and appreciating the different philosophical approaches to crime control.
+
+### Key Learning Objectives:
+- Explain the core principles of the Classical School of Criminology.
+- Explain the core principles of the Positivist School of Criminology.
+- Differentiate between the Classical and Positivist approaches to crime and punishment.
+- Describe the key contributions of the Chicago School to the study of crime.
+
 
 ## II. The Positivist School of Criminology (Late 19th Century)
 
@@ -58,13 +68,6 @@ The Positivist School emerged in the late 19th century, influenced by the rapid 
 
 **Comparison: Classical vs. Positivist**
 | Feature | Classical School | Positivist School |
-| :--- | :--- | :--- |
-| **Core Idea** | Free Will & Rational Choice | Determinism & Scientific Method |
-| **Focus** | The Crime | The Criminal |
-| **Purpose of Punishment** | Deterrence | Treatment & Rehabilitation |
-| **Key Thinker** | Beccaria | Lombroso |
-
----
 
 ## III. The Chicago School (Early 20th Century)
 
@@ -81,9 +84,3 @@ The Chicago School emerged in the early 20th century at the University of Chicag
 - **Clifford Shaw & Henry McKay:** Conducted the classic studies that mapped crime rates in Chicago and found they were always highest in the zone of transition, regardless of which ethnic group lived there.
 
 **Legacy:** The Chicago School was the foundation of sociological criminology. It shifted the focus away from individual-level explanations (biological, psychological) and towards societal and environmental explanations of crime. Modern theories like Strain Theory, Differential Association, and modern community-based crime prevention strategies all have their roots in the Chicago School.
-
----
-
-## Conclusion
-
-The history of criminological thought is a journey from philosophy to science. The Classical School provided the philosophical and legal foundation for the modern justice system, based on the idea of the rational, free-willed offender. The Positivist School challenged this, introducing a scientific determinism that sought to find the biological and psychological causes of crime within the individual offender. The Chicago School then broadened the focus, looking at the social and environmental factors that create crime in specific communities. Each of these schools has left a lasting legacy, and modern criminology continues to draw upon the insights of all three in its ongoing quest to understand and control crime.

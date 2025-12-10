@@ -2,20 +2,6 @@
 title: 'Module 6.12: Police Logistics & Fiscal Administration'
 description: 'An introduction to the management of police resources, covering the principles of logistics (supply chain management) and the process of fiscal administration (budgeting).'
 ---
-
-# Module 6.12: Police Logistics & Fiscal Administration
-
-## Introduction
-
-Modern law enforcement is a resource-intensive enterprise. Behind every patrol officer on the street is a complex system that equips, funds, and sustains them. This system is managed through two critical administrative functions: **Logistics** (ensuring the right equipment is in the right place at the right time) and **Fiscal Administration** (managing the money). This module provides an overview of the principles of police logistics, also known as supply chain management, and the fundamentals of the police budgeting process.
-
-### Key Learning Objectives:
-- Define police logistics and identify its key components.
-- Describe the stages of the police supply chain.
-- Understand the different classes of police supplies.
-- Define fiscal administration and explain the purpose of a budget.
-- Outline the major steps in the police budgeting cycle.
-
 ---
 
 ## I. Police Logistics: The Science of Supply
@@ -54,6 +40,23 @@ Police supplies are often categorized by their expected lifespan and cost.
 **Board Exam Tip:** Understand the flow of the supply chain from acquisition to disposition. The classification of supplies is also a common topic; associate "Capital Equipment" with high-value, long-lasting items.
 
 ---
+---
+
+## Conclusion
+
+Logistics and fiscal administration are the twin pillars that support all police operations. Without a reliable supply of functioning equipment, police officers cannot perform their duties. Without a well-managed budget, the entire organization cannot be sustained. While these functions may seem like "back-office" work, they are indispensable to the success of the "front-line" mission. A police commander must not only be a good leader and tactician but also a responsible steward of the material and financial resources entrusted to them by the public.
+
+## Introduction
+
+Modern law enforcement is a resource-intensive enterprise. Behind every patrol officer on the street is a complex system that equips, funds, and sustains them. This system is managed through two critical administrative functions: **Logistics** (ensuring the right equipment is in the right place at the right time) and **Fiscal Administration** (managing the money). This module provides an overview of the principles of police logistics, also known as supply chain management, and the fundamentals of the police budgeting process.
+
+### Key Learning Objectives:
+- Define police logistics and identify its key components.
+- Describe the stages of the police supply chain.
+- Understand the different classes of police supplies.
+- Define fiscal administration and explain the purpose of a budget.
+- Outline the major steps in the police budgeting cycle.
+
 
 ## II. Police Fiscal Administration: Managing the Money
 
@@ -93,9 +96,3 @@ The budget cycle is a year-long process that involves four major phases:
 
 **Diagram of the Budget Cycle:**
 `Preparation → Legislation → Execution → Accountability → (back to Preparation)`
-
----
-
-## Conclusion
-
-Logistics and fiscal administration are the twin pillars that support all police operations. Without a reliable supply of functioning equipment, police officers cannot perform their duties. Without a well-managed budget, the entire organization cannot be sustained. While these functions may seem like "back-office" work, they are indispensable to the success of the "front-line" mission. A police commander must not only be a good leader and tactician but also a responsible steward of the material and financial resources entrusted to them by the public.

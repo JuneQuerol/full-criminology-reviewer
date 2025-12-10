@@ -2,20 +2,6 @@
 title: 'Module 6.8: Police Personnel Management'
 description: 'An overview of the systems and processes involved in managing police personnel, including recruitment, selection, training, performance evaluation, promotion, and discipline.'
 ---
-
-# Module 6.8: Police Personnel Management
-
-## Introduction
-
-A police organization is only as good as its people. Police Personnel Management, also known as Human Resource Management, is the comprehensive process of managing a police officer's journey from applicant to retiree. It involves attracting the best candidates, providing them with the right training, evaluating their performance, promoting the deserving, and disciplining the errant. This module covers the entire lifecycle of police personnel administration, which is the backbone of building a professional and competent police force.
-
-### Key Learning Objectives:
-- Outline the steps in the police recruitment and selection process.
-- Describe the different phases of police training.
-- Explain the purpose and components of the PNP performance evaluation system.
-- Identify the requirements and procedures for police promotion.
-- Understand the principles of police discipline and the grievance machinery.
-
 ---
 
 ## I. Recruitment and Selection
@@ -45,26 +31,6 @@ Applicants who meet the minimum qualifications must then pass a series of sequen
 **Board Exam Tip:** Memorize the minimum qualifications under RA 8551. The age and education requirements are frequent exam topics. The "sequential" nature of the selection process is also a key concept.
 
 ---
-
-## II. Police Training and Development
-
-Once appointed, a new police recruit (Patrolman/Patrolwoman) undergoes a rigorous and multi-phased training program.
-
-### A. The Public Safety Basic Recruit Course (PSBRC)
-- This is the foundational, 6-month academic and physical training for all new recruits, conducted at the National Police Training Institute (NPTI).
-- It covers basic police subjects, laws, procedures, and instills discipline.
-
-### B. Field Training Program (FTP)
-- After graduating from the PSBRC, the new officer undergoes a 12-month on-the-job training program at a police station.
-- This is where they apply the theories learned in the academy to real-world police work under the supervision of a Field Training Officer (FTO).
-- The FTP is divided into phases, rotating the trainee through different aspects of police work (patrol, traffic, investigation).
-
-### C. Career Courses (Mandatory Schooling)
-As officers advance in their careers, they must complete mandatory courses to be eligible for promotion to certain ranks.
-- **Officer's Basic Course (OBC):** For promotion to Police Captain.
-- **Officer's Advance Course (OAC):** For promotion to Police Major.
-- **Officer's Senior Executive Course (OSEC):** For promotion to Police Colonel and higher.
-
 ---
 
 ## III. Performance Evaluation
@@ -78,22 +44,6 @@ The PNP uses a formal system to regularly evaluate the performance of its member
     - Helps commanders make fair and objective decisions about assignments.
 
 ---
-
-## IV. Promotion System
-
-Promotion in the PNP is the advancement of an officer to a higher rank, position, and salary. The system is designed to be based on merit and fitness.
-
-### A. Requirements for Promotion
-- **Time-in-Grade:** The officer must have served a minimum amount of time in their current rank.
-- **Education:** Must meet the educational requirements for the new rank.
-- **Mandatory Schooling:** Must have completed the required career courses (OBC, OAC, OSEC).
-- **Eligibility:** Must have passed the appropriate Promotional Examination administered by NAPOLCOM.
-- **Performance:** Must have a satisfactory performance evaluation rating.
-
-### B. Types of Promotion
-1.  **Regular Promotion:** The standard promotion process based on meeting all the requirements.
-2.  **Special Promotion / Meritorious Promotion:** A police officer may be promoted to the next higher rank for conspicuous acts of courage and gallantry in the line of duty, at the risk of his/her life above and beyond the call of duty. This type of promotion often bypasses some of the standard requirements.
-
 ---
 
 ## V. Discipline, Grievance, and Separation
@@ -117,6 +67,54 @@ Maintaining discipline is critical in a uniformed service. The PNP has a formal 
 - The system for removing personnel from service due to non-qualification or poor performance. (See Module 6.3 for details on grounds for attrition).
 
 ---
+
+## Introduction
+
+A police organization is only as good as its people. Police Personnel Management, also known as Human Resource Management, is the comprehensive process of managing a police officer's journey from applicant to retiree. It involves attracting the best candidates, providing them with the right training, evaluating their performance, promoting the deserving, and disciplining the errant. This module covers the entire lifecycle of police personnel administration, which is the backbone of building a professional and competent police force.
+
+### Key Learning Objectives:
+- Outline the steps in the police recruitment and selection process.
+- Describe the different phases of police training.
+- Explain the purpose and components of the PNP performance evaluation system.
+- Identify the requirements and procedures for police promotion.
+- Understand the principles of police discipline and the grievance machinery.
+
+
+## II. Police Training and Development
+
+Once appointed, a new police recruit (Patrolman/Patrolwoman) undergoes a rigorous and multi-phased training program.
+
+### A. The Public Safety Basic Recruit Course (PSBRC)
+- This is the foundational, 6-month academic and physical training for all new recruits, conducted at the National Police Training Institute (NPTI).
+- It covers basic police subjects, laws, procedures, and instills discipline.
+
+### B. Field Training Program (FTP)
+- After graduating from the PSBRC, the new officer undergoes a 12-month on-the-job training program at a police station.
+- This is where they apply the theories learned in the academy to real-world police work under the supervision of a Field Training Officer (FTO).
+- The FTP is divided into phases, rotating the trainee through different aspects of police work (patrol, traffic, investigation).
+
+### C. Career Courses (Mandatory Schooling)
+As officers advance in their careers, they must complete mandatory courses to be eligible for promotion to certain ranks.
+- **Officer's Basic Course (OBC):** For promotion to Police Captain.
+- **Officer's Advance Course (OAC):** For promotion to Police Major.
+- **Officer's Senior Executive Course (OSEC):** For promotion to Police Colonel and higher.
+
+
+## IV. Promotion System
+
+Promotion in the PNP is the advancement of an officer to a higher rank, position, and salary. The system is designed to be based on merit and fitness.
+
+### A. Requirements for Promotion
+- **Time-in-Grade:** The officer must have served a minimum amount of time in their current rank.
+- **Education:** Must meet the educational requirements for the new rank.
+- **Mandatory Schooling:** Must have completed the required career courses (OBC, OAC, OSEC).
+- **Eligibility:** Must have passed the appropriate Promotional Examination administered by NAPOLCOM.
+- **Performance:** Must have a satisfactory performance evaluation rating.
+
+### B. Types of Promotion
+1.  **Regular Promotion:** The standard promotion process based on meeting all the requirements.
+2.  **Special Promotion / Meritorious Promotion:** A police officer may be promoted to the next higher rank for conspicuous acts of courage and gallantry in the line of duty, at the risk of his/her life above and beyond the call of duty. This type of promotion often bypasses some of the standard requirements.
+
 
 ## Conclusion
 

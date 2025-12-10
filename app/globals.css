@@ -1,0 +1,195 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%; /* #FFFFFF - White */
+    --foreground: 0 0% 0%; /* #000000 - Black */
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 0% 0%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 0% 0%;
+
+    --primary: 217 55% 25%; /* brand-navy */
+    --primary-foreground: 0 0% 100%; /* white */
+
+    --secondary: 0 0% 96%; /* lighter gray */
+    --secondary-foreground: 0 0% 9%; /* near-black */
+
+    --muted: 0 0% 90%; /* light gray */
+    --muted-foreground: 0 0% 30%; /* dark gray */
+
+    --accent: 0 0% 96%;
+    --accent-foreground: 0 0% 9%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 85%;
+    --input: 0 0% 85%;
+    --ring: 217 55% 25%;
+
+    --radius: 0.5rem;
+
+    /* Custom Colors */
+    --brand-navy: 217, 55%, 25%; /* #1a365d */
+    --brand-gold: 45, 74%, 55%; /* #d4af37 */
+    --brand-light: 210, 20%, 98%; /* #f7fafc */
+  }
+
+  .dark {
+    --background: 215 48% 11%; /* #0f172a */
+    --foreground: 0 0% 100%; /* #FFFFFF - White */
+
+    --card: 215 48% 11%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 215 48% 11%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 45 74% 55%; /* brand-gold */
+    --primary-foreground: 217 55% 15%; /* darker navy */
+
+    --secondary: 215 30% 20%; /* lighter slate */
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 215 30% 25%; /* medium slate */
+    --muted-foreground: 0 0% 70%; /* light gray */
+
+    --accent: 215 30% 20%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 70% 40%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 215 30% 25%;
+    --input: 215 30% 25%;
+    --ring: 45 74% 55%;
+    
+    /* Custom Colors Dark */
+    --brand-navy: 217, 55%, 25%;
+    --brand-gold: 45, 74%, 55%;
+    --brand-light: 220, 13%, 18%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+  }
+  
+  .transition-all {
+    transition: all 0.3s ease-in-out;
+  }
+
+  .hover-lift {
+    @apply transition-transform duration-300 ease-in-out;
+  }
+  .hover-lift:hover {
+    transform: translateY(-5px);
+  }
+}
+
+@media print {
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #000;
+    background: #fff;
+  }
+  
+  .no-print, .no-print * {
+    display: none !important;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+  
+  main[data-id="module-content"] {
+    padding: 1rem;
+    border: none;
+    box-shadow: none;
+  }
+}
+
+@layer components {
+  .prose table {
+    @apply border-collapse w-full my-4;
+  }
+  .prose th, .prose td {
+    @apply border border-gray-300 dark:border-gray-600 px-4 py-2 text-left;
+  }
+  .prose thead {
+    @apply bg-gray-100 dark:bg-gray-800;
+  }
+  .prose tr:nth-child(even) {
+    @apply bg-gray-50 dark:bg-gray-700/50;
+  }
+  .prose table-container {
+    @apply overflow-x-auto;
+  }
+
+  /* Dark mode prose text colors - explicit override for readability */
+  .dark .prose {
+    --tw-prose-body: #e5e7eb;
+    --tw-prose-headings: #f9fafb;
+    --tw-prose-lead: #d1d5db;
+    --tw-prose-links: #d4af37;
+    --tw-prose-bold: #f9fafb;
+    --tw-prose-counters: #9ca3af;
+    --tw-prose-bullets: #6b7280;
+    --tw-prose-hr: #374151;
+    --tw-prose-quotes: #f3f4f6;
+    --tw-prose-quote-borders: #d4af37;
+    --tw-prose-captions: #9ca3af;
+    --tw-prose-code: #f9fafb;
+    --tw-prose-pre-code: #e5e7eb;
+    --tw-prose-pre-bg: #1f2937;
+    --tw-prose-th-borders: #4b5563;
+    --tw-prose-td-borders: #374151;
+  }
+
+  .dark .prose p,
+  .dark .prose li,
+  .dark .prose ul,
+  .dark .prose ol,
+  .dark .prose span,
+  .dark .prose strong,
+  .dark .prose em,
+  .dark .prose blockquote {
+    color: #e5e7eb;
+  }
+
+  .dark .prose h1,
+  .dark .prose h2,
+  .dark .prose h3,
+  .dark .prose h4,
+  .dark .prose h5,
+  .dark .prose h6 {
+    color: #d4af37;
+  }
+
+  .dark .prose a {
+    color: #d4af37;
+  }
+
+  .dark .prose code {
+    color: #f9fafb;
+    background-color: #374151;
+  }
+}

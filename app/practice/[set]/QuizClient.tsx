@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import QuizQuestion from '../../../components/QuizQuestion';
+import GoogleAd from '../../../components/GoogleAd';
 import { ProgressProvider, useProgress } from '../../../contexts/ProgressContext';
 
 function QuizComponent({ quiz }) {
@@ -27,14 +28,24 @@ function QuizComponent({ quiz }) {
       <p className="text-lg mb-6">{quiz.description}</p>
 
       {quiz.questions.map((question, index) => (
-        <QuizQuestion
-          key={index}
-          question={question.question}
-          choices={question.choices}
-          correctAnswer={question.correctAnswer}
-          explanation={question.explanation}
-          onAnswer={(answerIndex) => handleAnswerChange(index, answerIndex)}
-        />
+        <div key={index}>
+          <QuizQuestion
+            question={question.question}
+            choices={question.choices}
+            correctAnswer={question.correctAnswer}
+            explanation={question.explanation}
+            onAnswer={(answerIndex) => handleAnswerChange(index, answerIndex)}
+          />
+          {/* Insert Ad after every 5th question (indices 4, 9, 14, etc.) */}
+          {(index + 1) % 5 === 0 && (
+            <GoogleAd 
+              slot="1337729799" 
+              format="fluid"
+              layoutKey="-fb+5w+4e-db+86"
+              className="my-8"
+            />
+          )}
+        </div>
       ))}
     </div>
   );

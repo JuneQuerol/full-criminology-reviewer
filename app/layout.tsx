@@ -58,6 +58,12 @@ export default function RootLayout({
     <html lang="en" className="dark" style={{ colorScheme: 'dark' }}>
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
+        {/* Google AdSense */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4225764258903216"
+          crossOrigin="anonymous"
+        ></script>
       </head>
       <body
         className={`${inter.variable} ${merriweather.variable} font-sans bg-brand-light dark:bg-gray-900 overflow-x-hidden`}

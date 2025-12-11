@@ -4,6 +4,7 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { ChevronDown, Book, Shield, Microscope, Search, Building, Gavel, Users, Fingerprint, Dna, FileText, Briefcase } from 'lucide-react';
+import GoogleAd from './GoogleAd';
 
 const cleModules = [
   {
@@ -425,11 +426,11 @@ const Sidebar = () => {
   };
 
   return (
-    <aside className="w-80 bg-brand-light/50 dark:bg-gray-900/60 border-r border-gray-200 dark:border-gray-800 hidden lg:block no-print">
+    <aside className="w-80 bg-brand-light/50 dark:bg-gray-900/60 border-r border-gray-200 dark:border-gray-800 hidden lg:flex lg:flex-col h-screen sticky top-0 no-print">
       <div className="p-4">
         <h2 className="text-xl font-semibold text-brand-navy dark:text-brand-light font-serif">CLE Review Modules</h2>
       </div>
-      <nav className="mt-2 flex-grow">
+      <nav className="mt-2 flex-grow overflow-y-auto">
         <ul>
           {cleModules.map((major) => (
             <li key={major.title} className="px-2 mb-1">
@@ -450,9 +451,7 @@ const Sidebar = () => {
                 </div>
               </button>
               <div
-                className={`overflow-hidden transition-all duration-300 ease-in-out ${
-                  openMajor === major.title ? 'max-h-[1000px]' : 'max-h-0'
-                }`}
+                className={`overflow-hidden transition-all duration-300 ease-in-out ${openMajor === major.title ? 'max-h-[1000px]' : 'max-h-0'}`}
               >
                 <ul className="pt-1">
                   {major.subCategories.length > 0 ? major.subCategories.map((sub) => (
@@ -471,9 +470,7 @@ const Sidebar = () => {
                         />
                       </button>
                       <div
-                        className={`overflow-hidden transition-all duration-300 ease-in-out ${
-                          openSub === sub.part ? 'max-h-screen' : 'max-h-0'
-                        }`}
+                        className={`overflow-hidden transition-all duration-300 ease-in-out ${openSub === sub.part ? 'max-h-screen' : 'max-h-0'}`}
                       >
                         {sub.modules.length > 0 ? (
                           <ul className="py-1 pl-8 pr-1 space-y-1">
@@ -481,11 +478,7 @@ const Sidebar = () => {
                               <li key={mod.href}>
                                 <Link href={mod.href}>
                                   <span
-                                    className={`block p-2 text-sm rounded-md transition-colors text-left ${
-                                      pathname === mod.href
-                                        ? 'bg-brand-gold/20 text-brand-navy dark:text-brand-gold font-semibold'
-                                        : 'text-gray-600 dark:text-gray-400 hover:bg-gray-300/50 dark:hover:bg-gray-700/50'
-                                    }`}
+                                    className={`block p-2 text-sm rounded-md transition-colors text-left ${pathname === mod.href ? 'bg-brand-gold/20 text-brand-navy dark:text-brand-gold font-semibold' : 'text-gray-600 dark:text-gray-400 hover:bg-gray-300/50 dark:hover:bg-gray-700/50'}`}
                                   >
                                     {mod.title}
                                   </span>
@@ -509,6 +502,10 @@ const Sidebar = () => {
           ))}
         </ul>
       </nav>
+      {/* Sidebar Ad Unit */}
+      <div className="p-4 mt-auto border-t border-gray-200 dark:border-gray-800">
+         <GoogleAd slot="2203895386" format="auto" />
+      </div>
     </aside>
   );
 };

@@ -1,3 +1,5 @@
+'use client';
+
 import { SearchResult } from '../lib/search';
 import { FileText, ClipboardList } from 'lucide-react';
 

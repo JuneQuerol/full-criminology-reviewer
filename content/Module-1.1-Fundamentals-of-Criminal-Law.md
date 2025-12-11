@@ -1,3 +1,8 @@
+---
+title: 'Module 1.1: Fundamentals of Criminal Law'
+description: 'This module covers the basic concepts of criminal law, including its sources, characteristics, and underlying theories. It is designed for criminology board exam reviewers.'
+---
+
 # Module 1.1: Fundamentals of Criminal Law
 
 ## 1. Learning Objectives
@@ -44,6 +49,8 @@ Philippine Criminal Law is defined by three main characteristics:
         *   **Treaty Stipulations:** As seen in agreements like the Visiting Forces Agreement (VFA).
         *   **Laws of Preferential Application:** For example, members of Congress are not liable for libel or slander for any speech delivered in Congress.
 
+*Sa madaling salita, ang **GENERALITY** ay nangangahulugang lahat ng tao sa Pilipinas ay sumusunod sa batas - Filipino man o dayuhan, mayaman o mahirap. Exception lang: mga diplomats (ambassadors), mga head of state, at iba pang may diplomatic immunity.*
+
 2.  **Territoriality:** The law is applicable only to crimes committed within the Philippine territory.
     *   **Legal Basis:** "Except as provided in the treaties and laws of preferential application, the provisions of this Code shall be enforced not only within the Philippine Archipelago, including its atmosphere, its interior waters and maritime zone, but also outside of its jurisdiction, against those who..." (Article 2, Revised Penal Code)
     *   **Exceptions (Extraterritoriality):** The RPC can be applied for crimes committed *outside* the Philippines in certain cases:
@@ -53,10 +60,16 @@ Philippine Criminal Law is defined by three main characteristics:
         *   While being public officers or employees, should commit an offense in the exercise of their functions.
         *   Should commit any of the crimes against national security and the law of nations.
 
+*Ang **TERRITORIALITY** ay ang batas ng Pilipinas ay applicable lang sa loob ng Pilipinas. Pero may exceptions: (1) Kung nasa Philippine ship/airplane ka, (2) Kung nag-forge ka ng Philippine pera kahit nasa ibang bansa, (3) Kung public officer ka at nag-commit ng crime habang nag-ttrabaho sa Philippine embassy abroad.*
+
 3.  **Prospectivity (Irretrospectivity):** A penal law cannot make an act punishable in a manner in which it was not punishable when committed. It has no retroactive effect.
     *   **Legal Basis:** "Penal Laws shall have a retroactive effect in so far as they favor the person guilty of a felony, who is not a habitual criminal..." (Article 22, RPC). This is the exception to the rule.
     *   **General Rule:** Crimes are punished under the law in force at the time of their commission.
     *   **Exception:** A new law can be applied retroactively if it is favorable to the accused (e.g., imposes a lesser penalty), provided the accused is not a habitual delinquent.
+
+*Ang **PROSPECTIVITY** ay nangangahulugang ang batas ay hindi balik-dated. Kung ginawa mo yung act noong legal pa, tapos naging illegal na, hindi ka pwedeng kasuhan. EXCEPTION: Kapag ang bagong batas ay MAS FAVORABLE sa iyo (mas mababa ang penalty), pwede mag-apply retroactively - maliban kung habitual criminal ka.*
+
+**📌 Board Exam Tip:** Memorize **"GTP"** - **G**enerality, **T**erritoriality, **P**rospectivity. Eto ang 3 characteristics ng criminal law!
 
 ---
 
@@ -68,15 +81,23 @@ Philippine Criminal Law is defined by three main characteristics:
     *   **Focus:** The act itself, not the individual.
     *   **Application:** The Revised Penal Code is largely based on this theory.
 
+*Ang **CLASSICAL THEORY** ay naniniwala sa FREE WILL - ikaw ay may kakayahang pumili, kaya kung nag-commit ka ng crime, dapat ka parusahan. Focus dito ay yung GINAWA MO (the act), hindi kung ano ka bilang tao. Retribution ang purpose - "an eye for an eye." Halimbawa: Pumatay ka, dapat ka ring mamatay.*
+
 2.  **Positivist (or Realistic) Theory:**
     *   **Core Principle:** Views crime as a social and natural phenomenon. The offender is a product of biological, social, and environmental factors that impel them to commit a crime.
     *   **Purpose of Punishment:** Reformation and social defense. The offender is seen as "sick" and needs treatment.
     *   **Focus:** The actor (the criminal), not the act.
     *   **Application:** Influences are seen in provisions like the Indeterminate Sentence Law and the granting of parole.
 
+*Ang **POSITIVIST THEORY** ay naniniwala na ang criminal ay "product ng environment" - dahil sa kahirapan, broken family, kulang sa edukasyon, kaya nag-commit ng crime. Hindi siya totally may kasalanan kasi maraming factors ang nag-push sa kanya. Kaya ang focus ay REFORMATION (pagbabago) at treatment, hindi retribution. Parang "may sakit ka, kailangan mo ng treatment."*
+
 3.  **Eclectic (or Mixed) Theory:**
     *   **Core Principle:** A combination of the classical and positivist theories. It acknowledges that the basis for criminal liability is free will, but the imposition of penalties should consider the circumstances of the offender.
     *   **Application:** This is the prevailing theory in the Philippines. The RPC remains primarily classical, but it incorporates positivist principles, such as considering mitigating and aggravating circumstances.
+
+*Ang **ECLECTIC/MIXED THEORY** ay pagsasama ng Classical at Positivist. Ang criminal liability ay based pa rin sa free will (Classical), pero ang penalty ay nag-cconsider ng circumstances ng offender - gaya ng edad, education, provocation (Positivist). ITO ANG GAMIT SA PILIPINAS! Kaya may mitigating and aggravating circumstances tayo.*
+
+**📌 Board Exam Tip:** Classical = ACT/Retribution, Positivist = ACTOR/Reformation, Eclectic = BOTH (gamit sa Pilipinas!)
 
 ---
 
@@ -120,6 +141,14 @@ The 1987 Constitution imposes strict limitations on the power to create and appl
 | **Defense** | Good faith, lack of intent, or mistake of fact are valid defenses. | Good faith or lack of intent is not a defense. |
 | **Modifying Circumstances** | Mitigating and aggravating circumstances are considered in imposing the penalty. | Modifying circumstances are generally not considered. |
 | **Examples** | Murder, Theft, Rape, Estafa, Robbery. | Illegal Possession of Firearms, Violation of Traffic Laws (BP 22), Jaywalking. |
+
+**🔍 Taglish Explanation:**
+
+*Ang **MALA IN SE** ay mga krimen na masama talaga sa sarili nito - kahit walang batas, alam mong mali yun. Tulad ng pagpatay (murder), panggagahasa (rape), pagnanakaw (theft). Kaya kailangan ng CRIMINAL INTENT - dapat sinasadya mo o may layunin ka. Kapag nagkamali ka lang (mistake of fact) o walang masamang intensyon, pwede kang makalusot.*
+
+*Ang **MALA PROHIBITA** naman ay masama lang dahil may batas na nagsasabi na bawal. Halimbawa, illegal possession of firearms - hindi naman inherently masama ang may baril, pero bawal kasi may batas. Dito, kahit walang intent o "good faith" ka, liable ka pa rin. Basta may ginawa kang bawal, talo ka na.*
+
+**📌 Board Exam Tip:** Remember - **MALA IN SE** = "Evil in itself" (needs intent), **MALA PROHIBITA** = "Evil because prohibited" (no need for intent).
 
 ---
 

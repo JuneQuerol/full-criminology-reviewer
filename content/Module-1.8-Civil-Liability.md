@@ -1,3 +1,8 @@
+---
+title: 'Module 1.8: Civil Liability Arising from Crime'
+description: 'This module focuses on civil liability arising from crimes, a crucial topic for criminology board exams. It covers the scope of civil liability, including restitution, reparation, and indemnification.'
+---
+
 # Module 1.8: Civil Liability Arising from Crime
 
 ## 1. Learning Objectives

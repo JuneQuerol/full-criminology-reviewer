@@ -1,3 +1,8 @@
+---
+title: 'Module 1.4: Persons Criminally Liable'
+description: 'This module defines the roles of principals, accomplices, and accessories in a crime, which is crucial for criminology board exam takers to understand criminal liability.'
+---
+
 # Module 1.4: Persons Criminally Liable
 
 ## 1. Learning Objectives

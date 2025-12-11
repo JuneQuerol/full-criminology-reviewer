@@ -10,9 +10,20 @@ The functions of police patrol are geared towards achieving several key objectiv
 
 ### A. Primary Goals
 1.  **Crime Prevention and Suppression:** This is the foremost goal. The visible presence of uniformed patrol officers is intended to deter potential criminals and to intervene when crimes are in progress.
+
+    *Sa madaling salita: Ang Number 1 goal ng patrol ay **pigilan ang crime bago pa mangyari**. Pag nakita ng holdaper na may patrol car, mag-iisip-isip siya bago mang-holdap. Yan ang deterrent effect ng visible patrol.*
+
 2.  **Maintenance of Peace and Order:** This involves managing public gatherings, settling disputes, and addressing minor disturbances before they escalate into serious problems.
+
+    *Example: May alitan sa kanto dahil sa basketball. Pumunta ang patrol, pinakalma ang dalawang grupo. Naiwasan ang gulo—yan ang peace and order maintenance.*
+
 3.  **Provision of Public Services:** Patrol officers are often the first point of contact for citizens in need, providing assistance in emergencies, giving directions, and offering information.
+
+    *Hindi lang "crime-fighter" ang pulis—sila rin ang tumutulong sa nawawalang bata, sa nasiraan ng sasakyan, sa mga turista na naliligaw. Public service yan.*
+
 4.  **Law Enforcement:** This includes apprehending offenders, issuing traffic citations, and enforcing city ordinances.
+
+    *Pag nahuli ka ng patrol na nag-counterflow o nag-illegal parking, enforcement yan. Pag inaresto ka dahil may warrant, enforcement din.*
 
 ### B. Secondary Goals (Internal)
 - **Observation and Reporting:** Patrol officers act as the "eyes and ears" of the police department, observing conditions in their assigned area and reporting intelligence, hazards, and unusual activities.
@@ -20,15 +31,6 @@ The functions of police patrol are geared towards achieving several key objectiv
 
 **Board Exam Tip:** Crime prevention is the *number one* goal of patrol. The theory is that it is always better to prevent a crime from happening than to solve it after the fact.
 
----
-| :--- | :--- | :--- | :--- |
-| **Foot** | Community Interaction | Low Mobility | Crowded urban areas, markets |
-| **Automobile**| Mobility & Response Time | Low Interaction | Standard residential/suburban beats|
-| **Motorcycle**| Speed in Traffic | High Risk | Traffic enforcement, congested streets|
-| **Bicycle**| Balance of Mobility & Interaction| Officer Fatigue | Parks, campuses, business districts|
-| **Horse** | Crowd Control | High Maintenance Cost | Large crowds, rugged terrain |
-
----
 ---
 
 ## Conclusion
@@ -53,14 +55,34 @@ Police departments use various types of patrol, often in combination, depending 
 
 ### A. Foot Patrol
 - The oldest and most basic form of patrol.
+
+*Foot patrol = Lakad-lakad lang. Pero huwag mong maliitin—ito ang pinaka-effective para sa community relations.*
+
 - **Advantages:**
     - **High Police-Community Interaction:** Allows for close, personal contact with residents and business owners.
+
+      *Pag naglalakad ka sa kalsada, nakikita ka ng mga tao, nakakausap mo sila, nakakabati. Mas mabilis na magtiwala ang komunidad pag kilala ka nila personally.*
+
     - **High Visibility:** Excellent for crowded areas, festivals, and commercial districts.
+
+      *Sa Divisoria, sa Quiapo, sa mga piyesta—foot patrol ang best. Mas nakikita ka ng tao, mas ramdam ang presensya ng pulis.*
+
     - **Good for Intelligence Gathering:** Officers can easily observe and hear things they would miss in a car.
+
+      *Pag naka-kotse ka, baka hindi mo marinig yung usapan ng mga tambay sa kanto. Pero pag naglalakad ka, maririnig mo ang mga tsismis at intel na pwedeng gamitin.*
+
 - **Disadvantages:**
     - **Limited Mobility and Area Coverage:** Can only cover a small area.
+
+      *Problema: Mabagal ka. Kung malawak ang area, hindi mo kayang i-cover ng foot patrol lang.*
+
     - **Slow Response Time** to incidents far from their post.
+
+      *Pag may emergency 2 kilometers away, matagal kang makakarating. Kaya kailangan ng mobile patrol bilang backup.*
+
     - **Exposure to Weather:** The officer is exposed to heat, rain, and cold.
+
+      *Pagod ka sa init, basa ka sa ulan. Walang aircon, walang bubong. Physical demand talaga ang foot patrol.*
 
 ### B. Automobile / Mobile Patrol
 - The most common and widely used method of patrol today.
@@ -98,15 +120,30 @@ Police departments use various types of patrol, often in combination, depending 
 - **Marine/Baybayin Patrol:** Used for policing coastlines, ports, and inland waterways.
 
 **Summary Table of Patrol Methods**
+
 | Method | Key Advantage | Key Disadvantage | Best Use Case |
+| :--- | :--- | :--- | :--- |
+| **Foot** | Community Interaction | Low Mobility | Crowded urban areas, markets |
+| **Automobile** | Mobility & Response Time | Low Interaction | Standard residential/suburban beats |
+| **Motorcycle** | Speed in Traffic | High Risk | Traffic enforcement, congested streets |
+| **Bicycle** | Balance of Mobility & Interaction | Officer Fatigue | Parks, campuses, business districts |
+| **Horse** | Crowd Control | High Maintenance Cost | Large crowds, rugged terrain |
 
 ## III. Patrol Strategies and Techniques
 
 ### A. Patrol Strategies
 1.  **Routine Patrol:** The traditional method where officers patrol their beat in a seemingly random pattern, using their discretion to decide where to go and what to do. The goal is to create a sense of police omnipresence.
+
+    *Routine patrol = Random ikot-ikot lang sa assigned area mo. Walang specific instruction—bahala ka kung saan ka pupunta. Pero dapat unpredictable para hindi makita ng criminal ang pattern mo.*
+
 2.  **Directed Patrol:** A strategy where patrol officers are given specific, data-driven assignments or "directives" to perform during their uncommitted time.
     - **Example:** "Between 2 PM and 4 PM, spend 30 minutes patrolling the park on 5th Street to address recent complaints of loitering." This is a proactive approach based on crime analysis.
+
+    *Directed patrol = May specific target ka. Based sa crime data (halimbawa, maraming snatching sa area X from 6-8pm), doon ka mag-focus. Data-driven approach ito—hindi random.*
+
 3.  **Reactive Patrol:** A strategy that involves waiting for calls for service from the public and then responding. This is a purely reactive model and is generally considered inefficient, as it cedes control of the police workload to the public.
+
+    *Reactive patrol = Pag may tawag, saka ka lang gumalaw. Parang firefighter—hintay lang ng emergency. Hindi maganda ito kasi reactive ka lang, hindi proactive.*
 
 ### B. Key Patrol Concepts and Techniques
 1.  **Police Hazards:** These are any persons, places, things, or situations that could pose a danger or become a police problem. Patrol officers are trained to identify and regularly check hazards on their beat.

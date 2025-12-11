@@ -1,5 +1,7 @@
-
-# Module 3.1: Criminal Procedure - General Provisions and Prosecution of Offenses
+---
+title: 'Module 3.1: Criminal Procedure - General Provisions and Prosecution of Offenses'
+description: 'Covers jurisdiction, venue, institution of criminal actions, preliminary investigation, and prosecution of offenses under the Rules of Court.'
+---
 
 ## 1. Learning Objectives
 

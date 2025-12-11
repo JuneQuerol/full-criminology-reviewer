@@ -81,6 +81,7 @@ const cleModules = [
           { title: 'Child Abuse (RA 7610)', href: '/part-5/Module-5.5-Child-Abuse-RA7610' },
           { title: 'Anti-Trafficking (RA 9208)', href: '/part-5/Module-5.6-Anti-Trafficking-RA9208' },
           { title: 'Other Special Laws', href: '/part-5/Module-5.7-Other-Special-Laws' },
+          { title: 'Cybercrime Prevention Act (RA 10175)', href: '/part-5/Module-5.8-Cybercrime-Prevention-Act-RA10175' },
         ],
       },
     ]
@@ -127,6 +128,7 @@ const cleModules = [
         modules: [
           { title: 'Patrol Operations', href: '/lea/Module-6.9-Patrol-Operations' },
           { title: 'Traffic Management & Crime Prevention', href: '/lea/Module-6.10-Traffic-Management-Crime-Prevention' },
+          { title: 'Police Field Procedures', href: '/lea/Module-6.15-Police-Field-Procedures' },
         ],
       },
       {
@@ -136,6 +138,24 @@ const cleModules = [
         modules: [
           { title: 'Police Leadership Theories & Styles', href: '/lea/Module-6.11-Police-Leadership-Theories-Styles' },
           { title: 'Police Logistics & Fiscal Admin', href: '/lea/Module-6.12-Police-Logistics-Fiscal-Administration' },
+        ],
+      },
+      {
+        part: 'lea-community',
+        title: 'Community Relations & Ethics',
+        icon: <Users size={20} />,
+        modules: [
+          { title: 'Police Community Relations (PCR)', href: '/lea/Module-6.13-Police-Community-Relations' },
+          { title: 'Police Ethics, Values & Discipline', href: '/lea/Module-6.14-Police-Ethics-Values-Discipline' },
+          { title: 'Human Rights in Law Enforcement', href: '/lea/Module-6.17-Human-Rights-in-Law-Enforcement' },
+        ],
+      },
+      {
+        part: 'lea-comparative',
+        title: 'Comparative Systems',
+        icon: <Shield size={20} />,
+        modules: [
+          { title: 'Comparative Police Systems', href: '/lea/Module-6.16-Comparative-Police-Systems' },
         ],
       },
     ],
@@ -194,6 +214,7 @@ const cleModules = [
                 { title: 'Forensic Photography & Documentation', href: '/criminalistics/Module-7.13-Forensic-Photography-Crime-Scene-Documentation' },
                 { title: 'Polygraphy & Lie Detection', href: '/criminalistics/Module-7.14-Polygraphy-Lie-Detection' },
                 { title: 'Forensic Psychology & Profiling', href: '/criminalistics/Module-7.15-Forensic-Psychology-Criminal-Profiling' },
+                { title: 'Forensic Medicine & Pathology Basics', href: '/criminalistics/Module-7.16-Forensic-Medicine-Pathology-Basics' },
             ]
         }
     ],
@@ -249,6 +270,15 @@ const cleModules = [
             modules: [
                 { title: 'Homicide, Robbery, Kidnapping', href: '/cdi/Module-8.11-Homicide-Robbery-Kidnapping-Investigation' },
                 { title: 'Drug Crimes, Cybercrimes & Arson', href: '/cdi/Module-8.12-Drug-Crimes-Cybercrimes-Arson-Investigation' },
+            ]
+        },
+        {
+            part: 'cdi-advanced',
+            title: 'Advanced Investigation Topics',
+            icon: <Search size={20} />,
+            modules: [
+                { title: 'Modus Operandi & Criminal Identification', href: '/cdi/Module-8.13-Modus-Operandi-Criminal-Identification' },
+                { title: 'Investigative Report Writing', href: '/cdi/Module-8.14-Investigative-Report-Writing' },
             ]
         }
     ],
@@ -407,9 +437,9 @@ const Sidebar = () => {
                 onClick={() => toggleMajor(major.title)}
                 className="w-full flex justify-between items-center p-3 rounded-md bg-gray-200/50 dark:bg-gray-800/50 hover:bg-gray-200 dark:hover:bg-gray-800"
               >
-                <div className="flex items-center space-x-3">
+                <div className="flex items-center space-x-3 text-left">
                   <span className="text-brand-gold">{major.icon}</span>
-                  <span className="font-semibold text-sm text-gray-800 dark:text-gray-200">{major.title}</span>
+                  <span className="font-semibold text-sm text-gray-800 dark:text-gray-200 text-left">{major.title}</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <span className="text-xs font-mono text-gray-500">{major.percentage}</span>
@@ -431,9 +461,9 @@ const Sidebar = () => {
                         onClick={() => toggleSub(sub.part)}
                         className="w-full flex justify-between items-center p-2.5 rounded-md hover:bg-gray-200/80 dark:hover:bg-gray-700/60"
                       >
-                         <div className="flex items-center space-x-3">
+                         <div className="flex items-center space-x-3 text-left">
                            <span className="text-brand-gold">{sub.icon}</span>
-                           <span className="font-medium text-sm text-gray-700 dark:text-gray-300">{sub.title}</span>
+                           <span className="font-medium text-sm text-gray-700 dark:text-gray-300 text-left">{sub.title}</span>
                          </div>
                         <ChevronDown
                           size={18}
@@ -451,7 +481,7 @@ const Sidebar = () => {
                               <li key={mod.href}>
                                 <Link href={mod.href}>
                                   <span
-                                    className={`block p-2 text-sm rounded-md transition-colors ${
+                                    className={`block p-2 text-sm rounded-md transition-colors text-left ${
                                       pathname === mod.href
                                         ? 'bg-brand-gold/20 text-brand-navy dark:text-brand-gold font-semibold'
                                         : 'text-gray-600 dark:text-gray-400 hover:bg-gray-300/50 dark:hover:bg-gray-700/50'
@@ -479,14 +509,6 @@ const Sidebar = () => {
           ))}
         </ul>
       </nav>
-      <div className="p-4 mt-auto border-t border-gray-200 dark:border-gray-800">
-        <Link href="/progress">
-          <span className="flex items-center p-3 rounded-md hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors">
-            <span className="text-brand-gold"><Book size={20} /></span>
-            <span className="ml-3 font-semibold text-gray-700 dark:text-gray-300">My Progress</span>
-          </span>
-        </Link>
-      </div>
     </aside>
   );
 };

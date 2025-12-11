@@ -1,3 +1,8 @@
+---
+title: 'Module 1.7: Extinction of Criminal Liability'
+description: 'This module discusses the various ways criminal liability is extinguished, such as prescription, pardon, amnesty, and death of the convict. This is a key topic for criminology board exam takers.'
+---
+
 # Module 1.7: Extinction of Criminal Liability
 
 ## 1. Learning Objectives

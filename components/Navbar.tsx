@@ -48,7 +48,6 @@ const Navbar = () => {
 
   const otherLinks = [
     { href: '/practice', text: 'Practice Exams' },
-    { href: '/progress', text: 'Progress' },
   ];
 
   return (
@@ -103,7 +102,7 @@ const Navbar = () => {
             
             <button
               onClick={toggleSubjects}
-              className="w-full flex justify-between items-center px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-brand-gold hover:bg-gray-700/50 transition-colors"
+              className="w-full flex justify-between items-center px-3 py-3 min-h-[48px] rounded-md text-base font-medium text-gray-300 hover:text-brand-gold hover:bg-gray-700/50 transition-colors"
             >
               <span>Subjects</span>
               {isSubjectsOpen ? <ChevronUp size={20} /> : <ChevronDown size={20} />}
@@ -113,7 +112,7 @@ const Navbar = () => {
                 <div className="py-2 space-y-2">
                     {subjectLinks.map(link => (
                     <Link key={link.href} href={link.href} onClick={closeMenu}>
-                        <span className="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-brand-gold hover:bg-gray-700/50 transition-colors">
+                        <span className="block px-3 py-3 min-h-[48px] flex items-center rounded-md text-base font-medium text-gray-300 hover:text-brand-gold hover:bg-gray-700/50 transition-colors">
                         {link.text}
                         </span>
                     </Link>
@@ -123,7 +122,7 @@ const Navbar = () => {
 
             {otherLinks.map(link => (
               <Link key={link.href} href={link.href} onClick={closeMenu}>
-                <span className="block px-3 py-2 rounded-md text-base font-medium text-gray-300 hover:text-brand-gold hover:bg-gray-700/50 transition-colors">
+                <span className="block px-3 py-3 min-h-[48px] flex items-center rounded-md text-base font-medium text-gray-300 hover:text-brand-gold hover:bg-gray-700/50 transition-colors">
                   {link.text}
                 </span>
               </Link>

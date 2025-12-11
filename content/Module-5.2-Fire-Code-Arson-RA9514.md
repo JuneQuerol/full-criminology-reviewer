@@ -1,4 +1,7 @@
-# Module 5.2: Fire Code and Arson Law Reviewer
+---
+title: 'Module 5.2: Fire Code and Arson Law'
+description: 'Covers RA 9514 (Fire Code of the Philippines), PD 1613 (Arson Law), fire safety inspections, and penalties for arson offenses.'
+---
 
 **A Comprehensive Reviewer for the Criminology Board Exam on R.A. 9514 (The Fire Code of the Philippines) and P.D. 1613 (The Law on Arson)**
 

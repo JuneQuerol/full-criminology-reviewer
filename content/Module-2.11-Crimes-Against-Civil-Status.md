@@ -1,4 +1,7 @@
-# Module 2.11: Crimes Against Civil Status of Persons
+---
+title: 'Module 2.11: Crimes Against Civil Status of Persons'
+description: 'Covers simulation of birth, usurpation of civil status, bigamy, illegal marriages, and other crimes affecting personal identity and marital status.'
+---
 
 This module covers crimes that tamper with the civil status of individuals, such as feigning birth, assuming another's identity, and entering into illegal marriages. Understanding these offenses is crucial for the Criminology Licensure Exam as they intersect with family law and personal identity.
 

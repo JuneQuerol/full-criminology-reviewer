@@ -1,0 +1,596 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - link "Pinoy Crim" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e8]: Pinoy Crim
+        - generic [ref=e9]:
+          - button "Toggle dark mode" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+          - button "Toggle menu" [ref=e18] [cursor=pointer]:
+            - img [ref=e19]
+      - generic [ref=e21]:
+        - generic [ref=e24]:
+          - img [ref=e25]
+          - textbox "Search modules and exams..." [ref=e28]
+        - button "Subjects" [ref=e29] [cursor=pointer]:
+          - generic [ref=e30]: Subjects
+          - img [ref=e31]
+        - generic [ref=e33]:
+          - link "Jurisprudence" [ref=e34] [cursor=pointer]:
+            - /url: /part-1
+            - generic [ref=e35]: Jurisprudence
+          - link "Law Enforcement" [ref=e36] [cursor=pointer]:
+            - /url: /lea
+            - generic [ref=e37]: Law Enforcement
+          - link "Criminalistics" [ref=e38] [cursor=pointer]:
+            - /url: /criminalistics
+            - generic [ref=e39]: Criminalistics
+          - link "Crime Detection" [ref=e40] [cursor=pointer]:
+            - /url: /cdi
+            - generic [ref=e41]: Crime Detection
+          - link "Sociology of Crimes" [ref=e42] [cursor=pointer]:
+            - /url: /sce
+            - generic [ref=e43]: Sociology of Crimes
+          - link "Correctional Admin" [ref=e44] [cursor=pointer]:
+            - /url: /ca
+            - generic [ref=e45]: Correctional Admin
+        - link "Practice Exams" [ref=e46] [cursor=pointer]:
+          - /url: /practice
+          - generic [ref=e47]: Practice Exams
+    - main [ref=e49]:
+      - generic [ref=e50]:
+        - 'heading "Module 1.1: Fundamentals of Criminal Law" [level=1] [ref=e51]'
+        - generic [ref=e52]:
+          - heading "1. Learning Objectives" [level=2] [ref=e53]
+          - paragraph [ref=e54]: "Upon completion of this module, the student will be able to:"
+          - list [ref=e55]:
+            - listitem [ref=e56]: Understand the definition, sources, and core characteristics of Philippine Criminal Law.
+            - listitem [ref=e57]: Differentiate the underlying principles of the Classical, Positivist, and Mixed theories of criminal law.
+            - listitem [ref=e58]: Identify and explain the constitutional limitations that protect individual rights against state power in criminal legislation.
+            - listitem [ref=e59]:
+              - text: Distinguish between crimes that are
+              - code [ref=e60]: "`mala in se`"
+              - text: and those that are
+              - code [ref=e61]: "`mala prohibita`"
+              - text: .
+            - listitem [ref=e62]:
+              - text: Apply fundamental legal maxims such as
+              - code [ref=e63]: "`Nullum crimen, nulla poena sine lege`"
+              - text: and the
+              - code [ref=e64]: "`Doctrine of Pro Reo`"
+              - text: in analyzing criminal law problems.
+          - separator [ref=e65]
+          - heading "2. Definition of Criminal Law" [level=2] [ref=e66]
+          - paragraph [ref=e67]:
+            - strong [ref=e68]: Criminal Law
+            - text: is that branch or division of public law which defines crimes, treats of their nature, and provides for their punishment.
+          - paragraph [ref=e69]: It is a body of legal rules that deals with conduct considered so harmful to society as a whole that it is prohibited by statute, prosecuted and punished by the government.
+          - separator [ref=e70]
+          - heading "3. Sources of Criminal Law in the Philippines" [level=2] [ref=e71]
+          - paragraph [ref=e72]: "The primary sources of Philippine Criminal Law are:"
+          - list [ref=e73]:
+            - listitem [ref=e74]:
+              - paragraph [ref=e75]:
+                - strong [ref=e76]: "The Revised Penal Code (Act No. 3815):"
+                - text: "This is the main body of criminal law in the Philippines. It took effect on January 1, 1932. It is divided into two books:"
+              - list [ref=e77]:
+                - listitem [ref=e78]:
+                  - strong [ref=e79]: "Book One:"
+                  - text: Covers general provisions regarding criminal liability, persons liable, and penalties. (Articles 1-113)
+                - listitem [ref=e80]:
+                  - strong [ref=e81]: "Book Two:"
+                  - text: Defines specific felonies and their corresponding penalties. (Articles 114-367)
+            - listitem [ref=e82]:
+              - paragraph [ref=e83]:
+                - strong [ref=e84]: "Special Penal Laws (SPLs):"
+                - text: These are statutes enacted by the Philippine Congress that punish offenses not covered by the Revised Penal Code. Examples include Republic Act No. 9165 (Comprehensive Dangerous Drugs Act of 2002), Republic Act No. 9262 (Anti-Violence Against Women and Their Children Act of 2004), and Batas Pambansa Blg. 22 (Bouncing Checks Law).
+            - listitem [ref=e85]:
+              - paragraph [ref=e86]:
+                - strong [ref=e87]: "The Philippine Constitution:"
+                - text: While not a penal statute itself, the Constitution is the supreme law of the land and serves as a crucial source of limitations on the power of the state to enact and enforce criminal laws. The Bill of Rights (Article III) provides fundamental protections for the accused.
+          - separator [ref=e88]
+          - heading "4. Characteristics of Criminal Law" [level=2] [ref=e89]
+          - paragraph [ref=e90]: "Philippine Criminal Law is defined by three main characteristics:"
+          - list [ref=e91]:
+            - listitem [ref=e92]:
+              - strong [ref=e93]: "Generality:"
+              - text: The law is binding on all persons who live or sojourn in Philippine territory, regardless of nationality, gender, or status.
+              - list [ref=e94]:
+                - listitem [ref=e95]:
+                  - strong [ref=e96]: "Legal Basis:"
+                  - text: "\"Penal laws and those of public security and safety shall be obligatory upon all who live or sojourn in Philippine territory, subject to the principles of public international law and to treaty stipulations.\" (Article 14, New Civil Code)"
+                - listitem [ref=e97]:
+                  - strong [ref=e98]: "Exceptions:"
+                  - list [ref=e99]:
+                    - listitem [ref=e100]:
+                      - strong [ref=e101]: "Principles of Public International Law:"
+                      - text: Sovereigns and heads of state, ambassadors, ministers, and other diplomatic representatives are generally exempt from criminal jurisdiction.
+                    - listitem [ref=e102]:
+                      - strong [ref=e103]: "Treaty Stipulations:"
+                      - text: As seen in agreements like the Visiting Forces Agreement (VFA).
+                    - listitem [ref=e104]:
+                      - strong [ref=e105]: "Laws of Preferential Application:"
+                      - text: For example, members of Congress are not liable for libel or slander for any speech delivered in Congress.
+          - paragraph [ref=e106]:
+            - emphasis [ref=e107]:
+              - text: Sa madaling salita, ang
+              - strong [ref=e108]: GENERALITY
+              - text: "ay nangangahulugang lahat ng tao sa Pilipinas ay sumusunod sa batas - Filipino man o dayuhan, mayaman o mahirap. Exception lang: mga diplomats (ambassadors), mga head of state, at iba pang may diplomatic immunity."
+          - list [ref=e109]:
+            - listitem [ref=e110]:
+              - strong [ref=e111]: "Territoriality:"
+              - text: The law is applicable only to crimes committed within the Philippine territory.
+              - list [ref=e112]:
+                - listitem [ref=e113]:
+                  - strong [ref=e114]: "Legal Basis:"
+                  - text: "\"Except as provided in the treaties and laws of preferential application, the provisions of this Code shall be enforced not only within the Philippine Archipelago, including its atmosphere, its interior waters and maritime zone, but also outside of its jurisdiction, against those who...\" (Article 2, Revised Penal Code)"
+                - listitem [ref=e115]:
+                  - strong [ref=e116]: "Exceptions (Extraterritoriality):"
+                  - text: The RPC can be applied for crimes committed
+                  - emphasis [ref=e117]: outside
+                  - text: "the Philippines in certain cases:"
+                  - list [ref=e118]:
+                    - listitem [ref=e119]: Should commit an offense while on a Philippine ship or airship.
+                    - listitem [ref=e120]: Should forge or counterfeit any coin or currency note of the Philippines or obligations and securities issued by the Government.
+                    - listitem [ref=e121]: Should be liable for acts connected with the introduction into these islands of the obligations and securities mentioned above.
+                    - listitem [ref=e122]: While being public officers or employees, should commit an offense in the exercise of their functions.
+                    - listitem [ref=e123]: Should commit any of the crimes against national security and the law of nations.
+          - paragraph [ref=e124]:
+            - emphasis [ref=e125]:
+              - text: Ang
+              - strong [ref=e126]: TERRITORIALITY
+              - text: "ay ang batas ng Pilipinas ay applicable lang sa loob ng Pilipinas. Pero may exceptions: (1) Kung nasa Philippine ship/airplane ka, (2) Kung nag-forge ka ng Philippine pera kahit nasa ibang bansa, (3) Kung public officer ka at nag-commit ng crime habang nag-ttrabaho sa Philippine embassy abroad."
+          - list [ref=e127]:
+            - listitem [ref=e128]:
+              - strong [ref=e129]: "Prospectivity (Irretrospectivity):"
+              - text: A penal law cannot make an act punishable in a manner in which it was not punishable when committed. It has no retroactive effect.
+              - list [ref=e130]:
+                - listitem [ref=e131]:
+                  - strong [ref=e132]: "Legal Basis:"
+                  - text: "\"Penal Laws shall have a retroactive effect in so far as they favor the person guilty of a felony, who is not a habitual criminal...\" (Article 22, RPC). This is the exception to the rule."
+                - listitem [ref=e133]:
+                  - strong [ref=e134]: "General Rule:"
+                  - text: Crimes are punished under the law in force at the time of their commission.
+                - listitem [ref=e135]:
+                  - strong [ref=e136]: "Exception:"
+                  - text: A new law can be applied retroactively if it is favorable to the accused (e.g., imposes a lesser penalty), provided the accused is not a habitual delinquent.
+          - paragraph [ref=e137]:
+            - emphasis [ref=e138]:
+              - text: Ang
+              - strong [ref=e139]: PROSPECTIVITY
+              - text: "ay nangangahulugang ang batas ay hindi balik-dated. Kung ginawa mo yung act noong legal pa, tapos naging illegal na, hindi ka pwedeng kasuhan. EXCEPTION: Kapag ang bagong batas ay MAS FAVORABLE sa iyo (mas mababa ang penalty), pwede mag-apply retroactively - maliban kung habitual criminal ka."
+          - paragraph [ref=e140]:
+            - strong [ref=e141]: "📌 Board Exam Tip:"
+            - text: Memorize
+            - strong [ref=e142]: "\"GTP\""
+            - text: "-"
+            - strong [ref=e143]: G
+            - text: enerality,
+            - strong [ref=e144]: T
+            - text: erritoriality,
+            - strong [ref=e145]: P
+            - text: rospectivity. Eto ang 3 characteristics ng criminal law!
+          - separator [ref=e146]
+          - heading "5. Theories of Criminal Law" [level=2] [ref=e147]
+          - list [ref=e148]:
+            - listitem [ref=e149]:
+              - strong [ref=e150]: "Classical (or Juristic) Theory:"
+              - list [ref=e151]:
+                - listitem [ref=e152]:
+                  - strong [ref=e153]: "Core Principle:"
+                  - text: Based on the concept of free will. Man is a rational being who chooses to commit a crime; thus, he should be punished for his actions.
+                - listitem [ref=e154]:
+                  - strong [ref=e155]: "Purpose of Punishment:"
+                  - text: Retribution. The punishment should be proportional to the crime.
+                - listitem [ref=e156]:
+                  - strong [ref=e157]: "Focus:"
+                  - text: The act itself, not the individual.
+                - listitem [ref=e158]:
+                  - strong [ref=e159]: "Application:"
+                  - text: The Revised Penal Code is largely based on this theory.
+          - paragraph [ref=e160]:
+            - emphasis [ref=e161]:
+              - text: Ang
+              - strong [ref=e162]: CLASSICAL THEORY
+              - text: "ay naniniwala sa FREE WILL - ikaw ay may kakayahang pumili, kaya kung nag-commit ka ng crime, dapat ka parusahan. Focus dito ay yung GINAWA MO (the act), hindi kung ano ka bilang tao. Retribution ang purpose - \"an eye for an eye.\" Halimbawa: Pumatay ka, dapat ka ring mamatay."
+          - list [ref=e163]:
+            - listitem [ref=e164]:
+              - strong [ref=e165]: "Positivist (or Realistic) Theory:"
+              - list [ref=e166]:
+                - listitem [ref=e167]:
+                  - strong [ref=e168]: "Core Principle:"
+                  - text: Views crime as a social and natural phenomenon. The offender is a product of biological, social, and environmental factors that impel them to commit a crime.
+                - listitem [ref=e169]:
+                  - strong [ref=e170]: "Purpose of Punishment:"
+                  - text: Reformation and social defense. The offender is seen as "sick" and needs treatment.
+                - listitem [ref=e171]:
+                  - strong [ref=e172]: "Focus:"
+                  - text: The actor (the criminal), not the act.
+                - listitem [ref=e173]:
+                  - strong [ref=e174]: "Application:"
+                  - text: Influences are seen in provisions like the Indeterminate Sentence Law and the granting of parole.
+          - paragraph [ref=e175]:
+            - emphasis [ref=e176]:
+              - text: Ang
+              - strong [ref=e177]: POSITIVIST THEORY
+              - text: ay naniniwala na ang criminal ay "product ng environment" - dahil sa kahirapan, broken family, kulang sa edukasyon, kaya nag-commit ng crime. Hindi siya totally may kasalanan kasi maraming factors ang nag-push sa kanya. Kaya ang focus ay REFORMATION (pagbabago) at treatment, hindi retribution. Parang "may sakit ka, kailangan mo ng treatment."
+          - list [ref=e178]:
+            - listitem [ref=e179]:
+              - strong [ref=e180]: "Eclectic (or Mixed) Theory:"
+              - list [ref=e181]:
+                - listitem [ref=e182]:
+                  - strong [ref=e183]: "Core Principle:"
+                  - text: A combination of the classical and positivist theories. It acknowledges that the basis for criminal liability is free will, but the imposition of penalties should consider the circumstances of the offender.
+                - listitem [ref=e184]:
+                  - strong [ref=e185]: "Application:"
+                  - text: This is the prevailing theory in the Philippines. The RPC remains primarily classical, but it incorporates positivist principles, such as considering mitigating and aggravating circumstances.
+          - paragraph [ref=e186]:
+            - emphasis [ref=e187]:
+              - text: Ang
+              - strong [ref=e188]: ECLECTIC/MIXED THEORY
+              - text: ay pagsasama ng Classical at Positivist. Ang criminal liability ay based pa rin sa free will (Classical), pero ang penalty ay nag-cconsider ng circumstances ng offender - gaya ng edad, education, provocation (Positivist). ITO ANG GAMIT SA PILIPINAS! Kaya may mitigating and aggravating circumstances tayo.
+          - paragraph [ref=e189]:
+            - strong [ref=e190]: "📌 Board Exam Tip:"
+            - text: Classical = ACT/Retribution, Positivist = ACTOR/Reformation, Eclectic = BOTH (gamit sa Pilipinas!)
+          - separator [ref=e191]
+          - heading "6. Constitutional Limitations on Criminal Law" [level=2] [ref=e192]
+          - paragraph [ref=e193]: The 1987 Constitution imposes strict limitations on the power to create and apply criminal laws to protect citizens from arbitrary state action.
+          - list [ref=e194]:
+            - listitem [ref=e195]:
+              - strong [ref=e196]: "Due Process of Law:"
+              - text: "\"No person shall be deprived of life, liberty, or property without due process of law...\" (Art. III, Sec. 1). In criminal cases, this guarantees a fair and impartial trial."
+            - listitem [ref=e197]:
+              - strong [ref=e198]: "Equal Protection of the Laws:"
+              - text: "\"...nor shall any person be denied the equal protection of the laws.\" (Art. III, Sec. 1). All persons under like circumstances must be treated alike, both in rights conferred and responsibilities imposed."
+            - listitem [ref=e199]:
+              - strong [ref=e200]: "No Ex Post Facto Law:"
+              - text: "\"No ex post facto law or bill of attainder shall be enacted.\" (Art. III, Sec. 22). An ex post facto law is one that:"
+              - list [ref=e201]:
+                - listitem [ref=e202]: Makes an act criminal which was innocent when done.
+                - listitem [ref=e203]: Aggravates a crime or makes it greater than it was when committed.
+                - listitem [ref=e204]: Changes the punishment and inflicts a greater punishment than the law annexed to the crime when committed.
+                - listitem [ref=e205]: Alters the legal rules of evidence, and receives less, or different, testimony than the law required at the time of the commission of the offense, in order to convict the offender.
+            - listitem [ref=e206]:
+              - strong [ref=e207]: "No Bill of Attainder:"
+              - text: A bill of attainder is a legislative act that inflicts punishment without a judicial trial. It is a usurpation of judicial power by the legislature.
+          - separator [ref=e208]
+          - heading "7. Basic Maxims in Criminal Law" [level=2] [ref=e209]
+          - list [ref=e210]:
+            - listitem [ref=e211]:
+              - paragraph [ref=e212]:
+                - emphasis [ref=e213]:
+                  - strong [ref=e214]: Nullum crimen, nulla poena sine lege
+              - list [ref=e215]:
+                - listitem [ref=e216]:
+                  - strong [ref=e217]: "Translation:"
+                  - text: "\"There is no crime when there is no law punishing it.\""
+                - listitem [ref=e218]:
+                  - strong [ref=e219]: "Principle:"
+                  - text: A person cannot be punished for an act if there is no specific law that declares it a crime and provides a penalty for it. This is fundamental to a government of laws.
+            - listitem [ref=e220]:
+              - paragraph [ref=e221]:
+                - emphasis [ref=e222]:
+                  - strong [ref=e223]: Actus non facit reum, nisi mens sit rea
+              - list [ref=e224]:
+                - listitem [ref=e225]:
+                  - strong [ref=e226]: "Translation:"
+                  - text: "\"The act cannot be criminal where the mind is not criminal.\""
+                - listitem [ref=e227]:
+                  - strong [ref=e228]: "Principle:"
+                  - text: A crime is not committed if the mind of the person performing the act is innocent. This refers to the element of criminal intent (
+                  - code [ref=e229]: "`mens rea`"
+                  - text: ) required for most crimes, especially
+                  - code [ref=e230]: "`mala in se`"
+                  - text: .
+            - listitem [ref=e231]:
+              - paragraph [ref=e232]:
+                - strong [ref=e233]: Doctrine of Pro Reo
+              - list [ref=e234]:
+                - listitem [ref=e235]:
+                  - strong [ref=e236]: "Principle:"
+                  - text: When a penal law is ambiguous or has two possible interpretations, one lenient to the offender and one strict, the interpretation that is lenient or favorable to the accused must be adopted. This is in line with the constitutional presumption of innocence.
+          - separator [ref=e237]
+          - heading "8. Mala In Se vs. Mala Prohibita" [level=2] [ref=e238]
+          - table [ref=e239]:
+            - rowgroup [ref=e240]:
+              - row "Basis of Distinction Mala In Se Mala Prohibita" [ref=e241]:
+                - columnheader "Basis of Distinction" [ref=e242]
+                - columnheader "Mala In Se" [ref=e243]
+                - columnheader "Mala Prohibita" [ref=e244]
+            - rowgroup [ref=e245]:
+              - row "Concept Wrong from its very nature; inherently immoral. Wrong because it is prohibited by a statute." [ref=e246]:
+                - cell "Concept" [ref=e247]:
+                  - strong [ref=e248]: Concept
+                - cell "Wrong from its very nature; inherently immoral." [ref=e249]
+                - cell "Wrong because it is prohibited by a statute." [ref=e250]
+              - row "Governing Law Generally punished under the Revised Penal Code. Generally punished under Special Penal Laws." [ref=e251]:
+                - cell "Governing Law" [ref=e252]:
+                  - strong [ref=e253]: Governing Law
+                - cell "Generally punished under the Revised Penal Code." [ref=e254]
+                - cell "Generally punished under Special Penal Laws." [ref=e255]
+              - 'row "Criminal Intent Criminal intent (`mens rea`) is a necessary element. Criminal intent is not necessary. The act itself is the crime." [ref=e256]':
+                - cell "Criminal Intent" [ref=e257]:
+                  - strong [ref=e258]: Criminal Intent
+                - 'cell "Criminal intent (`mens rea`) is a necessary element." [ref=e259]':
+                  - text: Criminal intent (
+                  - code [ref=e260]: "`mens rea`"
+                  - text: ) is a necessary element.
+                - cell "Criminal intent is not necessary. The act itself is the crime." [ref=e261]
+              - row "Defense Good faith, lack of intent, or mistake of fact are valid defenses. Good faith or lack of intent is not a defense." [ref=e262]:
+                - cell "Defense" [ref=e263]:
+                  - strong [ref=e264]: Defense
+                - cell "Good faith, lack of intent, or mistake of fact are valid defenses." [ref=e265]
+                - cell "Good faith or lack of intent is not a defense." [ref=e266]
+              - row "Modifying Circumstances Mitigating and aggravating circumstances are considered in imposing the penalty. Modifying circumstances are generally not considered." [ref=e267]:
+                - cell "Modifying Circumstances" [ref=e268]:
+                  - strong [ref=e269]: Modifying Circumstances
+                - cell "Mitigating and aggravating circumstances are considered in imposing the penalty." [ref=e270]
+                - cell "Modifying circumstances are generally not considered." [ref=e271]
+              - row "Examples Murder, Theft, Rape, Estafa, Robbery. Illegal Possession of Firearms, Violation of Traffic Laws (BP 22), Jaywalking." [ref=e272]:
+                - cell "Examples" [ref=e273]:
+                  - strong [ref=e274]: Examples
+                - cell "Murder, Theft, Rape, Estafa, Robbery." [ref=e275]
+                - cell "Illegal Possession of Firearms, Violation of Traffic Laws (BP 22), Jaywalking." [ref=e276]
+          - paragraph [ref=e277]:
+            - strong [ref=e278]: "🔍 Taglish Explanation:"
+          - paragraph [ref=e279]:
+            - emphasis [ref=e280]:
+              - text: Ang
+              - strong [ref=e281]: MALA IN SE
+              - text: ay mga krimen na masama talaga sa sarili nito - kahit walang batas, alam mong mali yun. Tulad ng pagpatay (murder), panggagahasa (rape), pagnanakaw (theft). Kaya kailangan ng CRIMINAL INTENT - dapat sinasadya mo o may layunin ka. Kapag nagkamali ka lang (mistake of fact) o walang masamang intensyon, pwede kang makalusot.
+          - paragraph [ref=e282]:
+            - emphasis [ref=e283]:
+              - text: Ang
+              - strong [ref=e284]: MALA PROHIBITA
+              - text: naman ay masama lang dahil may batas na nagsasabi na bawal. Halimbawa, illegal possession of firearms - hindi naman inherently masama ang may baril, pero bawal kasi may batas. Dito, kahit walang intent o "good faith" ka, liable ka pa rin. Basta may ginawa kang bawal, talo ka na.
+          - paragraph [ref=e285]:
+            - strong [ref=e286]: "📌 Board Exam Tip:"
+            - text: Remember -
+            - strong [ref=e287]: MALA IN SE
+            - text: = "Evil in itself" (needs intent),
+            - strong [ref=e288]: MALA PROHIBITA
+            - text: = "Evil because prohibited" (no need for intent).
+          - separator [ref=e289]
+          - heading "9. Quick Review Summary Table" [level=2] [ref=e290]
+          - table [ref=e291]:
+            - rowgroup [ref=e292]:
+              - row "Concept Key Principle" [ref=e293]:
+                - columnheader "Concept" [ref=e294]
+                - columnheader "Key Principle" [ref=e295]
+            - rowgroup [ref=e296]:
+              - row "Criminal Law Defines crimes, treats their nature, provides punishment." [ref=e297]:
+                - cell "Criminal Law" [ref=e298]:
+                  - strong [ref=e299]: Criminal Law
+                - cell "Defines crimes, treats their nature, provides punishment." [ref=e300]
+              - row "Generality Binds all persons within Philippine territory." [ref=e301]:
+                - cell "Generality" [ref=e302]:
+                  - strong [ref=e303]: Generality
+                - cell "Binds all persons within Philippine territory." [ref=e304]
+              - row "Territoriality Enforceable only within Philippine territory (with exceptions)." [ref=e305]:
+                - cell "Territoriality" [ref=e306]:
+                  - strong [ref=e307]: Territoriality
+                - cell "Enforceable only within Philippine territory (with exceptions)." [ref=e308]
+              - row "Prospectivity Laws do not have retroactive effect (unless favorable to the accused)." [ref=e309]:
+                - cell "Prospectivity" [ref=e310]:
+                  - strong [ref=e311]: Prospectivity
+                - cell "Laws do not have retroactive effect (unless favorable to the accused)." [ref=e312]
+              - row "Classical Theory Free will; retribution; focus on the act." [ref=e313]:
+                - cell "Classical Theory" [ref=e314]:
+                  - strong [ref=e315]: Classical Theory
+                - cell "Free will; retribution; focus on the act." [ref=e316]
+              - row "Positivist Theory Determinism; reformation; focus on the actor." [ref=e317]:
+                - cell "Positivist Theory" [ref=e318]:
+                  - strong [ref=e319]: Positivist Theory
+                - cell "Determinism; reformation; focus on the actor." [ref=e320]
+              - row "Ex Post Facto Law Penalizes an act that was not a crime when committed. (Unconstitutional)" [ref=e321]:
+                - cell "Ex Post Facto Law" [ref=e322]:
+                  - strong [ref=e323]: Ex Post Facto Law
+                - cell "Penalizes an act that was not a crime when committed. (Unconstitutional)" [ref=e324]
+              - row "Bill of Attainder Inflicts punishment without trial. (Unconstitutional)" [ref=e325]:
+                - cell "Bill of Attainder" [ref=e326]:
+                  - strong [ref=e327]: Bill of Attainder
+                - cell "Inflicts punishment without trial. (Unconstitutional)" [ref=e328]
+              - row "Nullum Crimen No crime without a law." [ref=e329]:
+                - cell "Nullum Crimen" [ref=e330]:
+                  - strong [ref=e331]: Nullum Crimen
+                - cell "No crime without a law." [ref=e332]
+              - row "Actus Non Facit Reum The act is not criminal if the mind is not criminal." [ref=e333]:
+                - cell "Actus Non Facit Reum" [ref=e334]:
+                  - strong [ref=e335]: Actus Non Facit Reum
+                - cell "The act is not criminal if the mind is not criminal." [ref=e336]
+              - row "Pro Reo Doctrine Ambiguous penal laws are interpreted in favor of the accused." [ref=e337]:
+                - cell "Pro Reo Doctrine" [ref=e338]:
+                  - strong [ref=e339]: Pro Reo Doctrine
+                - cell "Ambiguous penal laws are interpreted in favor of the accused." [ref=e340]
+              - row "Mala In Se Inherently wrong; intent is an element (RPC)." [ref=e341]:
+                - cell "Mala In Se" [ref=e342]:
+                  - strong [ref=e343]: Mala In Se
+                - cell "Inherently wrong; intent is an element (RPC)." [ref=e344]
+              - row "Mala Prohibita Wrong because prohibited; intent is not an element (SPLs)." [ref=e345]:
+                - cell "Mala Prohibita" [ref=e346]:
+                  - strong [ref=e347]: Mala Prohibita
+                - cell "Wrong because prohibited; intent is not an element (SPLs)." [ref=e348]
+          - separator [ref=e349]
+          - heading "10. Multiple Choice Practice Questions" [level=2] [ref=e350]
+          - paragraph [ref=e351]:
+            - strong [ref=e352]: "Instructions:"
+            - text: Choose the best answer for each question.
+          - list [ref=e353]:
+            - listitem [ref=e354]:
+              - paragraph [ref=e355]: Which branch of law defines crimes, treats of their nature, and provides for their punishment? A) Civil Law B) Criminal Law C) Remedial Law D) Political Law
+            - listitem [ref=e356]:
+              - paragraph [ref=e357]: Which of the following is the primary source of substantive criminal law in the Philippines? A) The 1987 Constitution B) The New Civil Code C) The Revised Penal Code D) The Rules of Court
+            - listitem [ref=e358]:
+              - paragraph [ref=e359]: "The characteristic of criminal law which states that it is binding on all persons who live or sojourn in the Philippines is known as: A) Territoriality B) Prospectivity C) Generality D) Immunity"
+            - listitem [ref=e360]:
+              - paragraph [ref=e361]: A crime is committed on board a Philippine-registered vessel sailing in international waters. Which characteristic allows Philippine courts to exercise jurisdiction? A) Generality B) Prospectivity C) The exception to Territoriality D) The exception to Generality
+            - listitem [ref=e362]:
+              - paragraph [ref=e363]:
+                - text: Congress enacted a law that increases the penalty for theft from
+                - emphasis [ref=e364]: prision correccional
+                - text: to
+                - emphasis [ref=e365]: prision mayor
+                - text: ". The law was given retroactive effect. This is an example of: A) A bill of attainder B) An ex post facto law C) A valid exercise of police power D) A prospective law"
+            - listitem [ref=e366]:
+              - paragraph [ref=e367]: The theory of criminal law that is based on the concept of free will and the purpose of punishment is retribution. A) Positivist Theory B) Classical Theory C) Mixed Theory D) Utilitarian Theory
+            - listitem [ref=e368]:
+              - paragraph [ref=e369]: Which theory of criminal law views the offender as a "sick" individual who needs treatment and reformation rather than punishment? A) Classical Theory B) Neo-Classical Theory C) Positivist Theory D) Eclectic Theory
+            - listitem [ref=e370]:
+              - paragraph [ref=e371]: "The maxim \"There is no crime when there is no law punishing it\" is known as: A) Actus reus B) Pro reo C) Res ipsa loquitur D) Nullum crimen, nulla poena sine lege"
+            - listitem [ref=e372]:
+              - paragraph [ref=e373]: What is the legal principle that requires ambiguous penal laws to be interpreted in favor of the accused? A) Doctrine of Pro Reo B) Stare Decisis C) Dura lex sed lex D) Parens Patriae
+            - listitem [ref=e374]:
+              - paragraph [ref=e375]: "A law was passed by Congress automatically declaring all members of a certain organization as terrorists and ordering their immediate imprisonment. This law is a: A) Special Penal Law B) Bill of Attainder C) Writ of Amparo D) Law of Preferential Application"
+            - listitem [ref=e376]:
+              - paragraph [ref=e377]:
+                - text: Which of the following is a key difference between
+                - code [ref=e378]: "`mala in se`"
+                - text: and
+                - code [ref=e379]: "`mala prohibita`"
+                - text: "? A) Mala in se crimes are found only in special laws. B) Criminal intent is not required in mala in se. C) Good faith is a valid defense in mala in se. D) Mala prohibita are inherently immoral acts."
+            - listitem [ref=e380]:
+              - paragraph [ref=e381]:
+                - text: A person was arrested for illegal possession of a firearm. He argued that he did not know the firearm was unlicensed. Is his defense valid? A) Yes, because he acted in good faith. B) Yes, because of the principle of
+                - code [ref=e382]: "`actus non facit reum, nisi mens sit rea`"
+                - text: . C) No, because illegal possession of firearms is
+                - code [ref=e383]: "`mala prohibita`"
+                - text: . D) No, because he should have known the law.
+            - listitem [ref=e384]:
+              - paragraph [ref=e385]: The principle of territoriality means that penal laws are generally enforceable only within the geographical limits of the Philippines. Which of the following is NOT an exception? A) Committing an offense on a Philippine ship or airship. B) Counterfeiting Philippine currency in a foreign country. C) A foreign diplomat committing a crime in Makati City. D) A public officer committing malversation of funds while assigned in a Philippine embassy abroad.
+            - listitem [ref=e386]:
+              - paragraph [ref=e387]: A law was passed in 2023 lowering the penalty for a specific crime. X committed this crime in 2020 and is currently on trial. Can the new law be applied to him? A) No, because laws must be prospective. B) No, because he committed the crime before the law was passed. C) Yes, because it is favorable to the accused. D) Yes, but only if he is a habitual delinquent.
+            - listitem [ref=e388]:
+              - paragraph [ref=e389]:
+                - text: What does the maxim
+                - code [ref=e390]: "`Actus non facit reum, nisi mens sit rea`"
+                - text: emphasize? A) The act itself B) The criminal intent C) The resulting harm D) The absence of a law
+            - listitem [ref=e391]:
+              - paragraph [ref=e392]:
+                - text: Which of the following is an example of a crime
+                - code [ref=e393]: "`mala in se`"
+                - text: "? A) Violation of BP 22 (Bouncing Checks Law) B) Jaywalking C) Murder D) Over-speeding"
+            - listitem [ref=e394]:
+              - paragraph [ref=e395]: "The Philippine legal system's approach to criminal law, which combines the principles of free will from the Classical school and the consideration of offender's circumstances from the Positivist school, is best described as: A) Purely Classical B) Purely Positivist C) Eclectic or Mixed D) Retributive"
+            - listitem [ref=e396]:
+              - paragraph [ref=e397]: Which constitutional right ensures that a person is not subjected to a criminal proceeding that is unfair, arbitrary, and unjust? A) Equal Protection B) Right against unreasonable searches C) Due Process of Law D) Right to bail
+            - listitem [ref=e398]:
+              - paragraph [ref=e399]: Which is NOT a source of Philippine criminal law? A) Special Penal Laws B) Revised Penal Code C) Decisions of the Supreme Court D) 1987 Constitution
+            - listitem [ref=e400]:
+              - paragraph [ref=e401]: The application of mitigating and aggravating circumstances is a feature derived from which theory of criminal law? A) Positivist Theory, as it looks into the offender's state. B) Classical Theory, as it focuses on the act. C) Both, as part of the Mixed Theory. D) Neither, as it is a purely procedural concept.
+            - listitem [ref=e402]:
+              - paragraph [ref=e403]: A Japanese tourist commits theft in Cebu City. Can he be prosecuted under Philippine law? A) No, because he is a foreigner. B) Yes, because of the principle of Generality. C) No, because of the principle of Territoriality. D) Yes, but only if Japan has a similar law.
+            - listitem [ref=e404]:
+              - paragraph [ref=e405]: "A law that makes a previously legal act a crime and punishes it retroactively is known as: A) A bill of attainder B) Stare decisis C) An ex post facto law D) A special penal law"
+            - listitem [ref=e406]:
+              - paragraph [ref=e407]:
+                - text: Which of the following is NOT a characteristic of a crime
+                - code [ref=e408]: "`mala prohibita`"
+                - text: "? A) Criminal intent is immaterial. B) Generally punished under special laws. C) Good faith is a valid defense. D) The act itself is the crime."
+            - listitem [ref=e409]:
+              - paragraph [ref=e410]: Article 2 of the Revised Penal Code, which defines its scope of application, primarily deals with which characteristic of criminal law? A) Generality B) Prospectivity C) Territoriality D) Irretrospectivity
+            - listitem [ref=e411]:
+              - paragraph [ref=e412]: A public officer, while on vacation in another country, forges Philippine currency. Which principle allows the Philippines to prosecute him? A) Generality B) Prospectivity C) Eclectic Theory D) Extraterritoriality
+          - separator [ref=e413]
+          - heading "Answer Key & Explanations" [level=3] [ref=e414]
+          - list [ref=e415]:
+            - listitem [ref=e416]:
+              - strong [ref=e417]: B) Criminal Law
+              - text: "- By definition, criminal law is the branch of law that defines crimes and provides for their punishment."
+            - listitem [ref=e418]:
+              - strong [ref=e419]: C) The Revised Penal Code
+              - text: "- Act No. 3815 is the main codification of substantive criminal laws in the Philippines."
+            - listitem [ref=e420]:
+              - strong [ref=e421]: C) Generality
+              - text: "- The Generality principle states that penal laws apply to all individuals within the territory, irrespective of their nationality."
+            - listitem [ref=e422]:
+              - strong [ref=e423]: C) The exception to Territoriality
+              - text: "- Art. 2 of the RPC extends its jurisdiction to crimes committed on a Philippine ship or airship, even outside its territory."
+            - listitem [ref=e424]:
+              - strong [ref=e425]: B) An ex post facto law
+              - text: "- It is an ex post facto law because it changes the punishment and inflicts a greater punishment than what was prescribed when the crime was committed, and is applied retroactively to the prejudice of the accused."
+            - listitem [ref=e426]:
+              - strong [ref=e427]: B) Classical Theory
+              - text: "- The Classical Theory posits that man has free will, and the purpose of punishment is retribution for the crime committed."
+            - listitem [ref=e428]:
+              - strong [ref=e429]: C) Positivist Theory
+              - text: "- The Positivist Theory treats the offender as a product of various factors and advocates for their reformation."
+            - listitem [ref=e430]:
+              - strong [ref=e431]: D) Nullum crimen, nulla poena sine lege
+              - text: "- This Latin maxim translates to \"There is no crime if there is no law punishing it.\""
+            - listitem [ref=e432]:
+              - strong [ref=e433]: A) Doctrine of Pro Reo
+              - text: "- This doctrine mandates that penal laws should be construed liberally in favor of the accused and strictly against the state."
+            - listitem [ref=e434]:
+              - strong [ref=e435]: B) Bill of Attainder
+              - text: "- This is a classic example of a bill of attainder, which is a legislative act that inflicts punishment without a judicial trial."
+            - listitem [ref=e436]:
+              - strong [ref=e437]: C) Good faith is a valid defense in mala in se.
+              - text: "- In"
+              - code [ref=e438]: "`mala in se`"
+              - text: ", criminal intent is crucial. Therefore, good faith or lack of intent can be a defense. In"
+              - code [ref=e439]: "`mala prohibita`"
+              - text: ", the act itself is punished regardless of intent."
+            - listitem [ref=e440]:
+              - strong [ref=e441]:
+                - text: C) No, because illegal possession of firearms is
+                - code [ref=e442]: "`mala prohibita`"
+                - text: .
+              - text: "- Illegal possession of firearms is an offense punished by a special law. As a crime"
+              - code [ref=e443]: "`mala prohibita`"
+              - text: ", intent is not an element, and good faith is not a defense."
+            - listitem [ref=e444]:
+              - strong [ref=e445]: C) A foreign diplomat committing a crime in Makati City.
+              - text: "- This falls under the exception to the Generality principle due to public international law, not an exception to Territoriality."
+            - listitem [ref=e446]:
+              - strong [ref=e447]: C) Yes, because it is favorable to the accused.
+              - text: "- Article 22 of the RPC allows for the retroactive application of a penal law if it is favorable to the accused, provided they are not a habitual delinquent."
+            - listitem [ref=e448]:
+              - strong [ref=e449]: B) The criminal intent
+              - text: "- The maxim means \"the act itself does not make a man guilty unless his intention were so,\" highlighting the importance of"
+              - code [ref=e450]: "`mens rea`"
+              - text: or criminal intent.
+            - listitem [ref=e451]:
+              - strong [ref=e452]: C) Murder
+              - text: "- Murder is an act that is inherently evil and wrong, making it"
+              - code [ref=e453]: "`malum in se`"
+              - text: . The others are
+              - code [ref=e454]: "`mala prohibita`"
+              - text: .
+            - listitem [ref=e455]:
+              - strong [ref=e456]: C) Eclectic or Mixed
+              - text: "- The Philippine system adopts a mixed theory, combining the free-will concept of the classical school with considerations for the offender's circumstances from the positivist school."
+            - listitem [ref=e457]:
+              - strong [ref=e458]: C) Due Process of Law
+              - text: "- Due process is the constitutional guarantee of a fair and orderly proceeding that respects the rights of the accused."
+            - listitem [ref=e459]:
+              - strong [ref=e460]: C) Decisions of the Supreme Court
+              - text: "- Supreme Court decisions are part of the law of the land (stare decisis) and interpret the law, but they are not the source of the penal law itself. The law comes from statutes like the RPC and SPLs."
+            - listitem [ref=e461]:
+              - strong [ref=e462]: C) Both, as part of the Mixed Theory.
+              - text: "- While the consideration of the offender's circumstances is a Positivist concept, its application within the primarily Classical framework of the RPC makes it a feature of the Mixed Theory."
+            - listitem [ref=e463]:
+              - strong [ref=e464]: B) Yes, because of the principle of Generality.
+              - text: "- The principle of Generality holds that Philippine penal laws apply to everyone who commits a crime within the territory, regardless of their nationality."
+            - listitem [ref=e465]:
+              - strong [ref=e466]: C) An ex post facto law
+              - text: "- This is the precise definition of an ex post facto law, which is constitutionally prohibited."
+            - listitem [ref=e467]:
+              - strong [ref=e468]: C) Good faith is a valid defense.
+              - text: "- Good faith is NOT a defense in crimes"
+              - code [ref=e469]: "`mala prohibita`"
+              - text: ", where the only thing that matters is whether the prohibited act was committed."
+            - listitem [ref=e470]:
+              - strong [ref=e471]: C) Territoriality
+              - text: "- Article 2 explicitly defines that the RPC is enforceable within the Philippine Archipelago, its atmosphere, interior waters, and maritime zone, which is the principle of territoriality."
+            - listitem [ref=e472]:
+              - strong [ref=e473]: D) Extraterritoriality
+              - text: "- This is an exception to the territoriality principle. Article 2 of the RPC allows the Philippines to prosecute certain crimes committed outside its territory, including forging its currency or offenses by public officers in the exercise of their functions."
+    - contentinfo [ref=e474]:
+      - paragraph [ref=e476]: © 2025 Pinoy Crim Reviewer. All Rights Reserved.
+  - alert [ref=e477]
+```

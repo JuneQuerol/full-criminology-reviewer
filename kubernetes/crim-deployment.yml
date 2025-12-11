@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: crim-pinoyreviewer-deployment
+  labels:
+    app: crim-pinoyreviewer
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: crim-pinoyreviewer
+  template:
+    metadata:
+      labels:
+        app: crim-pinoyreviewer
+    spec:
+      containers:
+      - name: crim-app
+        image: crim-pinoyreviewer:latest
+        imagePullPolicy: Never  # Use local image (no registry)
+        ports:
+        - containerPort: 3000
+          name: http
+        env:
+        - name: NODE_ENV
+          value: "production"
+        - name: PORT
+          value: "3000"
+        - name: HOSTNAME
+          value: "0.0.0.0"
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "100m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: crim-pinoyreviewer-service
+spec:
+  selector:
+    app: crim-pinoyreviewer
+  ports:
+  - port: 80
+    targetPort: 3000
+    protocol: TCP
+  type: ClusterIP

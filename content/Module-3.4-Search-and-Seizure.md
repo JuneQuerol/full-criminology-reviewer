@@ -1,5 +1,7 @@
-
-# Module 3.4: Search and Seizure
+---
+title: 'Module 3.4: Search and Seizure'
+description: 'Covers search warrants, warrantless searches, exclusionary rule, plain view doctrine, and constitutional protections against unreasonable searches.'
+---
 
 ## 1. Learning Objectives
 

@@ -20,9 +20,17 @@ description: 'A foundational overview of Criminalistics and Forensic Science, de
 - **Focus:** The core focus of the criminalist is to link a suspect to a crime scene or a victim through the analysis of physical evidence.
 - **Analogy:** If Forensic Science is a university, Criminalistics is the College of Natural Sciences within it.
 
+*Sa madaling salita, ang **Criminalistics** ay ang siyensya ng pag-aaral ng **pisikal na ebidensya** - yung mga bagay na makikita at mahawakan sa crime scene tulad ng fingerprints, dugo, bala, droga, at iba pa. Kung ang Forensic Science ay parang buong eskwelahan, ang Criminalistics ay parang isang department lang na nag-focus sa laboratory analysis ng mga ebidensya.*
+
 **Board Exam Tip:** All criminalists are forensic scientists, but not all forensic scientists are criminalists. A forensic pathologist is a forensic scientist, but they are not a criminalist because they study the body itself, not just the physical evidence found on it.
 
+*Para mas maintindihan: Lahat ng taga-criminalistics ay forensic scientist, pero hindi lahat ng forensic scientist ay taga-criminalistics. Halimbawa, yung forensic pathologist (yung nag-aautopsy) ay forensic scientist din, pero hindi siya criminalist kasi ang ginagawa niya ay pag-aralan yung katawan mismo, hindi yung mga ebidensyang natagpuan lang.*
+
 ---
+
+### B. Testimonial vs. Physical Evidence
+
+| Feature | Testimonial Evidence (Witness Statement) | Physical Evidence |
 | :--- | :--- | :--- |
 | **Nature** | Subjective, based on human perception. | Objective, based on scientific analysis. |
 | **Reliability**| Can be flawed due to memory lapses, bias, or outright lying. | Unbiased. "Evidence does not lie." |
@@ -47,6 +55,39 @@ The work of the criminalist revolves around linking the three key elements of a 
 
 Physical evidence is the "glue" that connects these three components. For example, a suspect's fingerprint (physical evidence) found at the crime scene links the suspect to the scene. A victim's blood (physical evidence) found on a suspect's knife links the suspect to the victim.
 
+*Isipin mo ang **Forensic Triad** bilang tatlong bilog (circles): Crime Scene, Suspect, at Victim. Ang trabaho ng criminalist ay mag-hanap ng **physical evidence** na mag-connect ng tatlong ito. Halimbawa: Nakita ang fingerprint ng suspect sa crime scene - connected na! May dugo ng victim sa kutsilyo ng suspect - connected na ulit! Kaya ang physical evidence ang "glue" o pandikit ng tatlo.*
+
+**Board Exam Tip:** Memorize the Forensic Triad - Crime Scene, Suspect, Victim. Physical evidence links all three. This concept appears frequently in PRC exams!
+
+---
+
+## V. Locard's Exchange Principle - The Foundation of Criminalistics
+
+One of the most fundamental principles in criminalistics was established by **Dr. Edmond Locard**, a French criminologist often called the "Sherlock Holmes of France."
+
+### Locard's Exchange Principle States:
+> **"Every contact leaves a trace."**
+
+This means that whenever two objects come into contact, there is always a transfer of material between them. When a person enters a crime scene, they will:
+- **Leave something behind** (e.g., fingerprints, hair, fibers from clothing, shoe prints, DNA)
+- **Take something away** (e.g., dust, fibers, blood, soil)
+
+### Why This Principle is Important:
+1. **No Perfect Crime:** It is impossible to commit a crime without leaving any evidence. Even if the criminal is careful, microscopic traces will always be transferred.
+2. **Basis for Crime Scene Investigation:** This principle is why crime scene investigators meticulously collect even the smallest pieces of evidence.
+3. **Cross-Transfer:** Both the perpetrator and the crime scene/victim are "contaminated" by each other. This two-way exchange creates multiple opportunities to find evidence.
+
+### Examples of Locard's Principle in Action:
+- **Burglary:** A burglar breaks into a house. He leaves behind shoe prints, fingerprints on a window, and fibers from his jacket. He takes away dust from the house on his clothes and shoes.
+- **Hit and Run:** A car hits a pedestrian. Paint chips from the car are left on the victim's clothing. Blood and fibers from the victim are left on the car's bumper.
+- **Homicide:** The killer strangles the victim. The killer's skin cells (DNA) are found under the victim's fingernails. The victim's blood is found on the killer's shirt.
+
+*Sa madaling salita, ang **Locard's Exchange Principle** ay simpleng "every contact leaves a trace" - **kapag may contact, may transfer**. Walang perpektong krimen! Halimbawa: Pumasok ang magnanakaw sa bahay - may dadalhin siyang alikabok mula sa loob palabas, at may iiwan siyang fingerprints o damit fiber papasok. Parehong "contaminated" ang crime scene at yung suspect - ito ang tinatawag na **cross-transfer**. Kaya kahit gaano ka-ingat ang kriminal, may maiiwanan at madadala pa rin siyang ebidensya!*
+
+**Board Exam Tip:** Locard's Exchange Principle is one of the MOST tested concepts in Criminalistics. Remember: "Every contact leaves a trace" - cross-transfer always occurs. The principle explains WHY physical evidence is so powerful!
+
+**Mnemonic:** **LOCARD = Leave Or Carry Always Results in Detection**
+
 ---
 
 ## Introduction
@@ -64,6 +105,8 @@ Criminalistics is the heart of scientific crime investigation. It is the applica
 ## II. The Importance of Physical Evidence
 
 **Definition:** Physical Evidence refers to any tangible object or material that can be used to connect a suspect, victim, or a location to a crime. It is any object, big or small, that can establish that a crime has been committed or can provide a link between a crime and its victim or a crime and its perpetrator.
+
+*Ang **Physical Evidence** ay kahit anong bagay na makikita at mahawakan na pwedeng mag-connect ng suspect, victim, o lugar sa isang krimen. Maliit man o malaki - basta tangible object na pwedeng patunayan na may krimen na nangyari o pwedeng mag-link ng suspect sa crime scene.*
 
 ### A. Why is Physical Evidence Important?
 1.  **Proof of a Crime:** It can prove that a crime actually occurred (e.g., a broken window, a spent cartridge case).

@@ -1,4 +1,7 @@
-# Module 4.3: Testimonial Evidence
+---
+title: 'Module 4.3: Testimonial Evidence'
+description: 'Covers witness qualification, examination of witnesses, impeachment, and credibility of testimonial evidence under Philippine law.'
+---
 
 This module covers the rules and principles governing testimonial evidence in the Philippines, a crucial area for the Criminology Board Examination.
 

@@ -82,7 +82,9 @@ To determine the authenticity or source of a questioned document, the examiner n
     - **Advantage:** The content can be controlled to match the words on the questioned document.
     - **Disadvantage:** The subject may be nervous or may try to deliberately disguise their handwriting.
 
-**Board Exam Tip:** Collected standards are generally considered more reliable than requested standards because they are less likely to be deliberately altered by the writer. A good QDE will use a combination of both whenever possible.
+*May dalawang uri ng **standards** (exemplars): (1) **Collected Standards** - ito yung mga handwriting/signature samples na nasulat ng subject sa normal daily life BAGO pa mag-start ang investigation - examples: cancelled checks, letters, contracts. Ang advantage nito ay natural at unconscious writing habits (walang disguise); (2) **Requested Standards** - ito naman ay pinapasulat mo ang subject SPECIFICALLY for the investigation - pwede mong i-control ang content (match sa questioned document), pero disadvantage ay baka mag-disguise or nervous ang subject. Generally, COLLECTED STANDARDS are MORE RELIABLE kasi natural lang sila at hindi deliberately altered!*
+
+**Board Exam Tip:** Collected standards > Requested standards in terms of reliability. Collected = natural writing, Requested = may tendency to disguise. Use both kung possible!
 
 
 ## IV. Forgery and Its Detection
@@ -94,6 +96,10 @@ To determine the authenticity or source of a questioned document, the examiner n
 2.  **Simulated/Freehand Forgery:** The forger attempts to copy or imitate a genuine model signature. This is an act of "drawing" rather than writing, and it often contains signs of the forger's struggle to make an accurate copy.
 3.  **Traced Forgery:** The forger traces over a genuine signature. This can be done using a light source (like a lightbox), a carbon paper intermediate, or by tracing over an indentation.
 
+*May tatlong uri ng **forged signatures**: (1) **Simple/Spurious Forgery** - walang alam ang forger sa tunay na signature, kaya sinusulat niya lang ang name ng victim using his OWN handwriting - ito ang EASIEST to detect kasi obvious na iba ang writing style; (2) **Simulated/Freehand Forgery** - sinusubukan ng forger na kopyahin ang genuine signature by looking at a model - ito ay "drawing" hindi writing, kaya may signs of struggle (hesitations, tremor, patching); (3) **Traced Forgery** - tini-trace ng forger ang genuine signature gamit ang light source, carbon paper, o indentation - pwedeng mahirap detectin pero may tell-tale signs pa rin (lack of natural fluidity).*
+
+**Board Exam Tip:** Simple = easiest to detect (own handwriting). Simulated = signs of struggle. Traced = lack of fluidity. Remember the 3 classes!
+
 ### B. Common Indicators of Forgery (The "Badges of Forgery")
 When a forger tries to simulate or trace a signature, they must write slowly and carefully. This slow, deliberate process often leaves behind tell-tale signs that are absent in a person's natural, fluid handwriting.
 
@@ -103,6 +109,10 @@ When a forger tries to simulate or trace a signature, they must write slowly and
 - **Unnatural Slant and Proportions:** The letters are not consistent in their size and slant.
 - **Slow, Drawn-Out Quality:** The ink line lacks the "fluidity" of genuine writing, appearing more like a drawing.
 - **Identical Signatures:** No one signs their name exactly the same way twice. If two signatures are perfectly identical, it is overwhelming evidence that one or both are traced or digitally reproduced. This is a cardinal rule of handwriting examination.
+
+*Ang **"Badges of Forgery"** ay yung mga tell-tale signs na nag-indicate na forged ang signature. Kasi pag nag-forge ka, kailangan mong mag-write SLOWLY at CAREFULLY - ito ay nag-iiwan ng signs na absent sa natural writing: (1) **Hesitations/Pen Lifts** - may unnatural stops and starts; (2) **Tremor** - shaky or uncertain ang writing; (3) **Patching** - bumalik para ayusin ang letter; (4) **Unnatural Slant/Proportions** - hindi consistent ang size at slant; (5) **Slow Quality** - walang fluidity, parang drawing; (6) **Identical Signatures** - CARDINAL RULE: Walang taong nag-sign ng EXACTLY the same way twice! Pag perfectly identical ang dalawang signatures, overwhelming evidence na TRACED or digitally reproduced yan!*
+
+**Board Exam Tip:** "No one signs their name exactly the same way twice" - this is a CARDINAL RULE. Identical signatures = traced/forged. VERY common exam question!
 
 
 ## Conclusion

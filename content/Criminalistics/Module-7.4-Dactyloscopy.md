@@ -19,12 +19,16 @@ The basis for this principle is the study of **ridge characteristics** (also cal
 
 While two people might have the same general fingerprint *pattern* (e.g., a loop), the specific arrangement and location of their ridge characteristics will always be different. There is no known rate of duplication.
 
+*Sa madaling salita, ang **Principle of Individuality** ay nangangahulugang **WALANG dalawang fingerprints na magkapareho** - kahit kambal pa kayo! Ang basehan nito ay yung mga maliit na detalye sa ridges na tinatawag na **minutiae** o **Galton's details**. Halimbawa: ridge ending (biglang tumigil ang ridge), bifurcation (yung ridge na naghahati sa dalawa - parang sangay ng puno), dot (napakaikli lang na ridge - parang tuldok), at enclosure (parang island na bumabalik agad). Kahit may parehong pattern (halimbawa parehong loop), ang arrangement ng minutiae ay laging iba. Kaya unique talaga ang bawat tao!*
+
 ### 2. Principle of Permanency (Immutability)
 > **The friction ridge patterns of the fingers are formed during fetal development and remain unchanged throughout an individual's life until decomposition after death.**
 
 - **Formation:** Fingerprints develop in the womb at around the 3rd to 4th month of fetal life.
 - **Durability:** The patterns are formed on the **dermal papillae**, a layer of cells between the outer skin (epidermis) and the inner skin (dermis). As long as the dermal papillae are not damaged, the fingerprint will always grow back in the exact same pattern, even after superficial cuts, burns, or scrapes to the epidermis.
 - **Scars:** A deep cut or burn that damages the dermal papillae will result in a permanent scar, which itself becomes a unique and permanent feature of the fingerprint.
+
+*Ang **Principle of Permanency** ay nangangahulugang ang fingerprint pattern mo ay **PERMANENT** - hindi magbabago mula pagsilang hanggang kamatayan! Nabuo na yan sa tiyan ng nanay mo (3rd-4th month ng pregnancy). Ang pattern ay naka-embed sa **dermal papillae** - yung layer ng cells sa pagitan ng epidermis (outer skin) at dermis (inner skin). Kaya kahit magka-gasgas ka, ma-burn ng mababaw, o may superficial cut - tutubo ulit yan sa exact same pattern! Pero pag MALALIM ang sugat na umabot sa dermal papillae, mag-iwan ng permanent scar - na nagiging unique feature pa rin ng fingerprint mo. Kaya walang takas ang kriminal kahit subukan niyang alisin ang fingerprints - babalik pa rin, or mag-iwan ng scar na mas unique pa!*
 
 ### 3. Principle of Infallibility
 > **Because fingerprints are unique and permanent, they are a reliable and infallible means of personal identification.**
@@ -47,6 +51,8 @@ All fingerprint patterns can be classified into one of three large general group
     - **Plain Arch:** The ridges rise smoothly in the center.
     - **Tented Arch:** The ridges in the center have a sharp upward thrust, spike, or "tent-like" shape.
 
+*Isipin mo ang **ARCH** na parang bundok o tulay (bridge) - pumapasok ang ridges sa isang side, umaakyat sa gitna, tapos bumababa sa kabilang side. **Walang delta at walang core** ang arch - yan ang pagkakakilanlan niya! Ito ang **PINAKA-RARE** na pattern - mga **5% lang** ng population ang may ganito! May dalawang klase: (1) **Plain Arch** - smooth lang yung pag-akyat sa gitna, parang gentle slope; (2) **Tented Arch** - may sharp upward thrust sa gitna, parang matatarik na tent o spike. Para maalala: ARCH = RARE (5% lang)!*
+
 ### B. The Loop (Approx. 60-65% of all fingerprints)
 - In the loop pattern, one or more ridges enter from one side, recurve (loop around), and exit on the same side they entered.
 - **A loop has ONE delta and ONE core.**
@@ -54,6 +60,10 @@ All fingerprint patterns can be classified into one of three large general group
     - **Ulnar Loop:** The loop opens towards the ulna bone (the "pinky" side of the hand).
     - **Radial Loop:** The loop opens towards the radius bone (the "thumb" side of the hand).
 - **Ridge Counting:** The process of counting the number of ridges that cross an imaginary line drawn between the delta and the core. This is a key step in classification.
+
+*Ang **LOOP** ay ito ang MOST COMMON na pattern - **60-65% ng tao** ay may loop! Isipin mo na parang hairpin turn o U-turn - pumapasok ang ridges, biglang loop around (balik), tapos lumalabas sa SAME SIDE kung saan sila pumasok. May **ONE delta at ONE core** ang loop. May dalawang uri: (1) **Ulnar Loop** - ang opening ay patungo sa ulna bone (pinky side) - ito ang mas common; (2) **Radial Loop** - ang opening ay patungo sa radius bone (thumb side). Para maalala kung ulnar o radial: Ulnar = U-turn sa pinky side! Ang **ridge counting** ay bilang ng ridges na tumatawid sa imaginary line between delta and core - importante ito sa classification!*
+
+**Board Exam Tip:** Memorize: LOOP = MOST COMMON (60-65%). Has 1 delta + 1 core. Ulnar opens to pinky, Radial opens to thumb!
 
 ### C. The Whorl (Approx. 30-35% of all fingerprints)
 - The whorl pattern consists of one or more ridges that make a complete circuit, often in a spiral or circular shape.
@@ -65,9 +75,18 @@ All fingerprint patterns can be classified into one of three large general group
     - **Accidental Whorl:** A pattern that combines two or more different pattern types (excluding the plain arch) or a pattern that does not fit into any other definition.
 - **Ridge Tracing:** The process of following the ridge that emanates from the lower side of the left delta until it reaches the point opposite the right delta. The number of intervening ridges determines if the whorl is an Inner (I), Meeting (M), or Outer (O) whorl.
 
+*Ang **WHORL** ay pangalawang most common - **30-35% ng tao**. Isipin mo na parang spiral o bilog - yung ridges ay gumagawa ng complete circuit (buong ikot). May **TWO or MORE deltas at ONE core** ang whorl - yan ang pagkakakilanlan niya! May apat na uri: (1) **Plain Whorl** - simple spiral/circular pattern lang; (2) **Central Pocket Loop Whorl** - parang hybrid ng loop at whorl, may dalawang delta pero isa ay malapit sa core; (3) **Double Loop Whorl** - dalawang loop formations na magkasama, parang letter "S"; (4) **Accidental Whorl** - combination ng iba't ibang patterns o hindi pasok sa ibang definitions (catch-all category). Ang **ridge tracing** ay process ng pagsunod sa ridge mula left delta hanggang right delta - para malaman kung Inner (I), Meeting (M), o Outer (O) ang whorl.*
+
+**Board Exam Tip:** Easy way to remember: ARCH = 0 deltas (5%), LOOP = 1 delta (60-65%), WHORL = 2+ deltas (30-35%). Whorl types: Plain, Central Pocket Loop, Double Loop, Accidental!
+
 **Summary of Pattern Characteristics**
+
 | Pattern | Deltas | Core | Prevalence |
 | :--- | :--- | :--- | :--- |
+| **Arch** | 0 | 0 | ~5% |
+| **Loop** | 1 | 1 | ~60-65% |
+| **Whorl** | 2 or more | 1 | ~30-35% |
+
 ---
 
 ## IV. Fingerprint Classification
@@ -84,6 +103,10 @@ All fingerprint patterns can be classified into one of three large general group
 - **Other Classifications:** The Henry system includes several other sub-classifications (Secondary, Sub-secondary, Major, Final, Key) that further narrow down the search by looking at specific patterns on the index fingers, thumbs, etc.
 
 **Modern Systems (AFIS):** Today, manual classification is largely obsolete for searching. The **Automated Fingerprint Identification System (AFIS)** is a computerized database that can search through millions of prints in minutes. However, a knowledge of the basic classification rules is still essential for fingerprint examiners and is a major part of the board exam.
+
+*Ngayon, ang **AFIS (Automated Fingerprint Identification System)** na ang ginagamit - ito ay computerized system na kaya mag-search ng millions of fingerprints sa loob lang ng ilang minuto! Pero importante pa rin na marunong ka ng manual classification (Henry System) kasi yan ay malaking parte ng board exam. Ang AFIS ay tulad ng Google ng fingerprints - i-scan mo lang ang unknown print, tapos mag-search ang computer sa database at lalabas ang mga possible matches. Ang PNP Crime Laboratory ay gumagamit ng AFIS para sa mga investigations!*
+
+**Board Exam Tip:** AFIS is the modern automated system, but Henry Classification System is still tested heavily in the PRC exam. Master both!
 
 ---
 

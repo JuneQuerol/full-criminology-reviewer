@@ -1,4 +1,7 @@
-# Module 2.8: Crimes Against Personal Liberty and Security
+---
+title: 'Module 2.8: Crimes Against Personal Liberty and Security'
+description: 'Covers kidnapping, serious illegal detention, slight illegal detention, unlawful arrest, and other crimes restricting personal freedom.'
+---
 
 ## 1. Learning Objectives
 

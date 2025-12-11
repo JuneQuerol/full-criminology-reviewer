@@ -1,3 +1,8 @@
+---
+title: 'Module 1.6: Application and Execution of Penalties'
+description: 'This module explains how penalties are applied and executed under the Revised Penal Code, a critical area for criminology board exams. It covers the rules for imposing sentences and the process of carrying them out.'
+---
+
 # Module 1.6: Application and Execution of Penalties
 
 ## 1. Learning Objectives

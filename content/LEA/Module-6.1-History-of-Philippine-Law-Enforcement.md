@@ -10,9 +10,20 @@ Before the arrival of the Spanish in 1521, the Philippines was an archipelago of
 
 ### A. The Barangay System
 - **Datu/Rajah:** The head of the barangay acted as the chief executive, legislator, and judge.
+
+  *Sa madaling salita: Ang Datu ay all-in-one—siya ang presidente, kongresista, at hukom. Lahat ng powers nasa kanya lang. Kung may usap-usapan, siya ang magpapasya kung sino ang tama at mali.*
+
 - **Umalohokan:** The barangay crier, responsible for disseminating new laws or decrees to the public.
+
+  *Umalohokan = Parang town crier o public announcer. Siya ang nagsasabi ng mga bagong batas o announcements—walang social media noon, kaya verbal announcement lang.*
+
 - **Customary Laws:** Justice was based on unwritten laws and traditions passed down through generations. Examples include the Code of Kalantiaw (now widely considered a historical hoax) and the Maragtas Code.
+
+  *Tip: Ang Code of Kalantiaw ay FAKE—proven na hoax yan. Pag nagtanong sa exam tungkol sa legitimate pre-colonial law, wag mong sagutin ang Kalantiaw.*
+
 - **Trial by Ordeal:** A common method to determine guilt or innocence, involving subjecting the accused to a dangerous or painful test. The outcome was believed to be determined by divine intervention.
+
+  *Trial by ordeal = Parang "bahala na ang Diyos" approach. Example: Ilubog mo ang kamay sa kumukulo na tubig. Kung di ka nasunog, innocent ka. Kung nasunog, guilty. Primitive pero yan ang justice system noon.*
 
 ### B. Enforcement and Punishment
 - The datu's warriors or designated members of the community enforced the laws.
@@ -21,6 +32,10 @@ Before the arrival of the Spanish in 1521, the Philippines was an archipelago of
 **Board Exam Tip:** Questions about pre-colonial justice often focus on the roles of the datu and the concept of customary law. Be aware of the distinction between accepted historical fact and discredited sources like the Code of Kalantiaw.
 
 ---
+
+**Summary: Evolution of Philippine Law Enforcement**
+
+| Period | Agency | Role |
 | :--- | :--- | :--- |
 | Pre-Colonial | Datu's Warriors | Enforce customary laws |
 | Spanish | Guardia Civil | National-level peace and order |
@@ -44,6 +59,10 @@ During World War II, the Japanese military took control of all police functions.
 - This period saw a rise in crime and political instability, highlighting the need for a more unified and professional police system.
 
 ---
+
+**Key Laws Shaping Modern Philippine Policing**
+
+| Law | Year | Significance |
 | :--- | :--- | :--- |
 | RA 4864 | 1966 | Created POLCOM (now NAPOLCOM) to professionalize police. |
 | PD 765 | 1975 | Established the Integrated National Police (INP) under the PC. |
@@ -76,11 +95,19 @@ The Spanish introduced a more centralized and formal system of law enforcement b
 ### B. The Guardia Civil (1868)
 - Created by a Royal Decree of the Spanish Crown, patterned after the renowned Spanish Guardia Civil.
 - **Structure:** It was a national police force with both provincial and municipal-level units, composed of Filipino and Spanish personnel but commanded by Spanish officers.
+
+*Guardia Civil = Ang first organized national police force sa Pilipinas. May Pinoy at Spanish personnel, pero ang commanders ay puro Español. Kaya may discrimination at abuse.*
+
 - **Duties:**
     - Maintaining peace and order.
     - Guarding the provinces and towns.
     - Suppressing brigandage and rebellion.
+
+*Trabaho nila ay peace and order, pero ginagamit din sila to suppress ang mga rebelde—yung mga Pilipinong lumalaban sa Kastila.*
+
 - **Legacy:** The Guardia Civil was known for its discipline and military-style organization but also for its abuses of power, which fueled revolutionary sentiment. Jose Rizal depicted these abuses in his novels, *Noli Me Tángere* and *El Filibusterismo*.
+
+*Trivia: Si Rizal ay nagsulat tungkol sa abuses ng Guardia Civil sa Noli Me Tangere—yung mga torture, extortion, at brutality. Dahil dito, galit ang mga Pilipino sa Guardia Civil, at naging isa sa dahilan ng revolution.*
 
 ### C. Guardrilleros (Rural Police)
 - A local police force established in each town, composed of able-bodied male residents.
@@ -97,12 +124,23 @@ The Americans established police forces that mirrored the structure of those in 
 ### A. The Philippine Constabulary (PC) (1901)
 - **RA 175:** Enacted on July 18, 1901, creating the Philippine Constabulary.
 - **Captain Henry T. Allen:** The first Chief of the Philippine Constabulary, later known as the "Father of the Constabulary."
+
+*Board Exam Tip: Tandaan—Captain Henry T. Allen = Father of the Philippine Constabulary. Madalas itong lumabas sa exam.*
+
 - **Nature:** It was a gendarmerie-type national police force, initially commanded by American officers but gradually Filipinized.
+
+*Gendarmerie = Military-style police. Meaning, may military structure sila pero police ang function. Nung una, puro American ang commanders, pero unti-unti naging Pinoy na.*
+
 - **Functions:**
     - Suppressing insurrection and maintaining peace and order.
     - Performing traditional police duties.
     - It became the backbone of the Philippine military establishment.
+
+*PC = May dual role: Police AND military. Ginagamit sila sa peace and order, pero ginagamit din sa counter-insurgency (laban sa mga rebelde).*
+
 - **Legacy:** The PC played a central role in Philippine law enforcement for nearly 90 years, eventually becoming one of the four major service commands of the Armed Forces of the Philippines (AFP).
+
+*Fun fact: Yung PC ay tumagal ng almost 90 years (1901-1991). Noong 1991, nag-merge sila sa local police para maging PNP.*
 
 ### B. Manila Police Department (MPD) (1901)
 - Organized on July 31, 1901, becoming the first metropolitan police force in the Philippines.

@@ -1,4 +1,7 @@
-# Module 2.7: Crimes Against Persons
+---
+title: 'Module 2.7: Crimes Against Persons'
+description: 'Covers homicide, murder, parricide, infanticide, physical injuries, and other crimes causing harm or death to persons under the RPC.'
+---
 
 ## 1. Learning Objectives
 

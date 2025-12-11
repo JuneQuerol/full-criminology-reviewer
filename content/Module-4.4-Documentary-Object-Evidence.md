@@ -1,4 +1,7 @@
-# Module 4.4: Documentary and Object Evidence
+---
+title: 'Module 4.4: Documentary and Object Evidence'
+description: 'Covers documentary evidence (best evidence rule, authentication), object/real evidence, chain of custody, and electronic evidence.'
+---
 
 ## I. Documentary Evidence
 

@@ -35,6 +35,8 @@ This is one of the most demanding and dangerous jobs in law enforcement.
 - **Entrapment:** This is a legal defense. Entrapment occurs if the undercover officer **induces** a person to commit a crime that they would not have otherwise committed. A valid undercover operation involves providing an **opportunity** for a willing criminal to commit a crime, not creating a criminal.
 
 ---
+
+| Informant Type | Motivation | Characteristics & Challenges |
 | :--- | :--- | :--- |
 | **The Mercenary** | **Money:** They sell information for cash. | Their loyalty is only to the highest bidder. They may sell information to the police and to criminals simultaneously. |
 | **The Frightened** | **Fear:** They are afraid of a criminal or a criminal organization and seek police protection. | The information may be good, but they may be too scared to testify in court. |

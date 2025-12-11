@@ -1,0 +1,120 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - link "Pinoy Crim" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e8]: Pinoy Crim
+        - generic [ref=e9]:
+          - button "Toggle dark mode" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+          - button "Toggle menu" [ref=e18] [cursor=pointer]:
+            - img [ref=e19]
+      - generic [ref=e21]:
+        - generic [ref=e24]:
+          - img [ref=e25]
+          - textbox "Search modules and exams..." [ref=e28]
+        - button "Subjects" [ref=e29] [cursor=pointer]:
+          - generic [ref=e30]: Subjects
+          - img [ref=e31]
+        - generic [ref=e33]:
+          - link "Jurisprudence" [ref=e34] [cursor=pointer]:
+            - /url: /part-1
+            - generic [ref=e35]: Jurisprudence
+          - link "Law Enforcement" [ref=e36] [cursor=pointer]:
+            - /url: /lea
+            - generic [ref=e37]: Law Enforcement
+          - link "Criminalistics" [ref=e38] [cursor=pointer]:
+            - /url: /criminalistics
+            - generic [ref=e39]: Criminalistics
+          - link "Crime Detection" [ref=e40] [cursor=pointer]:
+            - /url: /cdi
+            - generic [ref=e41]: Crime Detection
+          - link "Sociology of Crimes" [ref=e42] [cursor=pointer]:
+            - /url: /sce
+            - generic [ref=e43]: Sociology of Crimes
+          - link "Correctional Admin" [ref=e44] [cursor=pointer]:
+            - /url: /ca
+            - generic [ref=e45]: Correctional Admin
+        - link "Practice Exams" [ref=e46] [cursor=pointer]:
+          - /url: /practice
+          - generic [ref=e47]: Practice Exams
+    - main [ref=e49]:
+      - generic [ref=e50]:
+        - heading "Practice Exams" [level=1] [ref=e51]
+        - generic [ref=e52]:
+          - 'link "Set 1: RPC Book 1 General Provisions, Felonies, Circumstances" [ref=e53] [cursor=pointer]':
+            - /url: /practice/Set-01-RPC-Book1-General
+            - 'heading "Set 1: RPC Book 1" [level=2] [ref=e54]'
+            - paragraph [ref=e55]: General Provisions, Felonies, Circumstances
+          - 'link "Set 2: RPC Book 2 (Part 1) Crimes Against National Security & Public Order" [ref=e56] [cursor=pointer]':
+            - /url: /practice/Set-02-RPC-Book2-Part1
+            - 'heading "Set 2: RPC Book 2 (Part 1)" [level=2] [ref=e57]'
+            - paragraph [ref=e58]: Crimes Against National Security & Public Order
+          - 'link "Set 3: RPC Book 2 (Part 2) Crimes Against Public Interest & Morals" [ref=e59] [cursor=pointer]':
+            - /url: /practice/Set-03-RPC-Book2-Part2
+            - 'heading "Set 3: RPC Book 2 (Part 2)" [level=2] [ref=e60]'
+            - paragraph [ref=e61]: Crimes Against Public Interest & Morals
+          - 'link "Set 4: RPC Book 2 (Part 3) Crimes Against Persons" [ref=e62] [cursor=pointer]':
+            - /url: /practice/Set-04-RPC-Book2-Part3
+            - 'heading "Set 4: RPC Book 2 (Part 3)" [level=2] [ref=e63]'
+            - paragraph [ref=e64]: Crimes Against Persons
+          - 'link "Set 5: RPC Book 2 (Part 4) Crimes Against Property & Civil Status" [ref=e65] [cursor=pointer]':
+            - /url: /practice/Set-05-RPC-Book2-Part4
+            - 'heading "Set 5: RPC Book 2 (Part 4)" [level=2] [ref=e66]'
+            - paragraph [ref=e67]: Crimes Against Property & Civil Status
+          - 'link "Set 6: Criminal Procedure Prosecution, Arrest, Bail, Arraignment" [ref=e68] [cursor=pointer]':
+            - /url: /practice/Set-06-Criminal-Procedure
+            - 'heading "Set 6: Criminal Procedure" [level=2] [ref=e69]'
+            - paragraph [ref=e70]: Prosecution, Arrest, Bail, Arraignment
+          - 'link "Set 7: Evidence Rules on Admissibility, Testimonial, Documentary" [ref=e71] [cursor=pointer]':
+            - /url: /practice/Set-07-Evidence
+            - 'heading "Set 7: Evidence" [level=2] [ref=e72]'
+            - paragraph [ref=e73]: Rules on Admissibility, Testimonial, Documentary
+          - 'link "Set 8: Special Laws (Part 1) RA 9165, RA 9514, RA 10591" [ref=e74] [cursor=pointer]':
+            - /url: /practice/Set-08-Special-Laws-Part1
+            - 'heading "Set 8: Special Laws (Part 1)" [level=2] [ref=e75]'
+            - paragraph [ref=e76]: RA 9165, RA 9514, RA 10591
+          - 'link "Set 9: Special Laws (Part 2) RA 9262, RA 7610, RA 9208" [ref=e77] [cursor=pointer]':
+            - /url: /practice/Set-09-Special-Laws-Part2
+            - 'heading "Set 9: Special Laws (Part 2)" [level=2] [ref=e78]'
+            - paragraph [ref=e79]: RA 9262, RA 7610, RA 9208
+          - 'link "Set 10: Comprehensive Mixed Topics - Full Review" [ref=e80] [cursor=pointer]':
+            - /url: /practice/Set-10-Comprehensive-Mixed
+            - 'heading "Set 10: Comprehensive" [level=2] [ref=e81]'
+            - paragraph [ref=e82]: Mixed Topics - Full Review
+          - 'link "Set 11: LEA General Law Enforcement Administration" [ref=e83] [cursor=pointer]':
+            - /url: /practice/Set-11-LEA-General
+            - 'heading "Set 11: LEA General" [level=2] [ref=e84]'
+            - paragraph [ref=e85]: Law Enforcement Administration
+          - 'link "Set 12: Criminalistics Part 1 Forensics, Photography, Fingerprints" [ref=e86] [cursor=pointer]':
+            - /url: /practice/Set-12-Criminalistics-Part1
+            - 'heading "Set 12: Criminalistics Part 1" [level=2] [ref=e87]'
+            - paragraph [ref=e88]: Forensics, Photography, Fingerprints
+          - 'link "Set 13: Criminalistics Part 2 Ballistics, Chemistry, Toxicology" [ref=e89] [cursor=pointer]':
+            - /url: /practice/Set-13-Criminalistics-Part2
+            - 'heading "Set 13: Criminalistics Part 2" [level=2] [ref=e90]'
+            - paragraph [ref=e91]: Ballistics, Chemistry, Toxicology
+          - 'link "Set 14: Crime Detection Investigation Procedures" [ref=e92] [cursor=pointer]':
+            - /url: /practice/Set-14-CDI-Investigation
+            - 'heading "Set 14: Crime Detection" [level=2] [ref=e93]'
+            - paragraph [ref=e94]: Investigation Procedures
+          - 'link "Set 15: Sociology & Ethics Criminological Theories" [ref=e95] [cursor=pointer]':
+            - /url: /practice/Set-15-SCE-Theories
+            - 'heading "Set 15: Sociology & Ethics" [level=2] [ref=e96]'
+            - paragraph [ref=e97]: Criminological Theories
+          - 'link "Set 16: Corrections Correctional Administration" [ref=e98] [cursor=pointer]':
+            - /url: /practice/Set-16-CA-Corrections
+            - 'heading "Set 16: Corrections" [level=2] [ref=e99]'
+            - paragraph [ref=e100]: Correctional Administration
+          - 'link "Set 17: Comprehensive All 6 CLE Subjects Mixed" [ref=e101] [cursor=pointer]':
+            - /url: /practice/Set-17-Comprehensive-AllSubjects
+            - 'heading "Set 17: Comprehensive" [level=2] [ref=e102]'
+            - paragraph [ref=e103]: All 6 CLE Subjects Mixed
+    - contentinfo [ref=e104]:
+      - paragraph [ref=e106]: © 2025 Pinoy Crim Reviewer. All Rights Reserved.
+  - alert [ref=e107]
+```

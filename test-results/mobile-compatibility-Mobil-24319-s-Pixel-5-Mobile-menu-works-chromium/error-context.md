@@ -1,0 +1,341 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - link "Pinoy Crim" [ref=e7] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e8]: Pinoy Crim
+        - generic [ref=e9]:
+          - button "Toggle dark mode" [ref=e10] [cursor=pointer]:
+            - img [ref=e11]
+          - button "Toggle menu" [ref=e18] [cursor=pointer]:
+            - img [ref=e19]
+      - generic [ref=e21]:
+        - generic [ref=e24]:
+          - img [ref=e25]
+          - textbox "Search modules and exams..." [ref=e28]
+        - button "Subjects" [ref=e29] [cursor=pointer]:
+          - generic [ref=e30]: Subjects
+          - img [ref=e31]
+        - generic [ref=e33]:
+          - link "Jurisprudence" [ref=e34] [cursor=pointer]:
+            - /url: /part-1
+            - generic [ref=e35]: Jurisprudence
+          - link "Law Enforcement" [ref=e36] [cursor=pointer]:
+            - /url: /lea
+            - generic [ref=e37]: Law Enforcement
+          - link "Criminalistics" [ref=e38] [cursor=pointer]:
+            - /url: /criminalistics
+            - generic [ref=e39]: Criminalistics
+          - link "Crime Detection" [ref=e40] [cursor=pointer]:
+            - /url: /cdi
+            - generic [ref=e41]: Crime Detection
+          - link "Sociology of Crimes" [ref=e42] [cursor=pointer]:
+            - /url: /sce
+            - generic [ref=e43]: Sociology of Crimes
+          - link "Correctional Admin" [ref=e44] [cursor=pointer]:
+            - /url: /ca
+            - generic [ref=e45]: Correctional Admin
+        - link "Practice Exams" [ref=e46] [cursor=pointer]:
+          - /url: /practice
+          - generic [ref=e47]: Practice Exams
+    - main [ref=e49]:
+      - generic [ref=e50]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - img [ref=e56]
+            - img [ref=e58]
+          - heading "Your Ultimate CLE Reviewer" [level=1] [ref=e61]
+          - paragraph [ref=e62]:
+            - text: Your all-in-one resource for acing the
+            - strong [ref=e63]: Criminology Licensure Examination (CLE)
+            - text: ", fully aligned with the official PRC curriculum."
+          - generic [ref=e64]:
+            - generic [ref=e65]: 6 Major Subjects
+            - generic [ref=e66]: 200 Practice Questions
+            - generic [ref=e67]: PRC-Aligned Content
+            - generic [ref=e68]: Free to Use
+          - link "Start Reviewing Now" [ref=e69] [cursor=pointer]:
+            - /url: /part-1
+            - generic [ref=e70]:
+              - img [ref=e71]
+              - text: Start Reviewing Now
+        - generic [ref=e75]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - img [ref=e78]
+              - heading "Upcoming CLE Schedule 2025" [level=2] [ref=e80]
+            - paragraph [ref=e81]: Official PRC Criminology Licensure Examination Schedule
+          - table [ref=e83]:
+            - rowgroup [ref=e84]:
+              - row "Examination Period Exam Dates Filing Deadline Status" [ref=e85]:
+                - columnheader "Examination Period" [ref=e86]:
+                  - generic [ref=e87]:
+                    - img [ref=e88]
+                    - text: Examination Period
+                - columnheader "Exam Dates" [ref=e90]:
+                  - generic [ref=e91]:
+                    - img [ref=e92]
+                    - text: Exam Dates
+                - columnheader "Filing Deadline" [ref=e96]:
+                  - generic [ref=e97]:
+                    - img [ref=e98]
+                    - text: Filing Deadline
+                - columnheader "Status" [ref=e101]:
+                  - generic [ref=e102]:
+                    - img [ref=e103]
+                    - text: Status
+            - rowgroup [ref=e106]:
+              - row "March 2025 March 16-17, 2025 January 31, 2025 Open for Registration" [ref=e107]:
+                - cell "March 2025" [ref=e108]
+                - cell "March 16-17, 2025" [ref=e109]
+                - cell "January 31, 2025" [ref=e110]
+                - cell "Open for Registration" [ref=e111]:
+                  - generic [ref=e112]: Open for Registration
+              - row "September 2025 September 14-15, 2025 July 31, 2025 Coming Soon" [ref=e113]:
+                - cell "September 2025" [ref=e114]
+                - cell "September 14-15, 2025" [ref=e115]
+                - cell "July 31, 2025" [ref=e116]
+                - cell "Coming Soon" [ref=e117]:
+                  - generic [ref=e118]: Coming Soon
+          - paragraph [ref=e120]:
+            - strong [ref=e121]: "Note:"
+            - text: Registration is done through the PRC Online Services portal. Ensure all requirements are prepared before the filing deadline to avoid last-minute issues.
+        - generic [ref=e122]:
+          - generic [ref=e123]:
+            - generic [ref=e124]:
+              - img [ref=e125]
+              - heading "PRC Table of Specifications" [level=2] [ref=e128]
+            - paragraph [ref=e129]: Official CLE Coverage - 6 Major Subjects (200 Total Questions)
+          - table [ref=e131]:
+            - rowgroup [ref=e132]:
+              - row "Subject Area Code Weight Coverage Topics Action" [ref=e133]:
+                - columnheader [ref=e134]:
+                  - img [ref=e135]
+                - columnheader "Subject Area" [ref=e137]
+                - columnheader "Code" [ref=e138]
+                - columnheader "Weight" [ref=e139]
+                - columnheader "Coverage Topics" [ref=e140]
+                - columnheader "Action" [ref=e141]
+            - rowgroup [ref=e142]:
+              - row "Criminal Jurisprudence & Procedure CLJ 25% Revised Penal Code, Criminal Procedure, Evidence, Special Laws Study Now" [ref=e143]:
+                - cell [ref=e144]:
+                  - img [ref=e145]
+                - cell "Criminal Jurisprudence & Procedure" [ref=e151]:
+                  - generic [ref=e152]: Criminal Jurisprudence & Procedure
+                - cell "CLJ" [ref=e153]:
+                  - generic [ref=e154]: CLJ
+                - cell "25%" [ref=e155]:
+                  - generic [ref=e156]: 25%
+                - cell "Revised Penal Code, Criminal Procedure, Evidence, Special Laws" [ref=e157]
+                - cell "Study Now" [ref=e158]:
+                  - link "Study Now" [ref=e159] [cursor=pointer]:
+                    - /url: /part-1
+                    - generic [ref=e160]:
+                      - img [ref=e161]
+                      - text: Study Now
+              - row "Law Enforcement Administration LEA 15% Police Organization, Management, Operations Study Now" [ref=e165]:
+                - cell [ref=e166]:
+                  - img [ref=e167]
+                - cell "Law Enforcement Administration" [ref=e169]:
+                  - generic [ref=e170]: Law Enforcement Administration
+                - cell "LEA" [ref=e171]:
+                  - generic [ref=e172]: LEA
+                - cell "15%" [ref=e173]:
+                  - generic [ref=e174]: 15%
+                - cell "Police Organization, Management, Operations" [ref=e175]
+                - cell "Study Now" [ref=e176]:
+                  - link "Study Now" [ref=e177] [cursor=pointer]:
+                    - /url: /lea
+                    - generic [ref=e178]:
+                      - img [ref=e179]
+                      - text: Study Now
+              - row "Criminalistics CRIM 15% Forensics, Dactyloscopy, Ballistics, Questioned Documents Study Now" [ref=e183]:
+                - cell [ref=e184]:
+                  - img [ref=e185]
+                - cell "Criminalistics" [ref=e194]:
+                  - generic [ref=e195]: Criminalistics
+                - cell "CRIM" [ref=e196]:
+                  - generic [ref=e197]: CRIM
+                - cell "15%" [ref=e198]:
+                  - generic [ref=e199]: 15%
+                - cell "Forensics, Dactyloscopy, Ballistics, Questioned Documents" [ref=e200]
+                - cell "Study Now" [ref=e201]:
+                  - link "Study Now" [ref=e202] [cursor=pointer]:
+                    - /url: /criminalistics
+                    - generic [ref=e203]:
+                      - img [ref=e204]
+                      - text: Study Now
+              - row "Crime Detection & Investigation CDI 20% Investigation Techniques, Special Crime Investigation Study Now" [ref=e208]:
+                - cell [ref=e209]:
+                  - img [ref=e210]
+                - cell "Crime Detection & Investigation" [ref=e213]:
+                  - generic [ref=e214]: Crime Detection & Investigation
+                - cell "CDI" [ref=e215]:
+                  - generic [ref=e216]: CDI
+                - cell "20%" [ref=e217]:
+                  - generic [ref=e218]: 20%
+                - cell "Investigation Techniques, Special Crime Investigation" [ref=e219]
+                - cell "Study Now" [ref=e220]:
+                  - link "Study Now" [ref=e221] [cursor=pointer]:
+                    - /url: /cdi
+                    - generic [ref=e222]:
+                      - img [ref=e223]
+                      - text: Study Now
+              - row "Sociology of Crimes & Ethics SCE 10% Criminal Behavior, Ethics, Human Relations Study Now" [ref=e227]:
+                - cell [ref=e228]:
+                  - img [ref=e229]
+                - cell "Sociology of Crimes & Ethics" [ref=e234]:
+                  - generic [ref=e235]: Sociology of Crimes & Ethics
+                - cell "SCE" [ref=e236]:
+                  - generic [ref=e237]: SCE
+                - cell "10%" [ref=e238]:
+                  - generic [ref=e239]: 10%
+                - cell "Criminal Behavior, Ethics, Human Relations" [ref=e240]
+                - cell "Study Now" [ref=e241]:
+                  - link "Study Now" [ref=e242] [cursor=pointer]:
+                    - /url: /sce
+                    - generic [ref=e243]:
+                      - img [ref=e244]
+                      - text: Study Now
+              - row "Correctional Administration CA 15% Penology, Prison Management, Probation & Parole Study Now" [ref=e248]:
+                - cell [ref=e249]:
+                  - img [ref=e250]
+                - cell "Correctional Administration" [ref=e253]:
+                  - generic [ref=e254]: Correctional Administration
+                - cell "CA" [ref=e255]:
+                  - generic [ref=e256]: CA
+                - cell "15%" [ref=e257]:
+                  - generic [ref=e258]: 15%
+                - cell "Penology, Prison Management, Probation & Parole" [ref=e259]
+                - cell "Study Now" [ref=e260]:
+                  - link "Study Now" [ref=e261] [cursor=pointer]:
+                    - /url: /ca
+                    - generic [ref=e262]:
+                      - img [ref=e263]
+                      - text: Study Now
+            - rowgroup [ref=e267]:
+              - 'row "Total Coverage: 100% 200 questions over 2 days" [ref=e268]':
+                - cell "Total Coverage:" [ref=e269]
+                - cell "100%" [ref=e270]:
+                  - generic [ref=e271]: 100%
+                - cell "200 questions over 2 days" [ref=e272]
+          - generic [ref=e273]:
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - img [ref=e276]
+                - heading "Total Questions" [level=3] [ref=e280]
+              - paragraph [ref=e281]: "200"
+              - paragraph [ref=e282]: 100 questions per day
+            - generic [ref=e283]:
+              - generic [ref=e284]:
+                - img [ref=e285]
+                - heading "Exam Duration" [level=3] [ref=e287]
+              - paragraph [ref=e288]: 2 Days
+              - paragraph [ref=e289]: Consecutive testing days
+            - generic [ref=e290]:
+              - generic [ref=e291]:
+                - img [ref=e292]
+                - heading "Passing Rate" [level=3] [ref=e295]
+              - paragraph [ref=e296]: 75%
+              - paragraph [ref=e297]: General passing score
+        - generic [ref=e298]:
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - img [ref=e301]
+              - heading "CLE Exam Tips & Strategies" [level=2] [ref=e303]
+            - paragraph [ref=e304]: Proven strategies from successful board exam passers to help you ace the Criminology Licensure Examination
+          - generic [ref=e305]:
+            - generic [ref=e306]:
+              - generic [ref=e307]:
+                - img [ref=e309]
+                - generic [ref=e317]:
+                  - generic [ref=e318]: "TIP #1"
+                  - heading "Master the Revised Penal Code" [level=3] [ref=e319]
+              - paragraph [ref=e320]: CLJ accounts for 25% of the exam. Focus on Book 1 (general provisions) and common crimes in Book 2. Memorize penalties and mitigating/aggravating circumstances.
+            - generic [ref=e321]:
+              - generic [ref=e322]:
+                - img [ref=e324]
+                - generic [ref=e326]:
+                  - generic [ref=e327]: "TIP #2"
+                  - heading "Create a Study Schedule" [level=3] [ref=e328]
+              - paragraph [ref=e329]: Start reviewing 3-4 months before the exam. Dedicate specific days to each subject based on the PRC percentage allocation. Review weak areas more frequently.
+            - generic [ref=e330]:
+              - generic [ref=e331]:
+                - img [ref=e333]
+                - generic [ref=e336]:
+                  - generic [ref=e337]: "TIP #3"
+                  - heading "Practice Time Management" [level=3] [ref=e338]
+              - paragraph [ref=e339]: The exam is 100 questions per day (2 days). Practice answering questions within time limits. Aim for 1 minute per question to leave time for review.
+            - generic [ref=e340]:
+              - generic [ref=e341]:
+                - img [ref=e343]
+                - generic [ref=e345]:
+                  - generic [ref=e346]: "TIP #4"
+                  - heading "Use Mnemonics & Acronyms" [level=3] [ref=e347]
+              - paragraph [ref=e348]: Create memory aids for complex topics. For example, use "DICE" for elements of robbery (Unlawful Taking, Intent to Gain, Personal Property, Violence/Intimidation).
+            - generic [ref=e349]:
+              - generic [ref=e350]:
+                - img [ref=e352]
+                - generic [ref=e355]:
+                  - generic [ref=e356]: "TIP #5"
+                  - heading "Take Practice Exams" [level=3] [ref=e357]
+              - paragraph [ref=e358]: Simulate exam conditions with timed practice tests. Review wrong answers thoroughly. Focus on understanding concepts, not just memorizing answers.
+            - generic [ref=e359]:
+              - generic [ref=e360]:
+                - img [ref=e362]
+                - generic [ref=e367]:
+                  - generic [ref=e368]: "TIP #6"
+                  - heading "Join Study Groups" [level=3] [ref=e369]
+              - paragraph [ref=e370]: Collaborate with fellow reviewees. Teaching others reinforces your knowledge. Discuss difficult topics and share study materials and techniques.
+          - generic [ref=e371]:
+            - generic [ref=e372]:
+              - img [ref=e373]
+              - generic [ref=e376]:
+                - heading "Ready to Start Your Review?" [level=3] [ref=e377]
+                - paragraph [ref=e378]: Combine these strategies with our comprehensive study modules for the best results. Each subject is carefully curated to match the PRC Table of Specifications.
+            - generic [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e381]:
+                  - img [ref=e382]
+                  - heading "Practice Questions" [level=4] [ref=e385]
+                - paragraph [ref=e386]: Hundreds of practice questions with detailed explanations
+              - generic [ref=e387]:
+                - generic [ref=e388]:
+                  - img [ref=e389]
+                  - heading "Comprehensive Coverage" [level=4] [ref=e397]
+                - paragraph [ref=e398]: All 6 subjects aligned with official PRC standards
+              - generic [ref=e399]:
+                - generic [ref=e400]:
+                  - img [ref=e401]
+                  - heading "Track Progress" [level=4] [ref=e405]
+                - paragraph [ref=e406]: Monitor your performance and identify weak areas
+        - generic [ref=e411]:
+          - generic [ref=e412]:
+            - img [ref=e413]
+            - img [ref=e416]
+          - heading "Ready to Ace the CLE?" [level=2] [ref=e419]
+          - paragraph [ref=e420]: Start your review today with our comprehensive modules aligned with the official PRC Table of Specifications. Join thousands of successful CLE passers who used this platform.
+          - generic [ref=e421]:
+            - generic [ref=e422]:
+              - generic [ref=e423]: "6"
+              - generic [ref=e424]: Complete Subjects
+            - generic [ref=e425]:
+              - generic [ref=e426]: 200+
+              - generic [ref=e427]: Practice Questions
+            - generic [ref=e428]:
+              - generic [ref=e429]: 100%
+              - generic [ref=e430]: PRC-Aligned
+          - link "Begin Your Review Journey" [ref=e431] [cursor=pointer]:
+            - /url: /part-1
+            - generic [ref=e432]:
+              - img [ref=e433]
+              - text: Begin Your Review Journey
+          - paragraph [ref=e437]: 100% Free • No Registration Required • Start Immediately
+    - contentinfo [ref=e438]:
+      - paragraph [ref=e440]: © 2025 Pinoy Crim Reviewer. All Rights Reserved.
+  - alert [ref=e441]
+```

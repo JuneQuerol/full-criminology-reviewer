@@ -1,5 +1,7 @@
-
-# Module 5.4: Anti-Violence Against Women and Their Children Act of 2004 (RA 9262)
+---
+title: 'Module 5.4: Anti-Violence Against Women and Their Children Act of 2004 (RA 9262)'
+description: 'Covers forms of abuse (physical, sexual, psychological, economic), protection orders, and penalties under the VAWC law.'
+---
 
 ## I. Definition of Violence Against Women and Their Children (VAWC)
 

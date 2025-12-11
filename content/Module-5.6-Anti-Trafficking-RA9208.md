@@ -1,4 +1,7 @@
-# Republic Act No. 9208: The Anti-Trafficking in Persons Act of 2003
+---
+title: 'Module 5.6: Republic Act No. 9208 - The Anti-Trafficking in Persons Act of 2003'
+description: 'Covers human trafficking offenses, qualified trafficking, acts of trafficking, and penalties under RA 9208 as amended by RA 10364.'
+---
 
 ## Definition of Trafficking in Persons
 

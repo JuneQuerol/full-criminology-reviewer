@@ -16,6 +16,10 @@ description: 'A detailed guide on the proper techniques for collecting, packagin
     - **Arson:** A sample of unburnt carpet or wood must be collected from the same room as the suspected arson sample to serve as a control.
 
 ---
+
+**Packaging Summary**
+
+| Evidence Type | Recommended Packaging | Why? |
 | :--- | :--- | :--- |
 | Bloody Shirt (Wet) | Air-dry, then place in a paper bag. | Breathable, prevents mold/DNA degradation. |
 | Paint Chip | Druggist's fold, then envelope. | Prevents loss of small particles. |
@@ -53,6 +57,10 @@ The type of packaging used depends on the type of evidence.
 - **NEVER use plastic bags** for wet or moist biological evidence, as this will trap moisture and destroy the DNA.
 - **Hair:** Should be packaged in a "druggist's fold" or a small paper envelope.
 
+*Para sa biological evidence: PAPER, HINDI PLASTIC! Kasi ang plastic ay nag-trap ng moisture = bacteria = damage sa DNA. Air-dry muna bago ilagay sa paper bag. Parang damit na binabad - patuyuin muna bago ilagay sa laundry bag, hindi ba?*
+
+**Board Exam Tip:** Common mistake: Plastic bags sa biological evidence. Tama: Paper bags! Kasi breathable ang paper, hindi nag-trap ng moisture. Memorize: WET BIOLOGICAL = AIR DRY + PAPER BAG!
+
 ### B. Trace Evidence (Fibers, Paint Chips, Glass Fragments)
 - **Problem:** This evidence is often microscopic and can be easily lost.
 - **Solution:**
@@ -72,6 +80,10 @@ The type of packaging used depends on the type of evidence.
     - Package in a clean, unused, **airtight metal paint can** or a sealed glass jar.
     - This traps the volatile fumes inside, which can then be analyzed by the crime lab using headspace gas chromatography.
 
+*Para sa arson evidence: AIRTIGHT METAL CAN! Kasi ang volatile substances (like gasoline) ay nag-evaporate kapag exposed sa air. Kailangan mo i-trap ang fumes inside. Parang perfume - pag bukas ang bote, unti-unting nawawala ang amoy. Ganun din sa gasoline evidence.*
+
+**Board Exam Tip:** Arson Evidence = AIRTIGHT METAL PAINT CAN. Hindi paper bag, hindi plastic - kailangan metal can para ma-trap ang volatile fumes!
+
 ### E. Questioned Documents
 - **Problem:** Damage from folding, moisture, or accidental markings.
 - **Solution:**
@@ -85,10 +97,16 @@ The type of packaging used depends on the type of evidence.
 
 **Definition:** The Chain of Custody is a written chronological record of all individuals who have had possession of an item of evidence from the moment it was collected at the scene until it is presented in court.
 
+*Sa madaling salita, ito yung "paper trail" ng ebidensya - sino ang humawak, kailan, at ano ang ginawa. Parang relay race ng ebidensya - kailangan documented kung sino nagpasa kanino. Kapag may break sa chain, pwedeng ma-question ang integrity ng evidence sa korte!*
+
 ### A. Why is it Critical?
 - **Foundation for Admissibility:** For evidence to be admitted in court, the prosecution must be able to prove that it is the **same evidence** that was collected at the crime scene and that it is in **substantially the same condition**.
 - **Preventing Tampering and Contamination:** The chain of custody demonstrates that the evidence has been secure and has not been tampered with, altered, or contaminated.
 - **A Broken Chain:** If the chain of custody is broken—meaning there is a gap in the record where the location or handler of the evidence is unknown—the defense can argue that the evidence is unreliable and should be inadmissible. A broken chain can destroy the value of even the most compelling piece of evidence.
+
+*Bakit critical? Imagine may knife with blood sa crime scene. Pero walang record kung sino humawak from scene to lab to court. Pwedeng sabihan ng defense na na-plant lang yan or na-tamper. Kaya kailangan clear chain of custody - proof na secure ang ebidensya from point A to point Z.*
+
+**Board Exam Tip:** Chain of Custody = MOST TESTED CONCEPT sa CDI! Memorize: written chronological record ng lahat ng humawak ng evidence from scene to court. Pag may break, inadmissible ang evidence!
 
 ### B. The Process
 1.  **Starts at the Scene:** The chain begins with the officer who collects the evidence. They must record their name, the date, and the time.

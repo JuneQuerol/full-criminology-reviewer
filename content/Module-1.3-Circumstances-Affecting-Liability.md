@@ -1,3 +1,8 @@
+---
+title: 'Module 1.3: Circumstances Affecting Criminal Liability'
+description: 'This module provides a comprehensive overview of justifying, exempting, mitigating, and aggravating circumstances. It is essential for understanding how criminal liability is determined and penalties are applied.'
+---
+
 # Module 1.3: Circumstances Affecting Criminal Liability
 
 ## I. Learning Objectives

@@ -57,6 +57,27 @@ This is a model developed by the FBI's Hostage Negotiation Unit that outlines th
 
 **Board Exam Tip:** Memorize the five steps of the Behavioral Change Stairway in order: Active Listening, Empathy, Rapport, Influence, Behavioral Change.
 
+*Ang **Behavioral Change Stairway Model** ay GUARANTEED na lalabas sa board exam! Ito ay 5-step process ng FBI para sa hostage negotiation. TANDAAN MO 'TO:*
+
+**Step 1: ACTIVE LISTENING**
+*Hindi ka pwedeng magsalita agad! MAKINIG ka muna. Paraphrase mo yung sinasabi niya ("So ang ibig mong sabihin ay..."), label ang emotions niya ("You sound very angry"), at gumamit ng minimal encouragers ("Uh-huh, okay, sige"). Ang goal: para maramdaman niya na NARIRINIG mo siya.*
+
+**Step 2: EMPATHY**
+*I-appreciate mo kung paano siya nakakaramdam. "I understand why you feel betrayed." Hindi ibig sabihin SUMASANG-AYON ka - ibig sabihin NAIINTINDIHAN mo lang ang feelings niya. May difference yan!*
+
+**Step 3: RAPPORT**
+*Ito yung point na nagsisimula nang magtiwala sa'yo ang hostage-taker. Nakikita ka na niyang ALLY, hindi ENEMY. Nagsisimulang makinig sa'yo.*
+
+**Step 4: INFLUENCE**
+*Ngayon pwede ka na mag-offer ng solutions. "Let's figure out how we can get you out of this safely." Collaborative approach na.*
+
+**Step 5: BEHAVIORAL CHANGE**
+*ANG GOAL! Sumuko na peacefully ang hostage-taker. Pero matandaan: hindi mo ma-achieve ang Step 5 kung hindi mo na-complete ang Steps 1-4! Kaya nga "stairway" - kailangan hakbang-hakbang, hindi pwedeng jump directly sa Step 5!*
+
+*MEMORIZATION TIP: **A-E-R-I-B** (parang "AEROBIC") - **A**ctive Listening, **E**mpathy, **R**apport, **I**nfluence, **B**ehavioral Change.*
+
+*COMMON MISTAKE: Yung mga baguhan na negotiator, gusto nila agad Step 5 (sumuko ka na!). Pero ang hostage-taker ay hindi pa ready kasi wala pang trust. Kaya FAIL. Kailangan mong BUILD TRUST FIRST through Steps 1-4!*
+
 ---
 ---
 
@@ -88,6 +109,15 @@ The priorities in any hostage situation are always in this order:
 
 **The "No-Concession" Policy:** Most police agencies have a policy of not making major concessions to a hostage-taker's demands, such as providing weapons, another hostage, or a major means of escape. Doing so would only encourage more hostage-takings in the future. However, negotiators can and do make concessions on smaller items (food, water, electricity) to build rapport.
 
+*Ang **PRIORITIES sa Hostage Situation** (MEMORIZE THE ORDER!):*
+1. ***PRESERVATION OF LIFE*** - **BUHAY ANG NUMBER 1!** Lahat dapat mabuhay - hostages, publiko, pulis, at kahit ang HOSTAGE-TAKER mismo! Goal: walang mamamatay.
+2. ***APPREHENSION*** - Mahuli ang hostage-taker.
+3. ***PROPERTY*** - Last priority lang ito. Ang buhay ay mas importante kaysa pera o gamit.
+
+*Tandaan: ang order ay **L-A-P** (Life, Apprehension, Property) - parang "LAP" na uupuan mo!*
+
+*Ang **"No-Concession Policy"** - hindi ka pwedeng bigyan ng major demands like weapons, transportation para makatakas, o dagdag na hostage. Pero pwede kang magbigay ng small things like FOOD, WATER, ELECTRICITY para makabuild ng rapport. Yung small concessions ay part ng negotiation strategy.*
+
 ### B. The Role of the Negotiator
 - The **Primary Negotiator** is the only person who communicates directly with the hostage-taker.
 - **Their Goal is NOT to "solve" the problem.** Their goal is to **buy time** and use communication to de-escalate the situation, build a relationship with the hostage-taker, and encourage a peaceful surrender.
@@ -102,3 +132,15 @@ The priorities in any hostage situation are always in this order:
     - It can be a positive thing, as the hostage-taker may also develop a bond with the hostage and be less likely to harm them.
     - It can be a negative thing, as the hostage may refuse to cooperate with the police during or after the incident.
 - It is a rare but well-documented phenomenon.
+
+*Ang **Stockholm Syndrome** ay WEIRD but true psychological phenomenon - yung HOSTAGE ay nagiging SYMPATHETIC sa HOSTAGE-TAKER! Parang nag-develop ng feelings or affection para sa kidnapper niya. Ano ang cause? **COPING MECHANISM** yan - survival instinct. Para ma-survive, yung hostage ay nag-identify sa captor niya, nag-empathize sa kanya.*
+
+*Example: May bank robbery, may hostages. After several hours, nagsisimulang mag-kwentuhan ang hostages at ang robbers. Eventually, ang hostages ay nag-defend pa ng robbers sa pulis - "Huwag niyong saktan sila! Mabait naman sila sa amin!"*
+
+*GOOD or BAD?*
+- ***GOOD:*** Kung may Stockholm Syndrome, less likely na sasaktan ng hostage-taker ang hostage kasi may emotional bond na.
+- ***BAD:*** Yung hostage ay pwedeng TUMANGGI na makipagtulungan sa pulis, even after ma-rescue na siya.
+
+*Bakit "Stockholm" Syndrome? Kasi naganap 'to sa Stockholm, Sweden noong 1973 - may bank robbery at ang hostages ay nag-defend pa ng robbers after!*
+
+**Board Exam Tip:** *Stockholm Syndrome = Hostage develops sympathy for captor. Coping/survival mechanism. Can be good (less harm) or bad (non-cooperation with police).*

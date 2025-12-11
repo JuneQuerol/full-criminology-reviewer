@@ -28,6 +28,11 @@ The Commission is composed of a Chairperson, four (4) regular Commissioners, and
 
 | Member | Details |
 | :--- | :--- |
+| **Chairperson** | The Secretary of the DILG (by virtue of position) |
+| **Vice-Chairperson** | A civilian appointed by the President |
+| **Four Regular Commissioners** | Appointed by the President for a fixed term of 6 years |
+| **Ex-officio Member** | The Chief of the PNP (non-voting) |
+
 ---
 
 ## IV. PNP: Operational Autonomy and Accountability
@@ -45,6 +50,10 @@ While under the DILG and NAPOLCOM, the PNP maintains a degree of operational aut
 - This ensures that operational orders are transmitted efficiently and that there is clear accountability for actions taken in the field.
 
 ---
+
+**The DILG-NAPOLCOM-PNP Triad**
+
+| Entity | Role | Relationship |
 | :--- | :--- | :--- |
 | **DILG** | **Administrative Control:** Overall departmental authority, budget, and policy alignment. | The DILG Secretary is the head of the department that "houses" the PNP and also chairs NAPOLCOM. |
 | **NAPOLCOM** | **Policy & Oversight:** Sets standards, administers exams, and acts as an appellate body. Exercises administrative control & operational supervision. | An "attached" agency to DILG, it provides a specialized, collegial body to oversee the police. |

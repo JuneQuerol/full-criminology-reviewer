@@ -1,3 +1,8 @@
+---
+title: 'Module 1.2: Felonies - Dolo and Culpa'
+description: 'This module explores intentional (dolo) and negligent (culpa) felonies, key concepts for criminology board exam preparation. It covers the distinctions between them and their legal consequences.'
+---
+
 # Module 1.2: Felonies - Dolo and Culpa
 
 This module delves into the nature of felonies as defined by the Revised Penal Code of the Philippines, focusing on how they are committed either by deceit (dolo) or by fault (culpa). It also covers related crucial concepts such as the stages of execution, criminal liability in cases of mistake, and the nature of impossible crimes, conspiracy, and proposal.
@@ -44,6 +49,12 @@ This is an **intentional felony**. The act is performed with deliberate intent o
     -   **General Intent:** Presumed from the mere act of committing a wrong. For example, in a homicide case, the intent to kill is presumed from the act of stabbing the victim.
     -   **Specific Intent:** An element of a specific felony that the prosecution must prove. For example, in theft, the specific intent is "to gain" (`animus lucrandi`).
 
+**🔍 Taglish Explanation:**
+
+*Ang **DOLO** (Deceit) ay "SINASADYA." Alam mo kung ano ang ginagawa mo, at gusto mo talagang gawin yun. Tatlong kailangan: (1) **Freedom** - kusang loob mo, walang pumilit, (2) **Intelligence** - alam mo kung ano consequences ng ginagawa mo (kaya ang baliw at bata ay exempt), at (3) **Intent** - gusto mo talagang gawin yung krimen.*
+
+*Halimbawa: Nagalit ka sa kapitbahay mo, kinuha mo ang kutsilyo, at sinaksak mo siya. Yun ay DOLO kasi SINASADYA mo siyang saktan. May freedom ka (walang nag-force), may intelligence ka (alam mong masakit yun), at may intent ka (gusto mo siyang masaktan).*
+
 #### B. By Means of Fault (Culpa)
 
 This is a **culpable felony**. The injury is not intentional but results from the offender's negligence, imprudence, lack of foresight, or lack of skill.
@@ -56,6 +67,14 @@ This is a **culpable felony**. The injury is not intentional but results from th
 3.  **Lack of Foresight:** Inability to predict the harmful results of one's acts.
 4.  **Lack of Skill:** Failure to possess the necessary ability or care in a particular task, which causes harm.
     -   *Example:* A surgeon performing an operation without the required skill, leading to the patient's death.
+
+**🔍 Taglish Explanation:**
+
+*Ang **CULPA** (Fault) ay "HINDI SINASADYA" pero nangyari dahil sa pabaya mo (negligence) o recklessness mo (imprudence). Walang intent na manakit, pero nadamay ang tao dahil sa carelessness mo.*
+
+*Halimbawa: Nag-ddrive ka ng mabilis habang nag-ccellphone, tapos nabangga mo ang isang tao at namatay. CULPA ito - hindi mo naman sinasadyang patayin siya, pero dahil sa IMPRUDENCE mo (reckless driving + cellphone), namatay siya. May criminal liability ka pa rin kahit walang intent!*
+
+**📌 Board Exam Tip:** **DOLO** = With Intent (Sinasadya), **CULPA** = Without Intent but with Negligence/Imprudence (Hindi sinasadya pero pabaya)
 
 ---
 
@@ -79,15 +98,32 @@ When a person commits a felony, the resulting crime may not be exactly what they
     -   *Example:* X wants to kill Y. At night, X sees Z, whom he mistakes for Y, and kills Z.
     -   *Legal Effect:* The penalty for the intended crime is still applied. If the crime committed is different from what was intended, the penalty for the lesser crime is applied in its maximum period (Art. 49, RPC).
 
+*Ang **ERROR IN PERSONAE** ay "mali ang taong napatay/nasaktan." Gusto mo patayin si Y, pero akala mo si Z ay si Y, kaya si Z ang napatay mo. Liable ka pa rin for HOMICIDE/MURDER kasi may intent ka naman pumatay - nagkamali ka lang ng tao. Hindi excuse ang "mali yung napatay ko."*
+
+*Halimbawa: May galit ka kay Juan, pero sa dilim, akala mo si Pedro ay si Juan, kaya si Pedro ang sinaksak mo. Kahit hindi si Juan ang napatay mo, Homicide pa rin yan - may intent ka naman pumatay, nagkamali ka lang ng victim.*
+
 -   **Aberratio Ictus (Mistake in the Blow):**
     -   The offender, intending to injure one person, actually inflicts it on another because of a mistake in their aim or blow.
     -   *Example:* X aims his gun at Y but misses, and the bullet hits and kills Z instead.
     -   *Legal Effect:* This results in a complex crime. In the example, X is liable for the complex crime of Homicide (for Z's death) with Attempted Homicide (for the attempt on Y's life). The penalty for the more serious crime is applied in its maximum period.
 
+*Ang **ABERRATIO ICTUS** ay "mali ang puntirya" o "mistake in the blow." Gusto mo patayin si Y, pero nung bumaril ka, na-miss mo, at si Z ang nadaplisan/napatay. Dito, DALAWANG KASO ang haharapin mo: (1) Homicide para kay Z (actual victim), at (2) Attempted/Frustrated Homicide para kay Y (intended victim). This is a COMPLEX CRIME - maximum period ng penalty ang aabutin mo!*
+
+*Halimbawa: Bumaril ka kay Mario pero na-miss mo, at si Pedro (nasa likod ni Mario) ang tamaan at namatay. Liable ka for: (1) Homicide for Pedro's death, at (2) Attempted Homicide kay Mario.*
+
 -   **Praeter Intentionem (Result is Greater Than Intended):**
     -   The resulting consequence is graver than what the offender intended.
     -   *Example:* X punches Y, only intending to cause physical injuries. Y falls, hits his head on the pavement, and dies.
     -   *Legal Effect:* The offender is still liable for the graver crime (Homicide). However, the lack of intent to commit so grave a wrong is a mitigating circumstance (Art. 13, par. 3, RPC).
+
+*Ang **PRAETER INTENTIONEM** ay "mas malaki ang nangyari kaysa sa intensyon mo." Gusto mo lang saktan (physical injury), pero namatay. Liable ka pa rin for HOMICIDE, pero considered as MITIGATING CIRCUMSTANCE ang "walang intent to commit so grave a wrong" - ibig sabihin, mas mababa ang penalty mo.*
+
+*Halimbawa: Sinuntok mo lang si Juan kasi nang-asar siya, pero bumagsak siya, tumama ang ulo sa semento, at namatay. HOMICIDE pa rin, pero mitigating circumstance kasi hindi mo naman talaga gusto patayin - gusto mo lang saktan.*
+
+**📌 Board Exam Tip - Memorize the 3 Mistakes:**
+- **Error in Personae** = Mali ang TAO (wrong victim)
+- **Aberratio Ictus** = Mali ang PUNTIRYA (wrong aim, complex crime)
+- **Praeter Intentionem** = Mas MALAKI ang resulta (greater result, mitigating)
 
 ---
 

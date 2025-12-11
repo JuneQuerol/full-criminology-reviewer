@@ -52,6 +52,13 @@ The PNP-FG is a full-service laboratory offering a wide range of examinations:
 
 | Feature | PNP Forensic Group (PNP-FG) | NBI Forensic & Scientific Research Service (NBI-FSRS) |
 | :--- | :--- | :--- |
+| **Parent Agency** | Philippine National Police (under DILG) | National Bureau of Investigation (under DOJ) |
+| **Primary Client** | PNP units nationwide. | NBI agents, DOJ, Courts, other agencies, the public. |
+| **Jurisdiction** | Primarily criminal cases investigated by the PNP. | Criminal and civil cases; often high-profile, complex, or cases requiring an independent examination. |
+| **Scope** | Nationwide network with regional and provincial labs. | Primarily centralized in Manila, though they can deploy teams nationwide. |
+| **Medico-Legal** | Performs autopsies, often called "SOCO Medico-Legal." | Highly specialized in forensic pathology and mass disaster victim identification. |
+| **Fingerprints** | Maintains its own fingerprint database for cases it handles. | Custodian of the national criminal fingerprint database. |
+
 ---
 
 ## Conclusion

@@ -17,6 +17,8 @@ description: 'A guide to the art of the investigative interview, covering the di
 - **Setting:** A familiar setting, like the witness's home or office, can help them feel more relaxed than a formal police station interview room.
 
 ---
+
+| Witness Type | Characteristics | Interview Strategy |
 | :--- | :--- | :--- |
 | **Know-Nothing Witness** | Claims to have seen or heard nothing. May be afraid to get involved or may genuinely not know anything. | Build rapport. Reassure them of their safety. Try to jog their memory with specific questions. |
 | **Disinterested Witness** | Apathetic and uncooperative. They feel the crime is "not their problem." | Appeal to their sense of civic duty. Emphasize the importance of their information, no matter how small. |
@@ -32,6 +34,8 @@ description: 'A guide to the art of the investigative interview, covering the di
 
 The **Cognitive Interview** is a scientifically-designed method of interviewing that is based on principles of memory and psychology. Its goal is to maximize the quantity and quality of information recalled by a witness, particularly for complex events.
 
+*Ito yung interview technique na tumutulong sa witness na maalala ang mga detalye. Pinapabalik mo siya mentally sa crime scene - "Ano ang naamoy mo? Ano ang narinig mo? Ano ang pakiramdam mo noon?" Para bang time travel ang utak niya pabalik sa eksena.*
+
 **The Four Main Techniques (Mnemonics):**
 
 1.  **Reconstruct the Context:**
@@ -39,22 +43,32 @@ The **Cognitive Interview** is a scientifically-designed method of interviewing 
     - *"Think back to the day of the event. What were you doing? What was the weather like? How were you feeling at the time?"*
     - **Purpose:** This helps trigger memory by reinstating the environmental and emotional context of the event.
 
+*Reconstruct Context = Ibalik mo mentally ang witness sa crime scene. Tanungin mo: Ano ang weather? Ano ginagawa mo? Para ma-trigger ang memory niya. Parang mag-flashback siya.*
+
 2.  **Report Everything:**
     - The investigator instructs the witness to report every single detail they can remember, no matter how small or insignificant it may seem.
     - *"Don't leave anything out, even if you think it's not important."*
     - **Purpose:** Small, seemingly irrelevant details can be crucial pieces of the puzzle or can trigger the recall of more significant memories.
+
+*Report Everything = Kahit maliit na detalye, i-report. Kasi minsan yung akala nating walang kinalaman ay key pala sa kaso. Plus, yung small details ay pwedeng mag-trigger ng mas big details.*
 
 3.  **Change the Order:**
     - The investigator asks the witness to recall the event in a different chronological order.
     - *"Tell me what happened, but start from the end and go backwards."* or *"Start from the moment the shot was fired."*
     - **Purpose:** This breaks the witness out of a pre-scripted or rehearsed narrative and can uncover new details.
 
+*Change Order = I-reverse o i-jumble ang timeline. Imbes na start to end, try end to start. Para mabreak ang rehearsed narrative at lumabas ang new details na hindi niya naturally naaalala.*
+
 4.  **Change Perspective:**
     - The investigator asks the witness to try to recall the event from a different perspective.
     - *"Imagine you were standing across the street. What would you have seen from there?"* or *"Try to remember it from the victim's point of view."*
     - **Purpose:** This encourages the witness to access their memory through a different mental pathway, which can lead to new recollections.
 
+*Change Perspective = Imagine from different angle. Parang camera angle sa movie - pag nag-switch ka ng POV, may nakikita kang bago. Same concept sa memory recall.*
+
 The Cognitive Interview is a powerful technique that has been shown to elicit significantly more information from cooperative witnesses than a standard police interview.
+
+**Board Exam Tip:** Cognitive Interview has FOUR techniques: Reconstruct Context, Report Everything, Change Order, Change Perspective. Memorize ang acronym: R-R-C-C! Laging lumalabas sa exam!
 
 ---
 

@@ -1,3 +1,8 @@
+---
+title: 'Module 1.5: Penalties in General'
+description: 'This module covers the classification and types of penalties under the Revised Penal Code, a fundamental topic for criminology board exam preparation. It details the different categories of penalties and their implications.'
+---
+
 # Module 1.5: Penalties in General
 
 ## 1. Learning Objectives

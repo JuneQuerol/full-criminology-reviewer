@@ -13,6 +13,10 @@ The correctional system in the Philippines is not managed by a single entity. In
 3.  **The Department of Social Welfare and Development (DSWD):** Responsible for the care and rehabilitation of juvenile offenders.
 
 ---
+
+**Summary of Institutional Agencies**
+
+| Agency | Department | Manages | Inmate Population |
 | :--- | :--- | :--- | :--- |
 | **BuCor** | DOJ | National Prisons | Sentenced to **more than 3 years**. |
 | **BJMP** | DILG | City, Municipal, District Jails | Awaiting trial, or sentenced to **3 years or less**. |
@@ -48,22 +52,38 @@ The Philippine Correctional System is a complex network of agencies and institut
 
 In the Philippine context, the terms "jail" and "prison" have specific legal definitions based on the length of the sentence of the inmates they house.
 
+*Super important distinction to - hindi interchangeable ang jail at prison sa Philippines! May specific legal definition based sa sentence length.*
+
 - **Jail:** A facility for the confinement of:
     1.  **Detention Prisoners:** Persons awaiting trial or investigation.
+
+       *Detention prisoners = "hinihintay pa ang trial." Hindi pa convicted, pero detained dahil may kaso. Remember: presumed innocent pa sila!*
+
     2.  **Sentenced Prisoners:** Persons serving a sentence of **3 years or less**.
+
+       *Sentenced pero maikli lang - 3 years or less. Think: theft ng cellphone, slight physical injuries, etc.*
+
 - **Prison (Penitentiary):** A facility for the confinement of persons who have been convicted and sentenced to serve a term of **more than 3 years**.
 
-**Board Exam Tip:** The 3-year mark is the key distinction between a jail and a prison sentence in the Philippines.
+  *Prison = serious crimes, long sentences. Murder, rape, robbery - 3+ years. Dito ka napupunta sa Bilibid or other BuCor facilities.*
+
+**Board Exam Tip:** The 3-year mark is the key distinction between a jail and a prison sentence in the Philippines. ≤3 years = JAIL, >3 years = PRISON. Memorize this cutoff - laging lumalabas sa exam!
 
 ### A. The Agencies of Institutional Corrections
 
 There are three main agencies that manage the country's jails and prisons:
+
+*Tatlo lang naman to - BuCor, BJMP, at Provincial Jails. Memorize kung sino ang namamahala at kung sino ang inmates nila!*
 
 1.  **Bureau of Corrections (BuCor):**
     - **Under:** The Department of Justice (DOJ).
     - **Mandate:** To manage the **national prison system**.
     - **Inmates:** Convicted offenders sentenced to serve **more than 3 years**. These are referred to as **national prisoners** or "persons deprived of liberty" (PDL).
     - **Facilities:** BuCor operates seven major prison facilities across the country, including the New Bilibid Prison in Muntinlupa and the Correctional Institution for Women (CIW) in Mandaluyong.
+
+    *BuCor = national level, DOJ. Think big crimes, long sentences (>3 years). New Bilibid Prison = most famous. Seven facilities total sa buong bansa.*
+
+    **Board Exam Tip:** BuCor = DOJ, >3 years sentence, 7 prison facilities!
 
 2.  **Bureau of Jail Management and Penology (BJMP):**
     - **Under:** The Department of the Interior and Local Government (DILG).
@@ -72,11 +92,19 @@ There are three main agencies that manage the country's jails and prisons:
         - Detention prisoners awaiting trial.
         - Convicted offenders serving a sentence of **3 years or less**.
 
+    *BJMP = local level jails, DILG. Dito ang mga "hindi pa convicted" (detention) at yung mga convicted ng ≤3 years. Maraming BJMP jails - bawat city/municipality may kanya-kanyang jail.*
+
+    **Board Exam Tip:** BJMP = DILG, detention + ≤3 years, city/municipal/district jails!
+
 3.  **Provincial Governments (Provincial Jails):**
     - **Under:** The respective provincial governments.
     - **Mandate:** To manage the **provincial jails**.
     - **Inmates:** In theory, they serve the same function as BJMP jails, holding detention prisoners and those with sentences of 6 months to 3 years.
     - **Note:** The management of provincial jails is a separate system from the BJMP, which can lead to inconsistencies in standards and procedures.
+
+    *Provincial Jails = separate from BJMP! Managed ng provincial government, NOT BJMP. Same function, pero magkaibang management. Kaya minsan may inconsistencies sa standards.*
+
+    **Board Exam Tip:** Provincial jails = Provincial Gov't (NOT BJMP!), pero same type of inmates (detention + short sentences).
 
 **Summary of Institutional Agencies**
 | Agency | Department | Manages | Inmate Population |

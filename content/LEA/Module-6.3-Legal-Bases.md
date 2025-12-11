@@ -11,29 +11,58 @@ Signed into law on December 13, 1990, RA 6975 is the single most important legal
 ### A. Core Mandate: Creation of a Civilian Police Force
 The primary goal of RA 6975 was to establish a police force that is **national in scope and civilian in character**.
 
+*Board Exam Tip: Tandaan—"national in scope, civilian in character." Ito ang magic phrase ng RA 6975. Halos lahat ng tanong about RA 6975 ay umiikot dito.*
+
 - **National in Scope:** One police force for the entire country, ensuring uniform standards and application of the law.
+
+  *National in scope = Iisang PNP lang para sa buong Pilipinas. Hindi na katulad noon na bawat city ay may sariling independent police force. Ngayon, lahat under ng PNP—uniform ang training, standards, at organization.*
+
 - **Civilian in Character:** The PNP is not part of the military. It is an agency of the civilian government, controlled by civilian authorities. To ensure this, it was placed under the newly created Department of the Interior and Local Government (DILG).
+
+  *Civilian in character = Hindi military ang PNP. Dati kasi, ang police (PC-INP) ay under ng AFP (Armed Forces). Ngayon, hiwalay na—under ng DILG (civilian agency). Bakit importante ito? Para hindi maging militar ang policing style. Ang pulis ay para sa peace and order, hindi para sa war.*
 
 ### B. Key Provisions of RA 6975
 1.  **Creation of the PNP:** It established the PNP, absorbing the officers and members of the Philippine Constabulary (PC) and the Integrated National Police (INP).
+
+    *Merger: PC + INP = PNP. Lahat ng dating PC at INP personnel ay naging PNP na noong 1991.*
+
 2.  **Creation of the DILG:** It established the DILG, which was given administrative control over the PNP, the Bureau of Fire Protection (BFP), and the Bureau of Jail Management and Penology (BJMP).
+
+    *DILG = Department na nag-mamange ng PNP, BFP (fire), at BJMP (jails). Lahat ng peace and order agencies ay under ng DILG.*
+
 3.  **Creation of NAPOLCOM:** While NAPOLCOM already existed, RA 6975 reorganized it and placed it under the DILG to serve as the policy-making and oversight body for the PNP.
+
+    *NAPOLCOM = National Police Commission. Sila ang nag-set ng policies, nag-approve ng promotions, at nag-investigate ng administrative cases. Parang "board of directors" ng PNP.*
+
 4.  **Powers of LGUs:** It gave provincial governors and city/municipal mayors certain operational supervision and control powers over PNP units in their respective jurisdictions.
     - **Mayors:** Have the power to choose their own Chief of Police from a list of five (5) eligibles recommended by the PNP Provincial Director.
+
+    *Ibig sabihin: Ang mayor ay may say kung sino ang magiging Chief of Police ng kanyang city/municipality. Hindi pwedeng arbitrary ang pagpili—dapat from a list of 5 qualified candidates. Ito ay para may local input pero hindi naman full control ng politicians.*
+
 5.  **PNP Rank Structure:** It established the initial rank structure of the PNP, which was different from the AFP ranks (e.g., Director General, Superintendent, Inspector).
+
+    *Note: Ang rank structure ay na-change na noong RA 11200 (2019) para ma-align sa AFP ranks. Pero sa exam, dapat alam mo pa rin ang old ranks kasi maraming references pa rin diyan.*
 
 **Board Exam Tip:** RA 6975 is the "mother law" of the PNP. Questions often revolve around its fundamental purpose: creating a *national and civilian* police force. Memorize this phrase.
 
 ---
+
+**RA 6975 vs. RA 8551: Key Differences**
+
+| Feature | RA 6975 (1990) | RA 8551 (1998) |
 | :--- | :--- | :--- |
 | **Main Goal** | Establish a national and civilian PNP. | Professionalize and reform the PNP. |
 | **Education Req.** | 72 Collegiate Units | Baccalaureate Degree |
 | **NAPOLCOM Power** | Reorganized and placed under DILG. | Powers significantly strengthened and expanded. |
-| **Key Intro** | Attrition System, 10% Women Quota |
+| **Key Intro** | Initial rank structure, LGU powers | Attrition System, 10% Women Quota |
 
 **Board Exam Tip:** RA 8551 is the "reform law." Associate it with "professionalization," "higher education," "attrition," and "strengthening NAPOLCOM." The 10% quota for women is a very common exam question.
 
 ---
+
+**Sample Rank Changes under RA 11200**
+
+| Old Rank (RA 6975) | New Rank (RA 11200) | AFP Equivalent |
 | :--- | :--- | :--- |
 | Director General | **Police General** | General |
 | Chief Superintendent | **Police Brigadier General** | Brigadier General |

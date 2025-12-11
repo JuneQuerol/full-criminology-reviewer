@@ -10,8 +10,14 @@ description: 'A detailed look at the Bureau of Corrections (BuCor), its mandate,
 - **Jurisdiction:** BuCor's jurisdiction is limited to **national prisoners**, also known as "persons deprived of liberty" (PDL), who have been convicted by a court and sentenced to serve a prison term of **more than 3 years**.
 
 **BuCor vs. BJMP:**
+
 | Feature | Bureau of Corrections (BuCor) | Bureau of Jail Management & Penology (BJMP) |
 | :--- | :--- | :--- |
+| **Department** | Department of Justice (DOJ) | Department of the Interior and Local Government (DILG) |
+| **Inmate Type**| **Sentenced Prisoners** | **Detention Prisoners** (awaiting trial) and Sentenced Prisoners |
+| **Sentence Length**| **More than 3 years** | **3 years or less** |
+| **Facility Type**| National Prisons & Penal Farms | City, Municipal, & District Jails |
+
 ---
 
 ## II. RA 10575: The Bureau of Corrections Act of 2013
@@ -65,36 +71,65 @@ The **Bureau of Corrections (BuCor)** is the primary government agency responsib
 
 BuCor does not operate just one prison. It manages a network of seven facilities located across the Philippines. This dispersal helps to relieve congestion and allows for the segregation of prisoners based on their security classification.
 
+*SUPER IMPORTANT for board exam: Memorize the SEVEN BuCor facilities! Laging may tanong: "Ilan ang prison facilities ng BuCor?" or "Enumerate the 7 prisons." Sagot: SEVEN!*
+
+**Memory Trick:** "**NaIs Cop Sa DaLe**" = **N**BP, **I**wahig, **S**an Ramon, **Co**rrectional Institution for Women (**Co** for **C**IW), **Sa**blayan, **Da**vao, **Le**yte
+
 1.  **New Bilibid Prison (NBP) - Muntinlupa City:**
     - This is the main and most well-known prison facility in the country.
     - It houses the **Maximum Security Compound** (for the most dangerous offenders), the **Medium Security Compound** (Camp Sampaguita), and the **Minimum Security Compound** (Camp Bukang Liwayway).
     - It also contains the **Reception and Diagnostic Center (RDC)** for newly arrived national prisoners.
 
+    *NBP = "Bilibid" - ang pinakasikat! Dito ang maximum security (high-profile criminals), medium security (Camp Sampaguita), at minimum security (Camp Bukang Liwayway). Lahat ng bagong national prisoners, dumadaan muna sa RDC dito for assessment.*
+
+    **Board Exam Tip:** NBP has 3 compounds (Maximum, Medium, Minimum) + RDC. Memorize the camp names: Sampaguita (medium), Bukang Liwayway (minimum)!
+
 2.  **Correctional Institution for Women (CIW) - Mandaluyong City:**
     - This is the only national prison facility dedicated solely to the confinement of female offenders.
     - A newer facility, the Correctional Institution for Women - Mindanao, has also been established.
+
+    *CIW = for women prisoners only. Mandaluyong City (Metro Manila). May bagong facility din sa Mindanao.*
 
 3.  **Iwahig Prison and Penal Farm - Puerto Princesa, Palawan:**
     - One of the most famous "open" penal colonies in the world.
     - It is a vast, minimum-security facility where inmates are allowed to live with their families in a farming community and work on the penal farm. It is a model for inmate rehabilitation through agriculture.
 
+    *Iwahig = sikat na "open penal colony!" Walang walls, walang cells - parang komunidad lang. Inmates pwede manatili with families, mag-farm. Minimum security - sobrang relaxed compared sa Bilibid. Model for rehabilitation through farming!*
+
+    **Board Exam Tip:** Iwahig = most famous OPEN penal colony, Palawan, minimum security, family living allowed!
+
 4.  **San Ramon Prison and Penal Farm - Zamboanga City:**
     - Founded in 1870, it is the oldest operating penal institution in the country.
     - It was originally established to confine political prisoners during the Spanish colonial era.
+
+    *San Ramon = OLDEST prison (1870), Zamboanga. Spanish era pa! Originally for political prisoners during Spanish times.*
 
 5.  **Sablayan Prison and Penal Farm - Occidental Mindoro:**
     - Another open-air penal farm, similar to Iwahig.
     - It is a major producer of rice for the entire Bureau of Corrections.
 
+    *Sablayan = similar to Iwahig, open-air penal farm. Occidental Mindoro. Famous for RICE production - supplier ng buong BuCor!*
+
 6.  **Davao Prison and Penal Farm (formerly Tagum Penal Colony) - Panabo, Davao del Norte:**
     - A major agricultural facility, known for its extensive abaca and banana plantations.
     - It was established during the American period to address the increasing number of prisoners.
+
+    *Davao Prison = agriculture focus. Famous for ABACA and BANANA plantations. American era established.*
 
 7.  **Leyte Regional Prison - Abuyog, Leyte:**
     - The newest of the seven facilities, established in the 1970s.
     - It was created to serve the growing inmate population in the Visayas region.
 
-**Board Exam Tip:** You should be able to name the seven penal institutions under BuCor and know their general location and key characteristics.
+    *Leyte = NEWEST (1970s), serves Visayas region.*
+
+**Board Exam Tip:** MEMORIZE ALL 7! Use the mnemonic "**NaIs Cop Sa DaLe**." Laging may enumeration question about this. Plus memorize key facts:
+- NBP = main, 3 compounds + RDC
+- CIW = women only
+- Iwahig = famous open colony, Palawan
+- San Ramon = OLDEST (1870)
+- Sablayan = rice producer
+- Davao = abaca/banana
+- Leyte = NEWEST (1970s), Visayas
 
 
 ## V. The Reception and Diagnostic Center (RDC)

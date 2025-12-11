@@ -2,9 +2,14 @@
 import type { Metadata, Viewport } from 'next';
 import { Inter, Merriweather } from 'next/font/google';
 import './globals.css';
+import dynamic from 'next/dynamic';
 import Navbar from '../components/Navbar';
 import Sidebar from '../components/Sidebar';
 import Footer from '../components/Footer';
+
+const PageLoader = dynamic(() => import('../components/PageLoader'), {
+  ssr: false,
+});
 
 const inter = Inter({
   subsets: ['latin'],
@@ -55,13 +60,14 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body
-        className={`${inter.variable} ${merriweather.variable} font-sans bg-brand-light dark:bg-gray-900`}
+        className={`${inter.variable} ${merriweather.variable} font-sans bg-brand-light dark:bg-gray-900 overflow-x-hidden`}
       >
+        <PageLoader />
         <div className="flex flex-col min-h-screen">
           <Navbar />
           <div className="flex flex-1">
             <Sidebar />
-            <main className="flex-1 p-6 bg-white dark:bg-gray-800/50 shadow-inner">
+            <main className="flex-1 p-4 md:p-6 bg-white dark:bg-gray-800/50 shadow-inner overflow-x-hidden">
               {children}
             </main>
           </div>

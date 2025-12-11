@@ -45,8 +45,15 @@ The Walnut Street Jail model led to the development of two competing prison syst
 - **Outcome:** The Auburn system was much cheaper to operate and was more profitable than the Pennsylvania system. For these economic reasons, it became the **dominant model for prisons** throughout the United States and much of the world.
 
 **Comparison: Pennsylvania vs. Auburn**
+
 | Feature | Pennsylvania System | Auburn System |
 | :--- | :--- | :--- |
+| **Philosophy** | Separate System (Solitary) | Congregate System |
+| **Daytime Activity**| Solitary work in cell | Congregate work in silence |
+| **Evening Activity**| Solitary confinement | Solitary confinement |
+| **Main Advantage** | Prevented inmate contamination | Cheaper, more profitable |
+| **Main Disadvantage**| Caused mental illness | Harsh discipline required |
+
 ---
 
 ## IV. The Reformatory Era and the Rise of Rehabilitation (Late 19th - Mid 20th Century)

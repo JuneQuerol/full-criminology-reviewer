@@ -24,6 +24,23 @@ description: 'An overview of the concept of juvenile delinquency and the legal f
 
 **Board Exam Tip:** This age table is the most critical part of RA 9344. You must memorize the different age brackets and the corresponding legal consequences.
 
+*Ito ang **PINAKA-IMPORTANTE** sa RA 9344 - yung **AGE TABLE**! TANDAAN MO 'TO dahil 100% lalabas 'to sa board exam:*
+
+**1. 15 years old and below = EXEMPTED 100%**
+- *Kahit MURDER pa ang ginawa, walang criminal liability. Bakit? Kasi bata pa, hindi pa fully developed ang utak. Ang procedure: i-release agad sa magulang, then undergo ng **INTERVENTION PROGRAM** (counseling, rehab, community service). **WALANG KULUNGAN!***
+
+**2. Over 15 pero under 18 = EXEMPTED, UNLESS may DISCERNMENT**
+- *Ito ang tricky part. Ang tanong: **naintindihan ba ng bata ang ginawa niya?** May "discernment" ba? Ito ay dedetermined ng **social worker**, hindi ng pulis.*
+  - *Kung **WALANG discernment** (hindi niya naintindihan na mali yung ginawa niya) = same as 15 below, intervention program lang.*
+  - *Kung **MAY discernment** (alam niyang mali yung ginawa niya) = undergo ng **DIVERSION PROGRAM** (mediation, community service, restitution). **Hindi pa rin formal court trial!** Layunin: iwasan ang stigma ng criminal record.*
+
+**3. 18 years old and above = FULL CRIMINAL LIABILITY**
+- *Adult na 'to, kaya preso talaga kapag guilty. Same ng procedure ng regular criminals.*
+
+*MEMORIZATION TIP: **15 = Free, 15-17 = Depends (discernment), 18+ = Preso***
+
+*Ang **DISCERNMENT** ay parang "alam ba niya?" Test yan kung naintindihan ba ng bata ang difference between right and wrong. Halimbawa, ang 16-year old na nagnakaw ng pera kasi gusto niyang bumili ng bagong cellphone - MAY DISCERNMENT yan kasi alam niyang nakaw yun, mali yun. Pero kung bata na kumuha ng pera kasi sabi ng tatay niya "kuha mo yang pera," WALANG discernment kasi akala niya tama yun. Gets?*
+
 ---
 ---
 
@@ -88,6 +105,13 @@ RA 9344 (as amended by RA 10630) establishes a system of **differentiated age of
 ### C. The Role of "Bahay Pag-asa"
 - **Definition:** A 24-hour child-caring institution established, funded, and managed by local government units.
 - **Purpose:** To provide short-term residential care for children in conflict with the law who are awaiting court disposition or who need more intensive intervention. It is **not a jail**. It is a youth care facility focused on rehabilitation.
+
+*Ang **Bahay Pag-asa** ay parang **rehabilitation center para sa bata**, HINDI bilangguan! Dito dinadala yung mga bata na kailangan ng mas intensive help - may counseling, may skills training, may education program. Ang goal: i-rehabilitate ang bata, hindi parusahan. Kaya nga "Bahay Pag-asa" (House of Hope) ang tawag - binibigyan ng pag-asa na makakabalik siya sa normal na buhay. IMPORTANT: Ito ay pinopondohan at pinamamahalaan ng **LGU** (Local Government Unit), hindi ng National Government.*
+
+**Board Exam Tip:**
+- *Intervention Program = Para sa 15 and below, o 15-17 walang discernment*
+- *Diversion Program = Para sa 15-17 na may discernment*
+- *Bahay Pag-asa = Youth rehabilitation center, hindi bilangguan. Managed by LGU.*
 
 
 ## Conclusion

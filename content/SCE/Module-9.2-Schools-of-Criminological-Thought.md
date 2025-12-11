@@ -24,12 +24,24 @@ The Classical School emerged during the Enlightenment, a period of intellectual 
 
 **Legacy:** The Classical School is the foundation of most modern legal systems in the Western world. The ideas of free will, deterrence, and due process are all classical in origin.
 
+*Ang **Classical School** ni **Beccaria** at **Bentham** ay naniniwala na ang tao ay may **FREE WILL** - ikaw ang pumipili kung magnakaw ka o hindi. Kaya ang punishment ay dapat **DETERRENT** lang - para matakot ka at hindi mo na ulitin. **"Pag nakawin mo yan, makulong ka ng 5 years!"** - ganyan ang logic. Ang pinaka-importante raw ay ang **CERTAINTY ng punishment** - sigurado ka na mahuhuli ka. Yung severity (bigat ng parusa) ay second priority lang.*
+
+**Board Exam Tip:** *Classical School = FREE WILL + DETERRENCE + Punishment should fit the CRIME (not the criminal). Beccaria & Bentham.*
+
 ---
 | :--- | :--- | :--- |
 | **Core Idea** | Free Will & Rational Choice | Determinism & Scientific Method |
 | **Focus** | The Crime | The Criminal |
 | **Purpose of Punishment** | Deterrence | Treatment & Rehabilitation |
 | **Key Thinker** | Beccaria | Lombroso |
+
+*COMPARISON: Classical vs. Positivist School*
+- *Classical: "Gumawa ka ng krimen dahil PINILI mo yan!" (Free Will)*
+- *Positivist: "Gumawa ka ng krimen kasi may something WRONG sa'yo - genes mo, utak mo, o environment mo!" (Determinism)*
+- *Classical: Focus sa ACT (ang ginawa mong crime)*
+- *Positivist: Focus sa ACTOR (ikaw, ang kriminal)*
+- *Classical: Ang solution ay PUNISHMENT para matakot ka*
+- *Positivist: Ang solution ay TREATMENT para gumaling ka*
 
 ---
 ---
@@ -84,3 +96,7 @@ The Chicago School emerged in the early 20th century at the University of Chicag
 - **Clifford Shaw & Henry McKay:** Conducted the classic studies that mapped crime rates in Chicago and found they were always highest in the zone of transition, regardless of which ethnic group lived there.
 
 **Legacy:** The Chicago School was the foundation of sociological criminology. It shifted the focus away from individual-level explanations (biological, psychological) and towards societal and environmental explanations of crime. Modern theories like Strain Theory, Differential Association, and modern community-based crime prevention strategies all have their roots in the Chicago School.
+
+*Ang **Chicago School** ni **Shaw** at **McKay** ay nagsabing, **"Hindi ang TAO ang problema, kundi ang LUGAR!"** Gumawa sila ng study sa Chicago city at napansin nila na may specific area (zone of transition - yung area around the business district) na **LAGING MATAAS ang crime rate**, KAHIT SINO PA ang tumira doon! Pag Italians ang tumira, mataas ang crime. Pag mga Mexicans naman, mataas pa rin. Pag Filipinos, mataas pa rin! Ano ang ibig sabihin? Ang problema ay hindi ang LAHI o ang TAO mismo, kundi yung **KALAGAYAN NG LUGAR** - social disorganization, poverty, walang strong institutions (family, school, church). Kaya ang solution: ayusin ang community, hindi lang ang tao!*
+
+**Board Exam Tip:** *Chicago School = Social Disorganization Theory = Focus on THE PLACE, not the person. Shaw & McKay. Zone of Transition.*

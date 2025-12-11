@@ -14,10 +14,18 @@ description: 'An introduction to the revolutionary science of DNA profiling, cov
 - **The Genetic Code:** The specific sequence of these bases (e.g., AGGTCTA...) along a strand of DNA is what determines an individual's genetic makeup.
 - **Uniqueness:** The DNA of every individual is unique, with the exception of identical twins. However, even identical twins can have minute differences in their DNA acquired during development.
 
+*Ang **DNA** ay parang **blueprint ng buhay mo** - nakalagay dito lahat ng instructions para sa development, growth, at functioning ng katawan mo! Ang structure niya ay **double helix** - parang twisted ladder o hagdan na pinaikot. Ang mga "steps" ng hagdan ay gawa sa mga chemical bases na may sariling rules sa pag-pair: **A ay laging kasama ni T**, at **G ay laging kasama ni C** (para maalala: AT at GC - parang mag-asawa sila!). Ang sequence ng bases (AGGTCTA...) ang tumutukoy sa genetic makeup mo. Ang DNA ng bawat tao ay UNIQUE - kahit magkapatid kayo, iba pa rin! Exception lang ay identical twins, pero kahit sila may minute differences pa rin!*
+
+**Board Exam Tip:** Remember DNA base pairing: A-T and G-C. This is fundamental to understanding DNA profiling!
+
 ### Nuclear vs. Mitochondrial DNA
 - **Nuclear DNA (nDNA):** Found inside the nucleus of the cell. This is the DNA that is inherited from **both the mother and the father** and is used for standard forensic profiling.
 - **Mitochondrial DNA (mtDNA):** Found in the mitochondria, outside the cell nucleus. It is inherited **only from the mother**.
     - **Usefulness:** mtDNA is present in much greater numbers per cell than nDNA. This makes it useful for analyzing samples where nuclear DNA is degraded or scarce, such as in old bones, teeth, and hair shafts. It can be used to link individuals who share a maternal lineage.
+
+*May dalawang uri ng DNA: (1) **Nuclear DNA (nDNA)** - ito yung nasa loob ng nucleus (core) ng cell, galing sa **both nanay at tatay** mo - ito ang ginagamit sa standard DNA profiling; (2) **Mitochondrial DNA (mtDNA)** - ito naman ay nasa mitochondria (power plant ng cell), **mula lang sa nanay** mo. Ang advantage ng mtDNA ay MAS MARAMI siya per cell compared sa nDNA. Kaya useful siya pag degraded or scarce ang sample - tulad ng old bones, teeth, at hair shaft (buhok na walang ugat). Pwede ring gamitin ang mtDNA para i-link ang mga taong may same maternal lineage (same nanay, lola, etc.).*
+
+**Board Exam Tip:** nDNA = from both parents (standard profiling). mtDNA = from mother only (useful for degraded samples, maternal lineage)!
 
 ---
 ---
@@ -79,7 +87,9 @@ DNA can be extracted from any biological material that contains cells with a nuc
 - Biological evidence must be handled with extreme care to prevent **contamination**. Contamination occurs when DNA from another source (like the investigator) gets mixed with the sample.
 - Evidence should be air-dried and packaged in **paper bags or breathable containers**. Plastic bags trap moisture, which promotes the growth of bacteria and mold that can destroy DNA.
 
-**Board Exam Tip:** Proper collection and preservation are critical. Packaging biological evidence in plastic is a common mistake and a frequent topic in exam questions. Always choose paper.
+*Ang **collection and preservation** ng biological evidence ay super critical! Dapat iwasan ang **contamination** - ito ay nangyayari pag may DNA mula sa ibang source (tulad ng investigator) na nahalong sa sample. Kaya importante na mag-gloves at mag-ingat! Ang biological evidence ay dapat **i-air dry** muna, tapos ilagay sa **paper bags o breathable containers** - NEVER sa plastic bags! Bakit? Kasi ang plastic ay nag-trap ng moisture (halumigmig), at ito ay nag-promote ng bacteria at mold growth na pwedeng SIRAIN ang DNA. Remember: **PAPER for biological evidence, NOT plastic!***
+
+**Board Exam Tip:** This is a FAVORITE exam question! Always remember: Biological evidence = PAPER packaging (breathable). Plastic = WRONG (traps moisture, destroys DNA). Super common mistake!
 
 
 ## IV. The DNA Analysis Process
@@ -89,6 +99,10 @@ DNA can be extracted from any biological material that contains cells with a nuc
 3.  **Amplification (PCR):** The specific STR regions of the DNA are copied millions of times using a process called **Polymerase Chain Reaction (PCR)**. This is like a "molecular photocopier" that creates enough DNA for analysis even from a tiny starting sample.
 4.  **Separation and Detection (Electrophoresis):** The amplified STR fragments are separated by size using a technique called **capillary electrophoresis**. A laser detects the fragments as they pass by, and a computer software translates this into a DNA profile.
 5.  **Interpretation:** A DNA analyst compares the DNA profile from the crime scene evidence to the DNA profile from a known reference sample (e.g., a blood sample from a suspect). If the profiles match at every locus, it is a **match**.
+
+*Ang DNA analysis process ay may 5 steps: (1) **Extraction** - kunin ang DNA mula sa sample (dugo, laway, etc.) using chemicals; (2) **Quantitation** - sukatin kung magkano ang DNA - kailangan sufficient amount para sa analysis; (3) **Amplification (PCR)** - ito ang "molecular photocopier" - kino-copy ng millions of times ang STR regions ng DNA para kahit tiny sample lang, may enough DNA na for analysis - ito ang pinaka-revolutionary step!; (4) **Separation and Detection** - gamit ang capillary electrophoresis, pine-separate by size ang DNA fragments, tapos nide-detect ng laser at kino-convert ng software into DNA profile; (5) **Interpretation** - ikocompare ang crime scene DNA profile sa reference sample (suspect's DNA) - pag match sa lahat ng loci, MATCH yan!*
+
+**Board Exam Tip:** Remember PCR (Polymerase Chain Reaction) = "molecular photocopier" - amplifies DNA millions of times. This is KEY to modern DNA analysis!
 
 
 ## Conclusion

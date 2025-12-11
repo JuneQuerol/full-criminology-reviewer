@@ -22,6 +22,8 @@ Social structure theories argue that crime is a result of a person's position wi
 - **Merton's Argument (Anomie):** In American society, the dominant cultural goal is to achieve wealth and material success ("The American Dream"). However, the legitimate means to achieve this goal (e.g., a good education, a good job) are not equally available to everyone, especially those in the lower classes. This creates a state of **anomie** (normlessness) and strain for those who cannot achieve the goal through legitimate means.
 - **Five Modes of Adaptation:** Merton outlined five ways that people can adapt to this strain:
 
+*Ito ang **Strain Theory** ni **Robert Merton** - isa sa pinaka-importante sa board exam! Ang sabi niya, **lahat tayo ay may PANGARAP na yumaman** (cultural goal), pero hindi lahat tayo ay may **PARAAN** (legitimate means) para makamit yan. Halimbawa, gusto mong maging mayaman, pero walang kang pera pang-college, walang connections, mahirap ang buhay. Nag-create yan ng **FRUSTRATION o STRAIN**. Ano ang pwede mong gawin? May 5 paraan according kay Merton - tandaan mo ito kasi LAGING lumalabas sa board exam!*
+
 | Mode of Adaptation | Cultural Goals (Wealth) | Legitimate Means (Job) | Example |
 | :--- | :--- | :--- | :--- |
 ---
@@ -35,6 +37,10 @@ Social process theories focus not on the broad social structure but on the socia
 - **The "Principle of Differential Association":** "A person becomes delinquent because of an excess of definitions favorable to violation of law over definitions unfavorable to violation of law."
 - **In simple terms:** You learn to be a criminal by hanging out with other criminals. If more of your close associates are involved in and have positive attitudes toward crime than negative ones, you are more likely to become a criminal yourself. It is a theory of social learning.
 
+*Ito ang theory ni **Edwin Sutherland** - **"Show me your friends, and I'll show you your future!"** Sabi niya, **criminal behavior is LEARNED**, hindi innate. Paano mo natututunan? Sa pamamagitan ng **pakikipag-interact sa mga kaibigan at pamilya**. Kung yung mga kasama mo sa buhay ay puro kriminal at positive ang attitude nila sa crime ("cool yang magnakaw, walang problema yan"), malamang matuto ka rin at magiging kriminal ka. Pero kung yung mga kasama mo ay matitino at negative ang view nila sa crime ("nakakahiya yang magnakaw, masama yan"), hindi ka magiging kriminal. Kaya nga may kasabihan: **"Kung sino ang kaibigan mo, siya ang magiging kaugali mo."** Yan ang essence ng Differential Association - natututo tayo ng behavior from the people around us.*
+
+**Board Exam Tip:** *Sutherland = Differential Association = Crime is LEARNED from close associates.*
+
 ### B. Social Control/Bond Theory (Travis Hirschi)
 - **Core Idea:** Control Theory asks the opposite question. Instead of asking, "Why do people commit crime?", it asks, **"Why *don't* most people commit crime?"**
 - **The Answer:** People don't commit crime because they have a strong **social bond** to conventional society. When this bond is weak or broken, the person is free to commit crime.
@@ -43,6 +49,20 @@ Social process theories focus not on the broad social structure but on the socia
     2.  **Commitment:** The rational investment a person has in conventional society (e.g., a good education, a good job, a good reputation). The more we have to lose, the less likely we are to commit a crime.
     3.  **Involvement:** The amount of time a person spends in conventional activities. "Idle hands are the devil's workshop." If a person is busy with school, work, and sports, they simply don't have time to get into trouble.
     4.  **Belief:** The extent to which a person believes in the moral validity of the law and of social norms.
+
+*Ito ang theory ni **Travis Hirschi** - **"Bakit HINDI ka kriminal?"** tanong niya. Ang sagot: kasi may **SOCIAL BOND** ka sa society. May 4 elements ng Social Bond na pumipigil sa'yo na gumawa ng krimen:*
+
+1. ***ATTACHMENT*** - May mahal ka sa buhay (pamilya, friends, guro) at ayaw mong ma-disappoint sila. Kaya kahit galit ka, hindi ka papatay kasi masakit sa nanay mo. **"Naku, nahihiya ako kay Nanay!"**
+
+2. ***COMMITMENT*** - May mawawala ka pag nag-crime ka. Nag-invest ka na ng time, effort, money sa education mo, sa trabaho mo, sa good reputation mo. Bakit mo isusugal yan sa isang krimen? **"Sayang naman yung pinag-aralan ko!"**
+
+3. ***INVOLVEMENT*** - Busy ka sa school, work, sports, church. Walang oras para sa kalokohan. **"Idle hands are the devil's workshop"** - pag tamad ka at walang ginagawa, dun ka na sa masasamang gawain. Kaya nga importante ang **extracurricular activities** para sa kabataan!
+
+4. ***BELIEF*** - Naniniwala ka na tama ang batas at mali ang krimen. May values ka, may prinsipyo. **"Hindi tama yan, kahit gaano ka pa kahirap."**
+
+*Pag nawala o humina ang 4 na yan, **free ka na gumawa ng krimen** kasi wala nang pumipigil sa'yo. Kaya nga maraming kabataan na walang family, walang school, walang trabaho ay nadadaan sa krimen - kasi walang social bond!*
+
+**Board Exam Tip:** *Hirschi = Social Bond Theory = 4 Elements: Attachment, Commitment, Involvement, Belief. Para matandaan: **ACIB** (parang "acid").*
 
 ---
 ---
@@ -69,6 +89,20 @@ While biological and psychological theories look for the causes of crime within 
 
 **Board Exam Tip:** Merton's Strain Theory is one of the most important sociological theories. You must know the five modes of adaptation, especially **Innovation**, which is Merton's explanation for most property crime.
 
+*Ang **5 Modes of Adaptation** ni Merton (TANDAAN MO 'TO!):*
+
+1. ***CONFORMITY*** *(Sumusunod)* - Gusto mo yumaman, at gumagamit ka ng legal na paraan (nag-aaral, nagtatrabaho). Ito ang majority ng tao - mga law-abiding citizens.
+
+2. ***INNOVATION*** *(Kriminal)* - **ITO ANG KRIMINAL!** Gusto mo pa rin yumaman, pero ILLEGAL na ang paraan mo. Halimbawa: holdap, magnanakaw, drug dealer. Tanggap mo pa rin yung goal (mayaman), pero rejected mo na yung legitimate means kasi wala ka nun. Kaya ka nag-innovate ng sarili mong illegal way. **MOST IMPORTANT MODE SA EXAM!**
+
+3. ***RITUALISM*** *(Bureaucrat)* - Nag-give up ka na sa pangarap na yumaman, pero nag-work ka pa rin araw-araw. Parang robot lang, walang ambisyon na umasenso, basta trabaho lang. Yung typical government employee na "okay na ako sa sweldo ko, walang aksyon."
+
+4. ***RETREATISM*** *(Drop-out)* - Totally nag-give up ka na. Hindi mo na gusto yumaman, at hindi ka na rin nag-work. Yung mga drug addict, alcoholic, vagrant - mga taong nag-withdraw na from society.
+
+5. ***REBELLION*** *(Rebolusyonaryo)* - Hindi ka lang nag-reject ng goals and means, gusto mo pang **PALITAN** ang sistema. Yung mga NPA, terorista, aktibista na gusto baguhin ang lipunan - "Down with the government! Create new system!"
+
+*Para madali mong matandaan: **CIRR** (parang "SIR") - **C**onformity, **I**nnovation, **R**itualism, **R**etreatism, **R**ebellion!*
+
 
 ## III. Social Reaction Theory (Labeling Theory)
 
@@ -82,3 +116,14 @@ Labeling Theory is unique because it is not interested in why people *first* com
     - **Secondary Deviance:** Because their legitimate opportunities are blocked and their self-concept has changed, the person begins to associate with other labeled individuals and engages in more serious, frequent criminal behavior as a result of the label. This is the "career criminal" stage.
 
 **Policy Implication:** Labeling theory suggests that we should be careful about formally processing first-time, minor offenders (especially juveniles) through the justice system. Diversion programs that avoid a formal criminal label may be more effective at preventing a long-term criminal career.
+
+*Ito ang **Labeling Theory** - **"Kung tawagin ka nilang kriminal, magiging kriminal ka talaga!"** Ang theory na ito ay tungkol sa **SELF-FULFILLING PROPHECY**. Halimbawa, isang beses lang nagnakaw ang teenager ng candy sa tindahan (**primary deviance** - minor offense). Nahuli siya, inaresto, finile ng kaso, na-convict. Ngayon may **LABEL** na siya - "ex-convict," "criminal record," "may kaso." Ano ang mangyayari?*
+
+- *Yung bata ay magsisimulang maniwala na "criminal" na siya. **"Ah ganun ba? Criminal na ako? Sige, criminal na nga ako!"***
+- *Yung mga tao sa paligid niya (teachers, employers, kapitbahay) ay tatalikuran siya. "Naku, criminal yan, huwag kayong makipag-kaibigan diyan!"*
+- *Walang makakatulong sa kanya, walang tatanggap sa kanya sa trabaho. Blocked na ang legitimate opportunities niya.*
+- *Kaya ano ang gagawin niya? Babalik sa krimen - **secondary deviance** - kasi dun na lang siya accepted. Dun na lang siya may kaibigan. Ang dating one-time petty thief ay naging **career criminal** na dahil sa LABEL!*
+
+*Kaya nga ang Labeling Theory ay nagsasabing dapat CAREFUL tayo sa pag-label sa mga first-time offenders, lalo na sa mga bata. Mas maganda ang **diversion programs** (tulad ng community service lang) kaysa formal criminal case, para hindi ma-stigmatize yung bata.*
+
+**Board Exam Tip:** *Labeling Theory = Societal Reaction = Primary Deviance → Label → Secondary Deviance (career criminal). Focus: society's reaction, not the initial act.*

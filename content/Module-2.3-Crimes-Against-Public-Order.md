@@ -1,4 +1,7 @@
-# Module 2.3: Crimes Against Public Order
+---
+title: 'Module 2.3: Crimes Against Public Order'
+description: "Covers rebellion, sedition, coup d'etat, direct assault, resistance to authority, and other crimes threatening public peace and order."
+---
 
 ## 1. Learning Objectives
 

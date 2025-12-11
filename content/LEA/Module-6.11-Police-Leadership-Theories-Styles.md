@@ -58,6 +58,10 @@ This approach focuses not on who leaders *are*, but on what leaders *do*. It cat
 **Board Exam Tip:** Leadership styles are not mutually exclusive. The best leaders are flexible and can adapt their style to the situation.
 
 ---
+
+**Situational Leadership: Matching Style to Follower Readiness**
+
+| Readiness Level | Follower Characteristics | Appropriate Style | Leader Behavior |
 | :--- | :--- | :--- | :--- |
 | **R1** | Unable & Unwilling/Insecure | **S1: Telling (Directing)** | High Task, Low Relationship. Provide clear, specific instructions. |
 | **R2** | Unable but Willing/Confident| **S2: Selling (Coaching)** | High Task, High Relationship. Explain decisions and provide opportunity for clarification. |

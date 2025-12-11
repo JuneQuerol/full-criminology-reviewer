@@ -31,6 +31,10 @@ The process generally involves four steps:
 - **Not Unique:** Unlike fingerprints or DNA, facial features are not scientifically proven to be unique. It is a tool for generating investigative leads, not for absolute identification in court.
 
 ---
+
+**Comparison: Iris vs. Retina**
+
+| Feature | Iris Scan | Retina Scan |
 | :--- | :--- | :--- |
 | **Target** | Front, colored part of the eye | Back of the eyeball (blood vessels) |
 | **Process** | Similar to taking a photograph | Requires looking into a receptacle |

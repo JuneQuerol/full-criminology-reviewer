@@ -32,12 +32,16 @@ The BuCor system classifies prisoners into one of four security levels. This cla
 - **Housing:** They are confined at the **Maximum Security Compound** of the New Bilibid Prison and other similar facilities.
 - **Conditions:** Housed in heavily guarded cells, subject to high levels of supervision, and have very limited movement and privileges. They typically wear **tangerine/orange** uniforms.
 
+*Maximum = "sobrang delikado." Death penalty (abolished na pero dati), life imprisonment, 20+ years. High-profile criminals, serial killers, notorious drug lords. Heavy guards, cells, limited movement. Uniform: ORANGE.*
+
 ### 2. Medium Security
 - **Who:** This is the largest group of prisoners.
     - Those with a sentence of less than 20 years.
     - Prisoners who were originally classified as maximum security but have shown improvement and good behavior.
 - **Housing:** They are confined at the **Medium Security Compound** (Camp Sampaguita) at NBP.
 - **Conditions:** They live in dormitories ("brigadas") rather than individual cells. They have more privileges and freedom of movement than maximum-security inmates. They typically wear **blue** uniforms.
+
+*Medium = "majority" ng population. <20 years sentence OR nag-improve from maximum security. Camp Sampaguita (NBP). Dormitories na, hindi cells. More freedom compared sa max. Uniform: BLUE.*
 
 ### 3. Minimum Security
 - **Who:** This includes the lowest-risk prisoners.
@@ -48,10 +52,29 @@ The BuCor system classifies prisoners into one of four security levels. This cla
 - **Housing:** They are confined at the **Minimum Security Compound** (Camp Bukang Liwayway) at NBP or at one of the open penal farms (like Iwahig or Sablayan).
 - **Conditions:** They have the most freedom of movement and are often allowed to work on agricultural or industrial projects with very little supervision. They typically wear **brown** uniforms.
 
+*Minimum = "trusted prisoners." Elderly (65+), handicapped, OR malapit nang makalabas (6 months or less remaining), OR sustained good behavior. Camp Bukang Liwayway (NBP) or open penal farms (Iwahig, Sablayan). Almost free - pwede mag-work sa farm with little supervision. Uniform: BROWN.*
+
 ### 4. Detention Prisoners
 - These are individuals awaiting trial whose cases are on appeal. While they are legally considered detention prisoners, they are held in BuCor facilities (if their sentence would qualify them as national prisoners) and are managed separately from the sentenced population.
 
-**Board Exam Tip:** Memorize the three main security levels (Maximum, Medium, Minimum) and the corresponding uniform colors (Orange, Blue, Brown). Remember the acronym **"OMB"**.
+*Detention = "hindi pa final ang conviction." May pending appeal. Technically detention pa, pero nasa BuCor facilities na. Separate management.*
+
+**Board Exam Tip:** Memorize the three main security levels (Maximum, Medium, Minimum) and the corresponding uniform colors (Orange, Blue, Brown). Remember the acronym **"OMB"** (Orange-Max, (B)lue-Medium, Brown-Minimum).
+
+**Memory Trick for Uniforms:**
+- **ORANGE** = MAXIMUM (think: bright orange = danger, stop, warning!)
+- **BLUE** = MEDIUM (think: ocean/sky - calm, neutral)
+- **BROWN** = MINIMUM (think: earth/soil - grounded, trusted, farming)
+
+**Quick Summary Table:**
+
+| Security Level | Sentence/Criteria | Housing | Uniform Color |
+|---|---|---|---|
+| **Maximum** | Death, Life, 20+ years, high-risk | Maximum Compound, cells | **ORANGE** |
+| **Medium** | <20 years, improved from max | Camp Sampaguita, dormitories | **BLUE** |
+| **Minimum** | 65+ years old, handicapped, 6 months left, good behavior | Camp Bukang Liwayway, open farms | **BROWN** |
+
+*Memorize this table - guaranteed may tanong about uniform colors at security levels sa board exam!*
 
 ---
 ---

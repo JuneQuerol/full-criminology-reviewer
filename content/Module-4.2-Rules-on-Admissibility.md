@@ -1,4 +1,7 @@
-# Module 4.2: Rules on Admissibility - The Hearsay Rule
+---
+title: 'Module 4.2: Rules on Admissibility - The Hearsay Rule'
+description: 'Covers the hearsay rule, its exceptions (dying declaration, res gestae, etc.), and other rules governing admissibility of evidence.'
+---
 
 This module covers the Hearsay Rule, a fundamental principle in the law on evidence in the Philippines. Understanding this rule and its exceptions is critical for the Criminology Board Examination.
 

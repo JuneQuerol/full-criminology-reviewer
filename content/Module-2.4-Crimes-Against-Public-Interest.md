@@ -1,4 +1,7 @@
-# Module 2.4: Crimes Against Public Interest
+---
+title: 'Module 2.4: Crimes Against Public Interest'
+description: 'Covers forgery, falsification of documents, counterfeiting, fraud against public interest, and other crimes involving deceit and false representations.'
+---
 
 ## 1. Learning Objectives
 

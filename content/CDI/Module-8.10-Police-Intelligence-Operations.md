@@ -47,8 +47,13 @@ Police intelligence is generally divided into three functional categories.
     - **Information Security:** Protecting sensitive police files and communications from being compromised.
 
 **Summary of Intelligence Categories**
+
 | Category | Focus | Purpose | User |
 | :--- | :--- | :--- | :--- |
+| **Strategic** | Long-term, Big Picture | Inform Policy & Strategy | Senior Commanders |
+| **Line/Tactical**| Immediate, Specific Threats | Support Operations & Arrests | Detectives, Patrol |
+| **Counter-Intel**| Internal Security | Protect the Police Force | Internal Affairs, Security Units |
+
 ---
 
 ## Conclusion

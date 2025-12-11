@@ -1,6 +1,7 @@
-# Criminology Board Exam Full Reviewer
-## Part 5: Other Important Special Laws
-### Module 5.7: Other Special Laws
+---
+title: 'Module 5.7: Other Special Laws'
+description: 'Covers additional special penal laws including Anti-Hazing, Anti-Carnapping, Bouncing Checks, Anti-Fencing, and other frequently tested laws.'
+---
 
 ---
 

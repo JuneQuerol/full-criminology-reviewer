@@ -46,6 +46,30 @@ RA 6713, enacted in 1989, establishes a uniform code of conduct for **all** offi
 
 **Board Exam Tip:** You must be able to list and explain these eight norms of conduct. The principles of **Simple Living** and **Responsiveness to the Public** (with its 15-day response time) are frequent topics in examinations.
 
+*Ang **8 Norms of Conduct under RA 6713** ay SUPER IMPORTANTE sa board exam! Dapat MEMORIZED mo 'to. Para madali matandaan, gamitin mo ang acronym: **"PJPRNCS"** (Parang "Princess" pero kulang ng I):*
+
+1. ***P**ublic Interest* - Ang interes ng publiko ay dapat UNANG-UNA, hindi ang personal interest mo. Ikaw ay PUBLIC SERVANT!
+
+2. ***J**ustness and Sincerity* - Dapat TAPAT ka, lalo na sa mahihirap at underprivileged. Walang discrimination!
+
+3. ***P**rofessionalism* - Gumawa ng trabaho mo with EXCELLENCE at SKILL. Serve EVERYONE without discrimination.
+
+4. ***R**esponsiveness* - **RESPOND sa lahat ng sulat/request within 15 WORKING DAYS!** Ito ang pinaka-common na tanong sa exam regarding RA 6713! Kapag may nag-letter sa'yo, 15 working days ang deadline mo para sagutin.
+
+5. ***N**ationalism & Patriotism* - Loyal sa Republic at sa Filipino people. Lead a MODEST life (walang yabang).
+
+6. ***C**ommitment to Democracy* - Committed sa democratic way of life and values. Public accountability.
+
+7. ***S**imple Living* - **ITO RIN AY COMMON SA EXAM!** Dapat simple lang ang pamumuhay mo, appropriate lang sa position at income mo. **BAWAL ang extravagant/ostentatious displays of wealth!** Bawal yung pulis na minimum wage lang pero may Ferrari at Rolex - red flag yan!
+
+8. **Political Neutrality** - Walang discrimination based on POLITICAL AFFILIATION. Serve everyone equally, kahit sino pa ang binoto nila.
+
+*MEMORIZATION TIP para sa 8 Norms: **"PJPRNCS"** - Public Interest, Justness, Professionalism, Responsiveness (15 days!), Nationalism, Commitment to Democracy, Simple Living (no yabang!), Political Neutrality (wag partisan).*
+
+*Dalawang laging LUMALABAS sa exam:*
+- ***15 WORKING DAYS*** *para sa Responsiveness to the Public*
+- ***SIMPLE LIVING*** *(bawal ang extravagant lifestyle)*
+
 ---
 ---
 

@@ -38,6 +38,10 @@ Police traffic management is a multi-faceted function aimed at ensuring road saf
 **Board Exam Tip:** Memorize the 5 E's of Traffic Management. Enforcement is the police-centric "E," but they play a role in providing data and input for the others.
 
 ---
+
+**Three Levels of Crime Prevention**
+
+| Level | Target | Goal | Examples |
 | :--- | :--- | :--- | :--- |
 | **Primary** | General Public / Environment | Stop crime before it starts | CPTED, Public Education |
 | **Secondary**| At-Risk Individuals / Groups | Divert from crime | Youth mentorship |

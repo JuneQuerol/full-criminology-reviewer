@@ -31,6 +31,10 @@ A good investigator knows where to look for information. Key sources include:
 **Board Exam Tip:** Information is the starting point of every investigation. The other two "I's" are simply methods for obtaining and processing information.
 
 ---
+
+**Key Differences Summarized**
+
+| Feature | Interview | Interrogation |
 | :--- | :--- | :--- |
 | **Purpose** | Gather Information | Obtain Confession |
 | **Subject** | Victim / Witness | Suspect |

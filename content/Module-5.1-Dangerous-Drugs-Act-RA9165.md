@@ -1,5 +1,7 @@
-# Criminology Board Exam Reviewer
-## Module 5.1: Republic Act No. 9165 - The Comprehensive Dangerous Drugs Act of 2002
+---
+title: 'Module 5.1: Republic Act No. 9165 - The Comprehensive Dangerous Drugs Act of 2002'
+description: 'Covers drug offenses, penalties, chain of custody requirements, plea bargaining framework, and PDEA functions under RA 9165.'
+---
 
 This module provides a comprehensive review of Republic Act No. 9165, a cornerstone legislation in Philippine Criminology, specifically for aspirants of the Criminologist Licensure Examination.
 

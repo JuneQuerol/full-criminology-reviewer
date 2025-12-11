@@ -46,6 +46,10 @@ If line personnel are the "doers" and staff are the "thinkers," auxiliary person
 - **Foundational:** Without effective auxiliary functions, the entire police organization would quickly grind to a halt.
 
 ---
+
+**Summary: Line, Staff, and Auxiliary Functions**
+
+| Function Type | Purpose | Activity | Example Personnel |
 | :--- | :--- | :--- | :--- |
 | **Line** | Achieve primary objectives | Law Enforcement Operations | Patrol Officer, CIDG Detective, SAF Trooper |
 | **Staff** | Support the line | Planning, Advice, Research | Planning Officer, Legal Officer, DI Analyst |

@@ -67,6 +67,18 @@ const examSchedule = [
         deadline: "July 31, 2025",
         status: "Coming Soon"
     },
+    {
+        month: "February 2026",
+        dates: "February 4-6, 2026",
+        deadline: "December 29, 2025",
+        status: "Future"
+    },
+    {
+        month: "August 2026",
+        dates: "August 1-3, 2026",
+        deadline: "June 17, 2026",
+        status: "Future"
+    },
 ];
 
 // CLE Exam Tips and Tricks
@@ -160,7 +172,7 @@ export default function Home() {
         <div className="text-center mb-12">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Calendar className="w-10 h-10 text-brand-gold" />
-            <h2 className="text-4xl font-extrabold font-serif text-brand-navy dark:text-brand-light">Upcoming CLE Schedule 2025</h2>
+            <h2 className="text-4xl font-extrabold font-serif text-brand-navy dark:text-brand-light">Upcoming CLE Schedule 2025-2026</h2>
           </div>
           <p className="text-lg text-muted-foreground">Official PRC Criminology Licensure Examination Schedule</p>
         </div>

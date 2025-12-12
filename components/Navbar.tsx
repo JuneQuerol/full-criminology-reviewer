@@ -68,8 +68,15 @@ const Navbar = () => {
           </div>
           
           <div className="flex items-center">
-            <button 
-              onClick={toggleDarkMode} 
+            {/* Desktop Navigation Links */}
+            <nav className="hidden md:flex items-center space-x-6 mr-6">
+              <Link href="/practice" className="text-gray-300 hover:text-brand-gold transition-colors font-medium">
+                Practice Exams
+              </Link>
+            </nav>
+
+            <button
+              onClick={toggleDarkMode}
               className="p-2 rounded-full text-gray-300 hover:bg-gray-700/50 transition-colors"
               aria-label="Toggle dark mode"
             >

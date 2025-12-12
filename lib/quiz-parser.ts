@@ -48,10 +48,62 @@ const letterToIndex = (letter: string): number => {
 };
 
 export const parseQuizMarkdown = (markdown: string) => {
-  const questions: any[] = [];
   const lines = markdown.split('\n');
+  
+  // New format check: Does the content use "###" for questions and "[x]" for answers?
+  const isNewFormat = lines.some(line => line.trim().startsWith('###')) && lines.some(line => line.trim().startsWith('- [x]'));
 
-  // First, extract answer keys from the end of the file (format: "1. a")
+  if (isNewFormat) {
+    const questions: any[] = [];
+    let currentQuestion: { text: string; choices: string[]; correctAnswer: number; explanation: string } | null = null;
+    let questionCounter = 0;
+
+    for (const line of lines) {
+      const trimmed = line.trim();
+
+      if (trimmed.startsWith('###')) {
+        // Save previous question
+        if (currentQuestion) {
+          questions.push({
+            id: ++questionCounter,
+            question: currentQuestion.text,
+            ...currentQuestion
+          });
+        }
+        // Start new question
+        currentQuestion = {
+          text: trimmed.replace('###', '').trim(),
+          choices: [],
+          correctAnswer: -1,
+          explanation: '',
+        };
+      } else if (trimmed.startsWith('- [')) { // Choice
+        if (currentQuestion) {
+          const isCorrect = trimmed.startsWith('- [x]');
+          if (isCorrect) {
+            currentQuestion.correctAnswer = currentQuestion.choices.length;
+          }
+          currentQuestion.choices.push(trimmed.substring(5).trim());
+        }
+      } else if (trimmed.startsWith('> Explanation:')) { // Explanation
+        if (currentQuestion) {
+          currentQuestion.explanation = trimmed.replace('> Explanation:', '').trim();
+        }
+      }
+    }
+    // Save the last question
+    if (currentQuestion) {
+      questions.push({
+        id: ++questionCounter,
+        question: currentQuestion.text,
+        ...currentQuestion
+      });
+    }
+    return questions;
+  }
+  
+  // Fallback to old parsing logic
+  const questions: any[] = [];
   const answerKeyMap: Record<number, number> = {};
   for (const line of lines) {
     const trimmed = line.trim();
@@ -63,16 +115,13 @@ export const parseQuizMarkdown = (markdown: string) => {
     }
   }
 
-  // Also look for inline answer format: "**14. c) Answer text**" with "*   **Explanation:**"
   const inlineAnswers: Record<number, { answer: number; explanation: string }> = {};
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i].trim();
-    // Match "**14. c) Text**" format
     const inlineMatch = line.match(/^\*\*(\d+)\.\s*([a-dA-D])\)\s*(.+?)\*\*$/);
     if (inlineMatch) {
       const qNum = parseInt(inlineMatch[1]);
       const answer = letterToIndex(inlineMatch[2]);
-      // Look for explanation on next lines
       let explanation = '';
       for (let j = i + 1; j < lines.length && j < i + 5; j++) {
         const nextLine = lines[j].trim();
@@ -85,39 +134,22 @@ export const parseQuizMarkdown = (markdown: string) => {
     }
   }
 
-  // Now parse questions
   let currentQuestion: { number: number; text: string; choices: string[] } | null = null;
 
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const trimmed = line.trim();
 
-    // Skip empty lines
     if (!trimmed) continue;
-
-    // Skip answer key lines (just "number. letter")
     if (/^\d+\.\s*[a-dA-D]$/.test(trimmed)) continue;
-
-    // Skip inline answer lines (already processed above)
     if (/^\*\*\d+\.\s*[a-dA-D]\)\s*.+\*\*$/.test(trimmed)) continue;
-
-    // Skip explanation lines
     if (trimmed.includes('**Explanation:**')) continue;
-
-    // Skip headers and instructions
     if (trimmed.startsWith('#') || trimmed.startsWith('**Instructions')) continue;
 
-    // Check for a new question
-    // Match patterns like "**1. Question**" or "1. Question" or "1.  Question"
     const questionMatch = trimmed.match(/^\*{0,2}(\d+)\.\s*(.+?)(?:\*{2})?$/);
     if (questionMatch && !trimmed.match(/^\d+\.\s*[a-dA-D]$/) && !trimmed.match(/^\*\*\d+\.\s*[a-dA-D]\)/)) {
-      // Check if this is actually a question (not just a number)
       const potentialQuestion = questionMatch[2].trim().replace(/\*{2}$/, '');
-
-      // Skip if it's too short or looks like an answer reference
       if (potentialQuestion.length < 5) continue;
-
-      // Save previous question if exists
       if (currentQuestion && currentQuestion.choices.length >= 2) {
         const answerFromKey = answerKeyMap[currentQuestion.number];
         const inlineData = inlineAnswers[currentQuestion.number];
@@ -129,11 +161,8 @@ export const parseQuizMarkdown = (markdown: string) => {
           explanation: inlineData?.explanation ?? '',
         });
       }
-
-      // Start new question
       const questionNumber = parseInt(questionMatch[1]);
       let questionText = potentialQuestion;
-
       currentQuestion = {
         number: questionNumber,
         text: questionText,
@@ -142,16 +171,12 @@ export const parseQuizMarkdown = (markdown: string) => {
       continue;
     }
 
-    // Check for choice options
-    // Match patterns like "a) Option" or "    a) Option" or "a. Option"
     const choiceMatch = trimmed.match(/^([a-dA-D])[\)\.]?\s*(.+)$/);
     if (choiceMatch && currentQuestion) {
       currentQuestion.choices.push(choiceMatch[2].trim());
       continue;
     }
 
-    // If we're in a question and this line doesn't match any pattern,
-    // it might be a continuation of the question text
     if (currentQuestion && currentQuestion.choices.length === 0 && trimmed && !trimmed.startsWith('#') && !trimmed.startsWith('*')) {
       if (!trimmed.match(/^[a-dA-D][\)\.]/) && !trimmed.match(/^\*{0,2}\d+\./)) {
         currentQuestion.text += ' ' + trimmed.replace(/\*{2}/g, '');
@@ -159,7 +184,6 @@ export const parseQuizMarkdown = (markdown: string) => {
     }
   }
 
-  // Don't forget the last question
   if (currentQuestion && currentQuestion.choices.length >= 2) {
     const answerFromKey = answerKeyMap[currentQuestion.number];
     const inlineData = inlineAnswers[currentQuestion.number];

@@ -3,6 +3,7 @@ import { FC } from 'react';
 import { ClipboardList, BookOpen, Scale, Shield, Microscope, Search, Users, Building } from 'lucide-react';
 
 const practiceExams = [
+  // CLJ - Criminal Law & Jurisprudence (10 sets)
   { id: 'CLJ-Mock-Exam-1', name: 'CLJ Mock Exam 1', topic: 'Criminal Law (RPC Book 1) - 30 items', icon: Scale, category: 'CLJ' },
   { id: 'Set-01-RPC-Book1-General', name: 'Set 1: RPC Book 1', topic: 'General Provisions, Felonies, Circumstances', icon: Scale, category: 'CLJ' },
   { id: 'Set-02-RPC-Book2-Part1', name: 'Set 2: RPC Book 2 (Part 1)', topic: 'Crimes Against National Security & Public Order', icon: Scale, category: 'CLJ' },
@@ -13,13 +14,40 @@ const practiceExams = [
   { id: 'Set-07-Evidence', name: 'Set 7: Evidence', topic: 'Rules on Admissibility, Testimonial, Documentary', icon: BookOpen, category: 'CLJ' },
   { id: 'Set-08-Special-Laws-Part1', name: 'Set 8: Special Laws (Part 1)', topic: 'RA 9165, RA 9514, RA 10591', icon: BookOpen, category: 'CLJ' },
   { id: 'Set-09-Special-Laws-Part2', name: 'Set 9: Special Laws (Part 2)', topic: 'RA 9262, RA 7610, RA 9208', icon: BookOpen, category: 'CLJ' },
-  { id: 'Set-10-Comprehensive-Mixed', name: 'Set 10: Comprehensive', topic: 'Mixed Topics - Full Review', icon: ClipboardList, category: 'Mixed' },
+
+  // LEA - Law Enforcement Administration (4 sets)
   { id: 'Set-11-LEA-General', name: 'Set 11: LEA General', topic: 'Law Enforcement Administration', icon: Shield, category: 'LEA' },
+  { id: 'Set-18-LEA-Organization-Leadership', name: 'Set 18: LEA Organization', topic: 'PNP Structure, NAPOLCOM, Leadership', icon: Shield, category: 'LEA' },
+  { id: 'Set-19-LEA-Operations-PCR', name: 'Set 19: LEA Operations', topic: 'Patrol, Traffic, Community Relations', icon: Shield, category: 'LEA' },
+  { id: 'Set-20-LEA-Planning-Ethics', name: 'Set 20: LEA Planning & Ethics', topic: 'Planning, Human Rights, Comparative Systems', icon: Shield, category: 'LEA' },
+
+  // CRIM - Criminalistics (5 sets)
   { id: 'Set-12-Criminalistics-Part1', name: 'Set 12: Criminalistics Part 1', topic: 'Forensics, Photography, Fingerprints', icon: Microscope, category: 'CRIM' },
   { id: 'Set-13-Criminalistics-Part2', name: 'Set 13: Criminalistics Part 2', topic: 'Ballistics, Chemistry, Toxicology', icon: Microscope, category: 'CRIM' },
+  { id: 'Set-21-CRIM-Dactyloscopy', name: 'Set 21: Dactyloscopy', topic: 'Fingerprints, Personal Identification', icon: Microscope, category: 'CRIM' },
+  { id: 'Set-22-CRIM-Ballistics', name: 'Set 22: Ballistics', topic: 'Firearms, Gunshot Analysis, RA 10591', icon: Microscope, category: 'CRIM' },
+  { id: 'Set-23-CRIM-QD-Chemistry', name: 'Set 23: QD & Chemistry', topic: 'Questioned Documents, Forensic Chemistry', icon: Microscope, category: 'CRIM' },
+
+  // CDI - Crime Detection & Investigation (4 sets)
   { id: 'Set-14-CDI-Investigation', name: 'Set 14: Crime Detection', topic: 'Investigation Procedures', icon: Search, category: 'CDI' },
+  { id: 'Set-24-CDI-Fundamentals', name: 'Set 24: CDI Fundamentals', topic: 'Crime Scene, Evidence, Chain of Custody', icon: Search, category: 'CDI' },
+  { id: 'Set-25-CDI-Special-Crimes', name: 'Set 25: Special Crimes', topic: 'Homicide, Robbery, Kidnapping, Arson', icon: Search, category: 'CDI' },
+  { id: 'Set-26-CDI-Interview-Intel', name: 'Set 26: Interview & Intel', topic: 'Interrogation, Surveillance, Intelligence', icon: Search, category: 'CDI' },
+
+  // SCE - Sociology of Crimes & Ethics (4 sets)
   { id: 'Set-15-SCE-Theories', name: 'Set 15: Sociology & Ethics', topic: 'Criminological Theories', icon: Users, category: 'SCE' },
+  { id: 'Set-27-SCE-Classical-Positivist', name: 'Set 27: Classical & Positivist', topic: 'Beccaria, Lombroso, Ferri, Garofalo', icon: Users, category: 'SCE' },
+  { id: 'Set-28-SCE-Sociological', name: 'Set 28: Sociological Theories', topic: 'Strain, Control, Labeling Theories', icon: Users, category: 'SCE' },
+  { id: 'Set-29-SCE-Ethics-HR', name: 'Set 29: Ethics & Victimology', topic: 'Professional Ethics, Victim Rights', icon: Users, category: 'SCE' },
+
+  // CA - Correctional Administration (4 sets)
   { id: 'Set-16-CA-Corrections', name: 'Set 16: Corrections', topic: 'Correctional Administration', icon: Building, category: 'CA' },
+  { id: 'Set-30-CA-Institutional', name: 'Set 30: Institutional', topic: 'BuCor, BJMP, Prison Systems', icon: Building, category: 'CA' },
+  { id: 'Set-31-CA-NonInstitutional', name: 'Set 31: Non-Institutional', topic: 'Probation, Parole, Executive Clemency', icon: Building, category: 'CA' },
+  { id: 'Set-32-CA-Penology', name: 'Set 32: Penology', topic: 'Punishment Theories, Rehabilitation', icon: Building, category: 'CA' },
+
+  // Mixed/Comprehensive (2 sets)
+  { id: 'Set-10-Comprehensive-Mixed', name: 'Set 10: Comprehensive', topic: 'Mixed Topics - Full Review', icon: ClipboardList, category: 'Mixed' },
   { id: 'Set-17-Comprehensive-AllSubjects', name: 'Set 17: Comprehensive', topic: 'All 6 CLE Subjects Mixed', icon: ClipboardList, category: 'Mixed' },
 ];
 

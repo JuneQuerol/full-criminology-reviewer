@@ -3,6 +3,8 @@ title: 'Module 5.7: Other Special Laws'
 description: 'Covers additional special penal laws including Anti-Hazing, Anti-Carnapping, Bouncing Checks, Anti-Fencing, and other frequently tested laws.'
 ---
 
+# Module 5.7: Other Special Laws
+
 ---
 
 ### Republic Act No. 10175: Cybercrime Prevention Act of 2012

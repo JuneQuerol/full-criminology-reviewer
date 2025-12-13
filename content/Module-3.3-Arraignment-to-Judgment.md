@@ -3,6 +3,8 @@ title: 'Module 3.3: Arraignment, Pre-Trial, Trial, and Judgment'
 description: 'Covers the stages of criminal proceedings from arraignment through judgment, including plea bargaining, trial procedures, and remedies.'
 ---
 
+# Module 3.3: Arraignment, Pre-Trial, Trial, and Judgment
+
 ## 1. Learning Objectives
 
 *   Understand the process and significance of arraignment and plea in a criminal case.

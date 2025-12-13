@@ -3,6 +3,8 @@ title: 'Module 2.10: Crimes Against Chastity'
 description: 'Covers adultery, concubinage, seduction, acts of lasciviousness, abduction, and rape under the RPC as amended by RA 8353.'
 ---
 
+# Module 2.10: Crimes Against Chastity
+
 ## 1. Learning Objectives
 
 *   Understand the distinction between crimes against chastity and crimes against persons after RA 8353.

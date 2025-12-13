@@ -53,31 +53,19 @@ const prcTableOfSpecs = [
     },
 ];
 
-// Upcoming CLE Schedule
+// Upcoming CLE Schedule 2026
 const examSchedule = [
-    {
-        month: "March 2025",
-        dates: "March 16-17, 2025",
-        deadline: "January 31, 2025",
-        status: "Open for Registration"
-    },
-    {
-        month: "September 2025",
-        dates: "September 14-15, 2025",
-        deadline: "July 31, 2025",
-        status: "Coming Soon"
-    },
     {
         month: "February 2026",
         dates: "February 4-6, 2026",
         deadline: "December 29, 2025",
-        status: "Future"
+        status: "Open for Registration"
     },
     {
         month: "August 2026",
         dates: "August 1-3, 2026",
         deadline: "June 17, 2026",
-        status: "Future"
+        status: "Coming Soon"
     },
 ];
 

@@ -49,7 +49,7 @@ This is an **intentional felony**. The act is performed with deliberate intent o
     -   **General Intent:** Presumed from the mere act of committing a wrong. For example, in a homicide case, the intent to kill is presumed from the act of stabbing the victim.
     -   **Specific Intent:** An element of a specific felony that the prosecution must prove. For example, in theft, the specific intent is "to gain" (`animus lucrandi`).
 
-**🔍 Taglish Explanation:**
+🔍
 
 *Ang **DOLO** (Deceit) ay "SINASADYA." Alam mo kung ano ang ginagawa mo, at gusto mo talagang gawin yun. Tatlong kailangan: (1) **Freedom** - kusang loob mo, walang pumilit, (2) **Intelligence** - alam mo kung ano consequences ng ginagawa mo (kaya ang baliw at bata ay exempt), at (3) **Intent** - gusto mo talagang gawin yung krimen.*
 
@@ -68,7 +68,7 @@ This is a **culpable felony**. The injury is not intentional but results from th
 4.  **Lack of Skill:** Failure to possess the necessary ability or care in a particular task, which causes harm.
     -   *Example:* A surgeon performing an operation without the required skill, leading to the patient's death.
 
-**🔍 Taglish Explanation:**
+🔍
 
 *Ang **CULPA** (Fault) ay "HINDI SINASADYA" pero nangyari dahil sa pabaya mo (negligence) o recklessness mo (imprudence). Walang intent na manakit, pero nadamay ang tao dahil sa carelessness mo.*
 

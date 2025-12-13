@@ -3,6 +3,8 @@ title: 'Module 2.13: Quasi-Offenses (Criminal Negligence)'
 description: 'Covers reckless imprudence, simple imprudence, and criminal negligence - felonies committed through lack of foresight or skill rather than intent.'
 ---
 
+# Module 2.13: Quasi-Offenses (Criminal Negligence)
+
 ## 1. Learning Objectives
 
 By the end of this module, you should be able to:

@@ -3,6 +3,8 @@ title: 'Module 5.5: Special Protection of Children Against Abuse (RA 7610)'
 description: 'Covers child abuse, exploitation, discrimination, child trafficking, and special protection measures under RA 7610.'
 ---
 
+# Module 5.5: Special Protection of Children Against Abuse (RA 7610)
+
 This act is known as the "Special Protection of Children Against Abuse, Exploitation and Discrimination Act."
 
 ## I. Definition of Child Abuse

@@ -142,7 +142,7 @@ The 1987 Constitution imposes strict limitations on the power to create and appl
 | **Modifying Circumstances** | Mitigating and aggravating circumstances are considered in imposing the penalty. | Modifying circumstances are generally not considered. |
 | **Examples** | Murder, Theft, Rape, Estafa, Robbery. | Illegal Possession of Firearms, Violation of Traffic Laws (BP 22), Jaywalking. |
 
-**🔍 Taglish Explanation:**
+🔍
 
 *Ang **MALA IN SE** ay mga krimen na masama talaga sa sarili nito - kahit walang batas, alam mong mali yun. Tulad ng pagpatay (murder), panggagahasa (rape), pagnanakaw (theft). Kaya kailangan ng CRIMINAL INTENT - dapat sinasadya mo o may layunin ka. Kapag nagkamali ka lang (mistake of fact) o walang masamang intensyon, pwede kang makalusot.*
 

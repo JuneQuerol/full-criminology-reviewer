@@ -3,6 +3,8 @@ title: 'Module 2.9: Crimes Against Property'
 description: 'Covers robbery, theft, estafa (swindling), malicious mischief, arson, and other crimes involving taking or damaging property.'
 ---
 
+# Module 2.9: Crimes Against Property
+
 ## 1. Learning Objectives
 
 *   Differentiate the elements and circumstances of Robbery, Theft, and Estafa.

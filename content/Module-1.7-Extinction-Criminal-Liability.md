@@ -19,6 +19,8 @@ After completing this module, you should be able to:
 
 ## 2. TOTAL EXTINCTION OF CRIMINAL LIABILITY (Art. 89, RPC)
 
+*Ibig sabihin ng **Total Extinction**, burado na lahat ng criminal liability mo. Para kang hindi nagkasala sa mata ng batas. Ito ang mga paraan kung paano ito nangyayari:*
+
 Criminal liability is totally extinguished by:
 
 ### A. Death of the Convict
@@ -46,6 +48,8 @@ The convict's complete service of the penalty imposed by the court extinguishes 
 
 ### E. Prescription of Crime (Art. 90-91)
 The forfeiture or loss of the right of the State to prosecute the offender after the lapse of a certain period.
+
+*Ang **Prescription of Crime** ay parang "expiration date" ng kaso. Pag lumipas na ang isang takdang panahon, hindi ka na pwedeng kasuhan ng gobyerno para sa krimen na ginawa mo. Nawawala na ang karapatan ng Estado na i-prosecute ka.*
 
 *   **Periods of Prescription for Different Crimes:**
     *   Crimes punishable by death, *reclusion perpetua* or *reclusion temporal*: **20 years**
@@ -75,6 +79,8 @@ In cases of rape, seduction, abduction, or acts of lasciviousness, the subsequen
 ---
 
 ## 3. PARTIAL EXTINCTION OF CRIMINAL LIABILITY (Art. 94, RPC)
+
+*Sa **Partial Extinction**, hindi tuluyang nabubura ang kasalanan mo, pero nababawasan ang parusa. May liability ka pa rin, pero mas magaan na. Ito ang mga paraan:*
 
 ### A. Conditional Pardon
 *   **Conditions:** The President may grant a pardon with conditions. The offender must accept the conditions.

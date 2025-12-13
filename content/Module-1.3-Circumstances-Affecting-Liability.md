@@ -19,6 +19,12 @@ Upon completion of this module, the student will be able to:
 
 ## II. JUSTIFYING CIRCUMSTANCES (Art. 11, RPC)
 
+*Sa madaling salita, ang mga "circumstances" na ito ay nakaka-apekto sa criminal liability. Isipin mo na lang na apat na klase sila:*
+- ***Justifying:*** *May ginawa kang mukhang krimen, pero **ayon sa batas, tama ang ginawa mo**. Kaya wala kang kasalanan (no criminal liability) at wala ka ring babayaran (no civil liability). Halimbawa: Self-defense.*
+- ***Exempting:*** *May krimen kang nagawa, pero **hindi ka pwedeng managot** dahil may kulang sa'yo (e.g., kulang sa pag-iisip, menor de edad). May crime, pero walang criminal. Pero kailangan mo pa ring magbayad (may civil liability).*
+- ***Mitigating:*** *May krimen ka at may liability, pero **pinapababa nito ang parusa** mo. Halimbawa, umamin ka sa kasalanan (voluntary surrender).*
+- ***Aggravating:*** *May krimen ka at may liability, at **pinapabigat pa nito ang parusa** mo. Halimbawa, ginawa mo ang krimen sa gabi para hindi ka makita.*
+
 These are circumstances where the act of a person is in accordance with the law, such that the person is deemed not to have transgressed the law and is free from both criminal and civil liability. The act is considered lawful.
 
 **1. Self-Defense**

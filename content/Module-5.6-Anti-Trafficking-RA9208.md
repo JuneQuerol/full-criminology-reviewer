@@ -3,6 +3,8 @@ title: 'Module 5.6: Republic Act No. 9208 - The Anti-Trafficking in Persons Act 
 description: 'Covers human trafficking offenses, qualified trafficking, acts of trafficking, and penalties under RA 9208 as amended by RA 10364.'
 ---
 
+# Module 5.6: Republic Act No. 9208 - The Anti-Trafficking in Persons Act of 2003
+
 ## Definition of Trafficking in Persons
 
 The act of recruiting, transporting, transferring, harboring, or receiving a person, with or without their consent or knowledge, within or across national borders by means of threat, or use of force, or other forms of coercion, abduction, fraud, deception, abuse of power or of a position of vulnerability, or of the giving or receiving of payments or benefits to achieve the consent of a person having control over another person for the purpose of exploitation.

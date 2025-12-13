@@ -3,6 +3,8 @@ title: 'Module 2.6: Crimes Committed by Public Officers'
 description: 'Covers malfeasance, misfeasance, nonfeasance, malversation, bribery, and other crimes that can only be committed by public officers.'
 ---
 
+# Module 2.6: Crimes Committed by Public Officers
+
 ## 1. Learning Objectives
 
 *   Define a public officer and differentiate them from private individuals in the context of criminal law.

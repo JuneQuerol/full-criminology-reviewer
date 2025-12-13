@@ -3,6 +3,8 @@ title: 'Module 2.12: Crimes Against Honor'
 description: "Covers libel, slander, slander by deed, incriminatory machinations, and other crimes affecting a person's reputation and dignity."
 ---
 
+# Module 2.12: Crimes Against Honor
+
 ## 1. Learning Objectives
 
 *   Understand the legal definitions and elements of Libel, Slander, and Slander by Deed under the Revised Penal Code.

@@ -3,6 +3,8 @@ title: 'Module 5.4: Anti-Violence Against Women and Their Children Act of 2004 (
 description: 'Covers forms of abuse (physical, sexual, psychological, economic), protection orders, and penalties under the VAWC law.'
 ---
 
+# Module 5.4: Anti-Violence Against Women and Their Children Act of 2004 (RA 9262)
+
 ## I. Definition of Violence Against Women and Their Children (VAWC)
 
 **Republic Act No. 9262**, known as the **"Anti-Violence Against Women and Their Children Act of 2004" (VAWC)**, is a landmark legislation in the Philippines that seeks to address the prevalent issue of violence committed against women and their children.

@@ -3,6 +3,8 @@ title: 'Module 5.8: Republic Act No. 10175 - Cybercrime Prevention Act of 2012'
 description: 'Covers cybercrimes (hacking, identity theft, cyberlibel, online fraud), penalties, and law enforcement procedures under RA 10175.'
 ---
 
+# Module 5.8: Republic Act No. 10175 - Cybercrime Prevention Act of 2012
+
 This module covers the **Cybercrime Prevention Act of 2012**, one of the most relevant special penal laws in the digital age. R.A. 10175 took effect on **October 3, 2012** and is highly testable in the Criminology Licensure Examination given the rise of technology-related crimes in the Philippines.
 
 ---
@@ -192,7 +194,7 @@ The instruction, communication with, storing data in, retrieving data from, or o
 
 *Ang **CYBER LIBEL** ay pag-slander o pag-defame ng tao sa internet. Halimbawa: Nag-post ka sa Facebook ng maling akusasyon about sa tao, o nag-comment ka ng insulto that damages reputation.*
 
-**🔍 Taglish Explanation:**
+🔍
 
 *Ang CYBER LIBEL ay mas mabigat ang penalty kaysa regular libel! Dahil sa internet, mas maraming nakakakita, at mas mabilis kumalat ang damaging information. Kaya mas malaki ang penalty.*
 

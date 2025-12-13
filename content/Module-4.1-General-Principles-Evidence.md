@@ -3,6 +3,8 @@ title: 'Module 4.1: General Principles of Evidence'
 description: 'Covers the concept of evidence, burden of proof, quantum of evidence, admissibility, relevance, and competence under the Rules of Court.'
 ---
 
+# Module 4.1: General Principles of Evidence
+
 ## 1. Learning Objectives
 
 Upon completion of this module, the student will be able to:

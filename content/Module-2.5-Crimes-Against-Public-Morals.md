@@ -3,6 +3,8 @@ title: 'Module 2.5: Crimes Against Public Morals'
 description: 'Covers gambling, betting, immoral doctrines and obscene publications, vagrancy, and prostitution under the Revised Penal Code.'
 ---
 
+# Module 2.5: Crimes Against Public Morals
+
 ## 1. Learning Objectives
 
 By the end of this module, you should be able to:

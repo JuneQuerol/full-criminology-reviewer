@@ -3,6 +3,8 @@ title: 'Module 2.2: Crimes Against the Fundamental Laws of the State'
 description: 'Covers arbitrary detention, delay in delivery of detained persons, violation of domicile, and other crimes against constitutional rights.'
 ---
 
+# Module 2.2: Crimes Against the Fundamental Laws of the State
+
 ## 1. Learning Objectives
 
 *   Understand the elements and nature of Arbitrary Detention and differentiate it from Illegal Detention.

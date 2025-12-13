@@ -38,6 +38,12 @@ When the penalty is composed of one or two divisible penalties, the following ru
 -   **Penalty Prescribed by Law**: The penalty provided for a specific felony in the Revised Penal Code.
 -   **Penalty Actually Imposed**: The penalty imposed by the court after considering all circumstances.
 
+*Ito ang simpleng guide sa pag-apply ng parusa:*
+- ***Pag walang Mitigating o Aggravating:*** *Nasa gitna ka lang, so **Medium Period** ang parusa.*
+- ***Pag may Mitigating lang:*** *May pampababa, so **Minimum Period** ang parusa.*
+- ***Pag may Aggravating lang:*** *May pampabigat, so **Maximum Period** ang parusa.*
+- ***Pag may pareho:*** *Bawi-bawi lang sila. Kung pareho ang bilang, balik ka sa **Medium Period**. Kung mas marami ang mitigating, bagsak ka sa **Minimum**. Kung mas marami ang aggravating, akyat ka sa **Maximum**.*
+
 ## 3. GRADUATION OF PENALTIES (Art. 50-57)
 
 -   **Penalty for principals, accomplices, accessories**:
@@ -49,6 +55,11 @@ When the penalty is composed of one or two divisible penalties, the following ru
 -   **Complex crimes (Art. 48)**: Penalty for the most serious crime in its maximum period.
 -   **Continued crimes (delito continuado)**: A single penalty is imposed, but for the most serious crime, in its maximum period.
 -   **Special complex crimes**: Treated as a single offense with a specific penalty (e.g., Robbery with Homicide).
+
+*Ang "graduation" dito ay parang pagbaba ng baitang ng parusa. Isipin mo na lang na may "hagdanan" ng parusa. Ang Korte Suprema ay naglabas ng rules para dito.*
+- ***Dahil sa Role mo:*** *Kung ikaw ay **Accomplice** (kasabwat), baba ka ng isang baitang sa hagdan. Kung **Accessory** (tagatago), baba ka ng dalawang baitang.*
+- ***Dahil sa Stage ng Krimen:*** *Kung **Frustrated** ang krimen (ginawa mo lahat pero di nangyari), baba ka ng isang baitang. Kung **Attempted** (sinimulan mo pero di natapos), baba ka ng dalawang baitang.*
+*Laging tandaan: Ang basehan ng pagbaba ay ang parusa para sa **Consummated** na krimen na ginawa ng **Principal**.*
 
 ## 4. RULES FOR APPLICATION WITH CIRCUMSTANCES
 
@@ -84,6 +95,17 @@ When the penalty is composed of one or two divisible penalties, the following ru
     -   Present himself to the probation officer within 72 hours.
     -   Report to the probation officer at least once a month.
     -   Devote himself to a specific employment and not to change said employment or residence without the prior written approval of the probation officer.
+
+*Ang **Probation** ay isang pribilehiyo na ibinibigay ng korte kung saan hindi ka na makukulong, pero kailangan mong sumunod sa mga kondisyon. Ito ay para sa mga first-time offender na ang sentensya ay **hindi hihigit sa 6 na taon**.*
+
+***Sino ang mga DISQUALIFIED?** (Mga Hindi Pwede)*
+- *Sentensya ay **higit 6 taon**.*
+- *Krimen laban sa **seguridad ng bansa** (e.g., treason, rebellion).*
+- *May **dati nang conviction** (kahit 1 buwan lang).*
+- ***Nag-probation na dati**.*
+- ***Nagseserve na ng sentensya** noong nag-apply.*
+
+*Ang pinaka-importante sa probation ay ang regular na pag-report sa iyong **probation officer** at ang pagsunod sa lahat ng utos ng korte.*
 
 ## 8. Quick Review Tables
 

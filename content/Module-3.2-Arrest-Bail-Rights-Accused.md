@@ -3,6 +3,8 @@ title: 'Module 3.2: Arrest, Bail, and Rights of the Accused'
 description: 'Covers lawful arrest with and without warrant, bail procedures, rights of the accused, and the Miranda doctrine under Philippine law.'
 ---
 
+# Module 3.2: Arrest, Bail, and Rights of the Accused
+
 ## 1. Learning Objectives
 
 Upon completion of this module, the student should be able to:

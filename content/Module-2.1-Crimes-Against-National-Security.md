@@ -3,6 +3,8 @@ title: 'Module 2.1: Crimes Against National Security and the Law of Nations'
 description: 'Covers treason, espionage, piracy, and crimes against the law of nations under the RPC. Includes the two-witness rule and elements of each offense.'
 ---
 
+# Module 2.1: Crimes Against National Security and the Law of Nations
+
 ## 1. Learning Objectives
 
 *   Define and differentiate the crimes against national security under the Revised Penal Code (RPC).

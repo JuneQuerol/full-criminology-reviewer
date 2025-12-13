@@ -3,6 +3,8 @@ title: 'Module 5.3: Republic Act No. 10591 - Comprehensive Firearms and Ammuniti
 description: 'Covers firearms licensing, illegal possession, loose firearms, and penalties under RA 10591 which replaced PD 1866.'
 ---
 
+# Module 5.3: Republic Act No. 10591 - Comprehensive Firearms and Ammunition Regulation Act
+
 This module covers one of the most frequently tested special penal laws in the Criminology Licensure Examination. R.A. 10591, which took effect on **July 6, 2013**, repealed Presidential Decree No. 1866 and is now the primary law governing firearms and ammunition in the Philippines.
 
 ---

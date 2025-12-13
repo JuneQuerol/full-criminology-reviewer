@@ -13,7 +13,7 @@ description: 'This module defines the roles of principals, accomplices, and acce
 - To recognize the special rules and exemptions related to criminal liability.
 - To distinguish between different types of offenders based on the frequency of their offense.
 
-## 2. Classification of Offenders by Participation (Art. 16-20, RPC)
+## 2. Classification of Persons Liable (Art. 16-20, RPC)
 
 ### A. PRINCIPALS (Art. 17)
 
@@ -23,12 +23,16 @@ A principal is a person who plays a primary role in the commission of a crime. T
 - **Principal by inducement:** This person does not directly commit the crime but instead convinces or influences another to do so.
 - **Principal by indispensable cooperation:** This individual does not directly participate in the crime but provides essential assistance without which the crime could not have been committed.
 
+*Sa madaling salita, ang **Principal** ay ang mga "bida" sa krimen. Pwedeng siya mismo ang gumawa (**direct participation**), siya ang nag-utos o nag-udyok (**inducement**), o siya ang nagbigay ng tulong na kung wala iyon, hindi magagawa ang krimen (**indispensable cooperation**).*
+
 ### B. ACCOMPLICES (Art. 18)
 
 An accomplice is a person who, while not a principal, cooperates in the execution of the offense by previous or simultaneous acts.
 
 - **Definition and elements:** An accomplice is one who knowingly and willingly cooperates with the principal in the commission of a crime but whose participation is not indispensable.
 - **Distinction from principals:** The main difference between an accomplice and a principal is the level of their participation. An accomplice's involvement is not essential for the crime's commission, while a principal's is.
+
+*Ang **Accomplice** ay ang "kasabwat" o katulong sa krimen. Hindi siya ang utak o ang pangunahing gumawa, pero tumulong siya. Ang tulong niya ay hindi "indispensable" o sobrang kailangan para mangyari ang krimen, pero nakatulong pa rin ito sa pag-execute ng plano.*
 
 ### C. ACCESSORIES (Art. 19)
 
@@ -41,6 +45,8 @@ An accessory is a person who, with knowledge of the commission of a crime, subse
 
 - **Exemption of accessories (Art. 20):** An accessory is exempt from criminal liability if the principal is a close relative, such as a spouse, ascendant, descendant, legitimate, natural, or adopted brother, sister, or relative by affinity within the same degrees.
 
+*Ang **Accessory** ay ang "tagasalo" o "tagalinis" pagkatapos ng krimen. Alam niyang may nangyaring krimen pero imbis na i-report, tinulungan pa niya ang kriminal. Halimbawa, tinago niya yung nagnakaw, o binenta niya yung ninakaw na gamit. Tandaan: exempted ang accessory kung malapit siyang kamag-anak ng principal (asawa, magulang, anak, kapatid).*
+
 ## 3. Conspiracy and Its Effects on Criminal Liability
 
 - **When conspiracy exists, act of one is act of all:** In a conspiracy, the act of one conspirator is considered the act of all, and all are held equally liable.
@@ -48,21 +54,38 @@ An accessory is a person who, with knowledge of the commission of a crime, subse
     - **Express conspiracy:** Occurs when there is a direct agreement among the conspirators.
     - **Implied conspiracy:** Inferred from the acts of the offenders, which show a common purpose or design.
 
-## 4. Degree of Participation and Corresponding Penalties
+*Ang **Conspiracy** ay nangangahulugang may "sabwatan" o usapan ang dalawa o higit pang tao para gumawa ng krimen. Kapag may conspiracy, lahat ng kasabwat ay pare-pareho ang pananagutan, kahit hindi sila lahat ang direktang gumawa. Ito ang tinatawag na "the act of one is the act of all." Kahit lookout ka lang, kung kasama ka sa plano, pareho kayo ng kaso ng gunman.*
+
+## 4. Degree of Participation, Penalties, and Special Rules
 
 The degree of participation in a crime determines the severity of the penalty. Principals receive the highest penalty, followed by accomplices, and then accessories.
 
-## 5. Special Rules
+The Revised Penal Code provides specific penalties for each type of offender:
+-   **Penalty for Principals:** The full penalty prescribed by law for the crime committed.
+-   **Penalty for Accomplices:** A penalty one degree lower than that prescribed for the principal.
+-   **Penalty for Accessories:** A penalty two degrees lower than that prescribed for the principal.
 
-- **Light felonies - only principals liable:** In light felonies, only the principals are held criminally liable.
-- **Accessories exempt when principal is relative:** As mentioned in Art. 20, accessories are exempt from liability if the principal is a close relative.
+*Ang parusa ay nakadepende sa level ng iyong involvement. Kung ikaw ang **Principal**, ikaw ang tatanggap ng pinakamabigat na parusa. Kung ikaw ay **Accomplice** (kasabwat), ang parusa mo ay mas magaan ng isang degree. Kung ikaw naman ay **Accessory** (tagatago), ang parusa mo ay mas magaan ng dalawang degree. Mas mabigat ang kasalanan, mas mabigat ang parusa.*
 
-## 6. Classification by Frequency of Commission
+There are also special rules to consider:
+- **Light felonies - only principals and accomplices liable:** In light felonies, only principals and accomplices are held criminally liable. Accessories are exempt. This is because light felonies are minor offenses, and the law does not concern itself with accessories after the fact for such minor infractions.
+- **Accessories exempt when principal is relative:** As mentioned in Art. 20, accessories are exempt from liability if the principal is a close relative. This is based on the law's recognition of the ties of blood and the natural inclination to protect one's family, even if they have committed a crime.
+
+*May mga special rules tayo na dapat tandaan:*
+- ***Sa Light Felonies (mabibigat na kasalanan):*** *Ang mga principals at accomplices lang ang mananagot. Ang mga accessories ay absuwelto. Halimbawa, sa "slight physical injuries," kung tinulungan mong itago ang nanakit, hindi ka kakasuhan bilang accessory.*
+- ***Exemption para sa Kamag-anak:*** *Kung ang tinulungan mong itago (principal) ay asawa, magulang, anak, o kapatid mo, hindi ka pwedeng kasuhan bilang accessory. Kinikilala ng batas ang pagmamahal sa pamilya.*
+
+## 6. Classification of Offenders by Recidivism
 
 - **First-time offender:** A person who has been convicted of a crime for the first time.
 - **Recidivist (Art. 14, par. 9):** A person who, at the time of their trial for one crime, shall have been previously convicted by final judgment of another crime embraced in the same title of the Revised Penal Code.
 - **Habitual delinquent (Art. 62):** A person who, within a period of ten years from the date of their release or last conviction of the crimes of serious or less serious physical injuries, robbery, theft, estafa, or falsification, is found guilty of any of said crimes a third time or oftener.
 - **Quasi-recidivist (Art. 160):** A person who commits a felony after having been convicted by final judgment, before beginning to serve such sentence, or while serving the same.
+
+*Para mas klaro, ito ang pagkakaiba nila:*
+- ***Recidivist (Reincidente):*** Nakagawa ka ng krimen. Nahatulan ka na. Tapos, gumawa ka ulit ng krimen na nasa **parehong Title** ng Revised Penal Code. Halimbawa, nagnakaw ka (Theft), nahatulan ka, tapos nagnakaw ka ulit (Robbery). Parehong nasa "Crimes Against Property" kaya recidivist ka.
+- ***Habitual Delinquent (Suki sa Krimen):*** Sa loob ng 10 taon mula nang ma-release ka, nakagawa ka ng **tatlong beses o higit pa** sa mga specific na krimen (tulad ng theft, robbery, estafa).
+- ***Quasi-recidivist:*** Nakagawa ka ng bagong krimen **habang nagseserve ka ng sentence** mo sa kulungan. Ito ang pinakamatindi, dahil special aggravating circumstance ito na hindi pwedeng i-offset ng mitigating circumstances.
 
 ## 7. Comparison Tables
 

@@ -17,6 +17,8 @@ description: 'This module covers the classification and types of penalties under
 
 A **penalty** is the suffering inflicted by the State, for the transgression of a law, in accordance with a judgment of a competent court. It is a coercive measure to ensure that legal norms are respected and obeyed.
 
+*Ang **penalty** o parusa ay ang pagpapahirap na ipinapataw ng gobyerno sa isang taong lumabag sa batas. Ito ay desisyon ng korte para masigurong sinusunod ang batas at para maging leksyon sa nagkasala.*
+
 ## 3. Juridical Conditions of Penalty
 
 For a penalty to be considered sound and valid under the classical school of thought in criminal law, it must possess the following qualities:
@@ -29,7 +31,7 @@ For a penalty to be considered sound and valid under the classical school of tho
 6.  **Certain** - No one may escape the effects of a penalty to which they have been sentenced.
 7.  **Correctional** - The penalty should aim to correct and reform the offender.
 
-## 4. CLASSIFICATION OF PENALTIES (Art. 25, RPC)
+## 4. Classification of Penalties under the RPC (Art. 25)
 
 Penalties are classified into two main groups:
 
@@ -57,6 +59,8 @@ These are penalties that are deemed included in the imposition of the principal 
 7.  **Payment of costs**
 8.  **Bond to keep the peace**
 
+*Ang **Principal Penalties** ay ang mga pangunahing parusa tulad ng pagkakulong (e.g., Reclusion Perpetua, Prision Mayor). Ito ang direktang ipinapataw para sa krimen. Ang **Accessory Penalties** naman ay mga "karugtong" o "kasama" na parusa. Halimbawa, kung nakulong ka, kasama na diyan ang pagkatanggal mo sa trabaho sa gobyerno (**disqualification**) at pagbabawal sa iyo na pamahalaan ang iyong ari-arian (**civil interdiction**).*
+
 ## 5. DURATION OF PENALTIES (Art. 27, RPC)
 
 | Penalty                  | Duration                                 |
@@ -74,9 +78,13 @@ Also known as the "consecutive service of sentence" rule. When the offender has 
 
 **Key Limitation:** The maximum duration of the convict's sentence shall not be more than **three times** the length of the most severe penalty imposed upon him. However, the maximum period shall in no case exceed **40 years**.
 
+*Ang **Three-fold Rule** ay simple lang: kung marami kang kaso at pinagsama-sama ang mga sentensya sa iyo, ang maximum na itatagal mo sa kulungan ay hindi dapat hihigit sa **tatlong beses ng pinakamabigat na parusa** na nakuha mo. At kahit anong mangyari, hindi ka pwedeng makulong ng **higit sa 40 taon**. Halimbawa, kung may 3 kang kaso na may sentensyang 10 taon bawat isa (total 30 years), ang maximum na iseserve mo ay 3 x 10 = 30 years. Kung ang sentensya mo ay 20, 20, at 20 (total 60 years), ang maximum mo ay 40 years lang, hindi 60.*
+
 ## 7. Indeterminate Sentence Law (ISL) - Act No. 4103
 
 The ISL provides for an indeterminate sentence for offenders, consisting of a **minimum term** and a **maximum term**. The purpose is to encourage the prisoner's reformation.
+
+*Ang **Indeterminate Sentence Law (ISL)** ay nagbibigay ng pag-asa sa mga preso na makalaya nang mas maaga kung sila ay magpapakabuti. Imbis na isang bagsak na sentensya (e.g., "12 years fixed"), ang sentensya ay may **minimum** at **maximum** (e.g., "6 years to 12 years"). Kapag na-serve na ng preso ang **minimum term**, pwede na siyang mag-apply for parole. Ang layunin nito ay para maging motivation sa preso na mag-reform at magbago.*
 
 *   **How to Determine the Sentence:**
     *   **Maximum Term:** The maximum term is the penalty that would be imposed under the Revised Penal Code, considering any aggravating and mitigating circumstances.

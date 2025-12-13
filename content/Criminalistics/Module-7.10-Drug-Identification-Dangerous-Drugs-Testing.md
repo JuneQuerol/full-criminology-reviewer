@@ -15,7 +15,7 @@ Drugs are often classified based on their primary effect on the central nervous 
         - **Cocaine:** A stimulant derived from the coca plant.
         - **Ecstasy (MDMA):** A synthetic drug with both stimulant and hallucinogenic properties.
 
-
+*Ang **Stimulants** o **"Uppers"** ay nag-speed up ng Central Nervous System (CNS) - kaya increased alertness, energy, at euphoria ang nararamdaman. Ang pinaka-abused drug sa Pilipinas ay **SHABU (Methamphetamine HCl)** - highly addictive stimulant ito! Iba pang examples: Cocaine (from coca plant) at Ecstasy/MDMA (synthetic drug na may stimulant at hallucinogenic effects). Para maalala: Uppers = nag-UP ng energy!*
 
 2.  **Depressants ("Downers"):**
     - **Effect:** Slow down the CNS, leading to relaxation, drowsiness, and reduced anxiety. Overdoses are highly dangerous as they can stop breathing.
@@ -31,7 +31,7 @@ Drugs are often classified based on their primary effect on the central nervous 
         - **LSD (Lysergic Acid Diethylamide):** A potent hallucinogen.
         - **Psilocybin ("Magic Mushrooms").**
 
-
+*Ang **Hallucinogens** o **"Psychedelics"** ay nag-alter ng perception of reality - kaya may hallucinations (nakakakita, nakakarinig, o nakakaramdam ng mga bagay na hindi naman totoo). Ang **MARIJUANA (Cannabis)** ay pangalawang most abused drug sa Pilipinas - ang active ingredient nito ay THC (Tetrahydrocannabinol). Iba pang examples: LSD (Lysergic Acid Diethylamide - potent hallucinogen) at Psilocybin (magic mushrooms). Para maalala: Hallucinogens = HALLUCINATIONS!*
 
 **Board Exam Tip:** Memorize: Shabu = #1 most abused (stimulant). Marijuana = #2 most abused (hallucinogen). These are the TOP 2 in the Philippines!
 
@@ -95,7 +95,7 @@ When police seize a suspected illegal substance, a forensic chemist must perform
     - **Duquenois-Levine Test:** A three-step test that turns purple in the presence of marijuana.
 - **Limitation:** Screening tests can produce **false positives**. Other, non-illegal substances might also cause a color change. Therefore, a positive screening test is only a presumption and is not sufficient for court.
 
-
+*Ang **Screening Tests** o **Presumptive Tests** ay para sa mabilis na indication kung POSSIBLE na may drug. Ito ay simple color-change tests - halimbawa: **Marquis Reagent** (orange-brown for amphetamines/shabu, purple for opiates/heroin), **Duquenois-Levine Test** (3-step test, purple for marijuana). Pero HINDI conclusive ang screening tests - pwedeng mag-produce ng **false positives** (ibang substances ang nag-cause ng color change). Kaya positive screening test = probable cause LANG, hindi proof!*
 
 **Board Exam Tip:** Screening tests are fast and easy but NOT conclusive. Positive result = probable cause ONLY, not proof of drug identity. Common exam trap!
 
@@ -110,7 +110,7 @@ When police seize a suspected illegal substance, a forensic chemist must perform
 
 By combining these two techniques, the GC-MS can separate a substance from its impurities and then positively identify it based on its unique chemical structure.
 
-
+*Ang **"Gold Standard"** para sa drug confirmation ay ang **GC-MS (Gas Chromatography-Mass Spectrometry)** - ito ang most widely used at legally accepted method! May dalawang steps: (1) **Gas Chromatography (GC)** - parang "separator" - vine-vaporize ang substance at pinapadaan sa long tube, different substances ay lalabas sa different times (retention time); (2) **Mass Spectrometry (MS)** - bini-bombard ng electrons ang substance para ma-break into charged fragments, ang pattern ng fragments (mass spectrum) ay unique sa bawat compound - ito ang chemical fingerprint! Kaya ang GC-MS ay nag-separate at positively identify ng substance - CONCLUSIVE ang result, pwede sa court!*
 
 **Board Exam Tip:** GC-MS = GOLD STANDARD for drug confirmation. Screening = presumptive/probable cause. Confirmatory = conclusive/court-admissible. VERY important distinction!
 
